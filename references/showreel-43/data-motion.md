@@ -1,1 +1,98 @@
-IyDmlbDmja7liqjmgIHvvIhkYXRhLW1vdGlvbu+8iQoKPiDmlbDlrZflkozlm77ooajmnKzouqvlsLHmmK/kuLvop5LvvJrmn7HlrZDplb/lh7rmnaXjgIHnur/mnaHnlLvlh7rmnaXjgIHmlbDlrZfmu5rliqjokL3lrprvvIzmr4/kuIDkuKrlj5jljJbpg73lr7nlupTkuIDkuKrkuovlrp7jgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJrmlbDmja7mlrDpl7vnmoTliqjmgIHlm77vvIhUaGUgUHVkZGluZ+OAgU5ZVOOAgUJsb29tYmVyZyDnmoTlj6/op4bljJbvvInjgIFUdWZ0ZSDnmoTmlbDmja7loqjmsLTmr5TjgIFIYW5zIFJvc2xpbmcg5byP55qE5Yqo5oCB5Zu+6KGo44CC5LiN54Wn5pCs5YW35L2T5Zu+6KGo44CCCgojIyDmnKzotKggLyDkuI3mmK/ku4DkuYgKLSDmnKzotKjvvJoqKuavj+S4quinhuinieWPmOWMlumDvee8lueggeS4gOS4quaVsOaNrioq77yI6ZW/5bqm44CB6Z2i56ev44CB5L2N572u44CB6aKc6Imy77yJ77yb5Y675o6J5LiA5YiH5LiN5Lyg6L6+5L+h5oGv55qE6KOF6aWw77yb5Zu+6KGo5LiA6L655Yqo5LiA6L656K6y44CCCi0g5LiN5piv77ya6KOF6aWw5oCn55qE44CM56eR5oqA5oSf44CN5YGH5Zu+6KGo77yb5Lmf5LiN5pivIDNEIOmlvOWbvuOAggoKIyMg6L6o6K+G5L+h5Y+377ya5q+P5pSv54mH5a2Q5oyRIDLigJMzIOS4qgp8IOS/oeWPtyB8IOmVv+S7gOS5iOagtyB8IOmAguWQiOeahOS4u+mimCB8CnwtLS18LS0tfC0tLXwKfCDplb/lh7rmnaXnmoTmn7HlrZAgfCDku44gMCDlvIDlp4vplb/vvIzlkIzmraXorqHmlbAgfCDlr7nmr5TjgIHmjpLlkI0gfAp8IOeUu+WHuuadpeeahOaKmOe6vyB8IOe6v+adoemaj+aXtumXtOeUu+WHuu+8jOagh+etvui3n+edgOe6v+WktOi1sCB8IOi2i+WKv+OAgeaXtumXtCB8Cnwg5rua5Yqo6K6h5pWwIHwg5LiA5Liq5pWw5a2X5rua5Yqo5Yiw57uI5YC877yM6JC95a6a5pe26L276L2756C45LiA5LiLIHwg5Y2V5LiA5oiQ57upIHwKfCDpq5jkuq7kuIDkuKrjgIHlhbbkvZnlj5jngbAgfCDkuIDkuKrmlbDmja7kv53mjIHpopzoibLvvIzlhbbku5bpgIDmiJDngbAgfCDmiJHku6wgdnMg5YW25LuWIHwKfCDliLvluqblj5jljJYgfCDmi4nov5zmlLnlj5jliLvluqbvvIzlpKfmn7HlrZDlj5jmiJDlsI/ngrkgfCDmjIfmlbDlop7plb/jgIHop4TmqKEgfAp8IOWNleS9jeWbviB8IOS4gOS4queCueaIluS4gOS4quWwj+Wbvuagh+S7o+ihqOS4gOS4quWNleS9je+8jOWghuaIkOaVtOS9kyB8IOS6uuaVsOOAgeaVsOmHj+aEnyB8Cnwg6Z2i56ev5ZKM5q+U5L6LIHwg5ZyG44CB5pa55Z2X55qE6Z2i56ev6KGo56S65Y2g5q+UIHwg5Lu96aKd44CB5p6E5oiQIHwKfCDlnLDlm74gfCDlnLDlm77kuIrnmoTngrnjgIHng63ljLrjgIHov57nur8gfCDlnLDln5/liIbluIMgfAp8IOaOkuWQjei1m+i3kSB8IOadoeW9ouWbvumaj+aXtumXtOS6pOaNouS9jee9riB8IOWOhuWPsuWPmOWMliB8Cnwg5rOo6YeK5qCH5rOoIHwg5byV57q/5oyH5ZCR5LiA5Liq54K577yM5YaZ5LiA5Y+l57uT6K66IHwg5ouQ54K544CB5YWz6ZSu5LqL5Lu2IHwKCuinhOWIme+8mgotIOavj+aUr+aMkSAy4oCTMyDkuKrvvIzoh7PlsJHkuIDkuKrkuI3lnKjkuIvpnaLjgIzmnIDkv5fnmoTniYjmnKzjgI3ph4zjgIIKLSDkv6Hlj7fku47kuLvpopjph4zpgInvvIzkuI3mjInpobrluo/lhajkuIrjgIIKLSDlm77ooajnsbvlnovnlLHmlbDmja7lhrPlrprvvJrml7bpl7Tluo/liJfnlKjnur/vvIzlr7nmr5TnlKjmn7HvvIzmnoTmiJDnlKjpnaLnp6/miJbljZXkvY3lm77jgILkv6Hlj7fmjJHnmoTmmK/lnKjmlbDmja7lhYHorrjnmoTojIPlm7Tph4zmgI7kuYjorrLjgIIKCiMjIOi/meS4qumjjuagvOacgOS/l+eahOeJiOacrAotIOeUu+mdou+8mua3seiJsuW6leOAgeWPkeWFieeahOadoeW9ouWbvui1m+i3keOAgeinkuiQvemHjOS4gOS4qua7muWKqOiuoeaVsOWZqOOAgee7k+WwvuS4gOS4quWkp+aVsOWtl+WPjeiJsuOAggotIOWjsOmfs++8mui2iuadpei2iuWvhueahCB0aWNrIOWKoOaVsOWtl+iQveWumuaXtueahCBpbXBhY3TjgIIKLSBicmllZiDnmoQgc3R5bGUg5LiA5qCP5YaZ5piO6L+Z5pSv54mH5a2Q57+75o6J5LqG5ZOq5Yeg5p2h77yM5oiW6ICF5Li65LuA5LmI5Yi75oSP5L+d55WZ77yI5q+U5aaC55So5oi36KaB55qE5bCx5piv57uP5YW454mI77yJ44CC5L+d55WZ5pe277yM5oqK5Yqb5rCU6Iqx5Zyo5p6E5Zu+44CB6ZWc5aS044CB6IqC5aWP5oiW5LiA5Liq5oSP5aSW55qE6K6w5b+G54K55LiK44CCCgojIyDpgILphY0KLSDnlKjpgJTvvJrmlbDmja7niIbngrnjgIHkuqflk4HlrqPkvKDph4znmoTmiJDnu6nlsZXnpLrjgIHlubTluqblm57pob7jgIIKLSDlhoXlrrnvvJrlop7plb/jgIHlr7nmr5TjgIHmjpLlkI3jgIHliIbluIPjgIHml7bpl7Tlj5jljJbjgIIqKuaVsOaNruW/hemhu+adpeiHqueUqOaIt+aIluWPr+mdoOadpea6kCoq44CCCgojIyDmioDmnK/ot6/nur8KQ2FudmFzIDJEIOaIliBTVkfvvIzoh6rlt7Hlhpnmr5TkvovlsLrvvIhgc2NhbGUgPSB2ID0+IGxlcnAocjAsIHIxLCAodiAtIGQwKSAvIChkMSAtIGQwKSlg77yJ44CC5puy57q/55SoIFNWRyBwYXRoICsgYHN0cm9rZS1kYXNob2Zmc2V0YCDnlLvlh7rmnaXvvIzmiJbogIUgQ2FudmFzIOmAkOeCueeUu+WIsOW9k+WJjei/m+W6puOAguaVsOWtl+eUqOetieWuveWtl+S9k+OAggoKIyMg5p2Q6LSo5LiO5riy5p+TCi0g5Y675o6J5aSa5L2Z55qE572R5qC857q/5ZKM6L655qGG77yb5Z2Q5qCH6L205Y+q5L+d55WZ5b+F6KaB55qE5Yi75bqm77yM6aKc6Imy5b6I5reh44CCCi0g5p+x5a2Q5ZKM6Z2i56ev5LuOIDAg5byA5aeL6ZW/77yb57q/5p2h5pyJ6LW354K555qE5ZyG54K55ZKM57uI54K555qE5qCH562+44CCCi0g6auY5Lqu5LiA5Liq5pWw5o2u77yM5YW25L2Z5Y+Y54Gw77yI6L+Z5piv5pyA5pyJ5Yqb55qE5omL5rOV77yJ44CCCi0g5qCH562+55u05o6l6LS05Zyo5pWw5o2u5peB6L6577yM5LiN6KaB5Zu+5L6L44CCCgojIyDphY3oibIK5LiL6Z2i55qE6Imy5YC85piv56S65L6L77yM55yL5oCd6Lev77yM5LiN6KaB5Y6f5qC354Wn5oqE44CCCi0g5bqVIGAjRkFGQUY3YCAvIOWiqCBgIzFBMUExQWAgLyDngbAgYCNCREJBQjNgIC8g5by66LCDIGAjRTQ1NzJFYAotIOW6lSBgIzBFMEYxMmAgLyDnmb0gYCNFREVERURgIC8g54GwIGAjNEE0RDU1YCAvIOW8uuiwgyBgIzRGRDFDNWAKLSDop4TliJnvvJrpopzoibLlj6rmnInor63kuYnvvIjpq5jkuq4gLyDlhbbku5bjgIHlop7plb8gLyDkuIvpmY3vvInvvIzkuI3lgZroo4XppbDvvJvmnIDlpJrkuKTkuKror63kuYnoibLjgIIKLSDmjqjlr7zvvJrmtYXlupXmiJbmt7HlupXpg73lj6/ku6XvvJvpopzoibLlj6rmnInor63kuYnvvIzmnIDlpJrkuKTkuKror63kuYnoibLvvIjpq5jkuq7lkozlhbbku5bjgIHlop7plb/lkozkuIvpmY3vvInvvIzku47lk4HniYzmiJbmlbDmja7lkKvkuYnmnaXjgILmqZnnuqLliqDngbDmmK/mnIDluLjop4HnmoTnu4TlkIjjgIIKCiMjIOWtl+S9kwrmlbDlrZfnlKjnrYnlrr3miJbluKbnrYnlrr3mlbDlrZfnmoTlrZfkvZPvvIhKZXRCcmFpbnMgTW9ub+OAgUlCTSBQbGV4IFNhbnPjgIFJbnRlciBUaWdodCDnmoQgdG51be+8ie+8m+agh+mimOeUqOe8lui+keaEn+eahOaXoOihrOe6v+aIluihrOe6v+S9k+OAggoKIyMg6L+Q5YqoCi0g5p+x5a2Q5ZKM6Z2i56ev77yaYGdsaWRlYCDmiJblvLnnsKcgYHsyLjQsIDAuODV9YO+8jOmUmeWzsCA0MOKAkzgwIOavq+enkuOAggotIOe6v+adoe+8muaMieaXtumXtOWMgOmAn+eUu+WHuu+8iOaXtumXtOi9tOaYr+e6v+aAp+eahO+8jOWMgOmAn+WcqOi/memHjOaYr+ato+ehrueahO+8ie+8jOeUu+WIsOW9k+WJjeeCueaXtuagh+etvui3n+edgOi3keOAggotIOaVsOWtl+a7muWKqO+8mmBvdXRFeHBvYCAxLjXigJMyLjUg56eS77yM6JC95a6a5pe26L276L2756C45LiA5LiL44CCCi0g5o6S5bqP5Y+Y5YyW77ya5YWD57Sg5bmz5ruR5Lqk5o2i5L2N572u77yI5by557Cn77yJ77yM5LiN6KaB556s56e744CCCgojIyDnlLvpnaLmgI7kuYjmtLsKLSDku6XpnZnkuLrkuLvvvJrlnKjov5nnp43po47moLzph4zov5DliqjnvJbnoIHmlbDmja7vvIzmlbDmja7okL3lrprlkI7ov5jlnKjmmYPvvIzkvJrooqvor7vmiJDmlbDlgLzlnKjlj5jjgIIKLSDlj6/ku6XmtLvnmoTlj6rmnInjgIzlvZPliY3jgI3vvJrnur/mnaHmnKvnq6/kuIDkuKrlkbzlkLjnmoTlnIbngrnjgIHmnIDmlrDpgqPkuKrmlbDmja7ngrnnmoTovbvlvq7ohInlhrLjgIHmoIfnrb7ot5/nnYDnur/lpLTotbDjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDlm7rlrprmnLrkvY0gfCDorqnmlbDmja7oh6rlt7Hor7Tor50gfCDlpKflpJrmlbDlm77ooaggfAp8IOaOqOi/keWIsOS4gOS4quaVsOaNrueCuSB8IOiBmueEpiB8IOWFs+mUruaVsOWtl+OAgeaLkOeCuSB8Cnwg5ouJ6L+c5pS55Y+Y5Yi75bqmIHwg5bC65bqm55qE6ZyH5pK8IHwg5oyH5pWw5aKe6ZW/44CB44CM5Y6f5p2l6L+Z5LmI5aSn44CNIHwKfCDmsr/ml7bpl7TovbTlubPnp7sgfCDml7bpl7Tmjqjov5sgfCDplb/ml7bpl7Tluo/liJcgfAoKIyMg5aOw6Z+z6LCD6Imy5p2/CnRpY2vvvIjmr4/kuKrmlbDmja7ngrnkuIDkuIvvvIzotormnaXotorlr4bvvInjgIHmlbDlrZfokL3lrprml7bnmoQgYGltcGFjdGAg5oiWIGBiZWxsYOOAgei9u+aflOeahOmTuuW6leOAguesrCAxIOaho+WQiOaIkOWNs+WPr+OAggoK5b6L5Yqo5LiO5ZKM5aOw77yI5Li+5L6L77yM5LiN5q2i6L+Z5Lqb77yJ77ya55u05ouN77yM5oiW6ICF6K6p5pWw5o2u5pys6Lqr55Sf5oiQ6IqC5aWP77yI5pWw5YC85Y+Y5YyW55qE5a+G5bqm5bCx5pivIHRpY2sg55qE5a+G5bqm77yJ77yb5pWw5YC85LiK5Y2H5pe26Z+z6Zi25LiK6KGM44CB5LiL6ZmN5pe25LiL6KGM44CC57Sv5Yqg5puy57q/77yI5q+P6L+b5LiA57uE5pWw5o2u6L+b5LiA5Liq5aOw6YOo77yJ5b6I5ZCI6YCC44CCCgojIyDljp/nlJ/miYvms5UKLSDpq5jkuq7kuIDkuKrjgIHlhbbkvZnlj5jngbDvvJrpgILlkIjjgIzmiJHku6wgdnMg5YW25LuW44CN44CCCi0g5ouJ6L+c5pS55Y+Y5Yi75bqm77yM5Y6f5p2l55qE5aSn5p+x5a2Q5Y+Y5oiQ5bCP54K577ya6YCC5ZCI5oyH5pWw5aKe6ZW/44CB6KeE5qih5a+55q+U44CCCi0g5LiA5Liq5pWw5a2X5rua5Yqo5Yiw57uI5YC877yM55S76Z2i5Y+N6Imy77ya6YCC5ZCI5Y2V5LiA5oiQ57up44CCCgojIyDlj5jljJbnqbrpl7QKLSDnu5PmnoTvvJrkuIDkuKrmlbDlrZforrLlrozkuIDkuKrmlYXkuovvvJvliY3lkI7lr7nmr5TvvJvmjpLlkI3otZvot5HjgIIKLSDlvIDlnLrvvJrkuIDkuKrlt6jlpKfnmoTpl67lj7fmiJbogIUgMO+8m+WdkOagh+i9tOS7juS4gOS4queCueWxleW8gOOAggotIOe7k+Wwvu+8muacgOmHjeimgeeahOmCo+S4quaVsOWtl+WumuagvO+8jOS4i+mdouS4gOihjOadpea6kOWwj+Wtl+OAggoKIyMg5Z2RCi0gKirnvJbpgKDmlbDmja4qKu+8muS4jeehruWumueahOaVsOWtl+S4gOW+i+agh+WHuuadpeiuqeeUqOaIt+aguOWvue+8m+adpea6kOWGmeWcqOeUu+mdouS4iuOAggotIOafseWtkOS4jeS7jiAwIOW8gOWni+OAgeWdkOagh+i9tOiiq+aIquaWre+8jOS8muivr+WvvOinguS8l+OAguW/hemhu+aIquaWreaXtu+8jOeUu+mdouS4iuWGmeaYjuOAjOe6tei9tOacquS7jiAwIOW8gOWni+OAjeOAggotIOaVsOWtl+WBnOeVmeWkquefreivu+S4jeWujO+8muWFs+mUruaVsOWtl+iHs+WwkeWBnCAyLjUg56eS44CCCi0g5YCN5pWw6K+06ZSZ77ya44CM5rao5LqGIDkg5YCN44CN5piv5Y6f5p2l55qEIDEwIOWAje+8jOOAjOa2qOWIsOWOn+adpeeahCA5IOWAjeOAjeaJjeaYryA5IOWAjeOAgueUu+mdouS4iueahOe7k+iuuuimgeiDveS7juWbvuS4iueahOaVsOeul+WHuuadpe+8jOWuoeeJh+aXtuecn+eahOeul+S4gOmBjeOAggotIOekuuaEj+aVsOaNruayoeacieagh++8mueUqOaIt+ayoee7meecn+WunuaVsOaNruOAgeWPquaYr+a8lOekuuaViOaenOaXtu+8jOavj+S4gOS4quWHuueOsOWbvuihqOeahOmVnOWktOmDveagh+OAjOekuuaEj+aVsOaNruOAje+8m+ecn+WunuaVsOaNruS4jeimgeWHuueOsOi/meS4quinkuagh+OAggotIOWQjOS4gOe7hOaVsOWJjeWQjuWvueS4jeS4iu+8mue8qeeVpeWbvumHjOeahOe7iOWAvOWSjOWxleW8gOWQjueahOe7iOWAvOS4jeS4gOiHtO+8jOaIluiAheaOqOi/keOAgeWxleW8gOS5i+WQjuiuoeaVsOS7jiAwIOmHjeadpeOAggotIOWNleS9jeOAgeW4geenjeOAgeaXtumXtOiMg+WbtOa8j+WGme+8jOaIluiAhei3n+eUqOaIt+e7meeahOS4jeS4gOiHtOOAggotIOWFiOWHuuaVsOaNruWGjeWHuuWdkOagh+i9tO+8mumhuuW6j+W6lOivpeaYr+WdkOagh+ezu+WFiOWHuu+8jOaVsOaNruWGjemVv+WHuuadpe+8jOacgOWQjuWPquagh+S4gOS7tuS6i+OAggo=
+# 数据动态（data-motion）
+
+> 数字和图表本身就是主角：柱子长出来、线条画出来、数字滚动落定，每一个变化都对应一个事实。
+> 参照（只学语法）：数据新闻的动态图（The Pudding、NYT、Bloomberg 的可视化）、Tufte 的数据墨水比、Hans Rosling 式的动态图表。不照搬具体图表。
+
+## 本质 / 不是什么
+- 本质：**每个视觉变化都编码一个数据**（长度、面积、位置、颜色）；去掉一切不传达信息的装饰；图表一边动一边讲。
+- 不是：装饰性的「科技感」假图表；也不是 3D 饼图。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 长出来的柱子 | 从 0 开始长，同步计数 | 对比、排名 |
+| 画出来的折线 | 线条随时间画出，标签跟着线头走 | 趋势、时间 |
+| 滚动计数 | 一个数字滚动到终值，落定时轻轻砸一下 | 单一成绩 |
+| 高亮一个、其余变灰 | 一个数据保持颜色，其他退成灰 | 我们 vs 其他 |
+| 刻度变化 | 拉远改变刻度，大柱子变成小点 | 指数增长、规模 |
+| 单位图 | 一个点或一个小图标代表一个单位，堆成整体 | 人数、数量感 |
+| 面积和比例 | 圆、方块的面积表示占比 | 份额、构成 |
+| 地图 | 地图上的点、热区、连线 | 地域分布 |
+| 排名赛跑 | 条形图随时间交换位置 | 历史变化 |
+| 注释标注 | 引线指向一个点，写一句结论 | 拐点、关键事件 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 图表类型由数据决定：时间序列用线，对比用柱，构成用面积或单位图。信号挑的是在数据允许的范围里怎么讲。
+
+## 这个风格最俗的版本
+- 画面：深色底、发光的条形图赛跑、角落里一个滚动计数器、结尾一个大数字反色。
+- 声音：越来越密的 tick 加数字落定时的 impact。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：数据爆点、产品宣传里的成绩展示、年度回顾。
+- 内容：增长、对比、排名、分布、时间变化。**数据必须来自用户或可靠来源**。
+
+## 技术路线
+Canvas 2D 或 SVG，自己写比例尺（`scale = v => lerp(r0, r1, (v - d0) / (d1 - d0))`）。曲线用 SVG path + `stroke-dashoffset` 画出来，或者 Canvas 逐点画到当前进度。数字用等宽字体。
+
+## 材质与渲染
+- 去掉多余的网格线和边框；坐标轴只保留必要的刻度，颜色很淡。
+- 柱子和面积从 0 开始长；线条有起点的圆点和终点的标签。
+- 高亮一个数据，其余变灰（这是最有力的手法）。
+- 标签直接贴在数据旁边，不要图例。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 底 `#FAFAF7` / 墨 `#1A1A1A` / 灰 `#BDBAB3` / 强调 `#E4572E`
+- 底 `#0E0F12` / 白 `#EDEDED` / 灰 `#4A4D55` / 强调 `#4FD1C5`
+- 规则：颜色只有语义（高亮 / 其他、增长 / 下降），不做装饰；最多两个语义色。
+- 推导：浅底或深底都可以；颜色只有语义，最多两个语义色（高亮和其他、增长和下降），从品牌或数据含义来。橙红加灰是最常见的组合。
+
+## 字体
+数字用等宽或带等宽数字的字体（JetBrains Mono、IBM Plex Sans、Inter Tight 的 tnum）；标题用编辑感的无衬线或衬线体。
+
+## 运动
+- 柱子和面积：`glide` 或弹簧 `{2.4, 0.85}`，错峰 40–80 毫秒。
+- 线条：按时间匀速画出（时间轴是线性的，匀速在这里是正确的），画到当前点时标签跟着跑。
+- 数字滚动：`outExpo` 1.5–2.5 秒，落定时轻轻砸一下。
+- 排序变化：元素平滑交换位置（弹簧），不要瞬移。
+
+## 画面怎么活
+- 以静为主：在这种风格里运动编码数据，数据落定后还在晃，会被读成数值在变。
+- 可以活的只有「当前」：线条末端一个呼吸的圆点、最新那个数据点的轻微脉冲、标签跟着线头走。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 固定机位 | 让数据自己说话 | 大多数图表 |
+| 推近到一个数据点 | 聚焦 | 关键数字、拐点 |
+| 拉远改变刻度 | 尺度的震撼 | 指数增长、「原来这么大」 |
+| 沿时间轴平移 | 时间推进 | 长时间序列 |
+
+## 声音调色板
+tick（每个数据点一下，越来越密）、数字落定时的 `impact` 或 `bell`、轻柔的铺底。第 1 档合成即可。
+
+律动与和声（举例，不止这些）：直拍，或者让数据本身生成节奏（数值变化的密度就是 tick 的密度）；数值上升时音阶上行、下降时下行。累加曲线（每进一组数据进一个声部）很合适。
+
+## 原生手法
+- 高亮一个、其余变灰：适合「我们 vs 其他」。
+- 拉远改变刻度，原来的大柱子变成小点：适合指数增长、规模对比。
+- 一个数字滚动到终值，画面反色：适合单一成绩。
+
+## 变化空间
+- 结构：一个数字讲完一个故事；前后对比；排名赛跑。
+- 开场：一个巨大的问号或者 0；坐标轴从一个点展开。
+- 结尾：最重要的那个数字定格，下面一行来源小字。
+
+## 坑
+- **编造数据**：不确定的数字一律标出来让用户核对；来源写在画面上。
+- 柱子不从 0 开始、坐标轴被截断，会误导观众。必须截断时，画面上写明「纵轴未从 0 开始」。
+- 数字停留太短读不完：关键数字至少停 2.5 秒。
+- 倍数说错：「涨了 9 倍」是原来的 10 倍，「涨到原来的 9 倍」才是 9 倍。画面上的结论要能从图上的数算出来，审片时真的算一遍。
+- 示意数据没有标：用户没给真实数据、只是演示效果时，每一个出现图表的镜头都标「示意数据」；真实数据不要出现这个角标。
+- 同一组数前后对不上：缩略图里的终值和展开后的终值不一致，或者推近、展开之后计数从 0 重来。
+- 单位、币种、时间范围漏写，或者跟用户给的不一致。
+- 先出数据再出坐标轴：顺序应该是坐标系先出，数据再长出来，最后只标一件事。

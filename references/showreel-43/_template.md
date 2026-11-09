@@ -1,1 +1,59 @@
-IyA86aOO5qC85ZCNPu+8iDxzbHVnPu+8iQoKPiDkuIDlj6Xor53vvJrov5nnp43po47moLzmmK/ku4DkuYjjgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJox4oCTMyDkuKrmtYHmtL7jgIHkvZzlk4HmiJborr7orqHluIjjgILkuI3nhafmkKzlhbfkvZPkvZzlk4HnmoTmnoTlm77jgIHop5LoibLjgIHlrZfkvZPmlofku7blkozlk4HniYzjgIIKCiMjIOacrOi0qCAvIOS4jeaYr+S7gOS5iAotIOacrOi0qO+8muS4gOWPpeivneWumuaAp+i/meenjemjjuagvO+8iOWug+S7juWTquadpeOAgemdoOS7gOS5iOaIkOeri++8ie+8jOS4jeimgeWGmeaIkOS4gOS7veavj+asoemDveW/hemhu+WHuueOsOeahOWFg+e0oOa4heWNleOAggotIOS4jeaYr++8muacgOWuueaYk+a3t+a3hueahOebuOmCu+mjjuagvO+8jOS7peWPiuWuueaYk+WBmuaIkOeahOW7ieS7t+eJiOacrOOAggoKIyMg6L6o6K+G5L+h5Y+377ya5q+P5pSv54mH5a2Q5oyRIDLigJMzIOS4qgp8IOS/oeWPtyB8IOmVv+S7gOS5iOagtyB8IOmAguWQiOeahOS4u+mimCB8CnwtLS18LS0tfC0tLXwKCuWIlyA44oCTMTIg5Liq6K6p5Lq66K6k5Ye66L+Z56eN6aOO5qC855qE5L+h5Y+377yM6LaK5YW35L2T6LaK5aW944CC6KeC5LyX6Z2g5Lik5LiJ5Liq5bCx6IO96K6k5Ye65p2l77yM5YWo6YOo5aCG5LiK5bCx5oiQ5LqG57Sg5p2Q5YyF44CC5YaZ5riF6KeE5YiZ77ya5q+P5pSv5oyRIDLigJMzIOS4qu+8m+iHs+WwkeS4gOS4quS4jeWcqOOAjOacgOS/l+eahOeJiOacrOOAjemHjO+8m+S/oeWPt+S7juS4u+mimOmHjOmAieOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya6L+Z5Liq6aOO5qC855qE56ys5LiA5Liq5oOz5rOV6ZW/5LuA5LmI5qC377yI5pyA5bi46KeB55qE5YWD57Sg57uE5ZCI44CB5p6E5Zu+44CB5byA5Zy65ZKM57uT5bC+77yJ44CCCi0g5aOw6Z+z77ya5pyA5bi46KeB55qE6YWN5Zmo5ZKM5b6L5Yqo44CCCi0gYnJpZWYg55qEIHN0eWxlIOS4gOagj+WGmeaYjui/meaUr+eJh+WtkOe/u+aOieS6huWTquWHoOadoe+8jOaIluiAheS4uuS7gOS5iOWIu+aEj+S/neeVme+8iOavlOWmgueUqOaIt+imgeeahOWwseaYr+e7j+WFuOeJiO+8ieOAggoKIyMg6YCC6YWNCi0g55So6YCU77ya5ZOq5LqbIGBmb3JtYXRzLm1kYCDnlKjpgJTmnIDlkIjpgILvvIzlk6rkupvkuI3lkIjpgILjgIIKLSDlhoXlrrnvvJrku4DkuYjmoLfnmoTkuLvpopjlkozmg4Xnu6rmnIDpgILlkIjjgIIKCiMjIOaKgOacr+i3r+e6vwrnlKjku4DkuYjmioDmnK/lrp7njrDvvIhDYW52YXMgLyBET00gLyBXZWJHTCAvIFRocmVlLmpzIC8gcDXvvInvvIzliIblh6DlsYLvvIzotKjmhJ/lsYLmgI7kuYjlj6DvvIzmuLLmn5Plj4LmlbDvvIhgLS1zdWJmcmFtZXNg44CBYC0tZHByYOOAgWAtLWdyYWluYO+8ieaAjuS5iOiuvuOAggoKIyMg5p2Q6LSo5LiO5riy5p+TCuWFt+S9k+WIsOWPr+S7peeFp+edgOWGmeS7o+eggeeahOeoi+W6pu+8muW9oueKtuOAgee6v+adoeOAgee6ueeQhuOAgeWFieOAgei+uee8mOWkhOeQhuOAggoK5Yqo56yU5YmN5YWI6Zeu5LiA5Y+l77ya6L+Z56eN55S76Z2i5Zyo546w5a6e6YeM5piv5oCO5LmI5YGa5Ye65p2l55qE77yI5Yi344CB5Yi744CB5Y2w44CB6LS044CB5Za344CB5pud5YWJ44CB5pi+5YOP566h5omr5o+P4oCm4oCm77yJ77yf5oqK6YKj5Liq54mp55CG6L+H56iL5YaZ5oiQ5riy5p+T5q2l6aqk77yM5b6A5b6A5q+U5aCG5ruk6ZWc5pu05YOP77ya5aWX6Imy6ZSZ5L2N5piv5Y2w5Yi35py655qE5a+554mI6K+v5beu77yM6aOe55m95piv5bmy56yU55qE5pat57ut77yM5omr5o+P57q/5piv55S15a2Q5p2f5LiA6KGM6KGM5omr6L+H44CC5YmN5pmv55qE5Li75L2T77yI5Lq654mp44CBbG9nb+OAgeS4u+inkuespuWPt++8ieS5n+imgei/h+WQjOS4gOWll+adkOaWmeWkhOeQhu+8jOWQpuWImeWug+S8muWDj+i0tOWcqOiDjOaZr+S4iueahOWJqui0tOeUu+OAggoKIyMg6YWN6ImyCjLigJMzIOWll+ekuuS+iyBoZXjvvIjmoIfmmI7jgIznnIvmgJ3ot6/vvIzkuI3opoHljp/moLfnhafmioTjgI3vvInvvIzlho3lhpnmjqjlr7zop4TliJnvvJrlupXoibLjgIHkuLvoibLjgIHlvLrosIPoibLmgI7kuYjku47kuLvpopjmiJblk4HniYzoibLmjqjlh7rmnaXvvIzlk6rkupvmmK/ov5nkuKrpo47moLzkuI3og73noLTnmoTnuqbmnZ/jgIIKCiMjIOWtl+S9kwrlsZXnpLrlrZfkvZPlkozovoXliqnlrZfkvZPvvIhPRkwgLyDlj6/llYbnlKjvvIzoh6rmiZjnrqHvvInvvIzlrZflj7flhbPns7vlkozmjpLniYjop4TliJnjgIIKCiMjIOi/kOWKqArnvJPliqjmiJblvLnnsKfmoaPkvY3jgIHopoHkuI3opoHmraXov5vjgIHpgJ/luqbjgIHov5vlnLrlkoznprvlnLrnmoTmlrnlvI/jgIIKCiMjIOeUu+mdouaAjuS5iOa0uwrplZzlpLTlgZznlZnml7bvvIzpmaTkuobkuLvliqjkvZzov5jmnInku4DkuYjlnKjliqjvvJrliJcgMuKAkzMg5Liq5LuO6L+Z56eN6aOO5qC86Ieq5bex55qE5q+N6aKY6YeM6ZW/5Ye65p2l55qE5bCP5b6q546v77yI5a6D5Zyo6YKj5Liq5LiW55WM6YeM5pys5p2l5bCx5Lya5oCO5LmI5Yqo77yJ77yM5YaZ5piO5pS+5Zyo5ZOq44CB5bmF5bqm5aSa5aSn44CC6L+Z56eN6aOO5qC85pys5p2l5bCx6K+l6Z2Z55qE77yI6JC954mI44CB5p6B566A77yJ77yM5YaZ44CM5Lul6Z2Z5Li65Li744CN77yM5bm26K+05piO6Z2Z5Zyo5ZOq6YeM44CCCgojIyDplZzlpLTor63ms5UKfCDplZzlpLTov5DliqggfCDooajovr7ku4DkuYggfCDpgILlkIjlk6rnsbvlhoXlrrkgfAp8LS0tfC0tLXwtLS18CgojIyDlo7Dpn7PosIPoibLmnb8K6YWN5Zmo5ZKM6Z+z5pWI55qE5p2Q6LSo77yb55So56ysIDEg5qGj77yI5YaF572u5ZCI5oiQ77yJ6L+Y5piv56ysIDIg5qGj77yIVG9uZS5qcyAvIOmHh+agt++8ie+8jOS7peWPiua3t+mfs+imgeeCueOAguWPr+S7peWGjeWGmeS4gOihjOOAjOW+i+WKqOS4juWSjOWjsOOAje+8mui/meenjemjjuagvOmAguWQiOeahOaLjeWtkOOAgeW+i+WKqOOAgeiwg+W8j+aIluWSjOWjsOiJsuW9qeOAgeaIj+WJp+absue6v++8jOe7meS4pOS4ieS4quaWueWQke+8jOS4jeimgeWPquWGmeS4gOenje+8iOivjeaxh+ingSBzb3VuZC5tZCDnrKwgNeOAgTYg6IqC77yJ44CCCgojIyDljp/nlJ/miYvms5UK5Y+q5pyJ6L+Z56eN5aqS5LuL6IO95YGa5Yiw55qE6L2s5Zy65oiW6K6w5b+G54K577yM5q+P5p2h5YaZ5LiA5Y+l44CM6YCC5ZCI5LuA5LmI5qC355qE5YaF5a6544CN44CC5Lq65Lq66YO95Lya5oOz5Yiw55qE57uP5YW45omL5rOV5Y2V54us5qCH44CM57uP5YW444CN44CCCgojIyDlj5jljJbnqbrpl7QK57uT5p6E44CB5byA5Zy644CB57uT5bC+5ZCE57uZIDLigJMzIOS4quS4jeWQjOeahOaAnei3r++8jOaPkOmGkuavj+aUr+eJh+WtkOmDveimgeS7juS4u+mimOWHuuWPkemHjeaWsOiuvuiuoeOAggoKIyMg5Z2RCui/meenjemjjuagvOacgOW4uOingeeahOWksei0pe+8jOS7peWPiuaAjuS5iOmBv+WFjeOAggo=
+# <风格名>（<slug>）
+
+> 一句话：这种风格是什么。
+> 参照（只学语法）：1–3 个流派、作品或设计师。不照搬具体作品的构图、角色、字体文件和品牌。
+
+## 本质 / 不是什么
+- 本质：一句话定性这种风格（它从哪来、靠什么成立），不要写成一份每次都必须出现的元素清单。
+- 不是：最容易混淆的相邻风格，以及容易做成的廉价版本。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+
+列 8–12 个让人认出这种风格的信号，越具体越好。观众靠两三个就能认出来，全部堆上就成了素材包。写清规则：每支挑 2–3 个；至少一个不在「最俗的版本」里；信号从主题里选。
+
+## 这个风格最俗的版本
+- 画面：这个风格的第一个想法长什么样（最常见的元素组合、构图、开场和结尾）。
+- 声音：最常见的配器和律动。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。
+
+## 适配
+- 用途：哪些 `formats.md` 用途最合适，哪些不合适。
+- 内容：什么样的主题和情绪最适合。
+
+## 技术路线
+用什么技术实现（Canvas / DOM / WebGL / Three.js / p5），分几层，质感层怎么叠，渲染参数（`--subframes`、`--dpr`、`--grain`）怎么设。
+
+## 材质与渲染
+具体到可以照着写代码的程度：形状、线条、纹理、光、边缘处理。
+
+动笔前先问一句：这种画面在现实里是怎么做出来的（刷、刻、印、贴、喷、曝光、显像管扫描……）？把那个物理过程写成渲染步骤，往往比堆滤镜更像：套色错位是印刷机的对版误差，飞白是干笔的断续，扫描线是电子束一行行扫过。前景的主体（人物、logo、主角符号）也要过同一套材料处理，否则它会像贴在背景上的剪贴画。
+
+## 配色
+2–3 套示例 hex（标明「看思路，不要原样照抄」），再写推导规则：底色、主色、强调色怎么从主题或品牌色推出来，哪些是这个风格不能破的约束。
+
+## 字体
+展示字体和辅助字体（OFL / 可商用，自托管），字号关系和排版规则。
+
+## 运动
+缓动或弹簧档位、要不要步进、速度、进场和离场的方式。
+
+## 画面怎么活
+镜头停留时，除了主动作还有什么在动：列 2–3 个从这种风格自己的母题里长出来的小循环（它在那个世界里本来就会怎么动），写明放在哪、幅度多大。这种风格本来就该静的（落版、极简），写「以静为主」，并说明静在哪里。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+
+## 声音调色板
+配器和音效的材质；用第 1 档（内置合成）还是第 2 档（Tone.js / 采样），以及混音要点。可以再写一行「律动与和声」：这种风格适合的拍子、律动、调式或和声色彩、戏剧曲线，给两三个方向，不要只写一种（词汇见 sound.md 第 5、6 节）。
+
+## 原生手法
+只有这种媒介能做到的转场或记忆点，每条写一句「适合什么样的内容」。人人都会想到的经典手法单独标「经典」。
+
+## 变化空间
+结构、开场、结尾各给 2–3 个不同的思路，提醒每支片子都要从主题出发重新设计。
+
+## 坑
+这种风格最常见的失败，以及怎么避免。

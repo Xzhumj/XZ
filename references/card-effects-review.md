@@ -1,1 +1,184 @@
-IyBQb3N0LXJlbmRlciBFZmZlY3RzIFJldmlldwoKIyMgVHJpZ2dlcgoKUnVuIHRoaXMgZ2F0ZSBhZnRlciBldmVyeSBjb21wbGV0ZSBmaW5hbCBNUDQgcmVuZGVyIGFuZCBiZWZvcmUgZGVsaXZlcnkuIFJ1biBpdAphZ2FpbiBhZnRlciBhbnkgbWF0ZXJpYWwtbGlicmFyeS1kcml2ZW4gcmV2aXNpb24gcHJvZHVjZXMgYSBuZXcgY29tcGxldGUgZmluYWwKcmVuZGVyLgoKVGhlIHZpZGVvIGlzIGEgcmVuZGVyZWQgY2FuZGlkYXRlLCBub3QgeWV0IGEgZGVsaXZlcmVkIGZpbmFsLCB1bnRpbCB0aGUgdXNlcgphbnN3ZXJzIHdoZXRoZXIgZWZmZWN0cyBvciB0cmFuc2l0aW9ucyBzaG91bGQgYmUgcmVwbGFjZWQuCgojIyBSZXF1aXJlZCBwcm9tcHQKCkFzayBkaXJlY3RseToKCj4g5oiQ54mH5bey57uP5riy5p+T5a6M5oiQ44CC5oiR5Y+v5Lul5oyJ5pys5qyh5a6e6ZmF5L2/55So55qE5qih5p2/5ZKM57Sg5p2Q5p2l5rqQ5qOA5p+l55S76Z2i5ZKM5aOw6Z+z44CC6ZyA6KaB5paw5aKe5oiW5pu/5o2i55S76Z2i5pe277yM5oiR5Y+q5qOA5p+l5b2T5YmN5Zy65pmv55yf5q2j6ZyA6KaB55qE57Sg5p2Q5bqT77yb5rKh5pyJ5ZCI6YCC57Sg5p2Q5pe277yM5oiR5Lya6K+35L2g5o+Q5L6b57Sg5p2Q5bqT5oiW57Sg5p2Q44CC5Y+q5pyJ5L2g5piO56Gu6KGo56S65peg5rOV5o+Q5L6b5oiW5piO56Gu5ZCM5oSP5oiR55Sf5oiQ55S76Z2i5ZCO77yM5oiR5omN5Lya6Ieq5bex55Sf5oiQ44CC6ZyA6KaB5pu/5o2i6K+35Zue5aSN4oCc6ZyA6KaB5pu/5o2i4oCd77yM5bm25oyJ4oCc55uu5qCH5Zy65pmv5oiW5pe26Ze056CBICsg5L2/55So6YOo5L2NICsg57Sg5p2Q5bqTICsgSUTigJ3miJbigJznm67moIflnLrmma8gKyDkvaDmj5DkvpvnmoTntKDmnZDigJ3lhpnmmI7vvIzkvovlpoLvvJpg6ZyA6KaB5pu/5o2i77yMMDA6MDggKyDovazlnLogKyBtb3Rpb24tcHJvbXB0ICMwNDZg77yb5LiN6ZyA6KaB5pu/5o2i6K+35Zue5aSN4oCc5LiN6ZyA6KaB5pu/5o2i4oCd44CCCgpQcm92aWRlIHRoZSBhbnN3ZXIgcGF0aCBpbiB0aGUgc2FtZSByZXNwb25zZToKCi0gUmVwbHkgYOmcgOimgeabv+aNomAgd2l0aCBvbmUgb3IgbW9yZSBtYXBwaW5ncyBpbiB0aGlzIGZvcm06CiAgYHRhcmdldCBzY2VuZSBvciB0aW1lY29kZSArIHVzYWdlIHBhcnQgKyBsaWJyYXJ5ICsgSURgLgotIElmIHRoZSB1c2VyIGNhbm5vdCB1c2UgdGhlIGZvcm1hdCwgYWNjZXB0IGEgcGxhaW4tbGFuZ3VhZ2UgZGVzY3JpcHRpb24sCiAgaW5mZXIgdGhlIGxpa2VseSBtYXBwaW5nLCBhbmQgY29uZmlybSBpdCB3aGVuIGFtYmlndWl0eSByZW1haW5zLgotIFVzYWdlIHBhcnRzIGluY2x1ZGUgb3BlbmluZywgdGl0bGUvdGV4dCwgdHJhbnNpdGlvbiwgQ1RBLCBVSSwgZGF0YSwgY2FtZXJhCiAgbW92ZW1lbnQsIGVtcGhhc2lzLCBvciBlbmRpbmcuCi0gUmVwbHkgYOS4jemcgOimgeabv+aNomAgdG8gY29udGludWUgZGVsaXZlcnkuCgojIyBNYXRlcmlhbCByZWZlcmVuY2VzCgpJZiB0aGUgdXNlciBhc2tzIGZvciBsaWJyYXJ5IGFsdGVybmF0aXZlcywgc2hvdyBvbmx5IHJlbGV2YW50IHZpc3VhbCByZWZlcmVuY2VzCmZyb20gbGlicmFyaWVzIGFscmVhZHkgdXNlZCBvciBhbHJlYWR5IHJlc29sdmVkIGZvciB0aGlzIHZpZGVvLiBEbyBub3QgcHJlLWNoZWNrCmV2ZXJ5IG1hdGVyaWFsIGxpYnJhcnkuIEZvciBlYWNoIGxpYnJhcnkgcmVmZXJlbmNlIGluY2x1ZGU6CgotIExpYnJhcnkgYW5kIElELgotIEZvciBWSURFTy1TSE9UQ1JBRlQsIHRoZSBleGFjdCBjYXJkIG5hbWUsIHN0eWxlIGtleSwgYW5kIGRlbW8gcGF0aCBpbnN0ZWFkIG9mCiAgYSBNT1RJT04gQ2FyZCBJRC4KLSBDaGluZXNlIGNhdGVnb3J5LgotIEltcGxlbWVudGF0aW9uIHN0YXR1cy4KLSBTaG9ydCBlZmZlY3Qgc3VtbWFyeS4KLSBMb2NhbCBwcmV2aWV3IGxpbmsuCi0gV2h5IGl0IG1heSBmaXQgdGhlIHRhcmdldCBzY2VuZS4KCkFsc28gcHJvdmlkZToKCi0gVGhlIHNvdXJjZSBsaW5rIGZvciBlYWNoIG1hdGVyaWFsIGxpYnJhcnkgdGhhdCBpcyBhY3R1YWxseSB1c2VkIG9yIG9mZmVyZWQuCi0gVGhlIGxpYnJhcmllcyBjaGVja2VkIGZvciB0aGUgY3VycmVudCBzY2VuZSBhbmQgdGhlaXIgYWN0dWFsIElEcyBvciBuby1tYXRjaAogIHJlc3VsdHMuCi0gQSBzb3VyY2UgcmVjb3JkIGZvciBldmVyeSBzY2VuZSBvciBzb3VuZCBjdWUgdGhhdCBpcyBub3QgZnJvbSBhIG1hdGVyaWFsCiAgbGlicmFyeTogYW4gZXhwbGljaXQgdXNlciBzb3VyY2UsIGEgdXNlci1tYXRlcmlhbCByZXF1ZXN0IGFuZCByZXNwb25zZSwgb3IgYW4KICBBSS1nZW5lcmF0ZWQgcGljdHVyZSB3aXRoIHJlY29yZGVkIGF1dGhvcml6YXRpb24uIEEgZGVzY3JpcHRpb24sIHBsYWNlaG9sZGVyLAogIG9yIHRlbXBsYXRlLWJ1bmRsZWQgZXhhbXBsZSBpcyBub3QgYSB2YWxpZCBieXBhc3MuCi0gQSBzdGF0ZW1lbnQgdGhhdCBwcmV2aWV3cyBmcm9tIENBUkQsIEtpdGJpdHosIG1vdGlvbi1wcm9tcHQsIFJlbW90aW9uIFNjZW5lcywKICBSZWFjdCBWaWRlbyBFZGl0b3IsIEN1cnZhYmxlIE1vdGlvbiwgUmVtb3Rpb24gUGxheWdyb3VuZCwgYW5kIFRhYmxlciBJY29ucwogIGFyZSB2aXN1YWwgcmVmZXJlbmNlcyBvciBzb3VyY2UgYXNzZXRzLCBub3QgYXV0b21hdGljYWxseSBkaXJlY3QgaW5zZXJ0YWJsZQogIGFzc2V0cy4KLSBLZWVwIHRoZSBNT1RJT04gMTI0LUNhcmQgc3lzdGVtIGFuZCBWSURFTy1TSE9UQ1JBRlQncyAxMjQtY2FyZCBzeXN0ZW0KICBzZXBhcmF0ZS4gVGhlaXIgSURzLCBjYXJkIG5hbWVzLCBhbmQgc3R5bGUga2V5cyBhcmUgbm90IGludGVyY2hhbmdlYWJsZS4KLSBBIHN0YXRlbWVudCB0aGF0IENvZGV4IHdpbGwgYWN0aXZlbHkgY2hlY2sgYW5kIGFkYXB0IHRoZSBzZWxlY3RlZCBhc3NldCwgYnV0CiAgd2lsbCBub3QgZm9yY2UgYW4gaW5jb21wYXRpYmxlIGVmZmVjdC4KClByZWZlciBgaW1wbGVtZW50ZWRgIENhcmRzIGZvciBkaXJlY3QgYXBwbGljYXRpb24uIEFuIGBhdmFpbGFibGVgIG9yIHBlbmRpbmcKQ2FyZCwgYSBtb3Rpb24tcHJvbXB0IHJlZmVyZW5jZSwgb3IgYSBSZW1vdGlvbiBTY2VuZXMgZXhhbXBsZSBtYXkgYmUgcmVidWlsdApvbmx5IHdoZW4gdGhlIHNlbGVjdGVkIHRlbXBsYXRlIHN1cHBvcnRzIHRoZSBtb3Rpb24gaWRlYS4gTmV2ZXIgY2xhaW0gYQpyZWZlcmVuY2Ugd2FzIGluc2VydGVkIGRpcmVjdGx5IGludG8gdGhlIGAubW90aW9uYCBwYWNrYWdlLgoKIyMgSWYgbm8gcmV2aXNpb24gaXMgcmVxdWVzdGVkCgotIFRyZWF0IGDkuI3pnIDopoHmm7/mjaJgIGFzIHRoZSBjYW5vbmljYWwgYW5zd2VyIGFuZCByZWNvcmQgdGhhdCB0aGUgdXNlciBkZWNsaW5lZAogIGVmZmVjdHMgcmVwbGFjZW1lbnQuIEFjY2VwdCBhbiB1bmFtYmlndW91cyBuYXR1cmFsLWxhbmd1YWdlIGVxdWl2YWxlbnQgdG9vLgotIENvbnRpbnVlIGZpbmFsIHZhbGlkYXRpb24gYW5kIGRlbGl2ZXJ5LgotIERvIG5vdCBhc2sgYWdhaW4gZm9yIHRoZSBzYW1lIGZpbmFsIHZlcnNpb24uCgojIyBJZiBhIHJldmlzaW9uIGlzIHJlcXVlc3RlZAoKMS4gUmVjb3JkIHRoZSB0YXJnZXQgc2NlbmUgb3IgdGltZWNvZGUsIHJlcXVlc3RlZCB1c2FnZSBwYXJ0LCBhbmQgc2VsZWN0ZWQKICAgbGlicmFyeSBhbmQgSUQuCiAgIElmIHRoZSB1c2VyIHVzZWQgcGxhaW4gbGFuZ3VhZ2UsIHJlc3RhdGUgdGhlIGluZmVycmVkIG1hcHBpbmcgYmVmb3JlCiAgIGNoYW5naW5nIGFueXRoaW5nLgoyLiBSZWFkIGBzcmMvbW90aW9uL21vdGlvbi1jYXRhbG9nLmpzb25gIGZvciBhIENBUkQsIHRoZSBLaXRiaXR6IG1hbmlmZXN0IGFuZAogICBTVkcgZm9yIGEgS2l0Yml0eiBhc3NldCwgdGhlIGN1cnJlbnQgbW90aW9uLXByb21wdCBjYXRhbG9nIGFuZCBudW1iZXJlZCBlbnRyeQogICBmb3IgbW90aW9uLXByb21wdCwgdGhlIGN1cnJlbnQgbWFuaWZlc3QgZm9yIE1ldGEgT3BlbiBTb3VuZCBvciBVSSBTRlgsIGFuZAogICBgc3JjL1Jvb3QudHN4YCBwbHVzIHRoZSBzZWxlY3RlZCBgc3JjL3NjZW5lcy88Q2F0ZWdvcnk+L2AgZW50cnkgZm9yIFJlbW90aW9uCiAgIFNjZW5lcywgYHNyYy9pbmRleC50c2AgYW5kIHRoZSBzZWxlY3RlZCBjb21wb25lbnQgdW5kZXIKICAgYHNyYy9jb21wb25lbnRzL2AgZm9yIEN1cnZhYmxlIE1vdGlvbiwgYW5kIGBzcmMvUm9vdC5qc3hgIHBsdXMgdGhlIHNlbGVjdGVkCiAgIGZpbGUgdW5kZXIgYHNyYy9jb21wb3NpdGlvbnMvYCBmb3IgUmVtb3Rpb24gUGxheWdyb3VuZC4gRm9yIFRhYmxlciBJY29ucywKICAgdmVyaWZ5IHRoZSBleGFjdCBpY29uIG5hbWUgaW4gdGhlIGxvY2FsIGludmVudG9yeSBvciBvZmZpY2lhbCBnYWxsZXJ5LiBGb3IKICAgUmVhY3QgVmlkZW8gRWRpdG9yLCByZWFkIG9ubHkgdGhlIGVkaXRvciBVSSBjb21wb25lbnQgYW5kIGFwcCBwYWdlLiBDb25maXJtCiAgIGF2YWlsYWJpbGl0eSwgbGljZW5zZSwgYW5kIGFkYXB0YXRpb24gc3RhdHVzIGJlZm9yZSB1c2UuCiAgIEZvciBWSURFTy1TSE9UQ1JBRlQsIHJlYWQgYGdhbGxlcnkvYXBpL2xpYnJhcnkuanNvbmAsIHRoZSBleGFjdCBjYXJkIGRvY3VtZW50LAogICBhbmQgdGhlIGRlbW8gc291cmNlIG5hbWVkIGJ5IHRoYXQgZG9jdW1lbnQuIEZvciBgSU5LLVBSRVNTYCwgYWxzbyByZWFkCiAgIGB0ZW1wbGF0ZS9URU1QTEFURS5tZGAuCjMuIENoZWNrIHdoZXRoZXIgdGhlIHNlbGVjdGVkIHRlbXBsYXRlIGNhbiBzdXBwb3J0IHRoZSByZXF1ZXN0ZWQgY2hhbmdlLgo0LiBLZWVwIHRoZSBzZWxlY3RlZCB0ZW1wbGF0ZSBhbmQgdW5hZmZlY3RlZCBzY2VuZXMgbG9ja2VkLgo1LiBJZiB0aGUgcmV2aXNpb24gbmVlZHMgYSBuZXcgb3IgcmVwbGFjZW1lbnQgcGljdHVyZSwgc2VhcmNoIG9ubHkgdGhlIG1hdGVyaWFsCiAgIGxpYnJhcmllcyByZWxldmFudCB0byB0aGF0IHNjZW5lLiBJZiBubyBzdWl0YWJsZSBlbnRyeSBleGlzdHMsIHN0b3AgdGhhdAogICBwaWN0dXJlIGFuZCBhc2sgdGhlIHVzZXIgZm9yIHRoZSBtaXNzaW5nIGxpYnJhcnkgb3Igc291cmNlIGFzc2V0cy4gRG8gbm90IHVzZQogICBhIGRlc2NyaXB0aW9uLCBwbGFjZWhvbGRlciwgdGVtcGxhdGUgZXhhbXBsZSwgb3Igc2VsZi1nZW5lcmF0ZWQgcGljdHVyZQogICB1bmxlc3MgdGhlIHVzZXIgZXhwbGljaXRseSBzYXlzIG5vIG1hdGVyaWFsIHdpbGwgYmUgcHJvdmlkZWQgb3IgZXhwbGljaXRseQogICBhdXRob3JpemVzIGdlbmVyYXRpb24uCjYuIFJlYnVpbGQgb25seSB0aGUgcmVxdWVzdGVkIHZpc3VhbCBwYXJ0Lgo3LiBLZWVwIGFwcHJvdmVkIG5hcnJhdGlvbiwgc3VidGl0bGVzLCBvdXRwdXQgbGFuZ3VhZ2UsIGFuZCB0aW1pbmcgdW5sZXNzIHRoZQogICByZXF1ZXN0ZWQgZWZmZWN0IG5lY2Vzc2FyaWx5IGNoYW5nZXMgdGhlbS4gQnVybmVkIHN1YnRpdGxlcyByZW1haW4gb25lCiAgIGNvbXBsZXRlIHJlYWRpbmcgY2xhdXNlIHBlciBzaW5nbGUtbGluZSBjdWUgd2l0aCBubyBjaGFyYWN0ZXIgcmV2ZWFsIG9yCiAgIGthcmFva2U7IGNvbW1hLWRlbGltaXRlZCBzZXF1ZW50aWFsIGN1ZXMgYXJlIGFsbG93ZWQuCiAgICBJZiBhbnkgdGV4dCwgYXVkaW8sIG9yIHNjZW5lIHRpbWluZyBjaGFuZ2VzLCByZWJ1aWxkIHRoZSBhZmZlY3RlZCBzZW50ZW5jZQogICAgYW5kIHZpc3VhbC1ncm91cCBib3VuZGFyaWVzLCByZWNoZWNrIHRoYXQgZXZlcnkgc291cmNlIHNlbnRlbmNlIHVzZXMgYXQgbW9zdAogICAgdGhyZWUgc3VidGl0bGUgY3VlcyBhbmQgZXZlcnkgZ3JvdXAgc3RheXMgd2l0aGluIHRocmVlIGNvbnNlY3V0aXZlIGNhbm9uaWNhbAogICAgc2VudGVuY2VzLgo4LiBSZWdlbmVyYXRlIHRoZSBhZmZlY3RlZCB0aW1lbGluZSBrZXlmcmFtZXMgYW5kIHdhaXQgZm9yIGDnoa7orqTlhbPplK7luKdgLgo5LiBSdW4gdGhlIGZlZWRiYWNrIGdhdGUgZnJvbSBgdmlzdWFsLWZlZWRiYWNrLm1kYCwgaW5jbHVkaW5nIHRoZSBvcHRpb24gdG8KICAgcHJvdmlkZSBhIHJlZmVyZW5jZSB2aWRlbyBvciBpbWFnZSBwbHVzIGEgc2ltcGxlIGRlc2NyaXB0aW9uLgoxMC4gUmUtcmVuZGVyIHRoZSBjb21wbGV0ZSBmaW5hbCBNUDQgYXMgYSBuZXcgdmVyc2lvbiBhZnRlciBg56Gu6K6k5YWz6ZSu5binYC4KMTEuIFByZXNlcnZlIHRoZSBwcmV2aW91cyBmaW5hbCByZW5kZXIuCjEyLiBSZS1ydW4gZmluYWwgdmFsaWRhdGlvbiBhbmQgdGhpcyBwb3N0LXJlbmRlciByZXZpZXcgZ2F0ZS4KMTMuIFVwZGF0ZSBg5pa55qGIL+inhuinieWFg+e0oOWMuemFjeS4jumHjeWkjeeOhy5tZGAgYW5kIHZlcmlmeSB0aGUgbGF0ZXN0IHRlbXBsYXRlLWZpeGVkCiAgICByZXN1bHQgaXMgc3RpbGwgbm8gbW9yZSB0aGFuIDUwJSwgdGhlIGVkaXRhYmxlIGAoVCAtIEQpIC8gVGAgcmVzdWx0IGlzIHN0aWxsCiAgICBubyBtb3JlIHRoYW4gMzAlLCBhbmQgdGhlIHBpY3R1cmUtdHJhbnNpdGlvbiBgUSAvIFUgLyAoUSAtIFUpIC8gUWAgcmVzdWx0IGlzCiAgICBzdGlsbCBubyBtb3JlIHRoYW4gMjAlLiBBbHNvIHZlcmlmeSBjb21wbGV4LXRyYW5zaXRpb24gYENgIGlzIG5vIG1vcmUgdGhhbgogICAgYGZsb29yKFEgw5cgMTAlKWAsIGV2ZXJ5IHN0YW5kYXJkIG5vbi1oYXJkLWN1dCB0cmFuc2l0aW9uIGlzIG5vIGxvbmdlciB0aGFuCiAgICAwLjUgc2Vjb25kcywgZXZlcnkgY29tcGxleCB0cmFuc2l0aW9uIGlzIG5vIGxvbmdlciB0aGFuIDAuOCBzZWNvbmRzLCBhbmQKICAgIGV2ZXJ5IHRyYW5zaXRpb24gaGFzIGEgbWF0Y2hlZCBTRlggY3VlLiBDb25maXJtIGV2ZXJ5IG5vbi1oYXJkLWN1dAogICAgdHJhbnNpdGlvbiBpcyBzbW9vdGggd2l0aCBjb29yZGluYXRlZCBlYXNpbmcuIENvbmZpcm0gZXZlcnkgZmFkZSBvcgogICAgY3Jvc3NmYWRlIGNvbnRhaW5zIGJvdGggaXRzIGZhZGUtb3V0IGFuZCBmYWRlLWluLgoxNC4gVmVyaWZ5IGJ1cm5lZCBzdWJ0aXRsZXMgc2hvdyBvbmUgY29tcGxldGUgcmVhZGluZyBjbGF1c2UgcGVyIHNpbmdsZS1saW5lIGN1ZQogICAgd2l0aCBubyBjaGFyYWN0ZXIgcmV2ZWFsIG9yIGthcmFva2UsIG5vIGxhdGVyIGN1ZSBhcHBlYXJzIGVhcmx5LCBlYWNoIHNvdXJjZQogICAgc2VudGVuY2UgdXNlcyBhdCBtb3N0IHRocmVlIHN1YnRpdGxlIGN1ZXMsIGxvbmctc2VudGVuY2UgdmlzdWFsIGdyb3VwcyByZW1haW4KICAgIHN0cmljdGx5IHNlcmlhbCwgYW5kIG5vIHZpc3VhbCBncm91cCBleGNlZWRzIHRocmVlIGNvbnNlY3V0aXZlIGNhbm9uaWNhbAogICAgc2VudGVuY2VzLiBObyBzY2VuZSBvciB2aXN1YWwgZ3JvdXAgbWF5IGNvbnRhaW4gb25seSBhIHNjcmlwdCBmcmFnbWVudCBiZWxvdwogICAgZml2ZSB2aXNpYmxlIGNoYXJhY3RlcnMuIE11bHRpLXN0YWdlIEItUk9MTCBncmFwaGljIHRleHQgZW50ZXJzIG9uZSBzZW1hbnRpYwogICAgbGluZSBvciBwaHJhc2UgYXQgYSB0aW1lIGluIHNvdXJjZSBvcmRlciwgd2l0aG91dCBzaG93aW5nIGxhdGVyIHdvcmRpbmcgZWFybHkuCgpJZiB0aGUgc2VsZWN0ZWQgbGlicmFyeSBlbnRyeSBvciB0ZW1wbGF0ZSBjYW5ub3Qgc3VwcG9ydCB0aGUgcmVxdWVzdCwgZG8gbm90CmZvcmNlIHRoZSBhc3NldC4gUmVwb3J0IHRoZSBleGFjdCBibG9ja2VyIGFuZCByZWNvbW1lbmQgb25lIG9yIG1vcmUgYWN0dWFsCmFsdGVybmF0aXZlcyB0aGF0IGZpdCB0aGUgcmVxdWVzdGVkIGludGVudC4gQXNrOgoKPiDpnIDopoHmm7/mjaLor7flm57lpI3igJzpnIDopoHmm7/mjaLigJ3vvIzlubblhpnmmI7mm7/ku6PntKDmnZDlupPlkowgSUTvvJvkuI3pnIDopoHmm7/mjaLor7flm57lpI3igJzkuI3pnIDopoHmm7/mjaLigJ3jgIIKCkRvIG5vdCBmYWtlIHRoZSBlZmZlY3Qgb3Igc2lsZW50bHkgY2hhbmdlIHRlbXBsYXRlcy4KCiMjIFJldmlldyBsaW1pdHMKCi0gU2hvdyBhbmQgb2J0YWluIGDnoa7orqTlhbPplK7luKdgIGZvciB0aGUgcmV2aXNlZCBrZXlmcmFtZXMgYmVmb3JlIGVhY2ggZnVsbAogIHJlcmVuZGVyLgotIE5ldmVyIG92ZXJ3cml0ZSB0aGUgcHJldmlvdXNseSBhcHByb3ZlZCBmaW5hbCB2ZXJzaW9uLgotIEFsbG93IGF0IG1vc3QgZml2ZSBlZmZlY3RzLXJldmlzaW9uIHJvdW5kcy4KLSBCZWZvcmUgYSBzaXh0aCByb3VuZCwgYXNrIHRoZSB1c2VyIHdoZXRoZXIgdG8gY29udGludWUuCgojIyBQcm9qZWN0IHJlY29yZAoKV2hlbiBhIG1hdGVyaWFsIHJldmlzaW9uIGlzIHVzZWQsIHNhdmUgdGhlIHByb2plY3QgcmVjb3JkIHRvCmDmlrnmoYgvQ2FyZOS/ruaUueiusOW9lS5tZGAgY29udGFpbmluZzoKCi0gT3JpZ2luYWwgZmluYWwgdmVyc2lvbi4KLSBUYXJnZXQgc2NlbmUgYW5kIHRpbWVjb2RlLgotIFJlcXVlc3RlZCB1c2FnZSBwYXJ0LgotIFNlbGVjdGVkIGxpYnJhcnksIElELCBjdWUsIG9yIG1vdGlvbi1wcm9tcHQgbnVtYmVyIGFuZCBpbXBsZW1lbnRhdGlvbiBzdGF0dXMuCi0gUmVsZXZhbnQgbGlicmFyaWVzIGNoZWNrZWQsIGFjdHVhbCBtYXRjaGluZyBJRHMgb3Igbm8tbWF0Y2ggcmVzdWx0cywgdGhlCiAgdXNlci1tYXRlcmlhbCByZXF1ZXN0IGFuZCByZXNwb25zZSwgYW5kIGFueSBBSS1nZW5lcmF0aW9uIGF1dGhvcml6YXRpb24uCi0gRm9yIFZJREVPLVNIT1RDUkFGVCwgdGhlIGNhcmQgbmFtZSwgc3R5bGUga2V5LCBkZW1vIHBhdGgsIHRhcmdldCByYXRpbywgYW5kCiAgbGljZW5zZSBzdGF0dXMuIGBJTkstUFJFU1NgIGlzIHZhbGlkIG9ubHkgYXQgbmF0aXZlIDE2OjkuCi0gRm9yIFRhYmxlciBJY29ucywgdGhlIHZlcmlmaWVkIGljb24gbmFtZSwgdGFyZ2V0IHNjZW5lLCBlZGl0YWJsZSBCLVJPTEwgdXNhZ2UsCiAgbGljZW5zZSwgYW5kIGZpbmFsLXNpemUgbGVnaWJpbGl0eS4KLSBBZGFwdGF0aW9uIHJlc3VsdCBhbmQgYWx0ZXJuYXRpdmUgc3VnZ2VzdGlvbnMgd2hlbiBpbmNvbXBhdGlibGUuCi0gV2hhdCB3YXMgcmVidWlsdC4KLSBSZXZpc2VkIHRpbWVsaW5lLWtleWZyYW1lIHBhdGggYW5kIGDnoa7orqTlhbPplK7luKdgIHJlc3BvbnNlLgotIFVzZXIgZmVlZGJhY2sgYW5kIHJlZmVyZW5jZSBtZWRpYSBwYXRocy4KLSBVc2VyIGFwcHJvdmFsLgotIFJlLXJlbmRlcmVkIGZpbmFsIHBhdGguCi0gVW5jaGFuZ2VkIGF1ZGlvLCBzdWJ0aXRsZSwgYW5kIGxhbmd1YWdlIGNoZWNrcy4KLSBTZW50ZW5jZSBhbmQgdmlzdWFsLWdyb3VwIHRpbWluZyByZXN1bHQsIHN1YnRpdGxlIHNpbmdsZS1saW5lIGFuZCBub24tcmV2ZWFsCiAgcmVzdWx0LCBldmVyeSBzb3VyY2Ugc2VudGVuY2UncyBvbmUtdG8tdGhyZWUtY3VlIHJlc3VsdCwgZXZlcnkgZ3JvdXAncyBzZW50ZW5jZQogIGNvdW50IGFuZCB0aHJlZS1zZW50ZW5jZSBtYXhpbXVtIHJlc3VsdCwgYW5kIHRoZSBzdWItZml2ZS12aXNpYmxlLWNoYXJhY3RlcgogIG1lcmdlIHJlc3VsdC4KLSBVcGRhdGVkIHZpc3VhbCBhc3NldCBtYXBwaW5nLCB0ZW1wbGF0ZS1maXhlZCByZXBldGl0aW9uIHJlc3VsdCwgZWRpdGFibGUKICBgVCAvIEQgLyAoVCAtIEQpIC8gVGAgcmVzdWx0LCBhbmQgcGljdHVyZS10cmFuc2l0aW9uCiAgYFEgLyBVIC8gKFEgLSBVKSAvIFFgIHJlc3VsdCwgZWFjaCB3aXRoIHBhc3Mgb3IgZmFpbC4KLSBGb3IgZXZlcnkgY2hhbmdlZCBvciBhZGRlZCB0cmFuc2l0aW9uOiBzb3VyY2UgbGlicmFyeSwgYXNzZXQgb3IgQ2FyZCBJRCB3aGVuCiAgYXBwbGljYWJsZSwgdHJhbnNpdGlvbiBtZXRob2QsIGR1cmF0aW9uLCBzdGFuZGFyZC9jb21wbGV4IGNsYXNzaWZpY2F0aW9uLAogIFNGWCBjdWUsIGNvb3JkaW5hdGVkIGVhc2luZyB0cmVhdG1lbnQsIGFuZCBmYWRlLW91dC9mYWRlLWluIHBhaXJpbmcgd2hlbgogIGFwcGxpY2FibGUuIEEgZmFkZSBvciBjcm9zc2ZhZGUgd2l0aCBvbmx5IG9uZSBoYWxmIGlzIGludmFsaWQuIEhhcmQgY3V0cwogIHN0aWxsIG5lZWQgdGhlIHNvdW5kIGN1ZSB1bmxlc3MgdGhlIHVzZXIgcmVxdWVzdGVkIHNpbGVuY2UuCi0gVXBkYXRlZCBgUWAsIGBVYCwgYENgLCBgZmxvb3IoUSDDlyAxMCUpYCwgYW5kIHBhc3Mgb3IgZmFpbCByZXN1bHRzIGZvciB0aGUKICB0cmFuc2l0aW9uIHJlcGV0aXRpb24gYW5kIGNvbXBsZXgtdHJhbnNpdGlvbiBsaW1pdHMuCgo=
+# Post-render Effects Review
+
+## Trigger
+
+Run this gate after every complete final MP4 render and before delivery. Run it
+again after any material-library-driven revision produces a new complete final
+render.
+
+The video is a rendered candidate, not yet a delivered final, until the user
+answers whether effects or transitions should be replaced.
+
+## Required prompt
+
+Ask directly:
+
+> 成片已经渲染完成。我可以按本次实际使用的模板和素材来源检查画面和声音。需要新增或替换画面时，我只检查当前场景真正需要的素材库；没有合适素材时，我会请你提供素材库或素材。只有你明确表示无法提供或明确同意我生成画面后，我才会自己生成。需要替换请回复“需要替换”，并按“目标场景或时间码 + 使用部位 + 素材库 + ID”或“目标场景 + 你提供的素材”写明，例如：`需要替换，00:08 + 转场 + motion-prompt #046`；不需要替换请回复“不需要替换”。
+
+Provide the answer path in the same response:
+
+- Reply `需要替换` with one or more mappings in this form:
+  `target scene or timecode + usage part + library + ID`.
+- If the user cannot use the format, accept a plain-language description,
+  infer the likely mapping, and confirm it when ambiguity remains.
+- Usage parts include opening, title/text, transition, CTA, UI, data, camera
+  movement, emphasis, or ending.
+- Reply `不需要替换` to continue delivery.
+
+## Material references
+
+If the user asks for library alternatives, show only relevant visual references
+from libraries already used or already resolved for this video. Do not pre-check
+every material library. For each library reference include:
+
+- Library and ID.
+- For VIDEO-SHOTCRAFT, the exact card name, style key, and demo path instead of
+  a MOTION Card ID.
+- Chinese category.
+- Implementation status.
+- Short effect summary.
+- Local preview link.
+- Why it may fit the target scene.
+
+Also provide:
+
+- The source link for each material library that is actually used or offered.
+- The libraries checked for the current scene and their actual IDs or no-match
+  results.
+- A source record for every scene or sound cue that is not from a material
+  library: an explicit user source, a user-material request and response, or an
+  AI-generated picture with recorded authorization. A description, placeholder,
+  or template-bundled example is not a valid bypass.
+- A statement that previews from CARD, Kitbitz, motion-prompt, Remotion Scenes,
+  React Video Editor, Curvable Motion, Remotion Playground, and Tabler Icons
+  are visual references or source assets, not automatically direct insertable
+  assets.
+- Keep the MOTION 124-Card system and VIDEO-SHOTCRAFT's 124-card system
+  separate. Their IDs, card names, and style keys are not interchangeable.
+- A statement that Codex will actively check and adapt the selected asset, but
+  will not force an incompatible effect.
+
+Prefer `implemented` Cards for direct application. An `available` or pending
+Card, a motion-prompt reference, or a Remotion Scenes example may be rebuilt
+only when the selected template supports the motion idea. Never claim a
+reference was inserted directly into the `.motion` package.
+
+## If no revision is requested
+
+- Treat `不需要替换` as the canonical answer and record that the user declined
+  effects replacement. Accept an unambiguous natural-language equivalent too.
+- Continue final validation and delivery.
+- Do not ask again for the same final version.
+
+## If a revision is requested
+
+1. Record the target scene or timecode, requested usage part, and selected
+   library and ID.
+   If the user used plain language, restate the inferred mapping before
+   changing anything.
+2. Read `src/motion/motion-catalog.json` for a CARD, the Kitbitz manifest and
+   SVG for a Kitbitz asset, the current motion-prompt catalog and numbered entry
+   for motion-prompt, the current manifest for Meta Open Sound or UI SFX, and
+   `src/Root.tsx` plus the selected `src/scenes/<Category>/` entry for Remotion
+   Scenes, `src/index.ts` and the selected component under
+   `src/components/` for Curvable Motion, and `src/Root.jsx` plus the selected
+   file under `src/compositions/` for Remotion Playground. For Tabler Icons,
+   verify the exact icon name in the local inventory or official gallery. For
+   React Video Editor, read only the editor UI component and app page. Confirm
+   availability, license, and adaptation status before use.
+   For VIDEO-SHOTCRAFT, read `gallery/api/library.json`, the exact card document,
+   and the demo source named by that document. For `INK-PRESS`, also read
+   `template/TEMPLATE.md`.
+3. Check whether the selected template can support the requested change.
+4. Keep the selected template and unaffected scenes locked.
+5. If the revision needs a new or replacement picture, search only the material
+   libraries relevant to that scene. If no suitable entry exists, stop that
+   picture and ask the user for the missing library or source assets. Do not use
+   a description, placeholder, template example, or self-generated picture
+   unless the user explicitly says no material will be provided or explicitly
+   authorizes generation.
+6. Rebuild only the requested visual part.
+7. Keep approved narration, subtitles, output language, and timing unless the
+   requested effect necessarily changes them. Burned subtitles remain one
+   complete reading clause per single-line cue with no character reveal or
+   karaoke; comma-delimited sequential cues are allowed.
+    If any text, audio, or scene timing changes, rebuild the affected sentence
+    and visual-group boundaries, recheck that every source sentence uses at most
+    three subtitle cues and every group stays within three consecutive canonical
+    sentences.
+8. Regenerate the affected timeline keyframes and wait for `确认关键帧`.
+9. Run the feedback gate from `visual-feedback.md`, including the option to
+   provide a reference video or image plus a simple description.
+10. Re-render the complete final MP4 as a new version after `确认关键帧`.
+11. Preserve the previous final render.
+12. Re-run final validation and this post-render review gate.
+13. Update `方案/视觉元素匹配与重复率.md` and verify the latest template-fixed
+    result is still no more than 50%, the editable `(T - D) / T` result is still
+    no more than 30%, and the picture-transition `Q / U / (Q - U) / Q` result is
+    still no more than 20%. Also verify complex-transition `C` is no more than
+    `floor(Q × 10%)`, every standard non-hard-cut transition is no longer than
+    0.5 seconds, every complex transition is no longer than 0.8 seconds, and
+    every transition has a matched SFX cue. Confirm every non-hard-cut
+    transition is smooth with coordinated easing. Confirm every fade or
+    crossfade contains both its fade-out and fade-in.
+14. Verify burned subtitles show one complete reading clause per single-line cue
+    with no character reveal or karaoke, no later cue appears early, each source
+    sentence uses at most three subtitle cues, long-sentence visual groups remain
+    strictly serial, and no visual group exceeds three consecutive canonical
+    sentences. No scene or visual group may contain only a script fragment below
+    five visible characters. Multi-stage B-ROLL graphic text enters one semantic
+    line or phrase at a time in source order, without showing later wording early.
+
+If the selected library entry or template cannot support the request, do not
+force the asset. Report the exact blocker and recommend one or more actual
+alternatives that fit the requested intent. Ask:
+
+> 需要替换请回复“需要替换”，并写明替代素材库和 ID；不需要替换请回复“不需要替换”。
+
+Do not fake the effect or silently change templates.
+
+## Review limits
+
+- Show and obtain `确认关键帧` for the revised keyframes before each full
+  rerender.
+- Never overwrite the previously approved final version.
+- Allow at most five effects-revision rounds.
+- Before a sixth round, ask the user whether to continue.
+
+## Project record
+
+When a material revision is used, save the project record to
+`方案/Card修改记录.md` containing:
+
+- Original final version.
+- Target scene and timecode.
+- Requested usage part.
+- Selected library, ID, cue, or motion-prompt number and implementation status.
+- Relevant libraries checked, actual matching IDs or no-match results, the
+  user-material request and response, and any AI-generation authorization.
+- For VIDEO-SHOTCRAFT, the card name, style key, demo path, target ratio, and
+  license status. `INK-PRESS` is valid only at native 16:9.
+- For Tabler Icons, the verified icon name, target scene, editable B-ROLL usage,
+  license, and final-size legibility.
+- Adaptation result and alternative suggestions when incompatible.
+- What was rebuilt.
+- Revised timeline-keyframe path and `确认关键帧` response.
+- User feedback and reference media paths.
+- User approval.
+- Re-rendered final path.
+- Unchanged audio, subtitle, and language checks.
+- Sentence and visual-group timing result, subtitle single-line and non-reveal
+  result, every source sentence's one-to-three-cue result, every group's sentence
+  count and three-sentence maximum result, and the sub-five-visible-character
+  merge result.
+- Updated visual asset mapping, template-fixed repetition result, editable
+  `T / D / (T - D) / T` result, and picture-transition
+  `Q / U / (Q - U) / Q` result, each with pass or fail.
+- For every changed or added transition: source library, asset or Card ID when
+  applicable, transition method, duration, standard/complex classification,
+  SFX cue, coordinated easing treatment, and fade-out/fade-in pairing when
+  applicable. A fade or crossfade with only one half is invalid. Hard cuts
+  still need the sound cue unless the user requested silence.
+- Updated `Q`, `U`, `C`, `floor(Q × 10%)`, and pass or fail results for the
+  transition repetition and complex-transition limits.
+

@@ -1,1 +1,93 @@
-IyDnlLXlvbHniYflpLTvvIhjaW5lbWF0aWMtdGl0bGXvvIkKCj4g5a696ZO25bmV44CB6IO254mH6aKX57KS44CB57yT5oWi55qE5o6o6ZWc44CB6KGs57q/5aSn5a2X5LuO6buR5pqX5Lit5rWu546w77yM5YOP5LiA6YOo55S15b2x55qE5byA5Zy65oiW6aKE5ZGK54mH44CCCj4g5Y+C54Wn77yI5Y+q5a2m6K+t5rOV77yJ77ya55S15b2x54mH5aS06K6+6K6h77yIU2F1bCBCYXNzIOeahOWbvuW9oueJh+WktOOAgeeOsOS7o+eJh+WktOW3peS9nOWupOeahOaOkueJiOeJh+WktO+8ieOAgemihOWRiueJh+eahOiKguWlj++8iOmdmSDihpIg5pKe5Ye7IOKGkiDlrZfljaHvvInjgILkuI3nhafmkKzlhbfkvZPnlLXlvbHnmoTniYflkI3orr7orqHlkoznlLvpnaLjgIIKCiMjIOacrOi0qCAvIOS4jeaYr+S7gOS5iAotIOacrOi0qO+8mioq5LiA6YOo55S15b2x5byA5Zy655qE5Luq5byP5oSfKirjgILnlLvpnaLlg4/mmK/ooqvmkYTlvbHmnLrmi43kuIvjgIHosIPov4foibLnmoTvvIzkuI3lg4/lsY/luZXkuIrnm7TmjqXnlLvlh7rmnaXnmoTvvJvoioLlpY/mhaLogIzmnInph43ph4/vvIzmkp7lh7vlsJHogIzph43vvJvlrZflkoznlLvpnaLkuYvpl7TnlZnotrPlkbzlkLjjgILlrr3nlLvluYXjgIHog7bniYfpopfnspLjgIHlrZfljaHpg73mmK/luLjnlKjnmoTmiYvmrrXvvIzmjInkuLvpopjku47kuIvpnaLnmoTkv6Hlj7fph4zmjJHjgIIKLSDkuI3mmK/vvJrpmo/kvr/liqDpu5HovrnnmoTmma7pgJrop4bpopHvvJvkuZ/kuI3mmK/mu6XnlKjplZzlpLTlhYnmmZXnmoTpooTlkYrniYfmqKHmnb/jgIIKCiMjIOi+qOivhuS/oeWPt++8muavj+aUr+eJh+WtkOaMkSAy4oCTMyDkuKoKfCDkv6Hlj7cgfCDplb/ku4DkuYjmoLcgfCDpgILlkIjnmoTkuLvpopggfAp8LS0tfC0tLXwtLS18Cnwg5a696ZO25bmV6buR6L65IHwgMi4zOTox77yM5oiW6ICF6buR6L655Zyo6YeN5ouN5pe25pS257SnIHwg55S15b2x5oSf44CB5Luq5byPIHwKfCDog7bniYfotKjmhJ8gfCDpopfnspLjgIHovbvlvq7lhYnmmZXjgIHmmpfop5IgfCDlubTku6PjgIHotKjmhJ8gfAp8IOWtl+WNoeiKguWljyB8IOm7keWcuiDihpIg5LiA6KGM5a2XIOKGkiDpu5HlnLogfCDpooTlkYrjgIHmgqzlv7UgfAp8IOaFouaOqCB8IOmVnOWktOaMgee7reW+iOaFouWcsOaOqOi/kSB8IOe0p+W8oOOAgemHjemHjyB8Cnwg6KGs57q/5aSn5a2XIHwg5a695a2X6Led55qE6KGs57q/5L2T54mH5ZCNIHwg5Y+y6K+X44CB57uP5YW4IHwKfCBTYXVsIEJhc3Mg5byP5Zu+5b2iIHwg5Ymq57q46Iis55qE5bmz6Z2i5Zu+5b2i5ZKM57q/5p2hIHwg5Zu+5b2i54mH5aS044CB5oKs55aRIHwKfCDlhYnkuI7lsJggfCDlhYnmn7Hph4znmoTmta7lsJjjgIHmvI/lhYkgfCDmsJvlm7TjgIHmj63npLogfAp8IOeJqeS7tuW+rui3nSB8IOS4gOS4queJqeS7tueahOaegei/keeJueWGme+8jOa1heaZr+a3sSB8IOe7huiKguOAgee6v+e0oiB8Cnwg5omL5YaZ5oiW5omT5a2X5py65a2XIHwg5omT5a2X5py66YCQ5a2X5omT5Ye655qE5a2X5bmVIHwg57qq5a6e44CB5bm05LujIHwKfCDniYflsL7lrZfluZXmu5rliqggfCDmvJTogYzlkZjooajlvI/nmoTmu5rliqjlrZcgfCDoh7TosKLjgIHnu5PlsL4gfAp8IOWAkuiuoeaXtuiDtueJh+WktCB8IOiAgeiDtueJh+eahOaVsOWtl+WAkuiuoeaXtiB8IOWkjeWPpOOAgeW8gOWniyB8Cgrop4TliJnvvJoKLSDmr4/mlK/mjJEgMuKAkzMg5Liq77yM6Iez5bCR5LiA5Liq5LiN5Zyo5LiL6Z2i44CM5pyA5L+X55qE54mI5pys44CN6YeM44CCCi0g5L+h5Y+35LuO5Li76aKY6YeM6YCJ77yM5LiN5oyJ6aG65bqP5YWo5LiK44CCCgojIyDov5nkuKrpo47moLzmnIDkv5fnmoTniYjmnKwKLSDnlLvpnaLvvJrmqZnpnZLosIPoibLjgIHpu5HovrnjgIHplZzlpLTlhYnmmZXjgIHooaznur/niYflkI3ku47lhYnph4zmmL7lvbHjgIHkuIDorrAgYnJhYW0g5LmL5ZCO6buR5Zy644CCCi0g5aOw6Z+z77ya5L2O6aKRIGJvb23jgIFicmFhbeOAgeS4iuWNh+eahOW8puS5kCByaXNlcuOAgemSoueQtOWNlemfs+OAggotIGJyaWVmIOeahCBzdHlsZSDkuIDmoI/lhpnmmI7ov5nmlK/niYflrZDnv7vmjonkuoblk6rlh6DmnaHvvIzmiJbogIXkuLrku4DkuYjliLvmhI/kv53nlZnvvIjmr5TlpoLnlKjmiLfopoHnmoTlsLHmmK/nu4/lhbjniYjvvInjgILkv53nlZnml7bvvIzmiorlipvmsJToirHlnKjmnoTlm77jgIHplZzlpLTjgIHoioLlpY/miJbkuIDkuKrmhI/lpJbnmoTorrDlv4bngrnkuIrjgIIKCiMjIOmAgumFjQotIOeUqOmAlO+8mueJh+WktOOAgemihOWRiueJh+OAgeWTgeeJjOaDhee7queJh+OAgUxvZ28g6JC954mI44CB5Y+R5biD5YCS6K6h5pe244CCCi0g5YaF5a6577ya5Y+y6K+X44CB5pWF5LqL44CB5Y6G5Y+y44CB6YeN5aSn5Y+R5biD44CB5ri45oiP44CB57qq5b+144CCCgojIyDmioDmnK/ot6/nur8KQ2FudmFzIC8gRE9NIOaOkueJiCArIOeUu+mdouWGheWuue+8iOWbvuW9ouOAgeeykuWtkOOAgTNE77yM55yL5Li76aKY77yJKyBXZWJHTCDlkI7mnJ/vvIjmmpfop5LjgIHovbvlvq7lhYnmmZXjgIHovbvlvq7oibLlt67vvIkrIGAtLWdyYWluIDbigJMxMGDjgILnlLvluYXvvJrlnKggMTY6OSDnlLvpnaLph4zliqAgMi4zOToxIOeahOm7kei+ue+8iOS4iuS4i+WQhOe6piAxMiXvvInvvIzpu5Hovrnlj6/ku6XlnKjlhbPplK7ml7bliLvliqjnlLvvvIjmiZPlvIAgLyDmlLbntKfvvInjgIIKCiMjIOadkOi0qOS4jua4suafkwotIOiJsuiwg++8mumrmOWFieWBj+aaluOAgemYtOW9seWBj+WGt++8iOapmemdkuiwg+iJsu+8ieaIluiAheWNleiJsuiwg++8m+WvueavlOW6pumrmO+8jOm7keS9jeWOi+S9juOAggotIOWFie+8mueUu+mdoumHjOeahOWFieacieadpea6kO+8iOeql+OAgeeBq+OAgeWxj+W5le+8ie+8jOWPr+S7peacieS9k+enr+WFie+8iOW+hOWQkeaooeeziueahOWFieadn++8ieOAggotIOWtl+WNoe+8muihrOe6v+Wkp+Wtl++8jOWtl+i3neWuve+8jOWxheS4reaIluiAheWBj+W3puS4i++8iOeUteW9seWtl+W5leS9je+8ie+8m+WPr+S7peacieaegeaFoueahOaUvuWkp++8iDEuMCDihpIgMS4wNe+8jOaVtOS4quWtl+WNoeaMgee7reaXtumXtO+8ieOAggotIOmVnOWktOWFieaZleacgOWkmuS4gOasoe+8jOWPquWcqOecn+eahOacieW8uuWFiea6kOaXtuOAggoKIyMg6YWN6ImyCuS4i+mdoueahOiJsuWAvOaYr+ekuuS+i++8jOeci+aAnei3r++8jOS4jeimgeWOn+agt+eFp+aKhOOAggotIOapmemdku+8mumYtOW9sSBgIzBFMUEyMmAgLyDkuK3pl7TosIMgYCMzQTRBNTBgIC8g6auY5YWJIGAjRjJDNDhEYCAvIOWtlyBgI0Y0RUVFNGAKLSDljZXoibLmmpbvvJpgIzBCMDgwNmAgLyBgIzVBNDYzMmAgLyBgI0U5RDhCQ2AKLSDlhrfls7vvvJpgIzA1MDgwQ2AgLyBgIzJCM0E0OGAgLyBgI0M5RDZFM2AgLyDkuIDngrnnuqIgYCNCMzI2MUVgCi0g5o6o5a+877ya55S15b2x6LCD6Imy5LuO5Li76aKY5p2l77ya5qmZ6Z2S44CB5Y2V6Imy5pqW44CB5Ya35bO75Yqg5LiA54K557qi44CB6buR55m944CB6KSq6Imy55qE5p+v6L6+5pqW6LCD6YO95Y+v5Lul77yb5a2X55qE6aKc6Imy5YWo54mH57uf5LiA44CC5qmZ6Z2S5piv5pyA5bi46KeB55qE6YKj57uE44CCCgojIyDlrZfkvZMK6KGs57q/5oiW5a695a2X6Led55qE5bGV56S65L2T77yaQ29ybW9yYW50IEdhcmFtb25k44CBQ2luemVs77yI6LCo5oWO77yJ44CBUGxheWZhaXIgRGlzcGxheeOAgUJvZG9uaSBNb2Rh44CBQmlnIFNob3VsZGVyc++8iOW3peS4muaEn++8ie+8m+S4reaWh+eUqOaAnea6kOWui+S9kyBIZWF2eeOAgeaWueato+exu+WPr+WVhueUqOWui+S9k+OAggoKIyMg6L+Q5YqoCi0g5oWi77ya5a2X5Y2h55qE5reh5YWlIDAuNuKAkzEuMiDnp5LvvIjov5nph4zlhYHorrjmt6HlhaXvvIzkvYbopoHphY3lkIjnvJPmhaLnmoTmlL7lpKflkozlhYnnmoTlj5jljJbvvInvvJvplZzlpLTmjqjov5vmjIHnu63mlbTmrrXjgIIKLSDmkp7lh7vvvJrkuIDmrKHlpKfnmoQgYGltcGFjdGAg6YWN5ZCI6buR5Zy65YiH5o2i5oiW6ICF5a2X5Y2h56C45Ye677yM5YWo54mHIDLigJMzIOasoeOAggotIOiKguWlj++8mumdme+8iOmVv+mVnOWktO+8ieKGkiDliqDpgJ/vvIjliIfngrnlj5jlr4bvvInihpIg5pKe5Ye7IOKGkiDlrZfljaEg4oaSIOm7keWcuuOAggoKIyMg55S76Z2i5oCO5LmI5rS7Ci0g5Lul6Z2Z5Li65Li777ya6ZW/6ZWc5aS055qE5oWi5o6o5pys6Lqr5bCx5piv6L+Q5Yqo44CCCi0g5Y+v5Lul5rS755qE77ya5YWJ5p+x6YeM55qE5rWu5bCY44CB6Zu+55qE5rWB5Yqo44CB54mH5ZCN5LiK5LiA6YGT5b6I5oWi55qE5omr5YWJ44CB6ZWc5aS05YWJ5pmV6ZqP5o6o6L+b57yT5oWi5Y+Y5YyW44CCCgojIyDplZzlpLTor63ms5UKfCDplZzlpLTov5DliqggfCDooajovr7ku4DkuYggfCDpgILlkIjlk6rnsbvlhoXlrrkgfAp8LS0tfC0tLXwtLS18Cnwg5p6B5oWi55qE5o6o6L+bIHwg5bqE6YeN44CB5pyf5b6FIHwg5byA5Zy644CB5a2X5Y2hIHwKfCDku47pu5HmmpfkuK3mi4nnhKblh7rmnaUgfCDmj63npLogfCDkuLvkvZPnmbvlnLogfAp8IOW/q+mAn+WJqui+keiSmeWkquWlhyB8IOiDvemHj+S4iuWNhyB8IOmihOWRiumrmOa9riB8Cnwg6buR6L655pS257SnIC8g5omT5byAIHwg5oOF57uq6L2s5oqYIHwg6auY5r2u44CB57uT5bC+IHwKCiMjIOWjsOmfs+iwg+iJsuadvwrpooTlkYrniYflo7Dpn7PvvJpzdWIgZHJvbmXjgIHkvY7msonnmoQgYGJvb21g44CBYnJhYW3vvIjkvY7pn7Ppk5znrqHmhJ/vvJrlpJrkuKrkvY7lhavluqbplK/pvb/lj6DliqAgKyDlvLrmu6Tms6LlvIDlkIjvvIzlj6/ku6XnlKggYHBhZGAg5L2O6Z+z5Yy6ICsgYGRyaXZlYCDov5HkvLzvvInjgIHkuIrljYfnmoQgcmlzZXLjgIHmkp7lh7vliY3nmoTlrozlhajpnZnpn7PjgIHpkqLnkLTljZXpn7PvvIjnrKwgMiDmoaMgU2FsYW1hbmRlciDph4fmoLfmlYjmnpzmnIDlpb3vvInjgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8mmhhbGYtdGltZSDmiJbml6Dmi43vvJvlsI/osIPjgIHlkozlo7DlsI/osIPjgIHkuInluqblhbPns7vnmoTlpKfkuInlkozlvKbvvIjlro/lpKfmj63npLrvvInjgIHmjIHnu63kvY7pn7PjgILmm7Lnur/lj6/ku6XmmK/lkLjmsJQg4oaSIOeIhuWPke+8jOS5n+WPr+S7peaYr+e0r+WKoO+8iOS4gOi3r+WPmOWOmuebtOWIsOeJh+WQjeWHuueOsO+8ieaIluaKveepuu+8iOWFqOe8luWItumqpOWBnO+8jOWPquWJqeS4gOS4qumSoueQtOmfs++8ieOAguWkp+epuumXtO+8iGBTLnNwYWNlKHsgcm9vbTogMC45IH0pYO+8ie+8jOS4jeS+p+mTvuOAggoKIyMg5Y6f55Sf5omL5rOVCi0g6buR5Zy6IOKGkiDkuIDkuKrlo7Dpn7Mg4oaSIOS4gOihjOWtl++8mumAguWQiOW8gOWcuuOAggotIOaSnuWHu+aXtum7kei+ueeMm+WcsOaUtue0p++8jOeUu+mdouWIh+WIsOS4i+S4gOmVnO+8mumAguWQiOmrmOa9ruOAggotIOeJh+WQjeS7juWFiemHjOaYvuW9se+8mumAguWQiOiQveeJiO+8iOe7j+WFuO+8ieOAggotIFNhdWwgQmFzcyDlvI/nmoTlubPpnaLlm77lvaLliIflvIDnlLvpnaLvvIzniYflkI3ljaHlnKjlm77lvaLkuYvpl7TvvJrpgILlkIjlm77lvaLniYflpLTjgIIKCiMjIOWPmOWMluepuumXtAotIOe7k+aehO+8muS4ieW5leWtl+WNoe+8iOi/h+WOuyAvIOeOsOWcqCAvIOacquadpe+8ie+8m+S4gOS4qumXrumimOi0r+epv+WFqOeJh++8jOacgOWQjuS4gOihjOWbnuetlO+8m+WAkuiuoeaXtuWIsOWPkeW4g+aXpeacn+OAggotIOW8gOWcuu+8muWFqOm7keS4reeahOS4gOS4quWjsOmfs++8m+S4gOadn+WFieaJq+i/h+WwmOWfg+OAggotIOe7k+Wwvu+8mueJh+WQjeWumuagvO+8jOS4i+mdouS4gOihjOaXpeacn++8m+m7keWcuuWQjuS4gOS4quWwvumfs+OAggoKIyMg5Z2RCi0g5q+P5LiA5bGP6YO95Zyo44CM5Y+y6K+X44CN77yM5bCx5rKh5pyJ5Y+y6K+X77ya6KaB5pyJ6Z2Z55qE5q616JC944CCCi0g6aKX57KS5aSq6YeN44CB55S76Z2i5aSq5pqX77yM5omL5py65LiK5LuA5LmI6YO955yL5LiN5riF77ya5Zyo5omL5py65bC65a+45oq95bin5Zu+6YeM5qOA5p+l44CCCi0g5rul55So6ZWc5aS05YWJ5pmV5ZKM5oWi5Yqo5L2c44CCCg==
+# 电影片头（cinematic-title）
+
+> 宽银幕、胶片颗粒、缓慢的推镜、衬线大字从黑暗中浮现，像一部电影的开场或预告片。
+> 参照（只学语法）：电影片头设计（Saul Bass 的图形片头、现代片头工作室的排版片头）、预告片的节奏（静 → 撞击 → 字卡）。不照搬具体电影的片名设计和画面。
+
+## 本质 / 不是什么
+- 本质：**一部电影开场的仪式感**。画面像是被摄影机拍下、调过色的，不像屏幕上直接画出来的；节奏慢而有重量，撞击少而重；字和画面之间留足呼吸。宽画幅、胶片颗粒、字卡都是常用的手段，按主题从下面的信号里挑。
+- 不是：随便加黑边的普通视频；也不是滥用镜头光晕的预告片模板。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 宽银幕黑边 | 2.39:1，或者黑边在重拍时收紧 | 电影感、仪式 |
+| 胶片质感 | 颗粒、轻微光晕、暗角 | 年代、质感 |
+| 字卡节奏 | 黑场 → 一行字 → 黑场 | 预告、悬念 |
+| 慢推 | 镜头持续很慢地推近 | 紧张、重量 |
+| 衬线大字 | 宽字距的衬线体片名 | 史诗、经典 |
+| Saul Bass 式图形 | 剪纸般的平面图形和线条 | 图形片头、悬疑 |
+| 光与尘 | 光柱里的浮尘、漏光 | 氛围、揭示 |
+| 物件微距 | 一个物件的极近特写，浅景深 | 细节、线索 |
+| 手写或打字机字 | 打字机逐字打出的字幕 | 纪实、年代 |
+| 片尾字幕滚动 | 演职员表式的滚动字 | 致谢、结尾 |
+| 倒计时胶片头 | 老胶片的数字倒计时 | 复古、开始 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+
+## 这个风格最俗的版本
+- 画面：橙青调色、黑边、镜头光晕、衬线片名从光里显影、一记 braam 之后黑场。
+- 声音：低频 boom、braam、上升的弦乐 riser、钢琴单音。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：片头、预告片、品牌情绪片、Logo 落版、发布倒计时。
+- 内容：史诗、故事、历史、重大发布、游戏、纪念。
+
+## 技术路线
+Canvas / DOM 排版 + 画面内容（图形、粒子、3D，看主题）+ WebGL 后期（暗角、轻微光晕、轻微色差）+ `--grain 6–10`。画幅：在 16:9 画面里加 2.39:1 的黑边（上下各约 12%），黑边可以在关键时刻动画（打开 / 收紧）。
+
+## 材质与渲染
+- 色调：高光偏暖、阴影偏冷（橙青调色）或者单色调；对比度高，黑位压低。
+- 光：画面里的光有来源（窗、火、屏幕），可以有体积光（径向模糊的光束）。
+- 字卡：衬线大字，字距宽，居中或者偏左下（电影字幕位）；可以有极慢的放大（1.0 → 1.05，整个字卡持续时间）。
+- 镜头光晕最多一次，只在真的有强光源时。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 橙青：阴影 `#0E1A22` / 中间调 `#3A4A50` / 高光 `#F2C48D` / 字 `#F4EEE4`
+- 单色暖：`#0B0806` / `#5A4632` / `#E9D8BC`
+- 冷峻：`#05080C` / `#2B3A48` / `#C9D6E3` / 一点红 `#B3261E`
+- 推导：电影调色从主题来：橙青、单色暖、冷峻加一点红、黑白、褪色的柯达暖调都可以；字的颜色全片统一。橙青是最常见的那组。
+
+## 字体
+衬线或宽字距的展示体：Cormorant Garamond、Cinzel（谨慎）、Playfair Display、Bodoni Moda、Big Shoulders（工业感）；中文用思源宋体 Heavy、方正类可商用宋体。
+
+## 运动
+- 慢：字卡的淡入 0.6–1.2 秒（这里允许淡入，但要配合缓慢的放大和光的变化）；镜头推进持续整段。
+- 撞击：一次大的 `impact` 配合黑场切换或者字卡砸出，全片 2–3 次。
+- 节奏：静（长镜头）→ 加速（切点变密）→ 撞击 → 字卡 → 黑场。
+
+## 画面怎么活
+- 以静为主：长镜头的慢推本身就是运动。
+- 可以活的：光柱里的浮尘、雾的流动、片名上一道很慢的扫光、镜头光晕随推进缓慢变化。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 极慢的推进 | 庄重、期待 | 开场、字卡 |
+| 从黑暗中拉焦出来 | 揭示 | 主体登场 |
+| 快速剪辑蒙太奇 | 能量上升 | 预告高潮 |
+| 黑边收紧 / 打开 | 情绪转折 | 高潮、结尾 |
+
+## 声音调色板
+预告片声音：sub drone、低沉的 `boom`、braam（低音铜管感：多个低八度锯齿叠加 + 强滤波开合，可以用 `pad` 低音区 + `drive` 近似）、上升的 riser、撞击前的完全静音、钢琴单音（第 2 档 Salamander 采样效果最好）。
+
+律动与和声（举例，不止这些）：half-time 或无拍；小调、和声小调、三度关系的大三和弦（宏大揭示）、持续低音。曲线可以是吸气 → 爆发，也可以是累加（一路变厚直到片名出现）或抽空（全编制骤停，只剩一个钢琴音）。大空间（`S.space({ room: 0.9 })`），不侧链。
+
+## 原生手法
+- 黑场 → 一个声音 → 一行字：适合开场。
+- 撞击时黑边猛地收紧，画面切到下一镜：适合高潮。
+- 片名从光里显影：适合落版（经典）。
+- Saul Bass 式的平面图形切开画面，片名卡在图形之间：适合图形片头。
+
+## 变化空间
+- 结构：三幕字卡（过去 / 现在 / 未来）；一个问题贯穿全片，最后一行回答；倒计时到发布日期。
+- 开场：全黑中的一个声音；一束光扫过尘埃。
+- 结尾：片名定格，下面一行日期；黑场后一个尾音。
+
+## 坑
+- 每一屏都在「史诗」，就没有史诗：要有静的段落。
+- 颗粒太重、画面太暗，手机上什么都看不清：在手机尺寸抽帧图里检查。
+- 滥用镜头光晕和慢动作。

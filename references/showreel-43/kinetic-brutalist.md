@@ -1,1 +1,93 @@
-IyDnspfph47liqjmgIHmjpLniYjvvIhraW5ldGljLWJydXRhbGlzdO+8iQoKPiDlrZflsLHmmK/nlLvpnaLvvJrlt6jlrZflh7rooYDjgIHnoazliIfjgIHpq5jlr7nmr5TjgIHoioLlpY/ni6DvvIzlg4/kuIDlvKDkuI3mlq3ooqvmkpXmjonph43otLTnmoTmtbfmiqXjgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJpCbG9vbWJlcmcgQnVzaW5lc3N3ZWVrIOWwgemdouaXtuacn+eahOe8lui+keiuvuiuoeOAgeaWsOeyl+mHjuS4u+S5iee9kemhteOAgemfs+S5kOiKgua1t+aKpeeahOWkp+Wtl+aOkueJiOOAgVNhdWwgQmFzcyDkuYvlkI7nmoTlvLroioLlpY/niYflpLTjgILkuI3nhafmkKzlhbfkvZPlsIHpnaLlkozlrZfkvZPmlofku7bjgIIKCiMjIOacrOi0qCAvIOS4jeaYr+S7gOS5iAotIOacrOi0qO+8mioq5bC65a+45p6B56uvKirvvIjkuIDkuKror43ljaDmu6HnlJroh7PmuqLlh7rnlLvpnaLvvInjgIEqKuWIh+aNouaegeW/qyoq77yI5Y2K5ouN5LiA5o2i77yJ44CBKirlr7nmr5TmnoHpq5gqKu+8iOm7keeZveWKoOS4gOS4quWIuuecvOeahOiJsu+8ie+8m+eJiOW8j+aVheaEj+OAjOS4jeiIkuacjeOAje+8jOS9huavj+S4gOW4p+mDveaYr+iuvuiuoei/h+eahOOAggotIOS4jeaYr++8muadguS5seaXoOeroOeahOmaj+acuuaOkueJiO+8m+S5n+S4jeaYr+WIsOWkhOW8uei3s+eahOaooeadv+atjOivjeinhumikeOAggoKIyMg6L6o6K+G5L+h5Y+377ya5q+P5pSv54mH5a2Q5oyRIDLigJMzIOS4qgp8IOS/oeWPtyB8IOmVv+S7gOS5iOagtyB8IOmAguWQiOeahOS4u+mimCB8CnwtLS18LS0tfC0tLXwKfCDlh7rooYDlt6jlrZcgfCDkuIDkuKror43lpKfliLDooqvnlLvpnaLovrnnvJjoo4HmjokgfCDlj6Plj7fjgIHmgIHluqYgfAp8IOWPjeiJsuWPoOWKoCB8IOWtl+aJq+i/h+eahOWcsOaWueminOiJsuWPjei9rO+8iGRpZmZlcmVuY2XvvIkgfCDlr7nplJnjgIHliY3lkI7jgIHlj43lt64gfAp8IOaPj+i+ueWtl+WSjOWunuW/g+Wtl+S6pOabvyB8IOWQjOS4gOS4quivjeepuuW/g+OAgeWunuW/g+adpeWbnuaNoiB8IOiKguWlj+OAgemHjeWkjSB8Cnwg57KX57uT5p6E5p2h5ZKM57KX5qGGIHwg6buR5p2h44CB57KX5LiL5YiS57q/44CB57KX6L655qGG5YiH5YiG55S76Z2iIHwg57yW6L6R5oSf44CB5by66LCDIHwKfCDlrZfooqvliIflvIDplJnkvY0gfCDkuIDkuKror43ooqvliIfmiJDkuKTljYrvvIzplJnlvIDlho3lkIjkuIogfCDmiZPnoLTjgIHph43loZEgfAp8IOS4gOivjeS4gOWxj+eahOehrOWIhyB8IOWNiuaLjeaNouS4gOS4quivje+8jOayoeaciei/h+a4oSB8IOW/q+iKguWlj+WNoeeCuSB8Cnwg6YeN5aSN6ZO65ruhIHwg5ZCM5LiA5Liq6K+N5o6S5ruh5LiA5pW05bGPIHwg5rSX6ISR44CB5by66LCD44CB576k5L2TIHwKfCDmi4nkvLjlj5jlvaLnmoTlrZcgfCDlrZfooqvmqKrlkJHmi4nlrr3miJbljovmiJDkuIDmnaEgfCDlvKDlipvjgIHpgJ/luqYgfAp8IOWOn+Wni+e9kemhteWFg+e0oCB8IOezu+e7n+Wtl+S9k+OAgemTvuaOpeiTneOAgeWFieagh+OAgeacquWKoOagt+W8j+eahOaMiemSriB8IOS6kuiBlOe9keOAgeW8gOWPkeiAheOAgeWPjeiuvuiuoSB8Cnwg6K2m56S65p2h57q55ZKM5bCB5p2hIHwg6buE6buR5pac57q544CB5bCB566x6IO25bim5qiq6L+H55S76Z2iIHwg6K2m5ZGK44CB5pa95bel44CB56aB5q2iIHwKCuinhOWIme+8mgotIOavj+aUr+aMkSAy4oCTMyDkuKrvvIzoh7PlsJHkuIDkuKrkuI3lnKjkuIvpnaLjgIzmnIDkv5fnmoTniYjmnKzjgI3ph4zjgIIKLSDkv6Hlj7fku47kuLvpopjph4zpgInvvIzkuI3mjInpobrluo/lhajkuIrjgIIKCiMjIOi/meS4qumjjuagvOacgOS/l+eahOeJiOacrAotIOeUu+mdou+8mum7keW6leeZveWtl+aIluiNp+WFiem7hO+8jEFudG9uIC8gQmViYXMg5YWo5aSn5YaZ77yM5q+P5ouN5LiA5Liq6K+N77yM5q+P5Liq6YeN5ouN5Y+N6Imy6Zeq5LiA5LiL77yM57uT5bC+5LiA5Liq5beo5aSn55qE5Y+l5Y+344CCCi0g5aOw6Z+z77ya5q+P5Liq6K+N6JC95Zyw5LiA6K6wIGhpdO+8jHRyYXAg5rua5aWP55qEIGhpLWhhdOOAggotIGJyaWVmIOeahCBzdHlsZSDkuIDmoI/lhpnmmI7ov5nmlK/niYflrZDnv7vmjonkuoblk6rlh6DmnaHvvIzmiJbogIXkuLrku4DkuYjliLvmhI/kv53nlZnvvIjmr5TlpoLnlKjmiLfopoHnmoTlsLHmmK/nu4/lhbjniYjvvInjgILkv53nlZnml7bvvIzmiorlipvmsJToirHlnKjmnoTlm77jgIHplZzlpLTjgIHoioLlpY/miJbkuIDkuKrmhI/lpJbnmoTorrDlv4bngrnkuIrjgIIKCiMjIOmAgumFjQotIOeUqOmAlO+8mumHkeWPpeWNoeeCueOAgeS9nOWTgembhuOAgeWuo+S8oOeJh+eahOW8gOWcuuWSjOmrmOa9ruOAgea0u+WKqOmihOWRiuOAggotIOWGheWuue+8muaAgeW6pumynOaYjuOAgemcgOimgeiDvemHj+eahOS4u+mimO+8m+mfs+S5kOOAgea9rua1geOAgeWPo+WPt+OAgeWPjeW3ruOAggoKIyMg5oqA5pyv6Lev57q/CkNhbnZhcyAyRO+8iGBmaWxsVGV4dGAgKyDlj5jmjaIgKyDlkIjmiJDmqKHlvI/vvInmiJYgRE9N44CC5Yqo5L2c5b+r77yM5bu66K6uIDYwZnBz77yb56Gs5YiH5pys6Lqr5LiN6ZyA6KaB6L+Q5Yqo5qih57OK77yM5b+r6YCf5ruR56e755SoIGAtLXN1YmZyYW1lcyAyYOOAggoKIyMg5p2Q6LSo5LiO5riy5p+TCi0g5a2X5Y6L5Yiw55S76Z2i6L6557yY5Lul5aSW77yI5Ye66KGA77yJ77yM6KGM6Led5Y6L5YiwIDAuOOKAkzAuOe+8jOWtl+WPr+S7peiiq+iJsuWdl+WIh+aOieS4gOWNiuOAggotIOeUqCBgZ2xvYmFsQ29tcG9zaXRlT3BlcmF0aW9uID0gJ2RpZmZlcmVuY2UnYCDlgZrlj43oibLlj6DliqDvvJrlrZfmiavov4fnmoTlnLDmlrnpopzoibLlj43ovazjgIIKLSDnspfpu5HmnaHjgIHnspfovrnmoYbjgIHnspfkuIvliJLnur/ov5nnsbvjgIznu5PmnoTmgKfjgI3lhYPntKDlj6/ku6XmnInvvIzkvYbkuI3liqDoo4XppbDmgKfpmLTlvbHjgIIKLSDlgbblsJTnlKjmj4/ovrnlrZfvvIjnqbrlv4PvvInlkozlrp7lv4PlrZfkuqTmm7/jgIIKCiMjIOmFjeiJsgrkuIvpnaLnmoToibLlgLzmmK/npLrkvovvvIznnIvmgJ3ot6/vvIzkuI3opoHljp/moLfnhafmioTjgIIKLSDnmb0gYCNGRkZGRkZgIC8g6buRIGAjMDAwMDAwYCAvIOiNp+WFiem7hCBgI0U4RkYwMGAKLSDpu5EgYCMwQTBBMEFgIC8g55m9IGAjRjRGNEY0YCAvIOitpuekuue6oiBgI0ZGMkExRmAKLSDnsokgYCNGRjRGRDhgIOW6lSAvIOm7keWtlyAvIOeZveWtl++8iOWPquWcqCBkcm9wIOaXtuWPjei/h+adpe+8iQotIOinhOWIme+8muavj+S4gOWxj+acgOWkmuS4pOenjeminOiJsu+8m+WPjeiJsuWPr+S7peW9k+S9nOiKguaLje+8jOavj+S4qumHjeaLjee/u+S4gOasoeOAggotIOaOqOWvvO+8mum7keeZveS5i+WkluacgOWkmuS4gOS4quWIuuecvOeahOminOiJsu+8jOS7juS4u+mimOadpe+8iOWTgeeJjOiJsuiDveWIuuecvOWwseeUqOWTgeeJjOiJsu+8ie+8m+iNp+WFiem7hOaYr+acgOW4uOingeeahOOAguS5n+WPr+S7peaVtOeJh+WPqueUqOS4pOenjemdnum7keeZveeahOminOiJsuOAggoKIyMg5a2X5L2TCi0g6LaF57KX5oiW6LaF56qE55qE5bGV56S65a2X5L2T77yaQW50b27jgIFBcmNoaXZvIEJsYWNr44CBQmViYXMgTmV1ZeOAgUJpZyBTaG91bGRlcnMgRGlzcGxheeOAgVVuYm91bmRlZO+8iE9GTO+8ieOAguS4reaWh+eUqOaAnea6kOm7keS9kyBIZWF2eSDmiJbnq5nphbfpq5jnq6/pu5HjgIIKLSDlhajlpKflhpnvvIzlrZfot53lj6/ku6XmlLbntKfliLAg4oiSNCXvvJvkuIDkuKror43kuIDlsY/vvIzmiJbogIXkuIDkuKror43pk7rmu6HmlbTlsY/jgIIKCiMjIOi/kOWKqAotIOiKguWlj+mpseWKqO+8muivjeWcqOaLjeeCueS4iuehrOWIh+WHuueOsO+8jOacgOWkmuS4gOS4qiAy4oCTNCDluKfnmoTpooTlpIfvvIjmr5TlpoLku44gMTEwJSDnvKnliLAgMTAwJe+8ieOAggotIOWkp+S9jeenu+eUqCBgd2hpcGAg57yT5Yqo77yMM+KAkzYg5bin5a6M5oiQ77yb5YGc5L2P5pe25Y+v5Lul5YqgIDHigJMyIOW4p+eahOmch+Wxj+OAggotIOWBtuWwlOeUqOS4gOasoeaFouWKqOS9nOaIlumdmeatou+8jOW9ouaIkOWPjeW3ru+8jOiuqeS4i+S4gOasoeWGsuWHu+abtOeLoOOAggoKIyMg55S76Z2i5oCO5LmI5rS7Ci0g6K+N6JC95a6a5ZCO5LiN55WZ56m677ya5Y+v5Y+Y5a2X5L2T55qE5a2X6YeN5oiW5a2X5a696Lip5YWr5YiG6Z+z56ym5b6u5oqW77yb6IOM5pmv6Imy5Z2X5oyJ5ouN6L2u5o2i77yb5o+P6L655a2X6IOM5ZCO55qE5a6e5b+D5a2X6ZSZ5byA5LiA5Lik5bin5YaN5a+56b2Q44CCCi0g5Yi75oSP55qE5YGc5L2P5piv5Y+N5beu5omL5q615pe277yM5bCx55yf55qE5YGc5L2P77yM5YaZ6L+bIGBIT0xEU2DvvIzkuI3opoHlho3liqDlsI/liqjkvZzjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDmgKXmjqjov5vkuIDkuKrlrZfmr40gfCDlhrLlh7vjgIHov5vlhaUgfCDmrrXokL3liIfmjaLjgIFkcm9wIHwKfCDnlKnplZzliLDkuIvkuIDkuKror40gfCDpgJ/luqYgfCDov57nu63lj6Plj7cgfAp8IDkwwrAgLyAxODDCsCDnoazovawgfCDnv7vovazop4LngrkgfCDlj43lt67jgIHlj43pl64gfAp8IOWbuuWumiArIOWPjeiJsumXqiB8IOaVsuaJkyB8IOmHjeaLjeOAgeW8uuiwgyB8CgojIyDlo7Dpn7PosIPoibLmnb8K6YeN6byT57uE77yIa2lja+OAgWNsYXDjgIFzbmFyZSDnmoQgZHJpdmUg5Yqg5aSn77yJ44CB55+t5L+D55qEIGdsaXRjaOOAgWhpdO+8jOavj+S4quivjeiQveWcsOS4gOS4i+OAgkJQTSAxMjDigJMxNTDjgILnlKjmiLfnu5nkuobmm7LlrZDlsLHkuKXmoLzljaHngrnjgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8mmJyZWFrYmVhdOOAgWhhbGYtdGltZeOAgXRyYXAg5rua5aWP77yM5Lmf5Y+v5LulIDcvOCDnmoTkuI3nqLPvvJtQaHJ5Z2lhbuOAgemfs+ewh++8jOaIluWPquacieaguemfsyArIOS6lOW6pu+8m+S5n+WPr+S7peeUqOaKveepuuWItumAoOWPjeW3ru+8iOa7oeWxj+i9sOeCuOWQjuWPquWJqeS4gOS4quivjeOAgeS4gOS4quWjsOmfs++8ieOAgum8kyBidXMg5Y+v5LulIGBjcnVzaDogMTBgIOW5tuWKoOWkpyBgZHJpdmVg44CCCgojIyDljp/nlJ/miYvms5UKLSDkuIDkuKror43mlL7lpKfliLDlh7rnlLvvvIzlroPnmoTnrJTnlLvlhoXpg6jlsLHmmK/kuIvkuIDkuKror43vvJrpgILlkIjlj6Plj7fov57lj5HjgIIKLSDlj43oibLmk6bpmaTvvJrpgILlkIjjgIzlr7kgLyDplJnjgI3jgIzkuYvliY0gLyDkuYvlkI7jgI3jgIIKLSDlrZfooqvliIfmiJDkuKTljYrjgIHplJnkvY3jgIHlho3lkIjkuIrvvJrpgILlkIjjgIzmiZPnoLTjgI3jgIzph43loZHjgI3nsbvkuLvpopjjgIIKCiMjIOWPmOWMluepuumXtAotIOe7k+aehO+8muS4gOWPpeivneaLhuaIkCAxNiDkuKrljYrmi43vvJvkuIDnu4Tlj43kuYnor43lr7nmkp7vvJvlkIzkuIDkuKror43mjaIgOCDnp43mjpLms5XjgIIKLSDlvIDlnLrvvJrpu5HlsY/kuIrnrKzkuIDkuKrlrZfnoLjkuIvmnaXvvJvkuIDkuKrlrZfmr43mlL7lpKfliLDmu6HlsY/lkI7miY3pnLLlh7rmlbTkuKror43jgIIKLSDnu5PlsL7vvJrmnIDlkI7kuIDkuKror43lgZzkvY8gMiDnp5LvvIzlkajlm7Tlhajpg6jmuIXnqbrvvJvnlLvpnaLooqvkuIDkuKrlt6jlpKfnmoTlj6Xlj7fnm5bkvY/jgIIKCiMjIOWdkQotIOWtl+WIh+W+l+WkquW/q++8jOivu+S4jeWujO+8muiKguWlj+W/q+imgemdoOWHj+WwkeWtl+aVsO+8jOavj+S4quivjeiHs+WwkeWBnCAwLjTigJMwLjUg56eS77yM5YWz6ZSu5Y+l6KaB5YGc5Yiw6K+75b6X5a6M44CCCi0g5q+P5LiA5bGP6YO95LiA5qC354ug77yM5bCx5rKh5pyJ54ug5LqG77ya5LiA5a6a6KaB5pyJ5oWi5LiL5p2l55qE5Zyw5pa544CCCi0g5Lit5paH5a2X5L2T5rKh5YGa5a2Q6ZuG77yM5riy5p+T5pe25Ye6546w5pa55Z2X44CCCg==
+# 粗野动态排版（kinetic-brutalist）
+
+> 字就是画面：巨字出血、硬切、高对比、节奏狠，像一张不断被撕掉重贴的海报。
+> 参照（只学语法）：Bloomberg Businessweek 封面时期的编辑设计、新粗野主义网页、音乐节海报的大字排版、Saul Bass 之后的强节奏片头。不照搬具体封面和字体文件。
+
+## 本质 / 不是什么
+- 本质：**尺寸极端**（一个词占满甚至溢出画面）、**切换极快**（半拍一换）、**对比极高**（黑白加一个刺眼的色）；版式故意「不舒服」，但每一帧都是设计过的。
+- 不是：杂乱无章的随机排版；也不是到处弹跳的模板歌词视频。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 出血巨字 | 一个词大到被画面边缘裁掉 | 口号、态度 |
+| 反色叠加 | 字扫过的地方颜色反转（difference） | 对错、前后、反差 |
+| 描边字和实心字交替 | 同一个词空心、实心来回换 | 节奏、重复 |
+| 粗结构条和粗框 | 黑条、粗下划线、粗边框切分画面 | 编辑感、强调 |
+| 字被切开错位 | 一个词被切成两半，错开再合上 | 打破、重塑 |
+| 一词一屏的硬切 | 半拍换一个词，没有过渡 | 快节奏卡点 |
+| 重复铺满 | 同一个词排满一整屏 | 洗脑、强调、群体 |
+| 拉伸变形的字 | 字被横向拉宽或压成一条 | 张力、速度 |
+| 原始网页元素 | 系统字体、链接蓝、光标、未加样式的按钮 | 互联网、开发者、反设计 |
+| 警示条纹和封条 | 黄黑斜纹、封箱胶带横过画面 | 警告、施工、禁止 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+
+## 这个风格最俗的版本
+- 画面：黑底白字或荧光黄，Anton / Bebas 全大写，每拍一个词，每个重拍反色闪一下，结尾一个巨大的句号。
+- 声音：每个词落地一记 hit，trap 滚奏的 hi-hat。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：金句卡点、作品集、宣传片的开场和高潮、活动预告。
+- 内容：态度鲜明、需要能量的主题；音乐、潮流、口号、反差。
+
+## 技术路线
+Canvas 2D（`fillText` + 变换 + 合成模式）或 DOM。动作快，建议 60fps；硬切本身不需要运动模糊，快速滑移用 `--subframes 2`。
+
+## 材质与渲染
+- 字压到画面边缘以外（出血），行距压到 0.8–0.9，字可以被色块切掉一半。
+- 用 `globalCompositeOperation = 'difference'` 做反色叠加：字扫过的地方颜色反转。
+- 粗黑条、粗边框、粗下划线这类「结构性」元素可以有，但不加装饰性阴影。
+- 偶尔用描边字（空心）和实心字交替。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 白 `#FFFFFF` / 黑 `#000000` / 荧光黄 `#E8FF00`
+- 黑 `#0A0A0A` / 白 `#F4F4F4` / 警示红 `#FF2A1F`
+- 粉 `#FF4FD8` 底 / 黑字 / 白字（只在 drop 时反过来）
+- 规则：每一屏最多两种颜色；反色可以当作节拍，每个重拍翻一次。
+- 推导：黑白之外最多一个刺眼的颜色，从主题来（品牌色能刺眼就用品牌色）；荧光黄是最常见的。也可以整片只用两种非黑白的颜色。
+
+## 字体
+- 超粗或超窄的展示字体：Anton、Archivo Black、Bebas Neue、Big Shoulders Display、Unbounded（OFL）。中文用思源黑体 Heavy 或站酷高端黑。
+- 全大写，字距可以收紧到 −4%；一个词一屏，或者一个词铺满整屏。
+
+## 运动
+- 节奏驱动：词在拍点上硬切出现，最多一个 2–4 帧的预备（比如从 110% 缩到 100%）。
+- 大位移用 `whip` 缓动，3–6 帧完成；停住时可以加 1–2 帧的震屏。
+- 偶尔用一次慢动作或静止，形成反差，让下一次冲击更狠。
+
+## 画面怎么活
+- 词落定后不留空：可变字体的字重或字宽踩八分音符微抖；背景色块按拍轮换；描边字背后的实心字错开一两帧再对齐。
+- 刻意的停住是反差手段时，就真的停住，写进 `HOLDS`，不要再加小动作。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 急推进一个字母 | 冲击、进入 | 段落切换、drop |
+| 甩镜到下一个词 | 速度 | 连续口号 |
+| 90° / 180° 硬转 | 翻转观点 | 反差、反问 |
+| 固定 + 反色闪 | 敲打 | 重拍、强调 |
+
+## 声音调色板
+重鼓组（kick、clap、snare 的 drive 加大）、短促的 glitch、hit，每个词落地一下。BPM 120–150。用户给了曲子就严格卡点。
+
+律动与和声（举例，不止这些）：breakbeat、half-time、trap 滚奏，也可以 7/8 的不稳；Phrygian、音簇，或只有根音 + 五度；也可以用抽空制造反差（满屏轰炸后只剩一个词、一个声音）。鼓 bus 可以 `crush: 10` 并加大 `drive`。
+
+## 原生手法
+- 一个词放大到出画，它的笔画内部就是下一个词：适合口号连发。
+- 反色擦除：适合「对 / 错」「之前 / 之后」。
+- 字被切成两半、错位、再合上：适合「打破」「重塑」类主题。
+
+## 变化空间
+- 结构：一句话拆成 16 个半拍；一组反义词对撞；同一个词换 8 种排法。
+- 开场：黑屏上第一个字砸下来；一个字母放大到满屏后才露出整个词。
+- 结尾：最后一个词停住 2 秒，周围全部清空；画面被一个巨大的句号盖住。
+
+## 坑
+- 字切得太快，读不完：节奏快要靠减少字数，每个词至少停 0.4–0.5 秒，关键句要停到读得完。
+- 每一屏都一样狠，就没有狠了：一定要有慢下来的地方。
+- 中文字体没做子集，渲染时出现方块。

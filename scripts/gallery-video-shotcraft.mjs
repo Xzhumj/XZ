@@ -1,1 +1,57 @@
-aW1wb3J0IGZzIGZyb20gIm5vZGU6ZnMiOwppbXBvcnQgaHR0cCBmcm9tICJub2RlOmh0dHAiOwppbXBvcnQgcGF0aCBmcm9tICJub2RlOnBhdGgiOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAibm9kZTp1cmwiOwoKY29uc3Qgcm9vdCA9IHBhdGgucmVzb2x2ZSgKICBwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKSwKICAiLi4iLAogICJhc3NldHMiLAogICJ2ZW5kb3IiLAogICJ2aWRlby1zaG90Y3JhZnQiLAogICJnYWxsZXJ5IiwKKTsKY29uc3QgcG9ydCA9IE51bWJlci5wYXJzZUludChwcm9jZXNzLmVudi5QT1JUIHx8ICI0MTczIiwgMTApOwpjb25zdCBtaW1lVHlwZXMgPSB7CiAgIi5jc3MiOiAidGV4dC9jc3M7IGNoYXJzZXQ9dXRmLTgiLAogICIuaHRtbCI6ICJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiLAogICIuaWNvIjogImltYWdlL3gtaWNvbiIsCiAgIi5qcGciOiAiaW1hZ2UvanBlZyIsCiAgIi5qcGVnIjogImltYWdlL2pwZWciLAogICIuanMiOiAidGV4dC9qYXZhc2NyaXB0OyBjaGFyc2V0PXV0Zi04IiwKICAiLmpzb24iOiAiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD11dGYtOCIsCiAgIi5tanMiOiAidGV4dC9qYXZhc2NyaXB0OyBjaGFyc2V0PXV0Zi04IiwKICAiLm1wNCI6ICJ2aWRlby9tcDQiLAogICIucG5nIjogImltYWdlL3BuZyIsCiAgIi5zdmciOiAiaW1hZ2Uvc3ZnK3htbCIsCiAgIi53ZWJwIjogImltYWdlL3dlYnAiLAp9OwoKY29uc3Qgc2VydmVyID0gaHR0cC5jcmVhdGVTZXJ2ZXIoKHJlcXVlc3QsIHJlc3BvbnNlKSA9PiB7CiAgdHJ5IHsKICAgIGNvbnN0IHJlcXVlc3RVcmwgPSBuZXcgVVJMKHJlcXVlc3QudXJsIHx8ICIvIiwgImh0dHA6Ly8xMjcuMC4wLjEiKTsKICAgIGNvbnN0IHBhdGhuYW1lID0gZGVjb2RlVVJJQ29tcG9uZW50KHJlcXVlc3RVcmwucGF0aG5hbWUpOwogICAgY29uc3QgY2FuZGlkYXRlID0gcGF0aC5yZXNvbHZlKHJvb3QsIGAuJHtwYXRobmFtZX1gKTsKICAgIGlmIChjYW5kaWRhdGUgIT09IHJvb3QgJiYgIWNhbmRpZGF0ZS5zdGFydHNXaXRoKGAke3Jvb3R9JHtwYXRoLnNlcH1gKSkgewogICAgICByZXNwb25zZS53cml0ZUhlYWQoNDAzKS5lbmQoIkZvcmJpZGRlbiIpOwogICAgICByZXR1cm47CiAgICB9CiAgICBjb25zdCBmaWxlUGF0aCA9IGZzLnN0YXRTeW5jKGNhbmRpZGF0ZSkuaXNEaXJlY3RvcnkoKQogICAgICA/IHBhdGguam9pbihjYW5kaWRhdGUsICJpbmRleC5odG1sIikKICAgICAgOiBjYW5kaWRhdGU7CiAgICBjb25zdCBib2R5ID0gZnMucmVhZEZpbGVTeW5jKGZpbGVQYXRoKTsKICAgIHJlc3BvbnNlLndyaXRlSGVhZCgyMDAsIHsKICAgICAgIkNvbnRlbnQtVHlwZSI6CiAgICAgICAgbWltZVR5cGVzW3BhdGguZXh0bmFtZShmaWxlUGF0aCkudG9Mb3dlckNhc2UoKV0gfHwKICAgICAgICAiYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtIiwKICAgICAgIkNhY2hlLUNvbnRyb2wiOiAibm8tY2FjaGUiLAogICAgfSk7CiAgICByZXNwb25zZS5lbmQoYm9keSk7CiAgfSBjYXRjaCB7CiAgICByZXNwb25zZS53cml0ZUhlYWQoNDA0KS5lbmQoIk5vdCBmb3VuZCIpOwogIH0KfSk7CgpzZXJ2ZXIubGlzdGVuKHBvcnQsICIxMjcuMC4wLjEiLCAoKSA9PiB7CiAgY29uc29sZS5sb2coYFZJREVPLVNIT1RDUkFGVCBnYWxsZXJ5OiBodHRwOi8vMTI3LjAuMC4xOiR7cG9ydH0vbGlicmFyeS5odG1sYCk7Cn0pOwo=
+import fs from "node:fs";
+import http from "node:http";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const root = path.resolve(
+  path.dirname(fileURLToPath(import.meta.url)),
+  "..",
+  "assets",
+  "vendor",
+  "video-shotcraft",
+  "gallery",
+);
+const port = Number.parseInt(process.env.PORT || "4173", 10);
+const mimeTypes = {
+  ".css": "text/css; charset=utf-8",
+  ".html": "text/html; charset=utf-8",
+  ".ico": "image/x-icon",
+  ".jpg": "image/jpeg",
+  ".jpeg": "image/jpeg",
+  ".js": "text/javascript; charset=utf-8",
+  ".json": "application/json; charset=utf-8",
+  ".mjs": "text/javascript; charset=utf-8",
+  ".mp4": "video/mp4",
+  ".png": "image/png",
+  ".svg": "image/svg+xml",
+  ".webp": "image/webp",
+};
+
+const server = http.createServer((request, response) => {
+  try {
+    const requestUrl = new URL(request.url || "/", "http://127.0.0.1");
+    const pathname = decodeURIComponent(requestUrl.pathname);
+    const candidate = path.resolve(root, `.${pathname}`);
+    if (candidate !== root && !candidate.startsWith(`${root}${path.sep}`)) {
+      response.writeHead(403).end("Forbidden");
+      return;
+    }
+    const filePath = fs.statSync(candidate).isDirectory()
+      ? path.join(candidate, "index.html")
+      : candidate;
+    const body = fs.readFileSync(filePath);
+    response.writeHead(200, {
+      "Content-Type":
+        mimeTypes[path.extname(filePath).toLowerCase()] ||
+        "application/octet-stream",
+      "Cache-Control": "no-cache",
+    });
+    response.end(body);
+  } catch {
+    response.writeHead(404).end("Not found");
+  }
+});
+
+server.listen(port, "127.0.0.1", () => {
+  console.log(`VIDEO-SHOTCRAFT gallery: http://127.0.0.1:${port}/library.html`);
+});

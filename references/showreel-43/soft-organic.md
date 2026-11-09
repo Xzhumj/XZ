@@ -1,1 +1,103 @@
-IyDmn5TlhYnmnInmnLrvvIhzb2Z0LW9yZ2FuaWPvvIkKCj4g5rip5pqW55qE6aKX57KS5riQ5Y+Y44CB5oWi5oWi5Y+Y5b2i55qE5pyJ5py65b2i54q244CB5LyY6ZuF55qE6KGs57q/5pac5L2T77ya55S76Z2i5YOP5riF5pmo55qE5YWJ77yM5a6J6Z2Z44CB5Lqy5a+G44CB6K6p5Lq65pS+5p2+44CCCj4g5Y+C54Wn77yI5Y+q5a2m6K+t5rOV77yJ77ya55Sf5rS75pa55byP5ZKM5YGl5bq35ZOB54mM55qE5Yqo5oCB6K+G5Yir44CB6aKX57KS5riQ5Y+Y5rW35oql44CB5pyJ5py65b2i5oCB55qE5b2T5Luj5bmz6Z2i6K6+6K6h44CB5Lq65paH5Li75LmJ55qE57yW6L6R5o6S54mI44CC5LiN54Wn5pCs5YW35L2T5ZOB54mM44CCCgojIyDmnKzotKggLyDkuI3mmK/ku4DkuYgKLSDmnKzotKjvvJoqKua4qeW6puWSjOWRvOWQuOaEnyoq44CC6aKc6Imy5YOP5YWJ5LiA5qC35p+U5ZKM5Zyw6L+H5rih77yM5b2i54q25YOP55Sf54mp5LiA5qC357yT5oWi5Y+Y5b2i77yM5o6S54mI5pyJ5Lq65paH5rCU5oGv77yb6L+Q5Yqo5oWi44CB6L2v44CB5rKh5pyJ5qOx6KeS77yM5pW05L2T6IqC5aWP5YOP5ZG85ZC444CCCi0g5LiN5piv77yaQUkg6buY6K6k55qE57Sr57KJ5riQ5Y+Y77yI5rKh5pyJ6aKX57KS44CB5rKh5pyJ5YWJ5rqQ44CB6aWx5ZKM5bqm5aSq6auY44CB5Yiw5aSE5Y+R5YWJ77yJ77yb5Lmf5LiN5pivIGBsaXF1aWQtc2hhZGVyYCDnmoTmtrLmgIHph5HlsZ7lkozono3nkIPvvIjpgqPmmK/lvLrlj43lhYnjgIHlvLrnu5PmnoTnmoTvvInjgIIKCiMjIOi+qOivhuS/oeWPt++8muavj+aUr+eJh+WtkOaMkSAy4oCTMyDkuKoKfCDkv6Hlj7cgfCDplb/ku4DkuYjmoLcgfCDpgILlkIjnmoTkuLvpopggfAp8LS0tfC0tLXwtLS18Cnwg6aKX57KS5riQ5Y+YIHwg5Lik5LiJ5Liq6aKc6Imy5p+U5ZKM6L+H5rih77yM6KGo6Z2i5pyJ5piO5pi+55qE57uG6aKX57KSIHwg6IOM5pmv44CB5oOF57uqIHwKfCDmnInmnLrlvaLnirYgfCDlnIbmtqbkuI3op4TliJnnmoTlm6LlnZfvvIznvJPmhaLlj5jlvaIgfCDnlJ/lkb3jgIHmiJDplb8gfAp8IOihrOe6v+aWnOS9kyB8IOS8mOmbheeahOihrOe6v+aWnOS9k+Wkp+agh+mimCB8IOWTgeeJjOOAgeWuo+iogCB8Cnwg5byl5pWj5YWJ5paRIHwg55S76Z2i5LiA6KeS5LiA5Zui5p+U5ZKM55qE5YWJ77yM57yT5oWi56e75YqoIHwg5riF5pmo44CB5biM5pybIHwKfCDnurjlvKDkuI7luIPmlpkgfCDlvq7lvq7nmoTnurjnurnjgIHkuprpurvmiJbmo4nluIPnmoTnurnnkIYgfCDmiYvlt6XjgIHoh6rnhLYgfAp8IOakjeeJqeWJquW9sSB8IOWPtuWtkOOAgeiKseaeneeahOaflOWSjOWJquW9seaIluaKleW9sSB8IOiHqueEtuOAgeWBpeW6tyB8Cnwg57uG57q/5o+S55S7IHwg5p6B57uG55qE5Y2V57q/5Yu+5YuS55qE5Lq654mp5oiW54mp5Lu2IHwg5Lq65paH44CB55Sf5rS7IHwKfCDlnIbop5LljaHniYcgfCDmn5TlkozmipXlvbHnmoTlnIbop5LljaHniYfmib/ovb3kv6Hmga8gfCDkuqflk4HjgIHlip/og70gfAp8IOWkp+eVmeeZvSB8IOS4gOWxj+WPquacieS4gOWPpeivneWSjOS4gOS4quW9oueKtiB8IOWFi+WItuOAgemrmOe6pyB8Cnwg5ZG85ZC455qE5ZyGIHwg5LiA5Liq5ZyG57yT5oWi5Zyw5pS+5aSn57yp5bCPIHwg5Yal5oOz44CB5LiT5rOoIHwKfCDmmajmmI/oibLmuKkgfCDpopzoibLpmo/ml7bpl7Tku47lhrfliLDmmpbmiJbku47mmpbliLDlhrcgfCDkuIDlpKnjgIHlj5jljJYgfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggotIOmil+eykuaYr+i/meenjemjjuagvOmYsuatoua7keWQkSBBSSDmuJDlj5jnmoTlhbPplK7vvJrmuJDlj5jkuIDlrpropoHluKbpopfnspLvvIhgLS1ncmFpbmDvvInvvIzlhYnopoHmnInmlrnlkJHlkozmnaXmupDjgIIKCiMjIOi/meS4qumjjuagvOacgOS/l+eahOeJiOacrAotIOeUu+mdou+8mueyieapmee0q+eahOWkp+a4kOWPmOiDjOaZr+OAgeWHoOS4quaooeeziueahOW9qeiJsuWFieeQg+aFouaFoumjmOOAgeato+S4reS4gOWPpeeZveiJsue7huS9k+Wtl+OAgee7k+WwviBsb2dvIOa3oeWFpeOAggotIOWjsOmfs++8mumSoueQtOWNlemfs+WKoOWkp+a3t+WTjeeahOeOr+Wig+mTuuW6leOAggotIGJyaWVmIOeahCBzdHlsZSDkuIDmoI/lhpnmmI7ov5nmlK/niYflrZDnv7vmjonkuoblk6rlh6DmnaHvvIzmiJbogIXkuLrku4DkuYjliLvmhI/kv53nlZnvvIjmr5TlpoLnlKjmiLfopoHnmoTlsLHmmK/nu4/lhbjniYjvvInjgILkv53nlZnml7bvvIzmiorlipvmsJToirHlnKjmnoTlm77jgIHplZzlpLTjgIHoioLlpY/miJbkuIDkuKrmhI/lpJbnmoTorrDlv4bngrnkuIrjgIIKCiMjIOmAgumFjQotIOeUqOmAlO+8muWTgeeJjOaDhee7queJh+OAgeeUn+a0u+aWueW8j+WSjOWBpeW6t+exu+S6p+WTgeeahOWuo+S8oOOAgUFwcCDnmoTlip/og73ku4vnu43jgIHoioLml6Xpl67lgJnjgIFMb2dvIOa8lOe7juOAggotIOWGheWuue+8muWBpeW6t+OAgeWGpeaDs+OAgeaKpOiCpOOAgeedoeecoOOAgeW/g+eQhuOAgemHkeiejeenkeaKgOeahOOAjOWuieW/g+aEn+OAjeOAgeWls+aAp+WQkeWTgeeJjOOAgeS6uuaWh+S4u+mimOOAggotIOS4jemAguWQiO+8mumcgOimgeiDvemHj+WSjOWGsuWHu+eahOS4u+mimO+8m+ehrOaguOenkeaKgOOAgea4uOaIj+OAggoKIyMg5oqA5pyv6Lev57q/CldlYkdMIOeJh+WFg+edgOiJsuWZqOWBmua4kOWPmOWSjOacieacuuW9oueKtu+8mua4kOWPmOeUqOWHoOS4quenu+WKqOeahOmrmOaWr+WFiea6kOWPoOWKoO+8iOS4jeaYr+e6v+aAp+a4kOWPmO+8ie+8jOacieacuuW9oueKtueUqCBTREYg5Yqg5L2O6aKR5Zmq5aOw5omw5Yqo6L6555WM77yb5oiW6ICFIENhbnZhcyAyRCDnlKjlpKfljYrlvoTnmoTlvoTlkJHmuJDlj5jlj6DliqDjgIFgZmlsdGVyOiBibHVyKClgIOWBmuaflOWMlu+8iOWFiOa1i+mAn+W6pu+8ieOAguaWh+Wtl+WSjOWNoeeJh+eUqCBET00g5oiWIENhbnZhcyDlj6DlnKjkuIrpnaLjgILpopfnspLkuIDlrprliqDvvJpgLS1ncmFpbiA04oCTOGDjgIIKCiMjIOadkOi0qOS4jua4suafkwotIOa4kOWPmO+8mjLigJM0IOS4quminOiJsu+8jOeUqCBPS0xhYiDmj5LlgLzvvIjkuI3kvJrlnKjkuK3pl7Tlj5jngbDmiJblj5johI/vvInvvJvpopzoibLkuYvpl7TnmoTov4fmuKHlrr3ogIzova/jgIIKLSDlhYnvvJrkuIDkuKrkuLvlhYnmupDmlrnlkJHvvIzlhYnmlpHlnKjkuIDop5LvvIzlj6bkuIDop5LnqI3mmpfvvIzlg4/nqpfovrnnmoToh6rnhLblhYnjgIIKLSDmnInmnLrlvaLnirbvvJrovrnnlYznlKjkvY7popHlmarlo7DvvIjpopHnjofkvY7jgIHluYXluqblsI/vvInnvJPmhaLmibDliqjvvJvkuI3lkIzlvaLnirbnmoTlj5jlvaLlkajmnJ/plJnlvIDjgIIKLSDpopfnspLvvJrnu4bjgIHlnYfljIDjgIHljZXoibLvvIjkuI3opoHlvanoibLlmarngrnvvInvvIzlnKjmmpfpg6jnqI3mmI7mmL7jgIIKLSDljaHniYfvvJrlpKflnIbop5LjgIHlvojmtYXnmoTmipXlvbHvvIzog4zmma/oibLmr5TnlLvpnaLnlaXkuq7jgIIKCiMjIOmFjeiJsgrkuIvpnaLnmoToibLlgLzmmK/npLrkvovvvIznnIvmgJ3ot6/vvIzkuI3opoHljp/moLfnhafmioTjgIIKLSDmmajlhYnvvJrlpbbmsrkgYCNGRkY0RTZgIC8g5p2PIGAjRjdDNTlGYCAvIOeOq+eRsOeBsCBgI0Q4QTdCMWAgLyDloqggYCMzQTJFMkFgCi0g6byg5bC+6I2J77ya57Gz55m9IGAjRjRGMUVBYCAvIOm8oOWwvuiNiee7vyBgI0EzQjE4QWAgLyDpmbblnJ8gYCNDOTdDNURgIC8g5rex57u/IGAjMzQ0RTQxYAotIOaaruiJsu+8mumbvuiTnSBgI0M5RDZERmAgLyDolrDooaPojYnngbAgYCNCOEE5QzlgIC8g5pqW5qmZIGAjRThBODdDYCAvIOa3seiTnSBgIzIyMzAzQ2AKLSDmjqjlr7zvvJrku47lk4HniYzoibLlh7rlj5HvvIzpmY3kvY7ppbHlkozluqbjgIHmj5Dpq5jmmI7luqbvvIzlho3lnKggT0tMYWIg6YeM5om+5Lik5Liq55u46YK755qE5pqW6Imy5oiW5Ya36Imy5YGa5riQ5Y+Y77yb5paH5a2X55So5rex6Imy77yI5LiN5piv57qv6buR77yJ44CC5omA5pyJ6aKc6Imy55qE6aWx5ZKM5bqm6YO95q+U5L2g5oOz55qE5L2O5LiA5qGj44CC57KJ5qmZ57Sr5piv5pyA5bi46KeB55qE6YKj57uE44CCCgojIyDlrZfkvZMKLSDmoIfpopjvvJrooaznur/mlpzkvZPmiJbkvJjpm4XnmoTooaznur/kvZPvvIhJbnN0cnVtZW50IFNlcmlm44CBRnJhdW5jZXMg55qE5pac5L2T44CBQ29ybW9yYW5044CBUGxheWZhaXIgRGlzcGxhee+8ie+8m+S4reaWh+eUqOaAnea6kOWui+S9k+aIlumcnum5nOaWh+alt+OAggotIOato+aWh+WSjOagh+etvu+8muS6uuaWh+S4u+S5ieaXoOihrOe6v++8iEludGVy44CBRE0gU2Fuc+OAgU1hbnJvcGXvvInjgIIKLSDlrZflj7flr7nmr5TlpKfvvIzlrZfph43ovbvvvJvlrZfot53nlaXmlL7lrr3jgIIKCiMjIOi/kOWKqAotIOaFou+8muS4u+imgeWFg+e0oOeahOi/m+WcuiAwLjjigJMxLjUg56eS77yM55SoIGBnbGlkZWAg5oiW5by557CnIGB7MS4yLCAxLjB9YO+8iOaXoOWbnuW8ue+8ieOAggotIOacieacuuW9oueKtueahOWPmOW9ouWRqOacnyA24oCTMTIg56eS77yM5riQ5Y+Y55qE5YWJ5rqQ56e75Yqo5pu05oWi44CCCi0g5a2X55qE6L+b5Zy677ya5LuO6L275b6u5qih57OK5ZKM5LiL5pa5IDEw4oCTMjBweCDlpITmta7kuIrmnaXvvIzpgI/mmI7luqblkozmqKHns4rlkIzml7blj5jljJbjgIIKLSDlh6DkuY7kuI3nlKjnoazliIfvvJvmrrXokL3kuYvpl7TnlKjpopzoibLnmoTmtYHliqjmiJblvaLnirbnmoTlj5jlvaLov4fmuKHjgIIKCiMjIOeUu+mdouaAjuS5iOa0uwotIOa4kOWPmOeahOWFiea6kOe8k+aFouenu+WKqO+8jOminOiJsuWDj+WkqeWFieS4gOagt+WPmOWMlu+8m+acieacuuW9oueKtui9u+i9u+WRvOWQuOOAgeWPmOW9ouOAggotIOmil+eykumaj+aXtumXtOWPmOWMlu+8iGAtLWdyYWluYCDnmoTml7bpl7Tlmarlo7DvvInvvIzorqnlubPmtoLljLrln5/kuZ/mnInnlJ/lkb3jgIIKLSDmloflrZfokL3lrprlkI7kuI3liqjvvIznlZnnu5nop4LkvJfor7vjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDlh6DkuY7kuI3liqjvvIzlvaLnirboh6rlt7Hlj5jljJYgfCDlubPpnZnjgIHkuJPms6ggfCDlhqXmg7PjgIHlk4HniYwgfAp8IOaegeaFoueahOaOqOi/kSB8IOS6suWvhuOAgemdoOi/kSB8IOS6uueJqeOAgeaDhee7qiB8Cnwg5qiq56e756m/6L+H5YmN5pmv55qE5qSN54mp5Ymq5b2xIHwg6Ieq54S244CB5pel5bi4IHwg55Sf5rS75pa55byPIHwKfCDku47kuIDkuKrlvaLnirbph4zmi4nlh7ogfCDljp/mnaXlpoLmraQgfCDmj63npLogfAoKIyMg5aOw6Z+z6LCD6Imy5p2/Cua4qeaaluaflOi9r+eahOmfs+iJsu+8mmBwYWRg77yIdm9pY2VzIOWwkeOAgWNlbnRzIOWwj+OAgWxvd3Bhc3Mg5L2O77yJ44CBYG1hbGxldCh7IG1hdGVyaWFsOiAna2FsaW1iYScgfSlgIOaIliBgJ3ZpYmVzJ2DjgIFgcGx1Y2tg77yIYnJpZ2h0IOS9ju+8ie+8m+eOr+Wig+WjsCBgYW1iaWVuY2UoeyBraW5kOiAncmFpbicgfSlgIOaIlum4n+m4o+i0qOaEn+eahOmTuuW6leOAguesrCAyIOaho+eahOmSoueQtOmHh+agt+W+iOWQiOmAguOAggoK5b6L5Yqo5LiO5ZKM5aOw77yI5Li+5L6L77yM5LiN5q2i6L+Z5Lqb77yJ77ya5peg6byT5oiW5Y+q5pyJ5b6I6L2755qE5omL6byT5ZKMIHNoYWtlcu+8m+Wkp+S4g+WSjOW8puOAgeS5neWSjOW8puOAgUx5ZGlhbu+8m+aFoumAn+eahCBsby1maSDlvovliqjvvJvmiJbogIXlrozlhajmsqHmnInoioLmi43vvIzlj6rmnInpk7rlupXlkozlh6DkuKrpn7PnrKbjgILmt7flk43lpKfogIzmn5TvvIzkuI3kvqfpk77jgIIKCiMjIOWOn+eUn+aJi+azlQotIOS4gOS4quW9oueKtue8k+aFouWPmOW9ouaIkCBsb2dv77ya6YCC5ZCI5ZOB54mM5Ye65Zy644CCCi0g6Imy5rip5LuO5Ya35Yiw5pqW5rWB6L+H5pW05Liq55S76Z2i77yM5o2i5Yiw5LiL5LiA5q6177ya6YCC5ZCI6L2s5Zy65ZKM44CM5LiA5aSp44CN57G757uT5p6E44CCCi0g5LiA5Liq5ZG85ZC455qE5ZyG77yM5paH5a2X6Lef552A5a6D55qE6IqC5aWP5Ye6546w77ya6YCC5ZCI5Yal5oOz44CB5LiT5rOo44CB5byV5a+844CCCi0g5YWJ5paR5omr6L+H5LiA6KGM5a2X77yM5a2X5LuO5YWJ6YeM5pi+546w77ya6YCC5ZCI5qCH6aKY44CCCi0g57KJ5qmZ57Sr5aSn5riQ5Y+Y5Yqg5qih57OK5YWJ55CD77ya57uP5YW477yM5Lmf5pyA5a655piT5ruR5ZCRIEFJIOm7mOiupOWRs+OAggoKIyMg5Y+Y5YyW56m66Ze0Ci0g57uT5p6E77ya5LuO5riF5pmo5Yiw5aSc5pma55qE5LiA5aSp77yb5LiA5qyh5ZG85ZC477yI5ZC45rCUIOKGkiDlgZwg4oaSIOWRvOawlO+8ie+8m+S4gOmil+enjeWtkOmVv+aIkOS4gOagquakjeeJqe+8m+S4ieWPpeivne+8jOavj+WPpeS4gOenjeiJsua4qeOAggotIOW8gOWcuu+8muS4gOWbouWFieS7jueUu+mdouS4gOinkuaFouaFouS6rui1t++8m+S4gOS4quW9oueKtuS7juS4gOS4queCuemVv+WHuuadpeOAggotIOe7k+Wwvu+8muaJgOacieW9oueKtuiejeaIkCBsb2dv77yb5YWJ5oWi5oWi5pqX5LiL5Y6777yM5Y+q5Ymp5LiA5Y+l6K+d44CCCgojIyDlnZEKLSDmu5HlkJEgQUkg6buY6K6k55qE57Sr57KJ5riQ5Y+Y77ya6ZmN5L2O6aWx5ZKM5bqm44CB5Yqg6aKX57KS44CB6K6p5YWJ5pyJ5pa55ZCR44CB55So5rip5pqW55qE5Lit5oCn6Imy5omT5bqV44CCCi0g5riQ5Y+Y5Ye6546w6Imy5bim77yIYmFuZGluZ++8ie+8mk9LTGFiIOaPkuWAvCArIGAtLWdyYWluYO+8jOW/heimgeaXtiBgLS1jcmYgMTRg44CCCi0g5aSq5oWi5aSq56m677yM5L+h5oGv5Ye65LiN5p2l77ya5q+PIDPigJM0IOenkuiHs+WwkeacieS4gOS4qua4healmueahOS/oeaBr+eCueOAggotIOedgOiJsuWZqOWcqOi9r+S7tua4suafk+S4i+W+iOaFou+8muWFiOa1i+WNleW4p+iAl+aXtuOAggotIOaWh+Wtl+Wkque7huWkqua1he+8jOaJi+acuuS4iueci+S4jea4he+8muato+aWh+Wtl+WPt+WSjOWvueavlOW6puimgeWcqOaJi+acuuaKveW4p+WbvumHjOajgOafpeOAggo=
+# 柔光有机（soft-organic）
+
+> 温暖的颗粒渐变、慢慢变形的有机形状、优雅的衬线斜体：画面像清晨的光，安静、亲密、让人放松。
+> 参照（只学语法）：生活方式和健康品牌的动态识别、颗粒渐变海报、有机形态的当代平面设计、人文主义的编辑排版。不照搬具体品牌。
+
+## 本质 / 不是什么
+- 本质：**温度和呼吸感**。颜色像光一样柔和地过渡，形状像生物一样缓慢变形，排版有人文气息；运动慢、软、没有棱角，整体节奏像呼吸。
+- 不是：AI 默认的紫粉渐变（没有颗粒、没有光源、饱和度太高、到处发光）；也不是 `liquid-shader` 的液态金属和融球（那是强反光、强结构的）。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 颗粒渐变 | 两三个颜色柔和过渡，表面有明显的细颗粒 | 背景、情绪 |
+| 有机形状 | 圆润不规则的团块，缓慢变形 | 生命、成长 |
+| 衬线斜体 | 优雅的衬线斜体大标题 | 品牌、宣言 |
+| 弥散光斑 | 画面一角一团柔和的光，缓慢移动 | 清晨、希望 |
+| 纸张与布料 | 微微的纸纹、亚麻或棉布的纹理 | 手工、自然 |
+| 植物剪影 | 叶子、花枝的柔和剪影或投影 | 自然、健康 |
+| 细线插画 | 极细的单线勾勒的人物或物件 | 人文、生活 |
+| 圆角卡片 | 柔和投影的圆角卡片承载信息 | 产品、功能 |
+| 大留白 | 一屏只有一句话和一个形状 | 克制、高级 |
+| 呼吸的圆 | 一个圆缓慢地放大缩小 | 冥想、专注 |
+| 晨昏色温 | 颜色随时间从冷到暖或从暖到冷 | 一天、变化 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 颗粒是这种风格防止滑向 AI 渐变的关键：渐变一定要带颗粒（`--grain`），光要有方向和来源。
+
+## 这个风格最俗的版本
+- 画面：粉橙紫的大渐变背景、几个模糊的彩色光球慢慢飘、正中一句白色细体字、结尾 logo 淡入。
+- 声音：钢琴单音加大混响的环境铺底。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：品牌情绪片、生活方式和健康类产品的宣传、App 的功能介绍、节日问候、Logo 演绎。
+- 内容：健康、冥想、护肤、睡眠、心理、金融科技的「安心感」、女性向品牌、人文主题。
+- 不适合：需要能量和冲击的主题；硬核科技、游戏。
+
+## 技术路线
+WebGL 片元着色器做渐变和有机形状：渐变用几个移动的高斯光源叠加（不是线性渐变），有机形状用 SDF 加低频噪声扰动边界；或者 Canvas 2D 用大半径的径向渐变叠加、`filter: blur()` 做柔化（先测速度）。文字和卡片用 DOM 或 Canvas 叠在上面。颗粒一定加：`--grain 4–8`。
+
+## 材质与渲染
+- 渐变：2–4 个颜色，用 OKLab 插值（不会在中间变灰或变脏）；颜色之间的过渡宽而软。
+- 光：一个主光源方向，光斑在一角，另一角稍暗，像窗边的自然光。
+- 有机形状：边界用低频噪声（频率低、幅度小）缓慢扰动；不同形状的变形周期错开。
+- 颗粒：细、均匀、单色（不要彩色噪点），在暗部稍明显。
+- 卡片：大圆角、很浅的投影，背景色比画面略亮。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 晨光：奶油 `#FFF4E6` / 杏 `#F7C59F` / 玫瑰灰 `#D8A7B1` / 墨 `#3A2E2A`
+- 鼠尾草：米白 `#F4F1EA` / 鼠尾草绿 `#A3B18A` / 陶土 `#C97C5D` / 深绿 `#344E41`
+- 暮色：雾蓝 `#C9D6DF` / 薰衣草灰 `#B8A9C9` / 暖橙 `#E8A87C` / 深蓝 `#22303C`
+- 推导：从品牌色出发，降低饱和度、提高明度，再在 OKLab 里找两个相邻的暖色或冷色做渐变；文字用深色（不是纯黑）。所有颜色的饱和度都比你想的低一档。粉橙紫是最常见的那组。
+
+## 字体
+- 标题：衬线斜体或优雅的衬线体（Instrument Serif、Fraunces 的斜体、Cormorant、Playfair Display）；中文用思源宋体或霞鹜文楷。
+- 正文和标签：人文主义无衬线（Inter、DM Sans、Manrope）。
+- 字号对比大，字重轻；字距略放宽。
+
+## 运动
+- 慢：主要元素的进场 0.8–1.5 秒，用 `glide` 或弹簧 `{1.2, 1.0}`（无回弹）。
+- 有机形状的变形周期 6–12 秒，渐变的光源移动更慢。
+- 字的进场：从轻微模糊和下方 10–20px 处浮上来，透明度和模糊同时变化。
+- 几乎不用硬切；段落之间用颜色的流动或形状的变形过渡。
+
+## 画面怎么活
+- 渐变的光源缓慢移动，颜色像天光一样变化；有机形状轻轻呼吸、变形。
+- 颗粒随时间变化（`--grain` 的时间噪声），让平涂区域也有生命。
+- 文字落定后不动，留给观众读。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 几乎不动，形状自己变化 | 平静、专注 | 冥想、品牌 |
+| 极慢的推近 | 亲密、靠近 | 人物、情绪 |
+| 横移穿过前景的植物剪影 | 自然、日常 | 生活方式 |
+| 从一个形状里拉出 | 原来如此 | 揭示 |
+
+## 声音调色板
+温暖柔软的音色：`pad`（voices 少、cents 小、lowpass 低）、`mallet({ material: 'kalimba' })` 或 `'vibes'`、`pluck`（bright 低）；环境声 `ambience({ kind: 'rain' })` 或鸟鸣质感的铺底。第 2 档的钢琴采样很合适。
+
+律动与和声（举例，不止这些）：无鼓或只有很轻的手鼓和 shaker；大七和弦、九和弦、Lydian；慢速的 lo-fi 律动；或者完全没有节拍，只有铺底和几个音符。混响大而柔，不侧链。
+
+## 原生手法
+- 一个形状缓慢变形成 logo：适合品牌出场。
+- 色温从冷到暖流过整个画面，换到下一段：适合转场和「一天」类结构。
+- 一个呼吸的圆，文字跟着它的节奏出现：适合冥想、专注、引导。
+- 光斑扫过一行字，字从光里显现：适合标题。
+- 粉橙紫大渐变加模糊光球：经典，也最容易滑向 AI 默认味。
+
+## 变化空间
+- 结构：从清晨到夜晚的一天；一次呼吸（吸气 → 停 → 呼气）；一颗种子长成一株植物；三句话，每句一种色温。
+- 开场：一团光从画面一角慢慢亮起；一个形状从一个点长出来。
+- 结尾：所有形状融成 logo；光慢慢暗下去，只剩一句话。
+
+## 坑
+- 滑向 AI 默认的紫粉渐变：降低饱和度、加颗粒、让光有方向、用温暖的中性色打底。
+- 渐变出现色带（banding）：OKLab 插值 + `--grain`，必要时 `--crf 14`。
+- 太慢太空，信息出不来：每 3–4 秒至少有一个清楚的信息点。
+- 着色器在软件渲染下很慢：先测单帧耗时。
+- 文字太细太浅，手机上看不清：正文字号和对比度要在手机抽帧图里检查。

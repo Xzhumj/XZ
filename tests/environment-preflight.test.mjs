@@ -1,1 +1,198 @@
-aW1wb3J0IGFzc2VydCBmcm9tICJub2RlOmFzc2VydC9zdHJpY3QiOwppbXBvcnQgZnMgZnJvbSAibm9kZTpmcy9wcm9taXNlcyI7CmltcG9ydCBvcyBmcm9tICJub2RlOm9zIjsKaW1wb3J0IHBhdGggZnJvbSAibm9kZTpwYXRoIjsKaW1wb3J0IHRlc3QgZnJvbSAibm9kZTp0ZXN0IjsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gIm5vZGU6dXJsIjsKaW1wb3J0IHsKICBjaGVja0h5cGVyRnJhbWVzLAogIGVuc3VyZUh5cGVyRnJhbWVzQXV0b0luc3RhbGxlZCwKICBlbnN1cmVWaWRlb1RlbXBsYXRlS2l0SW5zdGFsbGVkLAogIGZpbmRMb2NhbEJpbiwKICBmaW5kTmVhcmVzdFBhY2thZ2VKc29uLAogIHBhcnNlVmVyc2lvbiwKICByZXNvbHZlRXhlY3V0YWJsZSwKfSBmcm9tICIuLi9zY3JpcHRzL2xpYi9wcmVmbGlnaHQubWpzIjsKCmNvbnN0IHRlc3REaXJlY3RvcnkgPSBwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKTsKY29uc3Qgc2tpbGxEaXJlY3RvcnkgPSBwYXRoLmRpcm5hbWUodGVzdERpcmVjdG9yeSk7CmNvbnN0IHByaXZhdGVBc3NldHNTa2lwID0gYXdhaXQgZnMKICAuYWNjZXNzKHBhdGguam9pbihza2lsbERpcmVjdG9yeSwgImFzc2V0cyIpKQogIC50aGVuKCgpID0+IGZhbHNlLCAoKSA9PiAicHJpdmF0ZSBhc3NldHMgYXJlIG5vdCBpbmNsdWRlZCBpbiB0aGlzIHJlcG9zaXRvcnkiKTsKCnRlc3QoImV4dHJhY3RzIHZlcnNpb25zIGZyb20gcnVudGltZSBjb21tYW5kIG91dHB1dCIsICgpID0+IHsKICBhc3NlcnQuZXF1YWwocGFyc2VWZXJzaW9uKCJ2MjQuMjIuMSIpLCAiMjQuMjIuMSIpOwogIGFzc2VydC5lcXVhbChwYXJzZVZlcnNpb24oIlBvd2VyU2hlbGwgNy42LjUiKSwgIjcuNi41Iik7CiAgYXNzZXJ0LmVxdWFsKAogICAgcGFyc2VWZXJzaW9uKCJmZm1wZWcgdmVyc2lvbiA4LjAtZnVsbF9idWlsZCIpLAogICAgIjguMC1mdWxsIiwKICApOwogIGFzc2VydC5lcXVhbChwYXJzZVZlcnNpb24oIm5vdCBhIHZlcnNpb24iKSwgbnVsbCk7Cn0pOwoKdGVzdCgiZmluZHMgdGhlIG5lYXJlc3QgcGFja2FnZSBtYW5pZmVzdCIsIGFzeW5jICgpID0+IHsKICBjb25zdCByb290ID0gYXdhaXQgZnMubWtkdGVtcCgKICAgIHBhdGguam9pbihvcy50bXBkaXIoKSwgIm1vdGlvbi1wcmVmbGlnaHQtcGFja2FnZS0iKSwKICApOwogIGNvbnN0IG5lc3RlZCA9IHBhdGguam9pbihyb290LCAib25lIiwgInR3byIpOwogIGF3YWl0IGZzLm1rZGlyKG5lc3RlZCwgeyByZWN1cnNpdmU6IHRydWUgfSk7CiAgYXdhaXQgZnMud3JpdGVGaWxlKHBhdGguam9pbihyb290LCAicGFja2FnZS5qc29uIiksICJ7fSIpOwogIGFzc2VydC5lcXVhbCgKICAgIGZpbmROZWFyZXN0UGFja2FnZUpzb24obmVzdGVkKSwKICAgIHBhdGguam9pbihyb290LCAicGFja2FnZS5qc29uIiksCiAgKTsKfSk7Cgp0ZXN0KCJmaW5kcyBhbiBleGVjdXRhYmxlIGluIHRoZSBwcm9jZXNzIFBBVEgiLCBhc3luYyAoKSA9PiB7CiAgY29uc3Qgcm9vdCA9IGF3YWl0IGZzLm1rZHRlbXAoCiAgICBwYXRoLmpvaW4ob3MudG1wZGlyKCksICJtb3Rpb24tcHJlZmxpZ2h0LXBhdGgtIiksCiAgKTsKICBjb25zdCBuYW1lID0gcHJvY2Vzcy5wbGF0Zm9ybSA9PT0gIndpbjMyIiA/ICJwbnBtLmNtZCIgOiAicG5wbSI7CiAgY29uc3QgZXhlY3V0YWJsZSA9IHBhdGguam9pbihyb290LCBuYW1lKTsKICBhd2FpdCBmcy53cml0ZUZpbGUoZXhlY3V0YWJsZSwgIiIpOwogIGNvbnN0IGZvdW5kID0gcmVzb2x2ZUV4ZWN1dGFibGUoInBucG0iLCB7CiAgICBlbnY6IHsgUEFUSDogcm9vdCwgUEFUSEVYVDogIi5DTUQ7LkVYRSIgfSwKICAgIHByb2plY3RSb290OiByb290LAogIH0pOwogIGFzc2VydC5lcXVhbCgKICAgIHByb2Nlc3MucGxhdGZvcm0gPT09ICJ3aW4zMiIKICAgICAgPyBmb3VuZC50b0xvd2VyQ2FzZSgpCiAgICAgIDogZm91bmQsCiAgICBwcm9jZXNzLnBsYXRmb3JtID09PSAid2luMzIiCiAgICAgID8gZXhlY3V0YWJsZS50b0xvd2VyQ2FzZSgpCiAgICAgIDogZXhlY3V0YWJsZSwKICApOwp9KTsKCnRlc3QoImZpbmRzIGEgcHJvamVjdC1sb2NhbCBSZW1vdGlvbiBiaW5hcnkiLCBhc3luYyAoKSA9PiB7CiAgY29uc3Qgcm9vdCA9IGF3YWl0IGZzLm1rZHRlbXAoCiAgICBwYXRoLmpvaW4ob3MudG1wZGlyKCksICJtb3Rpb24tcHJlZmxpZ2h0LXJlbW90aW9uLSIpLAogICk7CiAgY29uc3QgYmluRGlyZWN0b3J5ID0gcGF0aC5qb2luKHJvb3QsICJub2RlX21vZHVsZXMiLCAiLmJpbiIpOwogIGF3YWl0IGZzLm1rZGlyKGJpbkRpcmVjdG9yeSwgeyByZWN1cnNpdmU6IHRydWUgfSk7CiAgY29uc3QgbmFtZSA9CiAgICBwcm9jZXNzLnBsYXRmb3JtID09PSAid2luMzIiID8gInJlbW90aW9uLmNtZCIgOiAicmVtb3Rpb24iOwogIGNvbnN0IGV4ZWN1dGFibGUgPSBwYXRoLmpvaW4oYmluRGlyZWN0b3J5LCBuYW1lKTsKICBhd2FpdCBmcy53cml0ZUZpbGUoZXhlY3V0YWJsZSwgIiIpOwogIGFzc2VydC5lcXVhbChmaW5kTG9jYWxCaW4oInJlbW90aW9uIiwgcm9vdCksIGV4ZWN1dGFibGUpOwp9KTsKCnRlc3QoImF1dG9tYXRpY2FsbHkgaW5zdGFsbHMgYSBtaXNzaW5nIEh5cGVyRnJhbWVzIENMSSIsIGFzeW5jICgpID0+IHsKICBjb25zdCByb290ID0gYXdhaXQgZnMubWtkdGVtcCgKICAgIHBhdGguam9pbihvcy50bXBkaXIoKSwgIm1vdGlvbi1wcmVmbGlnaHQtaHlwZXJmcmFtZXMtIiksCiAgKTsKICBjb25zdCBwcm9qZWN0Um9vdCA9IHBhdGguam9pbihyb290LCAicHJvamVjdCIpOwogIGNvbnN0IGJpbkRpcmVjdG9yeSA9IHBhdGguam9pbihyb290LCAiYmluIik7CiAgYXdhaXQgZnMubWtkaXIocHJvamVjdFJvb3QsIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwogIGF3YWl0IGZzLm1rZGlyKGJpbkRpcmVjdG9yeSwgeyByZWN1cnNpdmU6IHRydWUgfSk7CgogIGNvbnN0IG1hbmFnZXJOYW1lID0gcHJvY2Vzcy5wbGF0Zm9ybSA9PT0gIndpbjMyIiA/ICJwbnBtLmNtZCIgOiAicG5wbSI7CiAgY29uc3QgbWFuYWdlclBhdGggPSBwYXRoLmpvaW4oYmluRGlyZWN0b3J5LCBtYW5hZ2VyTmFtZSk7CiAgYXdhaXQgZnMud3JpdGVGaWxlKG1hbmFnZXJQYXRoLCAiIik7CiAgaWYgKHByb2Nlc3MucGxhdGZvcm0gIT09ICJ3aW4zMiIpIHsKICAgIGF3YWl0IGZzLmNobW9kKG1hbmFnZXJQYXRoLCAwbzc1NSk7CiAgfQoKICBjb25zdCBlbnYgPSB7CiAgICBDT0RFWF9IT01FOiBwYXRoLmpvaW4ocm9vdCwgImNvZGV4LWhvbWUiKSwKICAgIENvbVNwZWM6IHByb2Nlc3MuZW52LkNvbVNwZWMsCiAgICBQQVRIOiBbCiAgICAgIGJpbkRpcmVjdG9yeSwKICAgICAgcGF0aC5kaXJuYW1lKHByb2Nlc3MuZXhlY1BhdGgpLAogICAgXS5qb2luKHBhdGguZGVsaW1pdGVyKSwKICAgIFBBVEhFWFQ6IHByb2Nlc3MuZW52LlBBVEhFWFQgfHwgIi5DTUQ7LkVYRTsuQkFUIiwKICB9OwoKICBjb25zdCByZXN1bHQgPSBhd2FpdCBlbnN1cmVIeXBlckZyYW1lc0F1dG9JbnN0YWxsZWQoewogICAgZW52LAogICAgcHJvamVjdFJvb3QsCiAgICBydW5JbnN0YWxsOiBhc3luYyAoX21hbmFnZXIsIF9hcmdzLCBfZW52LCB7IGN3ZDogdGFyZ2V0Um9vdCB9KSA9PiB7CiAgICAgIGNvbnN0IHBhY2thZ2VSb290ID0gcGF0aC5qb2luKAogICAgICAgIHRhcmdldFJvb3QsCiAgICAgICAgIm5vZGVfbW9kdWxlcyIsCiAgICAgICAgImh5cGVyZnJhbWVzIiwKICAgICAgKTsKICAgICAgYXdhaXQgZnMubWtkaXIocGF0aC5qb2luKHBhY2thZ2VSb290LCAiYmluIiksIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwogICAgICBhd2FpdCBmcy53cml0ZUZpbGUoCiAgICAgICAgcGF0aC5qb2luKHBhY2thZ2VSb290LCAicGFja2FnZS5qc29uIiksCiAgICAgICAgSlNPTi5zdHJpbmdpZnkoeyBuYW1lOiAiaHlwZXJmcmFtZXMiLCB2ZXJzaW9uOiAiMC44LjE0MCIgfSksCiAgICAgICk7CiAgICAgIGF3YWl0IGZzLndyaXRlRmlsZSgKICAgICAgICBwYXRoLmpvaW4ocGFja2FnZVJvb3QsICJiaW4iLCAiaHlwZXJmcmFtZXMubWpzIiksCiAgICAgICAgJ2NvbnNvbGUubG9nKCIwLjguMTQwIik7XG4nLAogICAgICApOwogICAgICByZXR1cm4geyBvazogdHJ1ZSwgc3RhdHVzOiAwLCBvdXRwdXQ6ICIiIH07CiAgICB9LAogIH0pOwoKICBhc3NlcnQuZXF1YWwocmVzdWx0LnN0YXR1cywgImluc3RhbGxlZCIpOwogIGFzc2VydC5lcXVhbChyZXN1bHQudmVyc2lvbiwgIjAuOC4xNDAiKTsKICBhd2FpdCBmcy5hY2Nlc3MocmVzdWx0LmV4ZWN1dGFibGUpOwogIGlmIChwcm9jZXNzLnBsYXRmb3JtID09PSAid2luMzIiKSB7CiAgICBhc3NlcnQuZXF1YWwoCiAgICAgIChhd2FpdCBmcy5yZWFkRmlsZShyZXN1bHQuZXhlY3V0YWJsZSwgInV0ZjgiKSkuaW5jbHVkZXMocm9vdCksCiAgICAgIGZhbHNlLAogICAgKTsKICB9CiAgYXNzZXJ0LmVxdWFsKGNoZWNrSHlwZXJGcmFtZXMoZW52LCBwcm9qZWN0Um9vdCkuc3RhdHVzLCAib2siKTsKICBhd2FpdCBmcy5ybShyb290LCB7IHJlY3Vyc2l2ZTogdHJ1ZSwgZm9yY2U6IHRydWUgfSk7Cn0pOwoKdGVzdCgiYXV0b21hdGljYWxseSBjcmVhdGVzIGEgbWlzc2luZyBWaWRlbyBUZW1wbGF0ZSBLaXQgZm91bmRhdGlvbiIsIHsKICBza2lwOiBwcml2YXRlQXNzZXRzU2tpcCwKfSwgYXN5bmMgKCkgPT4gewogIGNvbnN0IHJvb3QgPSBhd2FpdCBmcy5ta2R0ZW1wKAogICAgcGF0aC5qb2luKG9zLnRtcGRpcigpLCAibW90aW9uLXByZWZsaWdodC12dGstIiksCiAgKTsKICBjb25zdCBwcm9qZWN0Um9vdCA9IHBhdGguam9pbihyb290LCAicHJvamVjdCIpOwogIGNvbnN0IGNvbmZpZ1BhdGggPSBwYXRoLmpvaW4ocm9vdCwgImNvbmZpZyIsICJ2aWRlby10ZW1wbGF0ZS1raXQuanNvbiIpOwogIGF3YWl0IGZzLm1rZGlyKHByb2plY3RSb290LCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICBjb25zdCBlbnYgPSB7CiAgICBDT0RFWF9IT01FOiBwYXRoLmpvaW4ocm9vdCwgImNvZGV4LWhvbWUiKSwKICAgIFBBVEg6IHByb2Nlc3MuZW52LlBBVEggfHwgcHJvY2Vzcy5lbnYuUGF0aCB8fCAiIiwKICB9OwoKICBjb25zdCByZXN1bHQgPSBhd2FpdCBlbnN1cmVWaWRlb1RlbXBsYXRlS2l0SW5zdGFsbGVkKHsKICAgIGVudiwKICAgIHByb2plY3RSb290LAogICAgY29uZmlnUGF0aCwKICB9KTsKCiAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5zdGF0dXMsICJpbnN0YWxsZWQiKTsKICBhc3NlcnQuZXF1YWwoCiAgICByZXN1bHQudG9vbGtpdFJvb3QsCiAgICBwYXRoLmpvaW4ocm9vdCwgImNvZGV4LWhvbWUiLCAidG9vbHMiLCAidmlkZW8tdGVtcGxhdGUta2l0IiksCiAgKTsKICBhd2FpdCBmcy5hY2Nlc3MocGF0aC5qb2luKHJlc3VsdC50b29sa2l0Um9vdCwgImtpdC5qc29uIikpOwogIGF3YWl0IGZzLmFjY2VzcygKICAgIHBhdGguam9pbihyZXN1bHQudG9vbGtpdFJvb3QsICJjb25maWciLCAiZGVmYXVsdHMuanNvbiIpLAogICk7CiAgYXdhaXQgZnMuYWNjZXNzKHBhdGguam9pbihyZXN1bHQudG9vbGtpdFJvb3QsICJjYXRhbG9nLnBpcGVsaW5lLmpzb24iKSk7CiAgYXdhaXQgZnMuYWNjZXNzKAogICAgcGF0aC5qb2luKAogICAgICByZXN1bHQudG9vbGtpdFJvb3QsCiAgICAgICJzY2hlbWFzIiwKICAgICAgImNhdGFsb2cucGlwZWxpbmUuc2NoZW1hLmpzb24iLAogICAgKSwKICApOwogIGZvciAoY29uc3QgZGlyZWN0b3J5IG9mIFsKICAgICJ0ZW1wbGF0ZXMiLAogICAgInNmeCIsCiAgICAid29ya3NwYWNlIiwKICAgICJqb2JzIiwKICAgICJhZGFwdGVycyIsCiAgICAicnVudGltZSIsCiAgXSkgewogICAgYXdhaXQgZnMuYWNjZXNzKHBhdGguam9pbihyZXN1bHQudG9vbGtpdFJvb3QsIGRpcmVjdG9yeSkpOwogIH0KICBjb25zdCBjb25maWcgPSBKU09OLnBhcnNlKGF3YWl0IGZzLnJlYWRGaWxlKGNvbmZpZ1BhdGgsICJ1dGY4IikpOwogIGFzc2VydC5lcXVhbChjb25maWcudG9vbGtpdFJvb3QsIHJlc3VsdC50b29sa2l0Um9vdCk7CgogIGNvbnN0IHNlY29uZCA9IGF3YWl0IGVuc3VyZVZpZGVvVGVtcGxhdGVLaXRJbnN0YWxsZWQoewogICAgZW52LAogICAgcHJvamVjdFJvb3QsCiAgICBjb25maWdQYXRoLAogIH0pOwogIGFzc2VydC5lcXVhbChzZWNvbmQuc3RhdHVzLCAicHJlc2VudCIpOwogIGF3YWl0IGZzLnJtKHJvb3QsIHsgcmVjdXJzaXZlOiB0cnVlLCBmb3JjZTogdHJ1ZSB9KTsKfSk7Cg==
+import assert from "node:assert/strict";
+import fs from "node:fs/promises";
+import os from "node:os";
+import path from "node:path";
+import test from "node:test";
+import { fileURLToPath } from "node:url";
+import {
+  checkHyperFrames,
+  ensureHyperFramesAutoInstalled,
+  ensureVideoTemplateKitInstalled,
+  findLocalBin,
+  findNearestPackageJson,
+  parseVersion,
+  resolveExecutable,
+} from "../scripts/lib/preflight.mjs";
+
+const testDirectory = path.dirname(fileURLToPath(import.meta.url));
+const skillDirectory = path.dirname(testDirectory);
+const privateAssetsSkip = await fs
+  .access(path.join(skillDirectory, "assets"))
+  .then(() => false, () => "private assets are not included in this repository");
+
+test("extracts versions from runtime command output", () => {
+  assert.equal(parseVersion("v24.22.1"), "24.22.1");
+  assert.equal(parseVersion("PowerShell 7.6.5"), "7.6.5");
+  assert.equal(
+    parseVersion("ffmpeg version 8.0-full_build"),
+    "8.0-full",
+  );
+  assert.equal(parseVersion("not a version"), null);
+});
+
+test("finds the nearest package manifest", async () => {
+  const root = await fs.mkdtemp(
+    path.join(os.tmpdir(), "motion-preflight-package-"),
+  );
+  const nested = path.join(root, "one", "two");
+  await fs.mkdir(nested, { recursive: true });
+  await fs.writeFile(path.join(root, "package.json"), "{}");
+  assert.equal(
+    findNearestPackageJson(nested),
+    path.join(root, "package.json"),
+  );
+});
+
+test("finds an executable in the process PATH", async () => {
+  const root = await fs.mkdtemp(
+    path.join(os.tmpdir(), "motion-preflight-path-"),
+  );
+  const name = process.platform === "win32" ? "pnpm.cmd" : "pnpm";
+  const executable = path.join(root, name);
+  await fs.writeFile(executable, "");
+  const found = resolveExecutable("pnpm", {
+    env: { PATH: root, PATHEXT: ".CMD;.EXE" },
+    projectRoot: root,
+  });
+  assert.equal(
+    process.platform === "win32"
+      ? found.toLowerCase()
+      : found,
+    process.platform === "win32"
+      ? executable.toLowerCase()
+      : executable,
+  );
+});
+
+test("finds a project-local Remotion binary", async () => {
+  const root = await fs.mkdtemp(
+    path.join(os.tmpdir(), "motion-preflight-remotion-"),
+  );
+  const binDirectory = path.join(root, "node_modules", ".bin");
+  await fs.mkdir(binDirectory, { recursive: true });
+  const name =
+    process.platform === "win32" ? "remotion.cmd" : "remotion";
+  const executable = path.join(binDirectory, name);
+  await fs.writeFile(executable, "");
+  assert.equal(findLocalBin("remotion", root), executable);
+});
+
+test("automatically installs a missing HyperFrames CLI", async () => {
+  const root = await fs.mkdtemp(
+    path.join(os.tmpdir(), "motion-preflight-hyperframes-"),
+  );
+  const projectRoot = path.join(root, "project");
+  const binDirectory = path.join(root, "bin");
+  await fs.mkdir(projectRoot, { recursive: true });
+  await fs.mkdir(binDirectory, { recursive: true });
+
+  const managerName = process.platform === "win32" ? "pnpm.cmd" : "pnpm";
+  const managerPath = path.join(binDirectory, managerName);
+  await fs.writeFile(managerPath, "");
+  if (process.platform !== "win32") {
+    await fs.chmod(managerPath, 0o755);
+  }
+
+  const env = {
+    CODEX_HOME: path.join(root, "codex-home"),
+    ComSpec: process.env.ComSpec,
+    PATH: [
+      binDirectory,
+      path.dirname(process.execPath),
+    ].join(path.delimiter),
+    PATHEXT: process.env.PATHEXT || ".CMD;.EXE;.BAT",
+  };
+
+  const result = await ensureHyperFramesAutoInstalled({
+    env,
+    projectRoot,
+    runInstall: async (_manager, _args, _env, { cwd: targetRoot }) => {
+      const packageRoot = path.join(
+        targetRoot,
+        "node_modules",
+        "hyperframes",
+      );
+      await fs.mkdir(path.join(packageRoot, "bin"), { recursive: true });
+      await fs.writeFile(
+        path.join(packageRoot, "package.json"),
+        JSON.stringify({ name: "hyperframes", version: "0.8.140" }),
+      );
+      await fs.writeFile(
+        path.join(packageRoot, "bin", "hyperframes.mjs"),
+        'console.log("0.8.140");\n',
+      );
+      return { ok: true, status: 0, output: "" };
+    },
+  });
+
+  assert.equal(result.status, "installed");
+  assert.equal(result.version, "0.8.140");
+  await fs.access(result.executable);
+  if (process.platform === "win32") {
+    assert.equal(
+      (await fs.readFile(result.executable, "utf8")).includes(root),
+      false,
+    );
+  }
+  assert.equal(checkHyperFrames(env, projectRoot).status, "ok");
+  await fs.rm(root, { recursive: true, force: true });
+});
+
+test("automatically creates a missing Video Template Kit foundation", {
+  skip: privateAssetsSkip,
+}, async () => {
+  const root = await fs.mkdtemp(
+    path.join(os.tmpdir(), "motion-preflight-vtk-"),
+  );
+  const projectRoot = path.join(root, "project");
+  const configPath = path.join(root, "config", "video-template-kit.json");
+  await fs.mkdir(projectRoot, { recursive: true });
+  const env = {
+    CODEX_HOME: path.join(root, "codex-home"),
+    PATH: process.env.PATH || process.env.Path || "",
+  };
+
+  const result = await ensureVideoTemplateKitInstalled({
+    env,
+    projectRoot,
+    configPath,
+  });
+
+  assert.equal(result.status, "installed");
+  assert.equal(
+    result.toolkitRoot,
+    path.join(root, "codex-home", "tools", "video-template-kit"),
+  );
+  await fs.access(path.join(result.toolkitRoot, "kit.json"));
+  await fs.access(
+    path.join(result.toolkitRoot, "config", "defaults.json"),
+  );
+  await fs.access(path.join(result.toolkitRoot, "catalog.pipeline.json"));
+  await fs.access(
+    path.join(
+      result.toolkitRoot,
+      "schemas",
+      "catalog.pipeline.schema.json",
+    ),
+  );
+  for (const directory of [
+    "templates",
+    "sfx",
+    "workspace",
+    "jobs",
+    "adapters",
+    "runtime",
+  ]) {
+    await fs.access(path.join(result.toolkitRoot, directory));
+  }
+  const config = JSON.parse(await fs.readFile(configPath, "utf8"));
+  assert.equal(config.toolkitRoot, result.toolkitRoot);
+
+  const second = await ensureVideoTemplateKitInstalled({
+    env,
+    projectRoot,
+    configPath,
+  });
+  assert.equal(second.status, "present");
+  await fs.rm(root, { recursive: true, force: true });
+});

@@ -1,1 +1,93 @@
-IyAxNi1iaXQg5YOP57Sg5ri45oiP77yIcGl4ZWwtZ2FtZe+8iQoKPiDmiYDmnInkuJzopb/nlLvlnKjkuIDlnZflvojlsI/nmoTpgLvovpHnlLvluIPkuIrvvIzmlbTmlbDlgI3mlL7lpKfvvJvop5LoibLlp7/lir/kuIDpob/kuIDpob/lnLDlj5jvvIznibnmlYjmr4/luKfpg73lnKjliqjvvIzlg4/kuIDmrrXnsr7oh7TnmoQgMTYtYml0IOa4uOaIj+WKqOeUu+OAggo+IOWPgueFp++8iOWPquWtpuivreazle+8ie+8mlNORVMgLyBNRCDml7bku6PnmoTop5LoibLliqjnlLvlkozov4flnLrjgIHnjrDku6Plg4/ntKDmuLjmiI/nmoTlhYnlvbHjgILkuI3nhafmkKzku7vkvZXmuLjmiI/nmoTop5LoibLjgIHlhbPljaHlkowgVUnjgIIKCiMjIOacrOi0qCAvIOS4jeaYr+S7gOS5iAotIOacrOi0qO+8mioq5L2O6YC76L6R5YiG6L6o546HKirvvIgxMjjDlzk244CBMTYww5c5MOOAgTMyMMOXMTgw77yJKyAqKuWbuuWumuiwg+iJsuadvyoqICsgKirlp7/lir/mraXov5sqKu+8iOavj+enkiA44oCTMTIg5byg77yJKyDnibnmlYjpgJDluKfvvJvmr4/kuKrlg4/ntKDpg73muIXmuIXmpZrmpZrjgIIKLSDkuI3mmK/vvJrnvKnlsI/lkI7mlL7lpKfnmoTmqKHns4rnn6Lph4/lm77vvJvkuZ/kuI3mmK/miornhafniYfliqDkuKrlg4/ntKDljJbmu6TplZzjgIIKCiMjIOi+qOivhuS/oeWPt++8muavj+aUr+eJh+WtkOaMkSAy4oCTMyDkuKoKfCDkv6Hlj7cgfCDplb/ku4DkuYjmoLcgfCDpgILlkIjnmoTkuLvpopggfAp8LS0tfC0tLXwtLS18Cnwg6KeS6Imy5Yqo5L2cIHwg5b6F5py644CB5aWU6LeR44CB6JOE5Yqb44CB6YeK5pS+77yM5q+P56eSIDjigJMxMiDlvKDlp7/lir8gfCDog73lipvjgIHooYzliqggfAp8IOaoqueJiOWNt+i9tOWFs+WNoSB8IOW5s+WPsOOAgeegluWdl+OAgeinhuW3ruiDjOaZr+WQkeWQjua7miB8IOaXheeoi+OAgeaMkeaImCB8Cnwg5L+v6KeGIFJQRyB8IOagvOWtkOWcsOWbvuOAgeWvueivneahhumAkOWtl+WHuueOsCB8IOWPmeS6i+OAgeaOoue0oiB8CnwgSFVEIHwg6KGA5p2h44CB5YiG5pWw44CB5b+D5b2i44CB6K6h5pe25ZmoIHwg5pWw5o2u44CB6L+b5bqmIHwKfCDmiJjmlpfnibnmlYggfCDpl6rlhYnjgIHniIbngrnjgIHkvKTlrrPmlbDlrZfot7Plh7ogfCDlhrLlh7vjgIHlr7nmr5QgfAp8IOeJqeWTgeagj+S4juWNh+e6pyB8IOmBk+WFt+agvOWtkOOAgeetiee6p+aPkOWNh+eahOmXquWFiSB8IOWKn+iDveOAgeaIkOmVvyB8Cnwg5qCH6aKY55S76Z2iIHwgUFJFU1MgU1RBUlTjgIHoj5zljZXlhYnmoIfjgIHlrZjmoaPmp70gfCDlvIDlnLrjgIHnu5PlsL4gfAp8IOS4lueVjOWcsOWbviB8IOWwj+i3r+i/nui1t+S4gOS4quS4quWFs+WNoeeCuSB8IOi3r+e6v+WbvuOAgemYtuautSB8Cnwg5YOP57Sg5a2X5L2T55WM6Z2iIHwg5a+56K+d5qGG44CB5oyJ6ZKu44CB5YOP57Sg5a2XIHwg5paH5qGI44CB6K+05piOIHwKfCDmjozmnLrlm5voibIgfCDlj6rmnInlm5vkuKrngbDnu7/oibLpmLbnmoQgMS1iaXQgLyAyLWJpdCDnlLvpnaIgfCDmgIDml6fjgIHmnoHnroAgfAp8IOetiei3neWDj+e0oCB8IOetiei3neinhuinkueahOWwj+aIv+mXtOaIluWwj+mVhyB8IOepuumXtOOAgeWcuuaZryB8Cgrop4TliJnvvJoKLSDmr4/mlK/mjJEgMuKAkzMg5Liq77yM6Iez5bCR5LiA5Liq5LiN5Zyo5LiL6Z2i44CM5pyA5L+X55qE54mI5pys44CN6YeM44CCCi0g5L+h5Y+35LuO5Li76aKY6YeM6YCJ77yM5LiN5oyJ6aG65bqP5YWo5LiK44CCCi0g5L2O5YiG6L6o546H44CB5Zu65a6a6LCD6Imy5p2/44CB5ae/5Yq/5q2l6L+b5piv6L+Z56eN6aOO5qC855qE57qm5p2f77yM6YCJ5LqG5bCx6KaB5a6I77yb5L+h5Y+35oyR55qE5piv55S75LuA5LmI44CB5oyJ5LuA5LmI5ri45oiP57G75Z6L6K6y44CCCgojIyDov5nkuKrpo47moLzmnIDkv5fnmoTniYjmnKwKLSDnlLvpnaLvvJrntKvok53lpJznqbrjgIHkuIDkuKrlsI/kurrot7Pov5vnlLvpnaLjgIHpobbnoJblh7rph5HluIHjgIHnu5PlsL7jgIxHQU1FIE9WRVLjgI3miJbjgIxQUkVTUyBTVEFSVOOAjeOAggotIOWjsOmfs++8muaWueazouiKr+eJh+aXi+W+i+OAgei3s+i3g+WjsOOAgemHkeW4geWPruOAggotIGJyaWVmIOeahCBzdHlsZSDkuIDmoI/lhpnmmI7ov5nmlK/niYflrZDnv7vmjonkuoblk6rlh6DmnaHvvIzmiJbogIXkuLrku4DkuYjliLvmhI/kv53nlZnvvIjmr5TlpoLnlKjmiLfopoHnmoTlsLHmmK/nu4/lhbjniYjvvInjgILkv53nlZnml7bvvIzmiorlipvmsJToirHlnKjmnoTlm77jgIHplZzlpLTjgIHoioLlpY/miJbkuIDkuKrmhI/lpJbnmoTorrDlv4bngrnkuIrjgIIKCiMjIOmAgumFjQotIOeUqOmAlO+8muS9nOWTgembhuOAgeW+queOr+WKqOWbvuOAgUxvZ28g5ryU57uO44CB5ri45oiP5YyW55qE5Lqn5ZOB5a6j5Lyg44CCCi0g5YaF5a6577ya5ri45oiP44CB5oCA5pen44CB5byA5Y+R6ICF5paH5YyW44CB5Y+v54ix55qE6KeS6Imy44CB6a2U5rOVIC8g5YaS6Zmp6ZqQ5Za744CCCgojIyDmioDmnK/ot6/nur8K56a75bGPIENhbnZhc++8iOmAu+i+keWIhui+qOeOh++8ieeUu+Wlveavj+S4gOW4p++8jOWGjeeUqCBgZHJhd0ltYWdlYCDmjInmnIDlpKfmlbTmlbDlgI3mlL7lpKfliLDmmL7npLrnlLvluIPvvIxgaW1hZ2VTbW9vdGhpbmdFbmFibGVkID0gZmFsc2Vg44CBQ1NTIGBpbWFnZS1yZW5kZXJpbmc6IHBpeGVsYXRlZGDjgILmiYDmnInlnZDmoIcgYE1hdGgucm91bmRg44CC6ZyA6KaBIENSVCDmhJ/ml7blj6DliqAgYGNydC12aHMubWRgIOeahOedgOiJsuWZqOOAguS4jeimgSBgLS1ncmFpbmDjgIHkuI3opoEgYC0tZHByYOOAggoKIyMg5p2Q6LSo5LiO5riy5p+TCi0g6KeS6Imy55So5aGr5YWF55+p5b2i5ZKM5YOP57Sg5Liy56iL5bqP5YyW5Zyw5ou877yI5L6L5aaCIDI0w5czMiDlg4/ntKDnmoTop5LoibLvvInvvIzlp7/lir/lgZrmiJDlj4LmlbDvvIjmiYvoh4Lop5LluqbjgIHouqvkvZPotbfkvI/jgIHpgZPlhbfop5LluqbvvInvvIzmr4/luKfmiorlj4LmlbDph4/ljJbliLDnvZHmoLzjgIIKLSDkuI3nlKjmuJDlj5jjgIFgc2hhZG93Qmx1cmDjgIHljYrpgI/mmI7vvJvpmLTlvbHlkozpq5jlhYnpg73mmK/osIPoibLmnb/ph4znmoToibLlnZfjgIIKLSDova7lu5PlhYnvvJrkuLvlhYnmupDnu5nop5LoibLmj48gMSDlg4/ntKDnmoTkuq7ovrnjgIIKLSDnspLlrZDvvJrpooTlhYjmjInluo/lj7fnlJ/miJDnmoTlg4/ntKDngrnvvIjnoa7lrprmgKfvvInvvIzlh7rnlJ/lkozmrbvkuqHnlLHml7bpl7TorqHnrpfjgIIKCiMjIOmFjeiJsgrkuIvpnaLnmoToibLlgLzmmK/npLrkvovvvIznnIvmgJ3ot6/vvIzkuI3opoHljp/moLfnhafmioTjgIIKLSDlm7rlrpogMTbigJMzMiDoibLvvJrlpJznqbogYCMwRDBCMUVgIGAjMUUxQTNBYCBgIzJFMjg2MGDvvIzmmpboibLop5LoibIgYCNDOTU2M0NgIGAjRThBNTRCYCBgI0Y0RDU4RGDvvIzprZTms5XoibIgYCM0RkQ4RkZgIGAjQjc3Q0ZGYCBgI0ZGRjFBOGDvvIzlnLDpnaIgYCMzQjNBNEFgIGAjNUI1QTZCYOOAggotIOinhOWIme+8mueUu+mdoumHjOavj+S4gOS4quWDj+e0oOmDveadpeiHqui/mee7hOminOiJsu+8m+mcgOimgeOAjOa4kOWPmOOAjeaXtueUqOaKluWKqO+8iGRpdGhlcmluZ++8ieOAggotIOaOqOWvvO+8muWFiOWumuS4gOe7hCAxNuKAkzMyIOiJsueahOiwg+iJsuadv++8jOS7juS4u+mimOadpe+8muWknOaZr+OAgeajruael+OAgeaymea8oOOAgeaOjOacuuWbm+iJsuOAgeWTgeeJjOiJsuaOqOWHuuadpeeahOiJsumYtumDveihjO+8m+eUu+mdoumHjOavj+S4quWDj+e0oOmDveWPquadpeiHqui/mee7hOminOiJsuOAgue0q+iTneWknOepuuWKoOaaluiJsuinkuiJsuaYr+acgOW4uOingeeahOmCo+e7hOOAggoKIyMg5a2X5L2TCuWDj+e0oOWtl+S9k++8iFByZXNzIFN0YXJ0IDJQ44CBU2lsa3NjcmVlbuOAgVBpeGVsaWZ5IFNhbnPvvIxPRkzvvInvvJvkuK3mlofnlKjkvY3lm77po47moLznmoTlrZfkvZPvvIzmiJbogIXlnKjpgLvovpHnlLvluIPkuIrnlKgg4omlIDE4cHgg55qE5a2X5oyJIGFscGhhIOmYiOWAvOi9rOaIkOehrOi+ueWDj+e0oOOAggoKIyMg6L+Q5YqoCi0gYHN0ZXBwZWQodCwgMTApYCDph4/ljJbop5LoibLlp7/lir/vvIzlj4LmlbDlnKjlhbPplK7luKfkuYvpl7TnlKjnvJPliqjov4fmuKHvvIzkvYblj5blgLzml7bmjInmraXov5vluKfph4fmoLfjgIIKLSDnibnmlYjvvIjngavoirHjgIHpo57lvLnjgIHpl6rlhYnvvInmr4/luKfpg73liqjjgIIKLSDnlKjnirbmgIHmnLrnu4Tnu4fvvJrlvoXmnLog4oaSIOiThOWKmyDihpIg6YeK5pS+IOKGkiDmlLbmi5sg4oaSIOW+queOr+OAggotICoq6ZWc5aS05ZKM5YWJ54Wn5L+d5oyB5q+P5bin5bmz5ruRKirvvIzlkKbliJnnnIvotbfmnaXlg4/mjonluKfjgIIKCiMjIOeUu+mdouaAjuS5iOa0uwotIOinkuiJsuW+heacuuWKqOeUu++8iOS4pOW4p+WRvOWQuOOAgeecqOecvO+8ie+8m0hVRCDnmoTlv4PlvaLmiJbliIbmlbDpl6rvvJvog4zmma/ph4znmoTmsLTjgIHngavmiorjgIHkupHmjIkgNOKAkzhmcHMg5q2l6L+b5b6q546v77yb6Zeu5Y+35Z2X6ZqU5LiA5Lya5YS/6aG25LiA5LiL44CCCi0g5bCP5b6q546v5q2l6L+b77yM6ZWc5aS05LuN54S25q+P5bin5bmz5ruR44CCCgojIyDplZzlpLTor63ms5UKfCDplZzlpLTov5DliqggfCDooajovr7ku4DkuYggfCDpgILlkIjlk6rnsbvlhoXlrrkgfAp8LS0tfC0tLXwtLS18Cnwg5pW05YOP57Sg5qiq5ZCR5Y236L20IHwg5YmN6L+b44CB5peF56iLIHwg5YWz5Y2h5byP5Y+Z5LqLIHwKfCDmkp7lh7vml7bpnIflsY8gMeKAkzIg6YC76L6R5YOP57SgIHwg5Yqb6YePIHwg6YeK5pS+44CB5ZG95LitIHwKfCDliIfmjaLliLDnibnlhpnvvIjmjaLkuIDlnZfmm7TlsI/nmoTpgLvovpHljLrln5/vvIkgfCDlvLrosIMgfCDlhbPplK7pgZPlhbfjgIHooajmg4UgfAp8IOm7keWcuuWchuW9ouaUtue8qe+8iGlyaXPvvIkgfCDnu5PmnZ/jgIHovazlnLogfCDmrrXokL3liIfmjaIgfAoKIyMg5aOw6Z+z6LCD6Imy5p2/CuiKr+eJh+mfs+S5kO+8muaWueazouaXi+W+i++8iGBsZWFkKHsgd2F2ZTogJ3NxdWFyZScgfSlg77yJ44CB5pa55rOi5oiW5LiJ6KeS5rOi5L2O6Z+z44CB5Zmq5aOw6byT77yI55+tIGBoYXRg44CBYHNuYXJlYO+8ie+8jGBibGlwYOOAgWBnbGl0Y2hg44CB5LiK5ruR55qEIGBwb3Bg44CCQlBNIDEzMOKAkzE2MOOAguesrCAxIOaho+WQiOaIkOacgOWQiOmAguOAggoK5b6L5Yqo5LiO5ZKM5aOw77yI5Li+5L6L77yM5LiN5q2i6L+Z5Lqb77yJ77ya55u05ouNIDEzMOKAkzE2MO+8jOS5n+WPr+S7pSBzaHVmZmxl77yIUlBHIOadkeW6hO+8ieaIliA2LzjvvJvlpKfosIPjgIFNaXhvbHlkaWFu77yI5YaS6Zmp77yJ44CB5ZKM5aOw5bCP6LCD77yIQm9zcyDmiJjvvInjgIHima1WSSDigJMg4pmtVklJIOKAkyBJ77yI6YCa5YWz77yJ44CC6Iqv54mH5oSf55SoIGJ1cyDnmoQgYGNydXNoOiA04oCTNmDjgIFgY3J1c2hSYXRlOiAxMTAwMOKAkzIyMDAwYO+8jOW5suWjsOOAggoKIyMg5Y6f55Sf5omL5rOVCi0g6JOE5Yqb57KS5a2Q6J665peL6IGa5ouiIOKGkiDph4rmlL7pl6rlhYnvvJrpgILlkIjjgIzog73lipvjgI3jgIzniIblj5HjgI3jgIIKLSDlg4/ntKDlnZfmurbop6PmiJDkuIvkuIDplZzvvJrpgILlkIjovazlnLrjgIIKLSDkuIDkuKrlubTku6PkuIDkuKrliIbovqjnjofvvIjku44gNjQg5YOP57Sg5YiwIDMyMCDlg4/ntKDvvInvvJrpgILlkIjov5vljJbjgIHljoblj7LkuLvpopjjgIIKCiMjIOWPmOWMluepuumXtAotIOe7k+aehO+8muS4gOS4quinkuiJsueahOS4gOasoeaWveazle+8m+S4gOWFs+W+ruWei+WFs+WNoe+8m+S4gOS4queJqeWTgeeahOWNh+e6p+i3r+e6v+OAggotIOW8gOWcuu+8mum7keWxj+S4reS4gOS4quWDj+e0oOS6rui1t++8m+inkuiJsuS7jueUu+Wklui3s+i/m+adpeOAggotIOe7k+Wwvu+8muaXoOe8neW+queOr+WbnuW+heacuu+8m+WIhuaVsOadvyAvIOWtmOaho+eUu+mdoumHjOWHuueOsCBsb2dv44CCCgojIyDlnZEKLSDkuprlg4/ntKDkvY3nva7lr7zoh7TovrnnvJjlj5HomZrvvJrmiYDmnInnu5jliLblnZDmoIflj5bmlbTjgIIKLSDkuK3mlofnrJTnlLvns4rmiJDkuIDlm6LjgIIKLSDplZzlpLTkuZ/mraXov5vkuobvvIznlLvpnaLlg4/ljaHpob/jgIIK
+# 16-bit 像素游戏（pixel-game）
+
+> 所有东西画在一块很小的逻辑画布上，整数倍放大；角色姿势一顿一顿地变，特效每帧都在动，像一段精致的 16-bit 游戏动画。
+> 参照（只学语法）：SNES / MD 时代的角色动画和过场、现代像素游戏的光影。不照搬任何游戏的角色、关卡和 UI。
+
+## 本质 / 不是什么
+- 本质：**低逻辑分辨率**（128×96、160×90、320×180）+ **固定调色板** + **姿势步进**（每秒 8–12 张）+ 特效逐帧；每个像素都清清楚楚。
+- 不是：缩小后放大的模糊矢量图；也不是把照片加个像素化滤镜。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 角色动作 | 待机、奔跑、蓄力、释放，每秒 8–12 张姿势 | 能力、行动 |
+| 横版卷轴关卡 | 平台、砖块、视差背景向后滚 | 旅程、挑战 |
+| 俯视 RPG | 格子地图、对话框逐字出现 | 叙事、探索 |
+| HUD | 血条、分数、心形、计时器 | 数据、进度 |
+| 战斗特效 | 闪光、爆点、伤害数字跳出 | 冲击、对比 |
+| 物品栏与升级 | 道具格子、等级提升的闪光 | 功能、成长 |
+| 标题画面 | PRESS START、菜单光标、存档槽 | 开场、结尾 |
+| 世界地图 | 小路连起一个个关卡点 | 路线图、阶段 |
+| 像素字体界面 | 对话框、按钮、像素字 | 文案、说明 |
+| 掌机四色 | 只有四个灰绿色阶的 1-bit / 2-bit 画面 | 怀旧、极简 |
+| 等距像素 | 等距视角的小房间或小镇 | 空间、场景 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 低分辨率、固定调色板、姿势步进是这种风格的约束，选了就要守；信号挑的是画什么、按什么游戏类型讲。
+
+## 这个风格最俗的版本
+- 画面：紫蓝夜空、一个小人跳进画面、顶砖出金币、结尾「GAME OVER」或「PRESS START」。
+- 声音：方波芯片旋律、跳跃声、金币叮。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：作品集、循环动图、Logo 演绎、游戏化的产品宣传。
+- 内容：游戏、怀旧、开发者文化、可爱的角色、魔法 / 冒险隐喻。
+
+## 技术路线
+离屏 Canvas（逻辑分辨率）画好每一帧，再用 `drawImage` 按最大整数倍放大到显示画布，`imageSmoothingEnabled = false`、CSS `image-rendering: pixelated`。所有坐标 `Math.round`。需要 CRT 感时叠加 `crt-vhs.md` 的着色器。不要 `--grain`、不要 `--dpr`。
+
+## 材质与渲染
+- 角色用填充矩形和像素串程序化地拼（例如 24×32 像素的角色），姿势做成参数（手臂角度、身体起伏、道具角度），每帧把参数量化到网格。
+- 不用渐变、`shadowBlur`、半透明；阴影和高光都是调色板里的色块。
+- 轮廓光：主光源给角色描 1 像素的亮边。
+- 粒子：预先按序号生成的像素点（确定性），出生和死亡由时间计算。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 固定 16–32 色：夜空 `#0D0B1E` `#1E1A3A` `#2E2860`，暖色角色 `#C9563C` `#E8A54B` `#F4D58D`，魔法色 `#4FD8FF` `#B77CFF` `#FFF1A8`，地面 `#3B3A4A` `#5B5A6B`。
+- 规则：画面里每一个像素都来自这组颜色；需要「渐变」时用抖动（dithering）。
+- 推导：先定一组 16–32 色的调色板，从主题来：夜景、森林、沙漠、掌机四色、品牌色推出来的色阶都行；画面里每个像素都只来自这组颜色。紫蓝夜空加暖色角色是最常见的那组。
+
+## 字体
+像素字体（Press Start 2P、Silkscreen、Pixelify Sans，OFL）；中文用位图风格的字体，或者在逻辑画布上用 ≥ 18px 的字按 alpha 阈值转成硬边像素。
+
+## 运动
+- `stepped(t, 10)` 量化角色姿势，参数在关键帧之间用缓动过渡，但取值时按步进帧采样。
+- 特效（火花、飞弹、闪光）每帧都动。
+- 用状态机组织：待机 → 蓄力 → 释放 → 收招 → 循环。
+- **镜头和光照保持每帧平滑**，否则看起来像掉帧。
+
+## 画面怎么活
+- 角色待机动画（两帧呼吸、眨眼）；HUD 的心形或分数闪；背景里的水、火把、云按 4–8fps 步进循环；问号块隔一会儿顶一下。
+- 小循环步进，镜头仍然每帧平滑。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 整像素横向卷轴 | 前进、旅程 | 关卡式叙事 |
+| 撞击时震屏 1–2 逻辑像素 | 力量 | 释放、命中 |
+| 切换到特写（换一块更小的逻辑区域） | 强调 | 关键道具、表情 |
+| 黑场圆形收缩（iris） | 结束、转场 | 段落切换 |
+
+## 声音调色板
+芯片音乐：方波旋律（`lead({ wave: 'square' })`）、方波或三角波低音、噪声鼓（短 `hat`、`snare`），`blip`、`glitch`、上滑的 `pop`。BPM 130–160。第 1 档合成最合适。
+
+律动与和声（举例，不止这些）：直拍 130–160，也可以 shuffle（RPG 村庄）或 6/8；大调、Mixolydian（冒险）、和声小调（Boss 战）、♭VI – ♭VII – I（通关）。芯片感用 bus 的 `crush: 4–6`、`crushRate: 11000–22000`，干声。
+
+## 原生手法
+- 蓄力粒子螺旋聚拢 → 释放闪光：适合「能力」「爆发」。
+- 像素块溶解成下一镜：适合转场。
+- 一个年代一个分辨率（从 64 像素到 320 像素）：适合进化、历史主题。
+
+## 变化空间
+- 结构：一个角色的一次施法；一关微型关卡；一个物品的升级路线。
+- 开场：黑屏中一个像素亮起；角色从画外跳进来。
+- 结尾：无缝循环回待机；分数板 / 存档画面里出现 logo。
+
+## 坑
+- 亚像素位置导致边缘发虚：所有绘制坐标取整。
+- 中文笔画糊成一团。
+- 镜头也步进了，画面像卡顿。

@@ -1,1 +1,98 @@
-IyDnjrvnkoPph5HlsZ7mnZDotKjvvIhnbGFzcy1tYXRlcmlhbO+8iQoKPiDkuIDkuKrnlLHnjrvnkoPjgIHph5HlsZ7lkozlhYnmnoTmiJDnmoTkuLvkvZPmgqzmta7lnKjml6DpmZDlu7bkvLjnmoTmmpflnLrph4zvvIzmnaHlvaLnga/miavov4flroPnmoTova7lu5PvvIzplZzlpLTnvJPmhaLogIznsr7noa7lnLDov5DliqjjgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJrpq5jnq6/kuqflk4Hlj5HluIPniYfph4znmoTmmpflnLrmnaHlvaLnga/mkYTlvbHjgIHpgI/mmI7noazku7bnmoTniIbngrjlm77jgIHlvq7ot53ovaznhKbjgILkuI3nhafmkKzku7vkvZXnnJ/lrp7kuqflk4HnmoTlpJblvaLjgIHlk4HniYzlkozlrZfkvZPjgIIKCiMjIOacrOi0qCAvIOS4jeaYr+S7gOS5iAotIOacrOi0qO+8mioq5p2Q6LSo5ZKM5YWJ5piv5Li76KeSKirvvJrpgI/mmI7njrvnkoPnmoTova7lu5PjgIHoibLmlaPovrnnvJjjgIHph5HlsZ7nmoTlhYnluKbjgIHlhoXpg6jpm7bku7bpgI/lh7rmnaXvvJvkuIDliIfnvJPmhaLjgIHnsr7noa7jgIHokL3lnKjmi43kuIrjgIIKLSDkuI3mmK/vvJrnmb3lupXllYblk4Hlm77vvJvnur/moYYgSFVE77yb5Lmf5LiN5piv55So5Luj56CB5pCt5LiA5Liq55yf5a6e5ZOB54mM5Lqn5ZOB55qE5Lu/5Yi25ZOB44CCCgojIyDovqjor4bkv6Hlj7fvvJrmr4/mlK/niYflrZDmjJEgMuKAkzMg5LiqCnwg5L+h5Y+3IHwg6ZW/5LuA5LmI5qC3IHwg6YCC5ZCI55qE5Li76aKYIHwKfC0tLXwtLS18LS0tfAp8IOadoeW9oueBr+aJq+i9ruW7kyB8IOaal+WcuumHjOS4gOmBk+mVv+adoeeBr+WFieayv+i+uee8mOaJq+i/hyB8IOS6p+WTgeS6ruebuCB8Cnwg6YCP5piO5aSW5aOzIHwg6YCP6L+H5aSW5aOz55yL5Yiw6YeM6Z2i55qE6Zu25Lu2IHwg5Y6f55CG44CB5bel6Im6IHwKfCDoibLmlaPovrnnvJggfCDljprnjrvnkoPovrnkuIrkuIDlnIjnu4bnu4bnmoTlvanombkgfCDlhYnlrabjgIHnsr7lr4YgfAp8IOeEpuaVo+WFieeOryB8IOWcsOmdouS4iuaJqeaVo+OAgei3s+WKqOeahOWFieeOryB8IOiMg+WbtOOAgeS/oeWPtyB8Cnwg54iG54K45Zu+IHwg6Zu25Lu25rK/6L2057q/5ouJ5byA44CB5oKs5rWu44CB5YaN5ZCI5ouiIHwg57uT5p6E44CB57uE5oiQIHwKfCDno6jnoILlj5jpgI/mmI4gfCDnspfns5nluqbpmY3liLAgMO+8jOWGhemDqOaYvueOsCB8IOmakOengeOAgeWdpuivmiB8Cnwg5YaF6YOo55qE5YWJIHwg6IO96YeP5oiW5pWw5o2u5Y+Y5oiQ5Zyo5YaF6YOo5rWB5Yqo55qE5YWJIHwg55S15rGg44CB572R57uc44CB5aSE55CG5ZmoIHwKfCDpgI/plZzmlL7lpKcgfCDljprnjrvnkoPmlL7lpKflkI7pnaLnmoTkuJzopb8gfCDplZzlpLTjgIHov4fmu6QgfAp8IOmHkeWxnuWFieW4piB8IOaLieS4nemHkeWxnuS4iuenu+WKqOeahOmrmOWFiSB8IOW3peiJuuOAgei0qOaEnyB8Cnwg5b6u6Led6L2s54SmIHwg54Sm54K55Zyo5Lik5Liq57uG6IqC5LmL6Ze056e75YqoIHwg57uG6IqC44CB5a+55q+UIHwKfCDnjrvnkoPph4znmoTmtrLkvZPmiJbmsJTms6EgfCDpgI/mmI7lrrnlmajph4zmhaLmhaLmtYHliqjnmoTmtrLkvZMgfCDppa7lk4HjgIHpppnmsJvjgIHljJblraYgfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya6buR5bqV5LiK5LiA5Liq546755KD55CD5oiW56uL5pa55L2T5oWi5oWi6L2s44CB5b2p6Jm56Imy5pWj6ZO65ruh6KGo6Z2i44CB6JOd57Sr6Imy5YWJ44CB57uT5bC+IGxvZ28g5rWu546w44CCCi0g5aOw6Z+z77ya5L2O6aKRIGRyb25l44CB546755KD5Y+u55qE5LiA5aOw44CB5LiK5Y2H55qEIHJpc2Vy44CCCi0gYnJpZWYg55qEIHN0eWxlIOS4gOagj+WGmeaYjui/meaUr+eJh+WtkOe/u+aOieS6huWTquWHoOadoe+8jOaIluiAheS4uuS7gOS5iOWIu+aEj+S/neeVme+8iOavlOWmgueUqOaIt+imgeeahOWwseaYr+e7j+WFuOeJiO+8ieOAguS/neeVmeaXtu+8jOaKiuWKm+awlOiKseWcqOaehOWbvuOAgemVnOWktOOAgeiKguWlj+aIluS4gOS4quaEj+WklueahOiusOW/hueCueS4iuOAggoKIyMg6YCC6YWNCi0g55So6YCU77ya5Lqn5ZOB5a6j5Lyg55+t54mH44CBTG9nbyDmvJTnu47vvIjmioogbG9nbyDlgZrmiJDnjrvnkoPvvInjgIHnp5HmioDkuLvpopjniYflpLTjgIIKLSDlhoXlrrnvvJrnoazku7bjgIHlj6/nqb/miLTjgIHog73mupDjgIHpq5jnq6/lk4HniYzjgIHmir3osaHmpoLlv7XnmoTjgIzlrp7kvZPljJbjgI3jgIIKCiMjIOaKgOacr+i3r+e6vwpUaHJlZS5qc++8iOacrOWcsOWuieijhe+8jGltcG9ydG1hcO+8ieOAgmBNZXNoUGh5c2ljYWxNYXRlcmlhbGDvvJrpgI/mmI7njrvnkoPnlKggdHJhbnNtaXNzaW9uIDHjgIFyb3VnaG5lc3Mg4omIIDAuMDLjgIFpb3Ig4omIIDEuNeOAgXRoaWNrbmVzcyDmjqfliLbmipjlsITlvLrluqbvvJvno6jnoILnjrvnkoMgdHJhbnNtaXNzaW9uIOKJiCAwLjg144CBcm91Z2huZXNzIOKJiCAwLjTvvIzlubblnKjlhoXpg6jmiJbog4zlkI7mlL7kuq7nmoTkuJzopb/vvIzlkKbliJnlnKjmmpflnLrph4zkvJrlj5jmiJDngbDloZHmlpnjgILph5HlsZ7nlKjkvY7nspfns5nluqbjgILnjq/looPlhYnkuI3opoHnlKjnhafnm7jmo5ogSERSSe+8iOeql+aIt+WSjOadgueJqeS8muWNsOWcqOeOu+eSg+S4iu+8ie+8jOeUqOS7o+eggeaQreS4gOS4queUseiHquWPkeWFieW5s+mdoue7hOaIkOeahOadoeW9oueBr+Wwj+WcuuaZr++8jOeUqCBgUE1SRU1HZW5lcmF0b3IuZnJvbVNjZW5lYCDng5jmiJDnjq/looPotLTlm77jgILlkI7mnJ/vvJrmma/mt7HvvIjlvq7ot53ml7bmtYXvvInjgIFibG9vbSDlj6rnu5nkuq7luqYgPiAxIOeahOmDqOWIhuOAgua4suafkyBgLS1kcHIgMmDvvIzkuI3liqDpopfnspLjgIIKCiMjIOadkOi0qOS4jua4suafkwotIOadoeW9oueBr++8mumrmOiAjOeqhOeahOiHquWPkeWFieW5s+mdouaUvuWcqOS4u+S9k+WQjuaWueWSjOS+p+mdou+8iOWLvuWLkui9ruW7k++8ie+8jOS4gOWdl+W+iOW8seeahOmhtuWFie+8jOS4gOWdl+maj+aXtumXtOaJq+i/h+eahOOAjOaJq+WFieOAjeW5s+mdou+8iOecn+WunuWHoOS9leS9k++8jOaJgOS7pemrmOWFieOAgeaKmOWwhOOAgeiJsuaVo+mDveS8mueJqeeQhuWcsOenu+WKqO+8jOS4jeimgeeUuyAyRCDpq5jlhYnvvInjgIIKLSDlnLDpnaLvvJrpu5HoibLlhYnms73lnLDpnaLvvIzmqKHns4rlj43lsITvvIzlvoTlkJHmt6Hlh7rvvIzmsqHmnInlnLDlubPnur/jgIIKLSDlhoXpg6jpm7bku7bvvJrpgI/mmI7lpJblo7Pph4znmoTkuJzopb/lv4XpobvmmK/kuI3pgI/mmI7mnZDotKjvvIjpgI/lsITpgJrpgZPlj6rog73nnIvliLDkuI3pgI/mmI7niankvZPvvInjgIIKLSDlhYnlnKjlhoXpg6jmtYHliqjvvJrmsr/lr7zlhYnmnaHnmoQgVVYg5pa55ZCR56e75Yqo55qE6Ieq5Y+R5YWJ6ISJ5Yay77yIYG9uQmVmb3JlQ29tcGlsZWAg5L+u5pS5552A6Imy5Zmo77yJ44CCCgojIyDphY3oibIK5LiL6Z2i55qE6Imy5YC85piv56S65L6L77yM55yL5oCd6Lev77yM5LiN6KaB5Y6f5qC354Wn5oqE44CCCi0g5LiW55WM5piv5Lit5oCn55qE77ya6buR44CB54Gw44CB5p2h5b2i54Gv55qE55m944CB6YeR5bGe5pys6Lqr55qE6Imy6LCD44CCCi0gKirkuIDkuKrlvLrosIPoibLns7vvvIzlj6rnu5nlhYkqKu+8iOWPkeWFieOAgeeEpuaVo+eOr+OAgeiJsuaVo+e6v++8ie+8muWGsOiTnSDihpIg5reh57Sr77yb55Cl54+AIOKGkiDnjqvnkbDvvJvnu78g4oaSIOmdkuOAggotIOiJsuaVo+W9qeiZueWPquWHuueOsOWcqOWOmueOu+eSg+eahOi+uee8mOWSjOeEpuaVo+mHjO+8jOS4jeWHuueOsOWcqOihqOmdouWSjOaWh+Wtl+S4iuOAggotIOaOqOWvvO+8muS4lueVjOS/neaMgeS4reaAp++8iOm7keOAgeeBsOOAgeadoeW9oueBr+eahOeZveOAgemHkeWxnuacrOiJsu+8ie+8jOS4gOS4quW8uuiwg+iJsuezu+WPque7meWFieOAguW8uuiwg+iJsuS7juWTgeeJjOaIluS6p+WTgeadkOi0qOadpe+8m+WGsOiTneWIsOa3oee0q+aYr+acgOW4uOingeeahOmCo+e7hOOAggoKIyMg5a2X5L2TCui2hee7huWtl+mHje+8iDIwMO+8ieeahOWuveWtl+i3neaXoOihrOe6v+S9k+WBmuagh+mimO+8jOaUvuWcqOeUu+mdouS4iuS4ieWIhuS5i+S4gO+8jOS4gOmBk+aWnOWQkeeahOWFieWSjOaJq+WFieWQjOatpeaJq+i/h+Wtl++8m+Wwj+Wtl+eUqOWuveWtl+i3neeahOWkp+WGmeOAggoKIyMg6L+Q5YqoCi0g5omA5pyJ54q25oCB5ZyoIGByZW5kZXIodClgIOmHjOiuvue9ru+8jOS4jeeUqCBgVEhSRUUuQ2xvY2tg44CCCi0g6ZWc5aS05LiA55u05Zyo5ryC77yI57yT5oWi546v57uV5oiW5o6o6L+R77yJ77yM5LuO5LiN6ZSB5q2777yM5Lmf5LiN5omL5oyB44CCCi0g54iG54K45Zu+77ya6Zu25Lu25rK/6L2057q/5ouJ5byA77yIZWFzZS1vdXTvvIznuqbkuqflk4HlsLrlr7jnmoQgMiDlgI3vvInvvIznn63mmoLmgqzmta7vvIzlnKjkuIDkuKrph43mi43kuIrnlKjlvojnn63nmoQgZWFzZS1pbiDlkIjmi6LjgIIKLSDlhYnnmoTohInlhrLlkozmiavlhYnpg73mmK/mi43ngrnkuIrnmoTkuovku7bjgIIKCiMjIOeUu+mdouaAjuS5iOa0uwotIOeOr+Wig+i0tOWbvuaFouaFoui9rO+8jOeOu+eSg+WSjOmHkeWxnuS4iueahOWPjeWwhOS4gOebtOWcqOa1ge+8m+WcsOmdouS4iueahOeEpuaVo+WFieaWkee8k+aFoua4uOenu+OAggotIOmVnOWktOS4jeWBnOa8gu+8iOW3suWcqOi/kOWKqOinhOWImemHjO+8ie+8jOeJqeS9k+acrOi6q+WPr+S7peWujOWFqOmdmeatouOAggoKIyMg6ZWc5aS06K+t5rOVCnwg6ZWc5aS06L+Q5YqoIHwg6KGo6L6+5LuA5LmIIHwg6YCC5ZCI5ZOq57G75YaF5a65IHwKfC0tLXwtLS18LS0tfAp8IOaJq+WFieaOoOi/h+aal+S4reeahOS4u+S9kyArIOaFouaOqCB8IOWFiOingei9ruW7k++8jOWGjeingeWGheWuuSB8IOacquefpeS5i+eJqeOAgeaPreekuiB8Cnwg6auY5L2NIDMvNCDnvJPmhaLnjq/nu5UgfCDkuIDmrKHnnIvlhaggfCDmnLrmnoTlsZXlvIDjgIHlpJrkuKrniYjmnKwgfAp8IOW+rui3ne+8jOeEpueCueS7juWkluWjs+i9rOWIsOWGhemDqOmbtuS7tiB8IOayoeaciemakOiXjyB8IOaIkOWIhuOAgeS8oOaEn+WZqCB8Cnwg54iG54K45Zu+77yM6L2057q/5LiO6KeG57q/57qmIDQwwrAgfCDmioDmnK/kuYvnvo7jgIHmgqzlgZwgfCDnu5PmnoTjgIHovazmipjliY3nmoTlgZzpob8gfAp8IOS9juacuuS9jeS7sOaLjSB8IOe6quW/teeikeaEnyB8IOiAkOeUqOOAgeaXl+iIsCB8Cnwg57yT5oWi5ouJ6L+c6L+b5YWl6LSf56m66Ze0IHwg57uZ5a2X55WZ5L2N572uIHwgc2xvZ2Fu44CB57uT5bC+IHwKCiMjIOWjsOmfs+iwg+iJsuadvwrmnoHnroDnlLXlrZDvvJrnjrvnkoPmhJ/nmoQgRk0g6ZKf5aOw77yIYGJlbGxg77yMcmF0aW8gMy4177yJ44CB6aKX57KSIHNoaW1tZXLjgIHnsr7noa7nmoQgdGljayDnvZHmoLzjgIHmuKnmmpbnmoTpk7rlupXjgIFzdWIgZHJvbmXjgIHnn63kv4Pmn5TlkoznmoTlupXpvJPvvJvmiavlhYnphY3luKbpgJrlmarlo7DnmoTnjrvnkoPmkanmk6blo7DvvIzlkIjmi6LphY3kuIDnsIfpl7TpmpTlh6Dmr6vnp5LnmoQgY2xpY2sg5Yqg5LiA5Liq6Z2e6LCQ5ZKM55qE546755KD5ZKM5bym44CC5ZCI5oui5YmN55WZ5LiA5q615a6M5YWo55qE6Z2Z6Z+z44CC56m66Ze05oSf6KaB5rGC6auY5pe255So56ysIDIg5qGj77yIVG9uZS5qcyDljbfnp6/mt7flk43vvInjgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8muaFouiAjOeyvuehru+8jOaIluiAheaXoOaLje+8m0x5ZGlhbuOAgW1hajcjMTHjgIHlm5vluqblj6Dnva7vvJtgdm94YO+8iHZvd2VsICdvJyAvICd1J++8ieWPr+S7peWBmumAj+aYjueahOS6uuWjsOmTuuW6leOAguabsue6v+W4uOeUqOaKveepuuOAguS6ruiAjOmVv+eahOepuumXtO+8iGBTLnNwYWNlKHsgcm9vbTogMC44OCwgZGFtcDogMC4xIH0pYO+8ieOAggoKIyMg5Y6f55Sf5omL5rOVCi0g6YCP5piO77ya54Sm54K55LuO5aSW5aOz6L2s5Yiw6YeM6Z2i55qE6Zu25Lu244CC6YCC5ZCI44CM55yL5b6X6KeB5Y6f55CG44CN44CCCi0g6YCP6ZWc77ya5Y6a546755KD5pS+5aSn5ZCO6Z2i55qE5Lic6KW/44CC6YCC5ZCI6ZWc5aS044CB6L+H5ruk44CB5pS+5aSn57G75Yqf6IO944CCCi0g5YWJ5Zyo5YaF6YOo5rWB5Yqo77ya6IO96YeP44CB5pWw5o2u44CB54Ot6YeP5Y+Y5oiQ5Y+v6KeB55qE5YWJ44CC6YCC5ZCI55S15rGg44CB572R57uc44CB5aSE55CG5Zmo44CCCi0g54Sm5pWj77ya5YaF6YOo55qE6ISJ5Yay5Y+Y5oiQ5Zyw6Z2i5LiK5omp5pWj55qE5YWJ546v44CC6YCC5ZCI6IyD5Zu044CB5L+h5Y+344CB6aaZ5rCU44CCCi0g56Oo56CC5Y+Y6YCP5piO77ya57KX57OZ5bqm5Yqo55S75YiwIDDvvIzlhoXpg6jmmL7njrDjgILpgILlkIjpmpDnp4HjgIHpgI/mmI7jgIHlnabor5rjgIIKCiMjIOWPmOWMluepuumXtAotIOe7k+aehO+8muS4ieS4queJiOacrOmAkOS4gOavlOi+g+mHjOmdouS6rueahOaYr+S7gOS5iO+8m+S4gOS4queJqeS9k+S7jua4heaZqOWIsOWknOaZmueahOWFie+8m+S4gOWxguS4gOWxguaLhuaOieWkluWjs+ebtOWIsOaguOW/g+OAggotIOW8gOWcuu+8muWFiOeci+WIsOS4gOS4quWGhemDqOmbtuS7tu+8jOWkluWjs+WcqOWug+WRqOWbtOaIkOW9ou+8m+WFiOeci+WIsOWcsOmdouS4iueahOeEpuaVo++8jOWGjemhuuedgOWFieaJvuWIsOeJqeS9k+OAggotIOe7k+Wwvu+8mueJqeS9k+emu+W8gO+8jOeEpuaVo+i/mOWcqOi3s+WKqO+8m+WFieaFouaFoueGhOeBre+8jOWPquWJqei9ruW7k+OAggoKIyMg5Z2RCi0g56Oo56CC546755KD5Zyo6buR5bqV5LiK5YOP6buR5aGR5paZ77ya5YaF6YOo5oiW6IOM5ZCO5pS+5Lqu55qE5Lic6KW/44CCCi0gQWdYIOiJsuiwg+aYoOWwhOS8muaKiuW8uuiwg+iJsua0l+aIkOeZve+8mueUqCBOZXV0cmFsIOiJsuiwg+aYoOWwhOOAggotIOeIhueCuOWbvuWeguebtOS6juinhue6v+aXtuWPquWJqeS4gOaOkue6v++8mui9tOe6v+WSjOinhue6v+e6piA0MMKw44CCCi0g6L2v5Lu25riy5p+T5LiL5p6B5oWi77yaYGNoZWNrLWVudmAg5o+Q56S66L2v5Lu25riy5p+T5pe277yM5YWI6ZmN5YiG6L6o546H5rWL5pe26Ze044CCCg==
+# 玻璃金属材质（glass-material）
+
+> 一个由玻璃、金属和光构成的主体悬浮在无限延伸的暗场里，条形灯扫过它的轮廓，镜头缓慢而精确地运动。
+> 参照（只学语法）：高端产品发布片里的暗场条形灯摄影、透明硬件的爆炸图、微距转焦。不照搬任何真实产品的外形、品牌和字体。
+
+## 本质 / 不是什么
+- 本质：**材质和光是主角**：透明玻璃的轮廓、色散边缘、金属的光带、内部零件透出来；一切缓慢、精确、落在拍上。
+- 不是：白底商品图；线框 HUD；也不是用代码搭一个真实品牌产品的仿制品。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 条形灯扫轮廓 | 暗场里一道长条灯光沿边缘扫过 | 产品亮相 |
+| 透明外壳 | 透过外壳看到里面的零件 | 原理、工艺 |
+| 色散边缘 | 厚玻璃边上一圈细细的彩虹 | 光学、精密 |
+| 焦散光环 | 地面上扩散、跳动的光环 | 范围、信号 |
+| 爆炸图 | 零件沿轴线拉开、悬浮、再合拢 | 结构、组成 |
+| 磨砂变透明 | 粗糙度降到 0，内部显现 | 隐私、坦诚 |
+| 内部的光 | 能量或数据变成在内部流动的光 | 电池、网络、处理器 |
+| 透镜放大 | 厚玻璃放大后面的东西 | 镜头、过滤 |
+| 金属光带 | 拉丝金属上移动的高光 | 工艺、质感 |
+| 微距转焦 | 焦点在两个细节之间移动 | 细节、对比 |
+| 玻璃里的液体或气泡 | 透明容器里慢慢流动的液体 | 饮品、香氛、化学 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+
+## 这个风格最俗的版本
+- 画面：黑底上一个玻璃球或立方体慢慢转、彩虹色散铺满表面、蓝紫色光、结尾 logo 浮现。
+- 声音：低频 drone、玻璃叮的一声、上升的 riser。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：产品宣传短片、Logo 演绎（把 logo 做成玻璃）、科技主题片头。
+- 内容：硬件、可穿戴、能源、高端品牌、抽象概念的「实体化」。
+
+## 技术路线
+Three.js（本地安装，importmap）。`MeshPhysicalMaterial`：透明玻璃用 transmission 1、roughness ≈ 0.02、ior ≈ 1.5、thickness 控制折射强度；磨砂玻璃 transmission ≈ 0.85、roughness ≈ 0.4，并在内部或背后放亮的东西，否则在暗场里会变成灰塑料。金属用低粗糙度。环境光不要用照相棚 HDRI（窗户和杂物会印在玻璃上），用代码搭一个由自发光平面组成的条形灯小场景，用 `PMREMGenerator.fromScene` 烘成环境贴图。后期：景深（微距时浅）、bloom 只给亮度 > 1 的部分。渲染 `--dpr 2`，不加颗粒。
+
+## 材质与渲染
+- 条形灯：高而窄的自发光平面放在主体后方和侧面（勾勒轮廓），一块很弱的顶光，一块随时间扫过的「扫光」平面（真实几何体，所以高光、折射、色散都会物理地移动，不要画 2D 高光）。
+- 地面：黑色光泽地面，模糊反射，径向淡出，没有地平线。
+- 内部零件：透明外壳里的东西必须是不透明材质（透射通道只能看到不透明物体）。
+- 光在内部流动：沿导光条的 UV 方向移动的自发光脉冲（`onBeforeCompile` 修改着色器）。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 世界是中性的：黑、灰、条形灯的白、金属本身的色调。
+- **一个强调色系，只给光**（发光、焦散环、色散线）：冰蓝 → 淡紫；琥珀 → 玫瑰；绿 → 青。
+- 色散彩虹只出现在厚玻璃的边缘和焦散里，不出现在表面和文字上。
+- 推导：世界保持中性（黑、灰、条形灯的白、金属本色），一个强调色系只给光。强调色从品牌或产品材质来；冰蓝到淡紫是最常见的那组。
+
+## 字体
+超细字重（200）的宽字距无衬线体做标题，放在画面上三分之一，一道斜向的光和扫光同步扫过字；小字用宽字距的大写。
+
+## 运动
+- 所有状态在 `render(t)` 里设置，不用 `THREE.Clock`。
+- 镜头一直在漂（缓慢环绕或推近），从不锁死，也不手持。
+- 爆炸图：零件沿轴线拉开（ease-out，约产品尺寸的 2 倍），短暂悬浮，在一个重拍上用很短的 ease-in 合拢。
+- 光的脉冲和扫光都是拍点上的事件。
+
+## 画面怎么活
+- 环境贴图慢慢转，玻璃和金属上的反射一直在流；地面上的焦散光斑缓慢游移。
+- 镜头不停漂（已在运动规则里），物体本身可以完全静止。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 扫光掠过暗中的主体 + 慢推 | 先见轮廓，再见内容 | 未知之物、揭示 |
+| 高位 3/4 缓慢环绕 | 一次看全 | 机构展开、多个版本 |
+| 微距，焦点从外壳转到内部零件 | 没有隐藏 | 成分、传感器 |
+| 爆炸图，轴线与视线约 40° | 技术之美、悬停 | 结构、转折前的停顿 |
+| 低机位仰拍 | 纪念碑感 | 耐用、旗舰 |
+| 缓慢拉远进入负空间 | 给字留位置 | slogan、结尾 |
+
+## 声音调色板
+极简电子：玻璃感的 FM 钟声（`bell`，ratio 3.5）、颗粒 shimmer、精确的 tick 网格、温暖的铺底、sub drone、短促柔和的底鼓；扫光配带通噪声的玻璃摩擦声，合拢配一簇间隔几毫秒的 click 加一个非谐和的玻璃和弦。合拢前留一段完全的静音。空间感要求高时用第 2 档（Tone.js 卷积混响）。
+
+律动与和声（举例，不止这些）：慢而精确，或者无拍；Lydian、maj7#11、四度叠置；`vox`（vowel 'o' / 'u'）可以做透明的人声铺底。曲线常用抽空。亮而长的空间（`S.space({ room: 0.88, damp: 0.1 })`）。
+
+## 原生手法
+- 透明：焦点从外壳转到里面的零件。适合「看得见原理」。
+- 透镜：厚玻璃放大后面的东西。适合镜头、过滤、放大类功能。
+- 光在内部流动：能量、数据、热量变成可见的光。适合电池、网络、处理器。
+- 焦散：内部的脉冲变成地面上扩散的光环。适合范围、信号、香气。
+- 磨砂变透明：粗糙度动画到 0，内部显现。适合隐私、透明、坦诚。
+
+## 变化空间
+- 结构：三个版本逐一比较里面亮的是什么；一个物体从清晨到夜晚的光；一层一层拆掉外壳直到核心。
+- 开场：先看到一个内部零件，外壳在它周围成形；先看到地面上的焦散，再顺着光找到物体。
+- 结尾：物体离开，焦散还在跳动；光慢慢熄灭，只剩轮廓。
+
+## 坑
+- 磨砂玻璃在黑底上像黑塑料：内部或背后放亮的东西。
+- AgX 色调映射会把强调色洗成白：用 Neutral 色调映射。
+- 爆炸图垂直于视线时只剩一排线：轴线和视线约 40°。
+- 软件渲染下极慢：`check-env` 提示软件渲染时，先降分辨率测时间。

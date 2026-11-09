@@ -1,1 +1,224 @@
-aW1wb3J0IGZzIGZyb20gIm5vZGU6ZnMvcHJvbWlzZXMiOwppbXBvcnQgb3MgZnJvbSAibm9kZTpvcyI7CmltcG9ydCBwYXRoIGZyb20gIm5vZGU6cGF0aCI7CmltcG9ydCB7IHNwYXduU3luYyB9IGZyb20gIm5vZGU6Y2hpbGRfcHJvY2VzcyI7CmltcG9ydCB7IGRpc2NvdmVyQ2F0YWxvZywgZGlzY292ZXJUb29sa2l0IH0gZnJvbSAiLi9kaXNjb3Zlci5tanMiOwppbXBvcnQgeyBkZWZhdWx0Q29uZmlnUGF0aCwgc2F2ZUNvbmZpZyB9IGZyb20gIi4vY29uZmlnLm1qcyI7CmltcG9ydCB7IGVuc3VyZURpciwgcGF0aEV4aXN0cywgcmVhZEpzb24gfSBmcm9tICIuL2pzb24ubWpzIjsKCmZ1bmN0aW9uIHJlc3VsdChpZCwgc3RhdHVzLCBtZXNzYWdlLCBoaW50ID0gbnVsbCkgewogIHJldHVybiB7IGlkLCBzdGF0dXMsIG1lc3NhZ2UsIGhpbnQgfTsKfQoKZnVuY3Rpb24gY29tbWFuZFdvcmtzKGNvbW1hbmQsIGFyZ3MpIHsKICBjb25zdCBpbnZvY2F0aW9uID0gc3Bhd25TeW5jKGNvbW1hbmQsIGFyZ3MsIHsKICAgIGVuY29kaW5nOiAidXRmOCIsCiAgICB0aW1lb3V0OiAxMF8wMDAsCiAgICB3aW5kb3dzSGlkZTogdHJ1ZSwKICB9KTsKICByZXR1cm4gaW52b2NhdGlvbi5zdGF0dXMgPT09IDA7Cn0KCmFzeW5jIGZ1bmN0aW9uIHJlc29sdmVGZm1wZWcoZW52KSB7CiAgaWYgKGNvbW1hbmRXb3JrcygiZmZtcGVnIiwgWyItdmVyc2lvbiJdKSkgewogICAgcmV0dXJuICJmZm1wZWciOwogIH0KCiAgY29uc3QgY2FuZGlkYXRlcyA9IFsKICAgIGVudi5WSURFT19BVVRPX1RFTVBMQVRFX0ZGTVBFRywKICAgIGVudi5DT0RFWF9IT01FCiAgICAgID8gcGF0aC5qb2luKGVudi5DT0RFWF9IT01FLCAidG9vbHMiLCAiYmluIiwgImZmbXBlZy5leGUiKQogICAgICA6IG51bGwsCiAgICBwYXRoLmpvaW4ob3MuaG9tZWRpcigpLCAiLmNvZGV4IiwgInRvb2xzIiwgImJpbiIsICJmZm1wZWcuZXhlIiksCiAgXS5maWx0ZXIoQm9vbGVhbik7CgogIGZvciAoY29uc3QgY2FuZGlkYXRlIG9mIGNhbmRpZGF0ZXMpIHsKICAgIGlmICgKICAgICAgKGF3YWl0IHBhdGhFeGlzdHMoY2FuZGlkYXRlKSkgJiYKICAgICAgY29tbWFuZFdvcmtzKGNhbmRpZGF0ZSwgWyItdmVyc2lvbiJdKQogICAgKSB7CiAgICAgIHJldHVybiBjYW5kaWRhdGU7CiAgICB9CiAgfQoKICByZXR1cm4gbnVsbDsKfQoKYXN5bmMgZnVuY3Rpb24gcmVzb2x2ZVZpZGVvVG9ObyhlbnYpIHsKICBpZiAocHJvY2Vzcy5wbGF0Zm9ybSAhPT0gIndpbjMyIikgewogICAgcmV0dXJuIG51bGw7CiAgfQoKICBjb25zdCBiYXNlID0KICAgIGVudi5MT0NBTEFQUERBVEEgfHwKICAgIHBhdGguam9pbihlbnYuVVNFUlBST0ZJTEUgfHwgIiIsICJBcHBEYXRhIiwgIkxvY2FsIik7CiAgY29uc3QgY29tbWFuZFJlY29yZCA9IHBhdGguam9pbihiYXNlLCAiVmlkZW9Ub05vIiwgInNraWxsLXNlcnZlci1jbWQudHh0Iik7CiAgaWYgKGF3YWl0IHBhdGhFeGlzdHMoY29tbWFuZFJlY29yZCkpIHsKICAgIGNvbnN0IHJlY29yZGVkID0gKGF3YWl0IGZzLnJlYWRGaWxlKGNvbW1hbmRSZWNvcmQsICJ1dGY4IikpLnRyaW0oKTsKICAgIGlmIChyZWNvcmRlZCAmJiAoYXdhaXQgcGF0aEV4aXN0cyhyZWNvcmRlZCkpKSB7CiAgICAgIHJldHVybiByZWNvcmRlZDsKICAgIH0KICB9CgogIGNvbnN0IGNhbmRpZGF0ZXMgPSBhd2FpdCBmcwogICAgLnJlYWRkaXIocGF0aC5qb2luKGJhc2UsICJWaWRlb1RvTm8iKSwgeyB3aXRoRmlsZVR5cGVzOiB0cnVlIH0pCiAgICAuY2F0Y2goKCkgPT4gW10pOwogIGNvbnN0IGV4ZWN1dGFibGUgPSBjYW5kaWRhdGVzLmZpbmQoCiAgICAoZW50cnkpID0+CiAgICAgIGVudHJ5LmlzRmlsZSgpICYmIC9eVmlkZW9Ub05vLS4qLXBvcnRhYmxlXC5leGUkL2kudGVzdChlbnRyeS5uYW1lKSwKICApOwogIHJldHVybiBleGVjdXRhYmxlCiAgICA/IHBhdGguam9pbihiYXNlLCAiVmlkZW9Ub05vIiwgZXhlY3V0YWJsZS5uYW1lKQogICAgOiBudWxsOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gcnVuRG9jdG9yKG9wdGlvbnMgPSB7fSkgewogIGNvbnN0IGVudiA9IG9wdGlvbnMuZW52IHx8IHByb2Nlc3MuZW52OwogIGNvbnN0IGNvbmZpZ1BhdGggPSBvcHRpb25zLmNvbmZpZ1BhdGggfHwgZGVmYXVsdENvbmZpZ1BhdGgoZW52KTsKICBjb25zdCBkaXNjb3ZlcmVkID0gYXdhaXQgZGlzY292ZXJUb29sa2l0KHsKICAgIGV4cGxpY2l0Um9vdDogb3B0aW9ucy5raXRSb290LAogICAgY3dkOiBvcHRpb25zLmN3ZCB8fCBwcm9jZXNzLmN3ZCgpLAogICAgZW52LAogICAgY29uZmlnUGF0aCwKICB9KTsKICBjb25zdCBjaGVja3MgPSBbXTsKCiAgY29uc3Qgbm9kZU1ham9yID0gTnVtYmVyKHByb2Nlc3MudmVyc2lvbnMubm9kZS5zcGxpdCgiLiIpWzBdKTsKICBjaGVja3MucHVzaCgKICAgIG5vZGVNYWpvciA+PSAyMgogICAgICA/IHJlc3VsdCgibm9kZSIsICJvayIsIGBOb2RlICR7cHJvY2Vzcy52ZXJzaW9ucy5ub2RlfWApCiAgICAgIDogcmVzdWx0KAogICAgICAgICAgIm5vZGUiLAogICAgICAgICAgImVycm9yIiwKICAgICAgICAgIGBOb2RlICR7cHJvY2Vzcy52ZXJzaW9ucy5ub2RlfWAsCiAgICAgICAgICAiSW5zdGFsbCBOb2RlLmpzIDIyIG9yIG5ld2VyLiIsCiAgICAgICAgKSwKICApOwoKICBpZiAoIWRpc2NvdmVyZWQucm9vdCkgewogICAgY2hlY2tzLnB1c2goCiAgICAgIHJlc3VsdCgKICAgICAgICAidG9vbGtpdCIsCiAgICAgICAgImVycm9yIiwKICAgICAgICAiTm8gdmlkZW8tdGVtcGxhdGUta2l0IHdhcyBmb3VuZC4iLAogICAgICAgICJSdW4gaW5zdGFsbCB3aXRoIC0ta2l0LXJvb3QgcG9pbnRpbmcgdG8gYSB0b29sa2l0IGNvbnRhaW5pbmcga2l0Lmpzb24uIiwKICAgICAgKSwKICAgICk7CiAgICByZXR1cm4gewogICAgICBvazogZmFsc2UsCiAgICAgIHRvb2xraXRSb290OiBudWxsLAogICAgICBjb25maWdQYXRoLAogICAgICBjaGVja3MsCiAgICB9OwogIH0KCiAgY2hlY2tzLnB1c2gocmVzdWx0KCJ0b29sa2l0IiwgIm9rIiwgYFRvb2xraXQgZm91bmQgYXQgJHtkaXNjb3ZlcmVkLnJvb3R9YCkpOwoKICBmb3IgKGNvbnN0IGRpcmVjdG9yeSBvZiBkaXNjb3ZlcmVkLmtpdC5kaXJlY3RvcmllcyB8fCBbXSkgewogICAgaWYgKG9wdGlvbnMuZml4KSB7CiAgICAgIGF3YWl0IGVuc3VyZURpcihwYXRoLmpvaW4oZGlzY292ZXJlZC5yb290LCBkaXJlY3RvcnkpKTsKICAgIH0KICAgIGNvbnN0IGZ1bGxQYXRoID0gcGF0aC5qb2luKGRpc2NvdmVyZWQucm9vdCwgZGlyZWN0b3J5KTsKICAgIGNoZWNrcy5wdXNoKAogICAgICAoYXdhaXQgcGF0aEV4aXN0cyhmdWxsUGF0aCkpCiAgICAgICAgPyByZXN1bHQoYGRpcjoke2RpcmVjdG9yeX1gLCAib2siLCBkaXJlY3RvcnkpCiAgICAgICAgOiByZXN1bHQoCiAgICAgICAgICAgIGBkaXI6JHtkaXJlY3Rvcnl9YCwKICAgICAgICAgICAgImVycm9yIiwKICAgICAgICAgICAgYE1pc3NpbmcgZGlyZWN0b3J5OiAke2RpcmVjdG9yeX1gLAogICAgICAgICAgICAiUnVuIGRvY3RvciAtLWZpeC4iLAogICAgICAgICAgKSwKICAgICk7CiAgfQoKICBjb25zdCBjYXRhbG9nUGF0aCA9IGF3YWl0IGRpc2NvdmVyQ2F0YWxvZyh7CiAgICB0b29sa2l0OiB7IHJvb3Q6IGRpc2NvdmVyZWQucm9vdCwgY29uZmlnOiBkaXNjb3ZlcmVkLmNvbmZpZyB9LAogICAgZXhwbGljaXRQYXRoOiBvcHRpb25zLmNhdGFsb2dQYXRoLAogICAgZW52LAogIH0pOwoKICBpZiAoIWNhdGFsb2dQYXRoKSB7CiAgICBjaGVja3MucHVzaCgKICAgICAgcmVzdWx0KAogICAgICAgICJjYXRhbG9nIiwKICAgICAgICAid2FybmluZyIsCiAgICAgICAgIlRlbXBsYXRlIGNhdGFsb2cgaXMgbm90IGNvbmZpZ3VyZWQuIiwKICAgICAgICAiUGFzcyAtLWNhdGFsb2cgb24gaW5zdGFsbCBvciBzZXQgVklERU9fVEVNUExBVEVfQ0FUQUxPRy4iLAogICAgICApLAogICAgKTsKICB9IGVsc2UgewogICAgdHJ5IHsKICAgICAgY29uc3QgY2F0YWxvZyA9IGF3YWl0IHJlYWRKc29uKGNhdGFsb2dQYXRoKTsKICAgICAgY29uc3QgY291bnQgPSBBcnJheS5pc0FycmF5KGNhdGFsb2cudGVtcGxhdGVzKQogICAgICAgID8gY2F0YWxvZy50ZW1wbGF0ZXMubGVuZ3RoCiAgICAgICAgOiAwOwogICAgICBjaGVja3MucHVzaCgKICAgICAgICByZXN1bHQoCiAgICAgICAgICAiY2F0YWxvZyIsCiAgICAgICAgICAib2siLAogICAgICAgICAgYCR7Y291bnR9IGNhdGFsb2cgdGVtcGxhdGVzIGF0ICR7Y2F0YWxvZ1BhdGh9YCwKICAgICAgICApLAogICAgICApOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgY2hlY2tzLnB1c2goCiAgICAgICAgcmVzdWx0KAogICAgICAgICAgImNhdGFsb2ciLAogICAgICAgICAgImVycm9yIiwKICAgICAgICAgIGBDYW5ub3QgcGFyc2UgY2F0YWxvZzogJHtlcnJvci5tZXNzYWdlfWAsCiAgICAgICAgICAiUmVwbGFjZSBvciByZXBhaXIgY2F0YWxvZy5qc29uLiIsCiAgICAgICAgKSwKICAgICAgKTsKICAgIH0KICB9CgogIGNvbnN0IGZmbXBlZyA9IGF3YWl0IHJlc29sdmVGZm1wZWcoZW52KTsKICBjaGVja3MucHVzaCgKICAgIGZmbXBlZwogICAgICA/IHJlc3VsdCgiZmZtcGVnIiwgIm9rIiwgYEZGbXBlZyBmb3VuZCBhdCAke2ZmbXBlZ31gKQogICAgICA6IHJlc3VsdCgKICAgICAgICAgICJmZm1wZWciLAogICAgICAgICAgImVycm9yIiwKICAgICAgICAgICJGRm1wZWcgaXMgdW5hdmFpbGFibGUuIiwKICAgICAgICAgICJJbnN0YWxsIEZGbXBlZyBhbmQgYWRkIGl0IHRvIFBBVEguIiwKICAgICAgICApLAogICk7CgogIGNvbnN0IHZpZGVvVG9ObyA9IGF3YWl0IHJlc29sdmVWaWRlb1RvTm8oZW52KTsKICBjaGVja3MucHVzaCgKICAgIHZpZGVvVG9ObwogICAgICA/IHJlc3VsdCgidmlkZW90b25vIiwgIm9rIiwgYFZpZGVvVG9ObyBmb3VuZCBhdCAke3ZpZGVvVG9Ob31gKQogICAgICA6IHJlc3VsdCgKICAgICAgICAgICJ2aWRlb3Rvbm8iLAogICAgICAgICAgIndhcm5pbmciLAogICAgICAgICAgIlZpZGVvVG9ObyB3YXMgbm90IGZvdW5kLiIsCiAgICAgICAgICAiSW5zdGFsbCBWaWRlb1RvTm8gYmVmb3JlIGVuYWJsaW5nIHZpZGVvIHRyYW5zY3JpcHRpb24uIiwKICAgICAgICApLAogICk7CgogIGNvbnN0IHJ1bnRpbWVDb25maWdWYWx1ZSA9IHsKICAgIC4uLihkaXNjb3ZlcmVkLmNvbmZpZyB8fCB7fSksCiAgICB0b29sa2l0Um9vdDogZGlzY292ZXJlZC5yb290LAogICAgY2F0YWxvZ1BhdGgsCiAgICBmZm1wZWdQYXRoOiBmZm1wZWcsCiAgICBjb25maWd1cmVkQXQ6CiAgICAgIGRpc2NvdmVyZWQuY29uZmlnPy5jb25maWd1cmVkQXQgfHwgbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogICAgbGFzdERvY3RvckF0OgogICAgICBvcHRpb25zLnBlcnNpc3QgPT09IGZhbHNlCiAgICAgICAgPyBkaXNjb3ZlcmVkLmNvbmZpZz8ubGFzdERvY3RvckF0IHx8IG51bGwKICAgICAgICA6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSwKICB9OwogIGNvbnN0IHJ1bnRpbWVDb25maWcgPQogICAgb3B0aW9ucy5wZXJzaXN0ID09PSBmYWxzZQogICAgICA/IHJ1bnRpbWVDb25maWdWYWx1ZQogICAgICA6IGF3YWl0IHNhdmVDb25maWcocnVudGltZUNvbmZpZ1ZhbHVlLCBjb25maWdQYXRoKTsKCiAgY29uc3QgZXJyb3JzID0gY2hlY2tzLmZpbHRlcigoY2hlY2spID0+IGNoZWNrLnN0YXR1cyA9PT0gImVycm9yIikubGVuZ3RoOwogIHJldHVybiB7CiAgICBvazogZXJyb3JzID09PSAwLAogICAgdG9vbGtpdFJvb3Q6IGRpc2NvdmVyZWQucm9vdCwKICAgIGNvbmZpZ1BhdGgsCiAgICBjYXRhbG9nUGF0aCwKICAgIGNvbmZpZzogcnVudGltZUNvbmZpZywKICAgIGNoZWNrcywKICB9Owp9Cg==
+import fs from "node:fs/promises";
+import os from "node:os";
+import path from "node:path";
+import { spawnSync } from "node:child_process";
+import { discoverCatalog, discoverToolkit } from "./discover.mjs";
+import { defaultConfigPath, saveConfig } from "./config.mjs";
+import { ensureDir, pathExists, readJson } from "./json.mjs";
+
+function result(id, status, message, hint = null) {
+  return { id, status, message, hint };
+}
+
+function commandWorks(command, args) {
+  const invocation = spawnSync(command, args, {
+    encoding: "utf8",
+    timeout: 10_000,
+    windowsHide: true,
+  });
+  return invocation.status === 0;
+}
+
+async function resolveFfmpeg(env) {
+  if (commandWorks("ffmpeg", ["-version"])) {
+    return "ffmpeg";
+  }
+
+  const candidates = [
+    env.VIDEO_AUTO_TEMPLATE_FFMPEG,
+    env.CODEX_HOME
+      ? path.join(env.CODEX_HOME, "tools", "bin", "ffmpeg.exe")
+      : null,
+    path.join(os.homedir(), ".codex", "tools", "bin", "ffmpeg.exe"),
+  ].filter(Boolean);
+
+  for (const candidate of candidates) {
+    if (
+      (await pathExists(candidate)) &&
+      commandWorks(candidate, ["-version"])
+    ) {
+      return candidate;
+    }
+  }
+
+  return null;
+}
+
+async function resolveVideoToNo(env) {
+  if (process.platform !== "win32") {
+    return null;
+  }
+
+  const base =
+    env.LOCALAPPDATA ||
+    path.join(env.USERPROFILE || "", "AppData", "Local");
+  const commandRecord = path.join(base, "VideoToNo", "skill-server-cmd.txt");
+  if (await pathExists(commandRecord)) {
+    const recorded = (await fs.readFile(commandRecord, "utf8")).trim();
+    if (recorded && (await pathExists(recorded))) {
+      return recorded;
+    }
+  }
+
+  const candidates = await fs
+    .readdir(path.join(base, "VideoToNo"), { withFileTypes: true })
+    .catch(() => []);
+  const executable = candidates.find(
+    (entry) =>
+      entry.isFile() && /^VideoToNo-.*-portable\.exe$/i.test(entry.name),
+  );
+  return executable
+    ? path.join(base, "VideoToNo", executable.name)
+    : null;
+}
+
+export async function runDoctor(options = {}) {
+  const env = options.env || process.env;
+  const configPath = options.configPath || defaultConfigPath(env);
+  const discovered = await discoverToolkit({
+    explicitRoot: options.kitRoot,
+    cwd: options.cwd || process.cwd(),
+    env,
+    configPath,
+  });
+  const checks = [];
+
+  const nodeMajor = Number(process.versions.node.split(".")[0]);
+  checks.push(
+    nodeMajor >= 22
+      ? result("node", "ok", `Node ${process.versions.node}`)
+      : result(
+          "node",
+          "error",
+          `Node ${process.versions.node}`,
+          "Install Node.js 22 or newer.",
+        ),
+  );
+
+  if (!discovered.root) {
+    checks.push(
+      result(
+        "toolkit",
+        "error",
+        "No video-template-kit was found.",
+        "Run install with --kit-root pointing to a toolkit containing kit.json.",
+      ),
+    );
+    return {
+      ok: false,
+      toolkitRoot: null,
+      configPath,
+      checks,
+    };
+  }
+
+  checks.push(result("toolkit", "ok", `Toolkit found at ${discovered.root}`));
+
+  for (const directory of discovered.kit.directories || []) {
+    if (options.fix) {
+      await ensureDir(path.join(discovered.root, directory));
+    }
+    const fullPath = path.join(discovered.root, directory);
+    checks.push(
+      (await pathExists(fullPath))
+        ? result(`dir:${directory}`, "ok", directory)
+        : result(
+            `dir:${directory}`,
+            "error",
+            `Missing directory: ${directory}`,
+            "Run doctor --fix.",
+          ),
+    );
+  }
+
+  const catalogPath = await discoverCatalog({
+    toolkit: { root: discovered.root, config: discovered.config },
+    explicitPath: options.catalogPath,
+    env,
+  });
+
+  if (!catalogPath) {
+    checks.push(
+      result(
+        "catalog",
+        "warning",
+        "Template catalog is not configured.",
+        "Pass --catalog on install or set VIDEO_TEMPLATE_CATALOG.",
+      ),
+    );
+  } else {
+    try {
+      const catalog = await readJson(catalogPath);
+      const count = Array.isArray(catalog.templates)
+        ? catalog.templates.length
+        : 0;
+      checks.push(
+        result(
+          "catalog",
+          "ok",
+          `${count} catalog templates at ${catalogPath}`,
+        ),
+      );
+    } catch (error) {
+      checks.push(
+        result(
+          "catalog",
+          "error",
+          `Cannot parse catalog: ${error.message}`,
+          "Replace or repair catalog.json.",
+        ),
+      );
+    }
+  }
+
+  const ffmpeg = await resolveFfmpeg(env);
+  checks.push(
+    ffmpeg
+      ? result("ffmpeg", "ok", `FFmpeg found at ${ffmpeg}`)
+      : result(
+          "ffmpeg",
+          "error",
+          "FFmpeg is unavailable.",
+          "Install FFmpeg and add it to PATH.",
+        ),
+  );
+
+  const videoToNo = await resolveVideoToNo(env);
+  checks.push(
+    videoToNo
+      ? result("videotono", "ok", `VideoToNo found at ${videoToNo}`)
+      : result(
+          "videotono",
+          "warning",
+          "VideoToNo was not found.",
+          "Install VideoToNo before enabling video transcription.",
+        ),
+  );
+
+  const runtimeConfigValue = {
+    ...(discovered.config || {}),
+    toolkitRoot: discovered.root,
+    catalogPath,
+    ffmpegPath: ffmpeg,
+    configuredAt:
+      discovered.config?.configuredAt || new Date().toISOString(),
+    lastDoctorAt:
+      options.persist === false
+        ? discovered.config?.lastDoctorAt || null
+        : new Date().toISOString(),
+  };
+  const runtimeConfig =
+    options.persist === false
+      ? runtimeConfigValue
+      : await saveConfig(runtimeConfigValue, configPath);
+
+  const errors = checks.filter((check) => check.status === "error").length;
+  return {
+    ok: errors === 0,
+    toolkitRoot: discovered.root,
+    configPath,
+    catalogPath,
+    config: runtimeConfig,
+    checks,
+  };
+}

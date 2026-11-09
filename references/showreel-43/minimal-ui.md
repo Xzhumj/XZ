@@ -1,1 +1,94 @@
-IyDmnoHnroDnlYzpnaLvvIhtaW5pbWFsLXVp77yJCgo+IOW5suWHgOeahOiInuWPsOS4iu+8jOecn+WunuaEn+eahOeVjOmdouWFg+e0oOWcqOWPmOW9ouOAgeeCueWHu+OAgeaLluaLve+8jOavj+S4gOS4quWPmOWMlumDveacieW8ueewp+aJi+aEn+OAggo+IOWPgueFp++8iOWPquWtpuivreazle+8ie+8mkRyaWJiYmxlIOe6p+WIq+eahOeVjOmdouWKqOaViOOAgUFwcGxlIC8gTGluZWFyIC8gVmVyY2VsIOeahOS6p+WTgeWKqOaViOOAgeWFrOW8gOeahOOAjOeVjOmdouWPmOW9ouOAjeaPkOekuuivjeaooeadv+OAguS4jeeFp+aQrOWFt+S9k+WTgeeJjOeahOeVjOmdouWSjOWbvuagh+OAggoKIyMg5pys6LSoIC8g5LiN5piv5LuA5LmICi0g5pys6LSo77yaKirnlYzpnaLmnKzouqvmmK/kuLvop5IqKu+8jOWcqOS4gOS4quW5suWHgOOAgeWuiemdmeeahOiInuWPsOS4iuiiq+ecn+WunuWcsOS9v+eUqO+8muS4gOS4quWFg+e0oOi/nue7reWPmOaIkOS4i+S4gOS4queKtuaAge+8jOWFieagh+ecn+eahOWcqOeCueOAgeWcqOaLlu+8jOWwuuWvuOWSjOWchuinkueahOWPmOWMlumDveacieW8ueewp+aJi+aEn+OAguiInuWPsOWPr+S7peaYr+a1heiJsu+8jOS5n+WPr+S7peaYr+WTgeeJjOiJsuaIlua3seiJsu+8jOWPquimgeWuiemdmeOAgeS4jeaKoueVjOmdouOAggotIOS4jeaYr++8mui1m+WNmiBIVUTjgIHmt7HoibLliqDpnJPombnjgIHmi5/nianljJbvvJvkuZ/kuI3mmK/miormiKrlm77lubPnp7vkuIDkuIvnmoTlubvnga/niYfjgIIKCiMjIOi+qOivhuS/oeWPt++8muavj+aUr+eJh+WtkOaMkSAy4oCTMyDkuKoKfCDkv6Hlj7cgfCDplb/ku4DkuYjmoLcgfCDpgILlkIjnmoTkuLvpopggfAp8LS0tfC0tLXwtLS18Cnwg5b2i5Y+Y6ZO+IHwg5LiA5Liq5oyJ6ZKu6L+e57ut5Y+Y5oiQ5Yqg6L2944CB5a+55Yu+44CB5Y2h54mH4oCm4oCm5LiN5YiH6ZWc5aS0IHwg5Yqf6IO95Liy6IGU44CB5rWB56iLIHwKfCDlhYnmoIfmk43kvZwgfCDlhYnmoIfnp7vliqjjgIHmgqzlgZzjgIHmjInkuIvjgIHmi5bmi73vvIzluKbnnJ/lrp7nmoTliqDlh4/pgJ8gfCDkuqTkupLjgIHmlZnnqIsgfAp8IOa1rui1t+eahOWNoeeJhyB8IOeZveWNoeeJh+W4puaflOWSjOaKleW9se+8jOS7juiInuWPsOS4iua1rui1tyB8IOS6p+WTgeS6ruebuCB8Cnwg5YmN5ZCO5rK/5ouJ5Ly4IHwg5oyH56S65p2h56e75Yqo5pe25YmN5rK/5b+r44CB5ZCO5rK/5oWi77yM6KKr5ouJ6ZW/IHwg5YiH5o2i44CB5a+86IiqIHwKfCDnnJ/lrp7miKrlm77ph4znmoTmjqjov5EgfCDplZzlpLTmjqjliLDnnJ/lrp7kuqflk4HnlYzpnaLnmoTmn5DkuKrmjInpkq7kuIogfCDkuqflk4HlrqPkvKAgfAp8IOezu+e7n+aOp+S7tiB8IOW8gOWFs+OAgea7keWdl+OAgeWIhuauteaOp+S7tuOAgemUruebmOW/q+aNt+mUruaPkOekuiB8IOW3peWFt+exu+S6p+WTgSB8Cnwg5ZG95Luk6Z2i5p2/IC8g5pCc57SiIHwg5LiA5Liq6L6T5YWl5qGG6YeM6YCQ5a2X5Ye6546w5p+l6K+i77yM57uT5p6c5YiX6KGo5by55Ye6IHwg5pWI546H5bel5YW344CB5byA5Y+R6ICFIHwKfCDpgJrnn6XlkowgdG9hc3QgfCDku47op5LokL3mu5HlhaXnmoTmj5DnpLrvvIzlh6Dnp5LlkI7mlLblm54gfCDnirbmgIHjgIHmj5DphpIgfAp8IOa3sea1heiJsuWIh+aNoiB8IOWQjOS4gOS4queVjOmdouWcqOS6ruiJsuWSjOaal+iJsuS5i+mXtOe/u+i9rCB8IOS4u+mimOOAgeiuvue9riB8Cnwg5omL5py65oiW56qX5Y+j5aSW5qGGIHwg55WM6Z2i6KOF5Zyo5LiA5Liq5p6B566A55qE6K6+5aSH5oiW56qX5Y+j5qGG6YeMIHwg5aSa56uv5Lqn5ZOBIHwKCuinhOWIme+8mgotIOavj+aUr+aMkSAy4oCTMyDkuKrvvIzoh7PlsJHkuIDkuKrkuI3lnKjkuIvpnaLjgIzmnIDkv5fnmoTniYjmnKzjgI3ph4zjgIIKLSDkv6Hlj7fku47kuLvpopjph4zpgInvvIzkuI3mjInpobrluo/lhajkuIrjgIIKLSDnnJ/lrp7kuqflk4HkvJjlhYjnlKjnnJ/lrp7miKrlm77vvIhzdGFjay5tZCDnrKwgMTAg6IqC77yJ77yM5L+h5Y+35oyR55qE5piv5oCO5LmI5bGV56S65a6D44CCCgojIyDov5nkuKrpo47moLzmnIDkv5fnmoTniYjmnKwKLSDnlLvpnaLvvJrmtYXngbDlupUgKyDmraPkuK3kuIDlvKDnmb3ljaHniYcgKyDok53oibLlvLrosIPoibLvvIzmjInpkq4g4oaSIOWKoOi9veWciCDihpIg5a+55Yu+77yM57uT5bC+5ouJ6L+c5Ye6IGxvZ2/jgIIKLSDlo7Dpn7PvvJrmn5TlkoznmoQgY2xpY2vjgIFwb3Ag5Yqg5LiA5p2h5bmy5YeA55qE55S15a2QIHBsdWNrIOaXi+W+i+OAggotIGJyaWVmIOeahCBzdHlsZSDkuIDmoI/lhpnmmI7ov5nmlK/niYflrZDnv7vmjonkuoblk6rlh6DmnaHvvIzmiJbogIXkuLrku4DkuYjliLvmhI/kv53nlZnvvIjmr5TlpoLnlKjmiLfopoHnmoTlsLHmmK/nu4/lhbjniYjvvInjgILkv53nlZnml7bvvIzmiorlipvmsJToirHlnKjmnoTlm77jgIHplZzlpLTjgIHoioLlpY/miJbkuIDkuKrmhI/lpJbnmoTorrDlv4bngrnkuIrjgIIKCiMjIOmAgumFjQotIOeUqOmAlO+8mlVJIOWKqOaViOa8lOekuuOAgeS6p+WTgeWuo+S8oOefreeJh+OAgeWKn+iDveS7i+e7jeOAgeS9nOWTgembhumHjOeahOeVjOmdouauteOAggotIOWGheWuue+8mkFwcOOAgVNhYVPjgIHlvIDlj5HogIXlt6XlhbfjgIFBSSDkuqflk4HjgIHorr7orqHns7vnu5/jgIIKCiMjIOaKgOacr+i3r+e6vwpET00gLyBTVkfvvIjmloflrZfmjpLniYjotKjph4/mnIDlpb3vvInmiJYgQ2FudmFz44CCYHJlbmRlcih0KWAg6YeM55u05o6l5YaZ5qC35byP44CC5b+r6YCf5b2i5Y+Y5aSa5pe255SoIGAtLXN1YmZyYW1lcyA0YO+8m+aciee7hue6v+WSjOWwj+Wtl+aXtueUqCBgLS1kcHIgMmDjgII2MGZwcyDmm7Tpobrmu5HjgIIKCiMjIOadkOi0qOS4jua4suafkwotIOWchuinkuWNoeeJh++8iDEy4oCTMjhweO+8ieOAgTEuNeKAkzNweCDnu4bmj4/ovrnmiJbml6Dmj4/ovrnjgIHmn5TlkozmipXlvbHvvIjlj6rnu5nmta7otbfnmoTpgqPkuIDlsYLvvJpgMCAyMHB4IDYwcHggcmdiYSgwLDAsMCwuMDgpYO+8ieOAggotIOWbvuagh+e6v+Wuvee7n+S4gO+8iDEuNzXigJMycHjvvInvvIzkuI3nlKggZW1vamnjgIIKLSDlhYnmoIfvvJrnroDljZXnmoTnn6Lph4/nrq3lpLTvvIzmjInkuIvml7bnvKnliLAgMC44OCDlubblh7rnjrDmianmlaPlnIbnjq/jgIIKLSDlj6/ku6XmnInkuIDlsYLpnZ7luLjmt6HnmoTpopfnspLvvIhgLS1ncmFpbiAy4oCTM2DvvInjgIIKCiMjIOmFjeiJsgrkuIvpnaLnmoToibLlgLzmmK/npLrkvovvvIznnIvmgJ3ot6/vvIzkuI3opoHljp/moLfnhafmioTjgIIKLSDog4zmma8gYCNFRkVERThgIC8g5Y2h54mHIGAjRkZGRkZGYCAvIOWiqCBgIzExMTExMWAgLyDngbAgYCM4QTg3ODBgIC8g5by66LCDIGAjM0I1QkZGYAotIOiDjOaZryBgI0Y1RjRGMWAgLyDljaHniYcgYCNGRkZGRkZgIC8g5aKoIGAjMEYwRjEwYCAvIOW8uuiwg++8iOWTgeeJjOiJsu+8iQotIOinhOWIme+8muW8uuiwg+iJsuWPque7meW9k+WJjeiiq+aTjeS9nOeahOmCo+S4quWFg+e0oO+8jOaIluiAheeKtuaAgeaIkOWKn+eahOaXtuWIu+OAggotIOaOqOWvvO+8muiInuWPsOiJsu+8iOaalueBsOOAgeWGt+eBsOOAgeWTgeeJjOiJsueahOaegea1heeJiOOAgea3seiJsumDveWPr+S7pe+8iSsg5Y2h54mHICsg5aKoICsg5LiA5Liq5by66LCD6Imy44CC5by66LCD6Imy5LyY5YWI55So5ZOB54mM6Imy77yb6JOd6Imy5piv5pyA5bi46KeB55qE6YKj5Liq44CCCgojIyDlrZfkvZMK5LiA5qy+5bmy5YeA55qE55WM6Z2i5a2X5L2T5Yqg5LiA5qy+562J5a695a2X5L2T77yaR2Vpc3TjgIFJbnN0cnVtZW50IFNhbnPjgIFNYW5yb3Bl44CBSW50ZXIgVGlnaHTvvJvnrYnlrr3nlKggR2Vpc3QgTW9ubyDmiJYgSmV0QnJhaW5zIE1vbm/jgILkuK3mlofnlKjmgJ3mupDpu5HkvZMgTWVkaXVtIC8gQm9sZOOAggoKIyMg6L+Q5YqoCi0g5by557Cn5qGj5L2N77ya5oyH56S65p2h44CB5byA5YWzIGB7My42LCAwLjh9YO+8m+WuueWZqCBgezIuNCwgMC43NX1g77yb5aSn5qCH6aKYIGB7MS42LCAwLjk1fWDjgILmnIDlpJrluKbkuIDngrnlm57lvLnjgIIKLSDliY3msr/lkozlkI7msr/liIblvIDvvIhyZWNpcGVzLm1kIOesrCAyIOiKgu+8ie+8muenu+WKqOS4reeahOadoeiiq+aLiemVv+OAggotIOWuueWZqOmHjOeahOWGheWuueaNoueKtuaAgeaXtu+8jOaXp+WGheWuueWFiOaooeeziua3oeWHuiAwLjEg56eS77yM5paw5YaF5a655bu25ZCOIDAuMDgg56eS6L+b5Zy644CCCi0g5ouW5ou977ya5oyJ5L2P5pe25pWw5YC855Sx5YWJ5qCH5L2N572u5Yaz5a6a77yM5p2+5omL5ZCO5LuO5b2T5YmN5L2N572u5by55Zue5ZC46ZmE5YC844CCCgojIyDnlLvpnaLmgI7kuYjmtLsKLSDlhYnmoIfnmoTlvoXmnLrvvJrlsI/luYXmvILnp7vmiJblgZzlnKjmjInpkq7kuIrovbvovbvmgqzlgZzvvJvlkI7lj7DnmoTov5vluqbmnaHjgIHmlbDlgLznu6fnu63otbDvvJvkuIDkuKrnirbmgIHngrnvvIjlnKjnur/jgIHlvZXliLbkuK3vvInnvJPmhaLohInlhrLjgIIKLSDnlYzpnaLku6XlpJbkuI3liqDoo4XppbDmgKfliqjmlYjvvIzmtLvnmoTkuJzopb/pg73lupTor6XmmK/nlYzpnaLmnKzmnaXkvJrmnInnmoTnirbmgIHjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDot5/pmo/lvZPliY3nirbmgIHnvKnmlL4gfCDogZrnhKblvZPliY3mk43kvZwgfCDmr4/kuIDkuKrnlYzpnaLnirbmgIEgfAp8IOi9u+W+ruWAvuaWnOWQjuWbnuatoyB8IOeKtuaAgeWIh+aNoueahOiDvemHjyB8IOW9ouWPmOeahOeerOmXtCB8Cnwg5ouJ6L+c5Yiw5a6M5pW06aG16Z2iIHwg5YWo6LKM44CB5LiK5LiL5paHIHwg57uT5bC+44CB5oC757uTIHwKfCDmjqjov5vkuIDkuKrmjInpkq4gfCDov5vlhaXkuIvkuIDkuKrlip/og70gfCDmrrXokL3liIfmjaIgfAoKIyMg5aOw6Z+z6LCD6Imy5p2/CueVjOmdoumfs+aViOWcqOWJje+8mmNsaWNr44CBdGlja+OAgXBvcOOAgXN3aXBl44CB5oiQ5Yqf5pe255qEIGBiZWxsYOOAgumfs+S5kOmAgOWQju+8iGdhaW4gMC4z4oCTMC4077yJ77ya5ouo5bym55C26Z+z77yI5LqU5aOw6Z+z6Zi277yJ44CB6L275bqV6byT44CB6L2v5ouN5omL44CC56ysIDEg5qGj5ZCI5oiQ5Y2z5Y+v44CCCgrlvovliqjkuI7lkozlo7DvvIjkuL7kvovvvIzkuI3mraLov5nkupvvvInvvJrnm7Tmi43jgIHovbsgc3dpbmfvvIjkv4/nmq7nmoTnlYzpnaLvvInvvIzmiJbogIUgNi8477yb5aSn6LCD5LqU5aOw44CBTHlkaWFu77yb5LiA6Zeu5LiA562U77yI5pON5L2cIOKGkiDnlYzpnaLlm57lupTvvInlvojlkIjpgILvvJtgbWFsbGV0YO+8iG1hcmltYmHjgIFrYWxpbWJh77yJ5Y+v5Lul5pu/5LujIHBsdWNr44CC5bmy44CB55+t77yM5LiN5L6n6ZO+5oiW5b6I6L2744CCCgojIyDljp/nlJ/miYvms5UKLSDlvaLlj5jpk77vvJrmjInpkq4g4oaSIOWKoOi9vSDihpIg5a+55Yu+IOKGkiDljaHniYfigKbigKbkuIDplZzliLDlupXjgILpgILlkIjlip/og73kuLLogZTjgIIKLSDmi5bov4flpLTooqvmi4nplb/vvJrpgILlkIjmu5HlnZfjgIHpn7Pph4/jgIHov5vluqbjgIIKLSDlvIDlhbPnmoTlnIbngrnlj5jmiJDkuIvkuIDkuKrnu4Tku7bnmoTmjIfnpLrmnaHvvJrpgILlkIjmtYHnqIvooZTmjqXjgIIKCiMjIOWPmOWMluepuumXtAotIOe7k+aehO+8muS4gOS4queUqOaIt+WujOaIkOS4gOS7tuS6i+eahOWujOaVtOi3r+W+hO+8m+S4gOS4que7hOS7tueahCAxMCDnp43nirbmgIHvvJvlkIzkuIDlvKDljaHniYflnKjkuq7oibLlkozmmpfoibLkuYvpl7TmnaXlm57jgIIKLSDlvIDlnLrvvJrkuIDkuKrmjInpkq7ooqvlhYnmoIfngrnkuIvnmoTpgqPkuIDluKfvvJvnqbrnmb3nlLvpnaLph4zkuIDmoLnlhYnmoIfov5vlhaXjgIIKLSDnu5PlsL7vvJrmiYDmnInnirbmgIHmlLblm57miJDmnIDliJ3nmoTmjInpkq7vvIjlvqrnjq/vvInvvJvmi4nov5zpnLLlh7rlrozmlbTkuqflk4HnlYzpnaLlkowgbG9nb+OAggoKIyMg5Z2RCi0g6KKr57yp5pS+55qE5YWD57Sg5Yqg5LqGIGB3aWxsLWNoYW5nZWDvvIzmloflrZfkvJrns4rjgIIKLSDmlrDml6fmloflrZflj6DlnKjkuIDotbfjgIIKLSDmipXlvbHlpKrph43jgIHmj4/ovrnlpKrnspfvvIzkvJrlj5jlu4nku7fjgIIKLSDnlKggQ1NTIOeUu+S4gOS4quWBh+eVjOmdouWGkuWFheeUqOaIt+eahOecn+WunuS6p+WTge+8muecn+WunuS6p+WTgeimgeeUqOecn+WunuaIquWbvuOAggo=
+# 极简界面（minimal-ui）
+
+> 干净的舞台上，真实感的界面元素在变形、点击、拖拽，每一个变化都有弹簧手感。
+> 参照（只学语法）：Dribbble 级别的界面动效、Apple / Linear / Vercel 的产品动效、公开的「界面变形」提示词模板。不照搬具体品牌的界面和图标。
+
+## 本质 / 不是什么
+- 本质：**界面本身是主角**，在一个干净、安静的舞台上被真实地使用：一个元素连续变成下一个状态，光标真的在点、在拖，尺寸和圆角的变化都有弹簧手感。舞台可以是浅色，也可以是品牌色或深色，只要安静、不抢界面。
+- 不是：赛博 HUD、深色加霓虹、拟物化；也不是把截图平移一下的幻灯片。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 形变链 | 一个按钮连续变成加载、对勾、卡片……不切镜头 | 功能串联、流程 |
+| 光标操作 | 光标移动、悬停、按下、拖拽，带真实的加减速 | 交互、教程 |
+| 浮起的卡片 | 白卡片带柔和投影，从舞台上浮起 | 产品亮相 |
+| 前后沿拉伸 | 指示条移动时前沿快、后沿慢，被拉长 | 切换、导航 |
+| 真实截图里的推近 | 镜头推到真实产品界面的某个按钮上 | 产品宣传 |
+| 系统控件 | 开关、滑块、分段控件、键盘快捷键提示 | 工具类产品 |
+| 命令面板 / 搜索 | 一个输入框里逐字出现查询，结果列表弹出 | 效率工具、开发者 |
+| 通知和 toast | 从角落滑入的提示，几秒后收回 | 状态、提醒 |
+| 深浅色切换 | 同一个界面在亮色和暗色之间翻转 | 主题、设置 |
+| 手机或窗口外框 | 界面装在一个极简的设备或窗口框里 | 多端产品 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 真实产品优先用真实截图（stack.md 第 10 节），信号挑的是怎么展示它。
+
+## 这个风格最俗的版本
+- 画面：浅灰底 + 正中一张白卡片 + 蓝色强调色，按钮 → 加载圈 → 对勾，结尾拉远出 logo。
+- 声音：柔和的 click、pop 加一条干净的电子 pluck 旋律。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：UI 动效演示、产品宣传短片、功能介绍、作品集里的界面段。
+- 内容：App、SaaS、开发者工具、AI 产品、设计系统。
+
+## 技术路线
+DOM / SVG（文字排版质量最好）或 Canvas。`render(t)` 里直接写样式。快速形变多时用 `--subframes 4`；有细线和小字时用 `--dpr 2`。60fps 更顺滑。
+
+## 材质与渲染
+- 圆角卡片（12–28px）、1.5–3px 细描边或无描边、柔和投影（只给浮起的那一层：`0 20px 60px rgba(0,0,0,.08)`）。
+- 图标线宽统一（1.75–2px），不用 emoji。
+- 光标：简单的矢量箭头，按下时缩到 0.88 并出现扩散圆环。
+- 可以有一层非常淡的颗粒（`--grain 2–3`）。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 背景 `#EFEDE8` / 卡片 `#FFFFFF` / 墨 `#111111` / 灰 `#8A8780` / 强调 `#3B5BFF`
+- 背景 `#F5F4F1` / 卡片 `#FFFFFF` / 墨 `#0F0F10` / 强调（品牌色）
+- 规则：强调色只给当前被操作的那个元素，或者状态成功的时刻。
+- 推导：舞台色（暖灰、冷灰、品牌色的极浅版、深色都可以）+ 卡片 + 墨 + 一个强调色。强调色优先用品牌色；蓝色是最常见的那个。
+
+## 字体
+一款干净的界面字体加一款等宽字体：Geist、Instrument Sans、Manrope、Inter Tight；等宽用 Geist Mono 或 JetBrains Mono。中文用思源黑体 Medium / Bold。
+
+## 运动
+- 弹簧档位：指示条、开关 `{3.6, 0.8}`；容器 `{2.4, 0.75}`；大标题 `{1.6, 0.95}`。最多带一点回弹。
+- 前沿和后沿分开（recipes.md 第 2 节）：移动中的条被拉长。
+- 容器里的内容换状态时，旧内容先模糊淡出 0.1 秒，新内容延后 0.08 秒进场。
+- 拖拽：按住时数值由光标位置决定，松手后从当前位置弹回吸附值。
+
+## 画面怎么活
+- 光标的待机：小幅漂移或停在按钮上轻轻悬停；后台的进度条、数值继续走；一个状态点（在线、录制中）缓慢脉冲。
+- 界面以外不加装饰性动效，活的东西都应该是界面本来会有的状态。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 跟随当前状态缩放 | 聚焦当前操作 | 每一个界面状态 |
+| 轻微倾斜后回正 | 状态切换的能量 | 形变的瞬间 |
+| 拉远到完整页面 | 全貌、上下文 | 结尾、总结 |
+| 推进一个按钮 | 进入下一个功能 | 段落切换 |
+
+## 声音调色板
+界面音效在前：click、tick、pop、swipe、成功时的 `bell`。音乐退后（gain 0.3–0.4）：拨弦琶音（五声音阶）、轻底鼓、软拍手。第 1 档合成即可。
+
+律动与和声（举例，不止这些）：直拍、轻 swing（俏皮的界面），或者 6/8；大调五声、Lydian；一问一答（操作 → 界面回应）很合适；`mallet`（marimba、kalimba）可以替代 pluck。干、短，不侧链或很轻。
+
+## 原生手法
+- 形变链：按钮 → 加载 → 对勾 → 卡片……一镜到底。适合功能串联。
+- 拖过头被拉长：适合滑块、音量、进度。
+- 开关的圆点变成下一个组件的指示条：适合流程衔接。
+
+## 变化空间
+- 结构：一个用户完成一件事的完整路径；一个组件的 10 种状态；同一张卡片在亮色和暗色之间来回。
+- 开场：一个按钮被光标点下的那一帧；空白画面里一根光标进入。
+- 结尾：所有状态收回成最初的按钮（循环）；拉远露出完整产品界面和 logo。
+
+## 坑
+- 被缩放的元素加了 `will-change`，文字会糊。
+- 新旧文字叠在一起。
+- 投影太重、描边太粗，会变廉价。
+- 用 CSS 画一个假界面冒充用户的真实产品：真实产品要用真实截图。

@@ -1,1 +1,106 @@
-IyBJbnB1dCBDb25zaXN0ZW5jeQoKIyMgQWNjZXB0ZWQgY29tYmluYXRpb25zCgpBIHByb2plY3QgbWF5IHN0YXJ0IHdpdGggYW55IG9uZSBwcmltYXJ5IGlucHV0OgoKLSBDb3B5LgotIFNSVC4KLSBTcGVlY2ggYXVkaW8uCi0gVGFsa2luZy1oZWFkIHZpZGVvLgoKTXVsdGlwbGUgaW5wdXRzIGFyZSBhbGxvd2VkIG9ubHkgd2hlbiB0aGV5IGRlc2NyaWJlIHRoZSBzYW1lIGNvbnRlbnQuIEV4YW1wbGVzOgoKLSBDb3B5IHBsdXMgU1JULgotIENvcHkgcGx1cyBuYXJyYXRpb24gYXVkaW8uCi0gU1JUIHBsdXMgdGFsa2luZy1oZWFkIHZpZGVvLgotIENvcHksIFNSVCwgYW5kIHRhbGtpbmctaGVhZCB2aWRlby4KClVucmVsYXRlZCB0b3BpY3MgbXVzdCBiZSBzcGxpdCBpbnRvIHNlcGFyYXRlIHByb2plY3RzLiBJbWFnZXMsIGxvZ29zLCBwcm9kdWN0CnNob3RzLCBhbmQgb3RoZXIgc3VwcG9ydGluZyBhc3NldHMgZG8gbm90IGNvdW50IGFzIHByaW1hcnkgdGV4dCBzb3VyY2VzLgoKIyMgQ2hlY2sgYmVmb3JlIG1hdGNoaW5nIGFuZCBwbGFubmluZwoKQ29tcGxldGUgdGhlIGNvbnNpc3RlbmN5IGNoZWNrIGFmdGVyIHJ1bnRpbWUgcHJlZmxpZ2h0IGFuZCBiZWZvcmUgdGVtcGxhdGUKbWF0Y2hpbmcsIHN0b3J5Ym9hcmQgd29yaywgb3IgdGhlIHByb2R1Y3Rpb24gcGxhbi4KCjEuIEludmVudG9yeSBlYWNoIHN1cHBsaWVkIGlucHV0IGFuZCBjb21wdXRlIGEgU0hBLTI1NiBoYXNoIGZvciB0aGUgc291cmNlIGZpbGVzLgoyLiBFeHRyYWN0IHRoZSBTUlQgdGV4dCwgY29weSB0ZXh0LCBhbmQgQVNSIHRyYW5zY3JpcHQuCjMuIENvbXBhcmUgY29udGVudCBpbiByZWFkaW5nIG9yZGVyLgo0LiBUcmVhdCBwdW5jdHVhdGlvbiB2YXJpYW50cywgd2hpdGVzcGFjZSwgbGluZSBicmVha3MsIGFuZCBzdWJ0aXRsZQogICBzZWdtZW50YXRpb24gYXMgcHJlc2VudGF0aW9uIGRpZmZlcmVuY2VzLCBub3QgY29udGVudCBjb25mbGljdHMuCjUuIERvIG5vdCBpZ25vcmUgZGlmZmVyZW5jZXMgaW4gd29yZHMsIG5hbWVzLCBudW1iZXJzLCB1bml0cywgZGF0ZXMsIG9yZGVyLAogICBuZWdhdGlvbiwgY2FsbHMgdG8gYWN0aW9uLCBvciBmYWN0dWFsIGNsYWltcy4KNi4gVHJlYXQgYSBsYW5ndWFnZSBkaWZmZXJlbmNlIGFzIG1hdGVyaWFsIHVubGVzcyB0aGUgaW5wdXRzIGFyZSBleHBsaWNpdGx5CiAgIGFwcHJvdmVkIGFzIHRyYW5zbGF0aW9ucyBvZiBlYWNoIG90aGVyLgo3LiBMaXN0ZW4gdG8gb3IgaW5zcGVjdCBsb3ctY29uZmlkZW5jZSBBU1Igc3BhbnMgYmVmb3JlIGRlY2xhcmluZyBhIGNvbmZsaWN0Lgo4LiBSZWNvcmQgdGhlIGNob3NlbiBjYW5vbmljYWwgdGV4dCBzb3VyY2UsIGxhbmd1YWdlLCBhbmQgYW55IGNvbmZpcm1lZAogICBwcmVzZW50YXRpb24tb25seSBkaWZmZXJlbmNlcyBpbiB0aGUgcHJvZHVjdGlvbiBwbGFuLgoKIyMgQVNSIGV2aWRlbmNlCgpBU1IgaXMgZXZpZGVuY2UgYWJvdXQgd2hhdCB3YXMgc3Bva2VuLCBub3QgYXV0b21hdGljYWxseSB0aGUgYXV0aG9yaXRhdGl2ZQpzY3JpcHQuCgotIElmIHRoZSBhdWRpbyBjbGVhcmx5IG1hdGNoZXMgc3VwcGxpZWQgY29weSBvciBTUlQgYW5kIEFTUiBkaWZmZXJzIG9ubHkgYmVjYXVzZQogIG9mIHJlY29nbml0aW9uIGVycm9ycywgcmVzb2x2ZSB0aGUgZGlmZmVyZW5jZSBhcyBhbiBBU1IgZXJyb3IgYW5kIGNvbnRpbnVlLgotIElmIHRoZSBzcG9rZW4gd29yZHMgZGlmZmVyIGZyb20gc3VwcGxpZWQgY29weSBvciBTUlQgaW4gbWVhbmluZywgc3RvcCBhbmQgYXNrCiAgd2hpY2ggc291cmNlIGlzIGNhbm9uaWNhbC4KLSBQcmVzZXJ2ZSB0aGUgc3VwcGxpZWQgbmFycmF0aW9uIGF1ZGlvIHdoZW4gaXQgaXMgYXBwcm92ZWQgYXMgZmluYWwgYXVkaW8uCi0gRm9yIFNSVC1vbmx5IGlucHV0LCBwcmVzZXJ2ZSB0aGUgc3VwcGxpZWQgc3VidGl0bGUgdGltaW5nLgotIFdoZW4gU1JUIGlzIHN1cHBsaWVkIHdpdGggYXVkaW8gb3IgdGFsa2luZy1oZWFkIHZpZGVvIGFuZCB0aGUgdGV4dHMgYWdyZWUsCiAgcHJlc2VydmUgdGhlIGFwcHJvdmVkIFNSVCB3b3JkaW5nIGFuZCB1c2UgdGhlIHJlYWwgc3BlZWNoIHRpbWluZyBmb3IKICBzdWJ0aXRsZXMuCi0gUmVjb3JkIGFueSBTUlQtdmVyc3VzLXNwZWVjaCB0aW1pbmcgZGlmZmVyZW5jZXMgaW4gdGhlIHByb2R1Y3Rpb24gcGxhbi4gRG8KICBub3Qgc2lsZW50bHkgZGlzY2FyZCB0aGUgc3VwcGxpZWQgdGltaW5nLgoKIyMgQ29uZmxpY3QgaGFuZGxpbmcKCldoZW4gYSBtYXRlcmlhbCBkaWZmZXJlbmNlIHJlbWFpbnMsIHN0b3AgYmVmb3JlIHRlbXBsYXRlIG1hdGNoaW5nIGFuZCByZXBvcnQ6CgotIFRoZSBpbnB1dCBwYWlyIG9yIGZpbGUgbmFtZXMuCi0gVGhlIHJlbGV2YW50IHRpbWVjb2RlIG9yIGNvcHkgc2VnbWVudC4KLSBUaGUgZXhhY3QgZGlmZmVyaW5nIHRleHQuCi0gV2hldGhlciB0aGUgZGlmZmVyZW5jZSBhZmZlY3RzIG5hbWVzLCBudW1iZXJzLCBjbGFpbXMsIG9yZGVyLCBvciBtZWFuaW5nLgoKVGhlbiBhc2sgb25lIGNvbmNpc2UgcXVlc3Rpb246Cgo+IOi/meS6m+WGheWuueS4jeS4gOiHtOOAguS7peaWh+ahiOOAgVNSVOOAgemfs+mikeaIluWPo+aSreS4reeahOWTquS4gOS7veS4uuWHhu+8n+aIluiAheivt+aPkOS+m+S/ruato+eJiOOAggoKRG8gbm90IHByb2NlZWQgdW50aWwgdGhlIHVzZXIgc2VsZWN0cyBhIGNhbm9uaWNhbCBzb3VyY2Ugb3Igc3VwcGxpZXMgYSBjb3JyZWN0ZWQKdmVyc2lvbi4KCiMjIFVzZXItZGlyZWN0ZWQgY2hhbmdlcwoKVGhlIHVzZXIncyBleHBsaWNpdCBjdXJyZW50IGluc3RydWN0aW9ucyBnb3Zlcm4gcmVxdWVzdGVkIGNoYW5nZXMgdG8gcGljdHVyZSwKdGV4dCwgc3VidGl0bGVzLCBuYXJyYXRpb24sIHZvaWNlLCB0aW1pbmcsIG9yIG90aGVyIHZpZGVvIGNvbnRlbnQuIFRoZXNlCmluc3RydWN0aW9ucyBvdmVycmlkZSBzYXZlZCBwcmVmZXJlbmNlcyBhbmQgYXV0b21hdGljIHJlY29tbWVuZGF0aW9ucy4KCi0gVHJlYXQgdGhlIGFwcHJvdmVkIHJldmlzaW9uIGFzIHRoZSBuZXcgY2Fub25pY2FsIHNvdXJjZSBmb3IgYWZmZWN0ZWQKICBzZWdtZW50cy4KLSBSZWJ1aWxkIGFmZmVjdGVkIHN1YnRpdGxlIGN1ZXMsIHZvaWNlIHRpbWluZywgdmlzdWFsLWdyb3VwIHRpbWluZywgc2NlbmUKICBtYXBwaW5nLCBhbmQgdmFsaWRhdGlvbiBhZ2FpbnN0IHRoYXQgcmV2aXNpb24uCi0gRG8gbm90IGludmVudCBmYWN0cywgZXZpZGVuY2UsIG9yIGNsYWltcyBiZXlvbmQgdGhlIHJlcXVlc3RlZCBjaGFuZ2UuIEFzawogIGJlZm9yZSBjb250aW51aW5nIHdoZW4gdGhlIHRhcmdldCwgd29yZGluZywgb3IgYXV0aG9yaXRhdGl2ZSB2ZXJzaW9uIGlzCiAgYW1iaWd1b3VzLgotIFJlY29yZCB0aGUgcmVxdWVzdGVkIGNoYW5nZSBhbmQgYWZmZWN0ZWQgdGltZWNvZGVzIG9yIHNlZ21lbnQgSURzIGluIHRoZQogIHByb2R1Y3Rpb24gcGxhbi4KCiMjIFNpbmdsZS1pbnB1dCBiZWhhdmlvcgoKLSBDb3B5IGFsb25lOiBidWlsZCBzY2VuZXMgYW5kIHRpbWVkIHN1YnRpdGxlcyBmcm9tIHRoZSBhcHByb3ZlZCBjb3B5LgotIFNSVCBhbG9uZTogcHJlc2VydmUgaXRzIHdvcmRzIGFuZCBvcmRlcjsgdGltaW5nIG1heSBiZSByZWdlbmVyYXRlZCBmb3IgdGhlCiAgYXBwcm92ZWQgc3RydWN0dXJlIG9yIHN5bmNocm9uaXplZCBmaW5hbCBhdWRpby4gTmFycmF0aW9uIGlzIG9wdGlvbmFsIHVubGVzcwogIHJlcXVlc3RlZC4KLSBTUlQgcGx1cyBjb25zaXN0ZW50IHNwZWVjaDoga2VlcCB0aGUgYXBwcm92ZWQgU1JUIHdvcmRpbmcgYW5kIHVzZSB0aGUgcmVhbAogIHNwZWVjaCB0aW1pbmc7IGRvY3VtZW50IHRpbWluZyBkaWZmZXJlbmNlcy4KLSBTcGVlY2ggYXVkaW8gYWxvbmU6IHRyYW5zY3JpYmUgaXQgYW5kIHVzZSB0aGUgdmVyaWZpZWQgdHJhbnNjcmlwdCBmb3IKICBzdWJ0aXRsZXM7IHByZXNlcnZlIHRoZSBzdXBwbGllZCBhdWRpby4KLSBUYWxraW5nLWhlYWQgYWxvbmU6IHRyYW5zY3JpYmUgc3BlZWNoLCBwcmVzZXJ2ZSB0aGUgb3JpZ2luYWwgYXVkaW8gYW5kIGV2ZXJ5CiAgc3Bva2VuIHdvcmQsIGFuZCBzeW5jaHJvbml6ZSBjYXB0aW9ucyB0byB0aGUgcmVhbCBzcGVlY2guIE9ubHkgbWlub3Igc3BlZWQsCiAgYnJlYXRoLCBhbmQgc2lsZW50LWdhcCBhZGp1c3RtZW50cyBhcmUgYWxsb3dlZC4KLSBUYWxraW5nLWhlYWQgd2l0aCBsb25nLXBhdXNlIHJlcGVhdGVkIHJldGFrZXM6IHVzZSB3b3JkLWxldmVsIHRpbWVzdGFtcHMgdG8KICBpZGVudGlmeSBvbmx5IGZhaWxlZCByZXBlYXRlZCB0YWtlcyB3aXRoIGEgcmVwZWF0ZWQgb3BlbmluZywgdGhlbiByZWdlbmVyYXRlCiAgdGhlIFNSVCBhZ2FpbnN0IHRoZSBjbGVhbmVkIHRpbWVsaW5lLiBUaGUgY2xlYW5lZCB0ZXh0IG11c3QgcmV0YWluIGV2ZXJ5CiAgdW5pcXVlIHNlbWFudGljIHNlZ21lbnQuCgo=
+# Input Consistency
+
+## Accepted combinations
+
+A project may start with any one primary input:
+
+- Copy.
+- SRT.
+- Speech audio.
+- Talking-head video.
+
+Multiple inputs are allowed only when they describe the same content. Examples:
+
+- Copy plus SRT.
+- Copy plus narration audio.
+- SRT plus talking-head video.
+- Copy, SRT, and talking-head video.
+
+Unrelated topics must be split into separate projects. Images, logos, product
+shots, and other supporting assets do not count as primary text sources.
+
+## Check before matching and planning
+
+Complete the consistency check after runtime preflight and before template
+matching, storyboard work, or the production plan.
+
+1. Inventory each supplied input and compute a SHA-256 hash for the source files.
+2. Extract the SRT text, copy text, and ASR transcript.
+3. Compare content in reading order.
+4. Treat punctuation variants, whitespace, line breaks, and subtitle
+   segmentation as presentation differences, not content conflicts.
+5. Do not ignore differences in words, names, numbers, units, dates, order,
+   negation, calls to action, or factual claims.
+6. Treat a language difference as material unless the inputs are explicitly
+   approved as translations of each other.
+7. Listen to or inspect low-confidence ASR spans before declaring a conflict.
+8. Record the chosen canonical text source, language, and any confirmed
+   presentation-only differences in the production plan.
+
+## ASR evidence
+
+ASR is evidence about what was spoken, not automatically the authoritative
+script.
+
+- If the audio clearly matches supplied copy or SRT and ASR differs only because
+  of recognition errors, resolve the difference as an ASR error and continue.
+- If the spoken words differ from supplied copy or SRT in meaning, stop and ask
+  which source is canonical.
+- Preserve the supplied narration audio when it is approved as final audio.
+- For SRT-only input, preserve the supplied subtitle timing.
+- When SRT is supplied with audio or talking-head video and the texts agree,
+  preserve the approved SRT wording and use the real speech timing for
+  subtitles.
+- Record any SRT-versus-speech timing differences in the production plan. Do
+  not silently discard the supplied timing.
+
+## Conflict handling
+
+When a material difference remains, stop before template matching and report:
+
+- The input pair or file names.
+- The relevant timecode or copy segment.
+- The exact differing text.
+- Whether the difference affects names, numbers, claims, order, or meaning.
+
+Then ask one concise question:
+
+> 这些内容不一致。以文案、SRT、音频或口播中的哪一份为准？或者请提供修正版。
+
+Do not proceed until the user selects a canonical source or supplies a corrected
+version.
+
+## User-directed changes
+
+The user's explicit current instructions govern requested changes to picture,
+text, subtitles, narration, voice, timing, or other video content. These
+instructions override saved preferences and automatic recommendations.
+
+- Treat the approved revision as the new canonical source for affected
+  segments.
+- Rebuild affected subtitle cues, voice timing, visual-group timing, scene
+  mapping, and validation against that revision.
+- Do not invent facts, evidence, or claims beyond the requested change. Ask
+  before continuing when the target, wording, or authoritative version is
+  ambiguous.
+- Record the requested change and affected timecodes or segment IDs in the
+  production plan.
+
+## Single-input behavior
+
+- Copy alone: build scenes and timed subtitles from the approved copy.
+- SRT alone: preserve its words and order; timing may be regenerated for the
+  approved structure or synchronized final audio. Narration is optional unless
+  requested.
+- SRT plus consistent speech: keep the approved SRT wording and use the real
+  speech timing; document timing differences.
+- Speech audio alone: transcribe it and use the verified transcript for
+  subtitles; preserve the supplied audio.
+- Talking-head alone: transcribe speech, preserve the original audio and every
+  spoken word, and synchronize captions to the real speech. Only minor speed,
+  breath, and silent-gap adjustments are allowed.
+- Talking-head with long-pause repeated retakes: use word-level timestamps to
+  identify only failed repeated takes with a repeated opening, then regenerate
+  the SRT against the cleaned timeline. The cleaned text must retain every
+  unique semantic segment.
+

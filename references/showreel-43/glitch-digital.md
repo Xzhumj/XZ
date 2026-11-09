@@ -1,1 +1,102 @@
-IyDmlbDlrZfmlYXpmpzvvIhnbGl0Y2gtZGlnaXRhbO+8iQoKPiDmlbDlrZfkv6Hlj7flh7rkuobplJnvvJrlg4/ntKDooqvmi4nmia/jgIHmlbDmja7lnZfplJnkvY3jgIHljovnvKnkvKrlvbHmuqLlh7rjgIHmloflrZfkubHnoIHph43mjpLjgILnlLvpnaLlg4/kuIDmrrXmraPlnKjltKnmuoPlj4jooqvkv67lpb3nmoTmlbDmja7mtYHjgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJrmlYXpmpzoibrmnK/vvIhnbGl0Y2ggYXJ077yJ44CB5pWw5o2u5byv5puy77yIZGF0YWJlbmRpbmfvvInlkowgZGF0YW1vc2gg5L2c5ZOB44CB5YOP57Sg5o6S5bqP77yIcGl4ZWwgc29ydGluZ++8ieOAgeino+aehOS4u+S5ieW5s+mdouiuvuiuoeOAgeeUteWtkOmfs+S5kOeahOinhuinieOAguS4jeeFp+aQrOWFt+S9k+S9nOWTgeOAggoKIyMg5pys6LSoIC8g5LiN5piv5LuA5LmICi0g5pys6LSo77yaKirmlbDlrZflqpLku4voh6rlt7HnmoTplJnor68qKuOAguaVhemanOadpeiHquaVsOWtl+S/oeWPt+eahOeJqeeQhuinhOW+i++8muWOi+e8qeWdl+OAgee8lueggemUmeS9jeOAgeavlOeJuee/u+i9rOOAgeWGheWtmOivu+mUme+8m+aVhemanOaciee7k+aehOOAgeacieiKguWlj++8jOiQveWcqOaLjeS4iu+8jOmUmeivr+acrOi6q+WcqOiusuWGheWuue+8iOiiq+WFpeS+teOAgeiiq+mHjeWGmeOAgeWcqOWNh+e6p++8ieOAggotIOS4jeaYr++8muaooeaLn+eUteinhueahOaJq+aPj+e6v+WSjOW9leWDj+W4puWZquWjsO+8iOmCo+aYryBgY3J0LXZoc2DvvInvvJvkuZ/kuI3mmK/mr4/kuIDluKfpg73lnKjpmo/mnLrmipbliqjnmoTjgIzotZvljZrjgI3mu6TplZzjgIIKCiMjIOi+qOivhuS/oeWPt++8muavj+aUr+eJh+WtkOaMkSAy4oCTMyDkuKoKfCDkv6Hlj7cgfCDplb/ku4DkuYjmoLcgfCDpgILlkIjnmoTkuLvpopggfAp8LS0tfC0tLXwtLS18Cnwg5Z2X54q26ZSZ5L2NIHwg55S76Z2i6KKr5YiH5oiQ5qiq5p2h5oiW5pa55Z2X77yM5ZCE6Ieq5qiq5ZCR6ZSZ5byAIHwg5Yay5Ye744CB6KKr5YWl5L61IHwKfCDlg4/ntKDmjpLluo8gfCDkuIDniYfljLrln5/nmoTlg4/ntKDmjInkuq7luqbmi4nmiJDplb/mnaEgfCDono3ljJbjgIHmtYHpgJ3jgIHoibrmnK/mhJ8gfAp8IOWOi+e8qeS8quW9sSB8IDjDlzgg55qE6ams6LWb5YWL5Z2X44CB6aKc6Imy6YeP5YyW55qE6Imy6Zi2IHwg5L2O6LSo6YeP44CB5pWw5o2u5o2f5Z2PIHwKfCBkYXRhbW9zaCB8IOS4iuS4gOmVnOeahOi/kOWKqOOAjOaLluOAjeedgOS4i+S4gOmVnOeahOeUu+mdoui1sCB8IOi9rOWcuuOAgeiusOW/humUmeS5sSB8CnwgUkdCIOmAmumBk+WIhuemuyB8IOS4ieS4qumAmumBk+WQhOiHqumUmeW8gO+8jOehrOi+ue+8jOS4jeaYr+aooeeziueahOiJsuW3riB8IOWGsuWHu+OAgeaVsOWtlyB8Cnwg5Lmx56CB6YeN5o6S5paH5a2XIHwg5a2X56ym6ZqP5py66Lez5Y+Y77yM5pyA5ZCO5a6a5oiQ5q2j56Gu55qE6K+NIHwg6Kej56CB44CB5o+t56S644CB5qCH6aKYIHwKfCDmr5Tnibnlm77moYggfCAwIOWSjCAx44CB5Y2B5YWt6L+b5Yi244CB5YaF5a2Y6L2s5YKo6ZO65ruh6IOM5pmvIHwg5bqV5bGC44CB5Luj56CB44CB6buR5a6iIHwKfCDlnY/mrbvlg4/ntKAgfCDlh6DkuKrlm7rlrprnmoTkuq7ngrnmiJblnY/ooYwgfCDlsY/luZXjgIHkuI3lroznvo4gfAp8IOaVsOaNruW8r+absuiJsuW9qSB8IOS4jeiHqueEtueahOmrmOmlseWSjOiJsuWdl+WSjOWPjeiJsiB8IOi/t+W5u+OAgemfs+S5kCB8Cnwg6Kej5p6E54mI5byPIHwg5paH5a2X6KKr5YiH5byA44CB5peL6L2s44CB5Y+g5Y2w77yM572R5qC86KKr5pWF5oSP5omT56C0IHwg5Y+b6YCG44CB5oCB5bqmIHwKfCDliqDovb3kuI7ph43lu7ogfCDnlLvpnaLku47kvY7liIbovqjnjofpgJDnuqfmuIXmmbDvvIzmiJbpgJDooYzph43lu7ogfCDkv67lpI3jgIHljYfnuqcgfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggotIOaVhemanOaYr+S6i+S7tu+8jOS4jeaYr+W6lee6ue+8muW5s+aXtueUu+mdouaYr+W5suWHgOeahO+8jOaVhemanOWPquWcqOmHjeaLjeOAgei9rOWcuuOAgeWFs+mUruivjeS4iuWHuueOsO+8jOavj+asoeWHoOW4p+WIsOWNiuenkuOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya6buR5bqV44CB5rSL57qi5ZKM6Z2S55qE6Imy5beu5YWo56iL5oqW5Yqo44CB5qiq5p2h6ZqP5py66ZSZ5L2N44CB5paH5a2X5LiA55u05Zyo5Lmx56CB44CB5Yiw5aSE5piv44CMRVJST1LjgI3lkozljYHlha3ov5vliLbjgIIKLSDlo7Dpn7PvvJrkuI3lgZznmoQgYml0Y3J1c2gg5Zmq5aOw5ZKM6ZqP5py655qE55S15a2Q5ZOU5aOw44CCCi0gYnJpZWYg55qEIHN0eWxlIOS4gOagj+WGmeaYjui/meaUr+eJh+WtkOe/u+aOieS6huWTquWHoOadoe+8jOaIluiAheS4uuS7gOS5iOWIu+aEj+S/neeVme+8iOavlOWmgueUqOaIt+imgeeahOWwseaYr+e7j+WFuOeJiO+8ieOAguS/neeVmeaXtu+8jOaKiuWKm+awlOiKseWcqOaehOWbvuOAgemVnOWktOOAgeiKguWlj+aIluS4gOS4quaEj+WklueahOiusOW/hueCueS4iuOAggoKIyMg6YCC6YWNCi0g55So6YCU77ya54mH5aS044CB6YeR5Y+l5Y2h54K544CB55S15a2Q6Z+z5LmQ55qE6KeG6KeJ44CB5Lqn5ZOB5Y+R5biD6YeM55qE44CM6YeN5p6EIC8g5Y2H57qn44CN5q616JC944CB5L2c5ZOB6ZuG55qE6auY5r2u44CCCi0g5YaF5a6577ya572R57uc5a6J5YWo44CBQUnjgIHlvIDlj5HogIXlt6XlhbfjgIHnlLXlrZDpn7PkuZDjgIHmuLjmiI/jgIHmva7mtYHlk4HniYzjgIHjgIzmiZPnoLTluLjop4TjgI3nsbvkuLvpopjjgIIKLSDkuI3pgILlkIjvvJrpnIDopoHkv6Hku7vmhJ/jgIHmuKnmmpbmhJ/nmoTkuLvpopjvvJvmloflrZfpnIDopoHplb/ml7bpl7TpmIXor7vnmoTmrrXokL3vvIjmlYXpmpzkvJrlubLmibDpmIXor7vvvInjgIIKCiMjIOaKgOacr+i3r+e6vwrlhoXlrrnlhYjnlKggQ2FudmFzIDJEIOeUu+Wlve+8iOW5suWHgOeahOeJiOacrO+8ie+8jOWGjeeUqCBXZWJHTCDlkI7mnJ/lgZrmlYXpmpzvvJrlnZfnirbplJnkvY3mjIkgYGZsb29yKHV2LnkgKiByb3dzKWAg5Y+W5LiA5Liq6ZqP5py65YGP56e777ybUkdCIOWIhuemu+WIhuWIq+WvueS4ieS4qumAmumBk+mHh+agt++8m+WDj+e0oOaOkuW6j+WcqCBDUFUg5LiK5a+56YCJ5Lit55qE5Yy65Z+f5oyJ5Lqu5bqm5o6S5bqP77yI5Yy65Z+f5bCP5LiA54K577yM5ZCm5YiZ5oWi77yJ77yb5Y6L57yp5Lyq5b2x55SoIDjDlzgg5Z2X55qE5bmz5Z2H6Imy5Yqg6YeP5YyW44CC5omA5pyJ6ZqP5py66YO955SoIGBoYXNoKOWdl+W6j+WPtywgZmxvb3IodCAqIGZwcykpYO+8jOaVhemanOW8uuW6pueUsSB0aW1lbGluZSDph4znmoTkuovku7bpqbHliqjvvIzkuI3opoHmr4/luKfpmo/mnLrlvIDlhbPjgIIKCiMjIOadkOi0qOS4jua4suafkwotIOWdl+eKtumUmeS9je+8muaoquadoemrmOW6puS4jeetie+8iDTigJM2MHB477yJ77yM5YGP56e76YeP6ZqP5by65bqm5Y+Y5YyW77yM5YG25bCU5LiA5p2h5pW05Liq5o2i5oiQ5LiK5LiA5bin5oiW5LiL5LiA6ZWc55qE5YaF5a6544CCCi0gUkdCIOWIhuemu++8muehrOi+ueOAgeaVtOWDj+e0oOWBj+enu++8iDLigJMxMnB477yJ77yM5LiN6KaB5qih57OK44CCCi0g5YOP57Sg5o6S5bqP77ya6YCJ5Lqu5bqm5Zyo5p+Q5Liq5Yy66Ze05YaF55qE5YOP57Sg77yM5oyJ5YiX5oiW5oyJ6KGM5o6S5bqP77yM5ouJ5Ye66ZW/5p2h44CCCi0g5Lmx56CB77ya5a2X56ym5LuO5LiA5Liq5a2X56ym6ZuG77yIQeKAk1rjgIEw4oCTOeOAgeespuWPt+OAgeaWueWdl+Wtl+espu+8iemHjOi3s++8jOi3s+eahOmikeeOh+mAkOa4kOmZjeS9ju+8jOacgOWQjumAkOWtl+WumuaIkOato+ehrueahOivjeOAggotIOmHjeW7uu+8mueUu+mdouWFiOaYryAxNsOXOSDnmoTpqazotZvlhYvvvIzmjIkgMiDlgI3pgJDnuqfmuIXmmbDvvIzmiJbogIXku47kuIrliLDkuIvpgJDooYzjgIzop6PnoIHjgI3lh7rmnaXjgIIKCiMjIOmFjeiJsgrkuIvpnaLnmoToibLlgLzmmK/npLrkvovvvIznnIvmgJ3ot6/vvIzkuI3opoHljp/moLfnhafmioTjgIIKLSDpu5Hnmb3liqDkuIDkuKrplJnor6/oibLvvJrpu5EgYCMwQTBBMEFgIC8g55m9IGAjRjJGMkYyYCAvIOmUmeivr+e6oiBgI0ZGMkEyQWAKLSDmlbDmja7lvanvvJrov5Hpu5EgYCMwQjBDMTBgIC8g6I2n5YWJ57u/IGAjMzlGRjE0YCAvIOWTgee6oiBgI0ZGMDBBOGAgLyDnlLXlhYnok50gYCMwMEIzRkZgCi0g5rWF6Imy6Kej5p6E77ya57q455m9IGAjRURFREU4YCAvIOWiqCBgIzExMWAgLyDojaflhYnmqZkgYCNGRjZBMDBgCi0g5o6o5a+877ya5bmy5YeA54q25oCB5LiL55S76Z2i55So5ZOB54mM5oiW5Li76aKY55qE6YWN6Imy77yb5pWF6Zqc5pe25omN5Ye6546w44CM6ZSZ6K+v6Imy44CN77yI6YCa6YGT5YiG56a75Ye65p2l55qE5Y6f6Imy44CB5Y+N6Imy44CB6auY6aWx5ZKM77yJ44CC5rSL57qi5Yqg6Z2S55qE6Imy5beu5piv5pyA5bi46KeB55qE6YKj57uE77yM5Y2V5LiA6ZSZ6K+v6Imy5oiW6ICF5rWF5bqV6buR5a2X55qE5pWF6Zqc5Lmf5b6I5pyJ5Yqb44CCCgojIyDlrZfkvZMK562J5a695a2X5L2T5YGa5pWw5o2u5ZKM5Lmx56CB77yISmV0QnJhaW5zIE1vbm/jgIFJQk0gUGxleCBNb25v44CBU3BhY2UgTW9ub++8ie+8m+agh+mimOeUqOeyl+eahOaAquivnuS9k+aIlueqhOS9k++8iEFyY2hpdm8gQmxhY2vjgIFTcGFjZSBHcm90ZXNr44CBQW50b27vvInvvIzlj6/ku6XooqvliIflvIDjgIHplJnkvY3jgIHlj6DljbDjgIIKCiMjIOi/kOWKqAotIOaVhemanOaYr+eerOaXtueahO+8mjLigJM4IOW4p+eahOW8uuaVhemanO+8jOmFjeWQiOmHjeaLje+8m+S5i+WQjui/hemAn+aBouWkjeW5suWHgOOAggotIOaBouWkjeW5suWHgOS5n+aYr+S4gOenjeWKqOS9nO+8mumUmeS9jeeahOWdl+eUqCBgc25hcGAg5b2S5L2N77yM6YCa6YGT55So5b6I5b+r55qE5by557CnIGB7NCwgMC45fWAg5ZCI5oui44CCCi0g5Lmx56CB5a6a5a2X5LuO5bem5Yiw5Y+z6YCQ5Liq6JC95a6a77yM5q+P5Liq5a2XIDMw4oCTNjAg5q+r56eS44CCCi0g5YG25bCU55So5LiA5qyh44CM5Ya757uTICsg5Y2h5bin44CN77ya55S76Z2i5YGc5Zyo5LiA5bin5LiK6YeN5aSNIDPigJM0IOasoeWGjee7p+e7reOAggoKIyMg55S76Z2i5oCO5LmI5rS7Ci0g5bmz5pe25Lul5bmy5YeA5Li65Li777ya5Y+q55WZ5LiA5Lik5Liq5Z2P5q275YOP57Sg44CB5LiA5p2h5p6B57uG55qE6ZSZ5L2N57q/5YG25bCU6Zeq5LiA5LiL44CCCi0g6IOM5pmv55qE5q+U54m55Zu+5qGI5oiW5Y2B5YWt6L+b5Yi257yT5oWi5rua5Yqo77yM5Lqu5bqm5b6I5L2O44CCCi0g5aSn55qE5pWF6Zqc55WZ57uZ6YeN5ouN77yM5bmz5pe25Yqo5b6X6LaK5bCR77yM5pWF6Zqc6LaK5pyJ5Yay5Ye75Yqb44CCCgojIyDplZzlpLTor63ms5UKfCDplZzlpLTov5DliqggfCDooajovr7ku4DkuYggfCDpgILlkIjlk6rnsbvlhoXlrrkgfAp8LS0tfC0tLXwtLS18Cnwg56Gs5YiH5Yqg5Lik5bin5pWF6ZqcIHwg5Yay5Ye744CB5YiH5o2iIHwg5Y2h54K5IHwKfCDmjqjov5HliLDpqazotZvlhYvlnZfvvIzlnZfph4zmmK/kuIvkuIDplZwgfCDov5vlhaXmlbDmja7lhoXpg6ggfCDovazlnLogfAp8IOeUu+mdouOAjOWNoeS9j+OAjeWQjui3s+WIsOS4i+S4gOmVnCB8IOS4reaWreOAgeaEj+WkliB8IOWPjei9rCB8CnwgZGF0YW1vc2gg5ouW5ou96L2s5Zy6IHwg6K6w5b+G44CB5re35LmxIHwg5q616JC95YiH5o2iIHwKfCDpgJDnuqfmuIXmmbDnmoTmi4nlh7ogfCDkv67lpI3jgIHmj63mmZMgfCDokL3niYggfAoKIyMg5aOw6Z+z6LCD6Imy5p2/CmBnbGl0Y2hg44CBYGJsaXBg44CB55+t55qEIGBub2lzZWAg54iG6KOC77yM6YWN5ZCI55S76Z2i5pWF6Zqc55qE5bin77yb6Z+z5LmQ55SoIGJ1cyDnmoQgYGNydXNoYO+8iDTigJM4IGJpdO+8ieWcqOaVhemanOaXtueqgeeEtuWKoOmHjeOAgeW5s+aXtuW5suWHgO+8m2BraWNrYCDlkowgYHNuYXJlYCDlj6/ku6XliqAgZHJpdmXjgILnrKwgMSDmoaPlkIjmiJDlvojlkIjpgILjgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8mklETSDnmoTnoo7mi43jgIFicmVha2NvcmXjgIHmiJbogIXlubLlh4DnmoTlm5vouKnooqvmlYXpmpzmiZPmlq3vvIjjgIzljaHluKbjgI3lvI/nmoTph43lpI3liIfniYfvvJrlkIzkuIDlsI/mrrXpn7PpopHph43lpI0gM+KAkzQg5qyh77yJ77yb6Z+z57CH44CB5YWo6Z+z6Zi244CBUGhyeWdpYW7vvJvkuZ/lj6/ku6XnlKjmlbTmrrXlronpnZnnmoTnjq/looPpn7PvvIzlj6rlnKjmlYXpmpzml7blh7rnjrDliLrogLPnmoTmlbDlrZflmarlo7DjgILlo7Dpn7PnmoTmlYXpmpzlkoznlLvpnaLnmoTmlYXpmpzlv4XpobvlkIzluKfjgIIKCiMjIOWOn+eUn+aJi+azlQotIOS5seeggemHjeaOkuWumuaIkOagh+mimO+8mumAguWQiOeJh+WktOWSjOiQveeJiO+8iOOAjOino+eggeOAje+8ieOAggotIOeUu+mdouW0qeaIkOmprOi1m+WFi++8jOS7jumprOi1m+WFi+mHjOmHjeW7uuWHuuS4i+S4gOmVnO+8mumAguWQiOOAjOWNh+e6p+OAjeOAjOmHjeaehOOAjeOAggotIGRhdGFtb3No77ya5LiK5LiA6ZWc55qE6L+Q5Yqo5ouW552A5LiL5LiA6ZWc55qE5YOP57Sg6LWw77ya6YCC5ZCI6L2s5Zy65ZKM6K6w5b+G6ZSZ5Lmx44CCCi0g5YOP57Sg5o6S5bqP5oqK55S76Z2i44CM6J6N5YyW44CN5oiQ5rWB5Yqo55qE6ZW/5p2h77ya6YCC5ZCI5rWB6YCd44CB5rq26Kej44CCCi0g5YWo56iL6Imy5beu5Yqg5qiq5p2h5Lmx5oqW77ya57uP5YW477yM5pyA5L+X55qE6YKj5LiA56eN44CCCgojIyDlj5jljJbnqbrpl7QKLSDnu5PmnoTvvJrkuIDkuKrns7vnu5/ooqvlhaXkvrUg4oaSIOW0qea6gyDihpIg5L+u5aSN77yb5LiA5byg5Zu+54mH6KKr5LiA5bGC5bGC5Y6L57yp5Yiw6Z2i55uu5YWo6Z2e5YaN5aSN5Y6f77yb5LiA5Y+l6K+d6KKr5Lmx56CB5ZCe5o6J5Y+I5LiA5Liq5a2X5LiA5Liq5a2X5pWR5Zue5p2l44CCCi0g5byA5Zy677ya5bmy5YeA55qE55S76Z2i56qB54S25Y2h5L2P5Lik5bin77yb6buR5bGP5LiK5LiA6KGM5Lmx56CB5a6a5oiQ56ys5LiA5Liq6K+N44CCCi0g57uT5bC+77ya5omA5pyJ5pWF6Zqc5pS25oui77yM55S76Z2i5Y+Y5b6X5byC5bi45bmy5YeA77yMbG9nbyDlrprmoLzvvJvmnIDlkI7kuIDluKflho3pl6rkuIDmrKHmlYXpmpzjgIIKCiMjIOWdkQotIOaVhemanOWFqOeoi+S4jeWBnO+8jOecvOedm+W+iOe0r+OAgeWGheWuueS5n+eci+S4jea4he+8muaVhemanOaYr+S6i+S7tu+8jOW5s+aXtuimgeW5suWHgOOAggotIOavj+W4p+maj+acuuWvvOiHtOe8lueggeWQjueziuaIkOS4gOeJh+OAgeaWh+S7tuW3qOWkp++8mumaj+acuuaMieW4p+WPt+WbuuWumuenjeWtkO+8jOaVhemanOWMuuWfn+aciee7k+aehOOAggotIFJHQiDliIbnprvlgZrmiJDkuobmqKHns4rnmoToibLlt67vvJrmlbDlrZfmlYXpmpzmmK/noazovrnjgIHmlbTlg4/ntKDnmoTjgIIKLSDlhYnmlY/mgKfvvJrlpKfpnaLnp6/pq5jpopHpl6rng4HvvIjmr4/np5LotoXov4cgMyDmrKHnmoTlhajlsY/kuq7mmpfkuqTmm7/vvInlj6/og73lvJXotbfkuI3pgILvvIzpgb/lhY3ov57nu63lhajlsY/pl6rnmb3jgIIKLSDmloflrZflnKjmlYXpmpzph4zor7vkuI3muIXvvJrlhbPplK7mloflrZfmlYXpmpzlkI7opoHlgZznlZnotrPlpJ/plb/nmoTlubLlh4Dml7bpl7TjgIIK
+# 数字故障（glitch-digital）
+
+> 数字信号出了错：像素被拉扯、数据块错位、压缩伪影溢出、文字乱码重排。画面像一段正在崩溃又被修好的数据流。
+> 参照（只学语法）：故障艺术（glitch art）、数据弯曲（databending）和 datamosh 作品、像素排序（pixel sorting）、解构主义平面设计、电子音乐的视觉。不照搬具体作品。
+
+## 本质 / 不是什么
+- 本质：**数字媒介自己的错误**。故障来自数字信号的物理规律：压缩块、编码错位、比特翻转、内存读错；故障有结构、有节奏，落在拍上，错误本身在讲内容（被入侵、被重写、在升级）。
+- 不是：模拟电视的扫描线和录像带噪声（那是 `crt-vhs`）；也不是每一帧都在随机抖动的「赛博」滤镜。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 块状错位 | 画面被切成横条或方块，各自横向错开 | 冲击、被入侵 |
+| 像素排序 | 一片区域的像素按亮度拉成长条 | 融化、流逝、艺术感 |
+| 压缩伪影 | 8×8 的马赛克块、颜色量化的色阶 | 低质量、数据损坏 |
+| datamosh | 上一镜的运动「拖」着下一镜的画面走 | 转场、记忆错乱 |
+| RGB 通道分离 | 三个通道各自错开，硬边，不是模糊的色差 | 冲击、数字 |
+| 乱码重排文字 | 字符随机跳变，最后定成正确的词 | 解码、揭示、标题 |
+| 比特图案 | 0 和 1、十六进制、内存转储铺满背景 | 底层、代码、黑客 |
+| 坏死像素 | 几个固定的亮点或坏行 | 屏幕、不完美 |
+| 数据弯曲色彩 | 不自然的高饱和色块和反色 | 迷幻、音乐 |
+| 解构版式 | 文字被切开、旋转、叠印，网格被故意打破 | 叛逆、态度 |
+| 加载与重建 | 画面从低分辨率逐级清晰，或逐行重建 | 修复、升级 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 故障是事件，不是底纹：平时画面是干净的，故障只在重拍、转场、关键词上出现，每次几帧到半秒。
+
+## 这个风格最俗的版本
+- 画面：黑底、洋红和青的色差全程抖动、横条随机错位、文字一直在乱码、到处是「ERROR」和十六进制。
+- 声音：不停的 bitcrush 噪声和随机的电子哔声。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：片头、金句卡点、电子音乐的视觉、产品发布里的「重构 / 升级」段落、作品集的高潮。
+- 内容：网络安全、AI、开发者工具、电子音乐、游戏、潮流品牌、「打破常规」类主题。
+- 不适合：需要信任感、温暖感的主题；文字需要长时间阅读的段落（故障会干扰阅读）。
+
+## 技术路线
+内容先用 Canvas 2D 画好（干净的版本），再用 WebGL 后期做故障：块状错位按 `floor(uv.y * rows)` 取一个随机偏移；RGB 分离分别对三个通道采样；像素排序在 CPU 上对选中的区域按亮度排序（区域小一点，否则慢）；压缩伪影用 8×8 块的平均色加量化。所有随机都用 `hash(块序号, floor(t * fps))`，故障强度由 timeline 里的事件驱动，不要每帧随机开关。
+
+## 材质与渲染
+- 块状错位：横条高度不等（4–60px），偏移量随强度变化，偶尔一条整个换成上一帧或下一镜的内容。
+- RGB 分离：硬边、整像素偏移（2–12px），不要模糊。
+- 像素排序：选亮度在某个区间内的像素，按列或按行排序，拉出长条。
+- 乱码：字符从一个字符集（A–Z、0–9、符号、方块字符）里跳，跳的频率逐渐降低，最后逐字定成正确的词。
+- 重建：画面先是 16×9 的马赛克，按 2 倍逐级清晰，或者从上到下逐行「解码」出来。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 黑白加一个错误色：黑 `#0A0A0A` / 白 `#F2F2F2` / 错误红 `#FF2A2A`
+- 数据彩：近黑 `#0B0C10` / 荧光绿 `#39FF14` / 品红 `#FF00A8` / 电光蓝 `#00B3FF`
+- 浅色解构：纸白 `#EDEDE8` / 墨 `#111` / 荧光橙 `#FF6A00`
+- 推导：干净状态下画面用品牌或主题的配色；故障时才出现「错误色」（通道分离出来的原色、反色、高饱和）。洋红加青的色差是最常见的那组，单一错误色或者浅底黑字的故障也很有力。
+
+## 字体
+等宽字体做数据和乱码（JetBrains Mono、IBM Plex Mono、Space Mono）；标题用粗的怪诞体或窄体（Archivo Black、Space Grotesk、Anton），可以被切开、错位、叠印。
+
+## 运动
+- 故障是瞬时的：2–8 帧的强故障，配合重拍；之后迅速恢复干净。
+- 恢复干净也是一种动作：错位的块用 `snap` 归位，通道用很快的弹簧 `{4, 0.9}` 合拢。
+- 乱码定字从左到右逐个落定，每个字 30–60 毫秒。
+- 偶尔用一次「冻结 + 卡帧」：画面停在一帧上重复 3–4 次再继续。
+
+## 画面怎么活
+- 平时以干净为主：只留一两个坏死像素、一条极细的错位线偶尔闪一下。
+- 背景的比特图案或十六进制缓慢滚动，亮度很低。
+- 大的故障留给重拍，平时动得越少，故障越有冲击力。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 硬切加两帧故障 | 冲击、切换 | 卡点 |
+| 推近到马赛克块，块里是下一镜 | 进入数据内部 | 转场 |
+| 画面「卡住」后跳到下一镜 | 中断、意外 | 反转 |
+| datamosh 拖拽转场 | 记忆、混乱 | 段落切换 |
+| 逐级清晰的拉出 | 修复、揭晓 | 落版 |
+
+## 声音调色板
+`glitch`、`blip`、短的 `noise` 爆裂，配合画面故障的帧；音乐用 bus 的 `crush`（4–8 bit）在故障时突然加重、平时干净；`kick` 和 `snare` 可以加 drive。第 1 档合成很合适。
+
+律动与和声（举例，不止这些）：IDM 的碎拍、breakcore、或者干净的四踩被故障打断（「卡带」式的重复切片：同一小段音频重复 3–4 次）；音簇、全音阶、Phrygian；也可以用整段安静的环境音，只在故障时出现刺耳的数字噪声。声音的故障和画面的故障必须同帧。
+
+## 原生手法
+- 乱码重排定成标题：适合片头和落版（「解码」）。
+- 画面崩成马赛克，从马赛克里重建出下一镜：适合「升级」「重构」。
+- datamosh：上一镜的运动拖着下一镜的像素走：适合转场和记忆错乱。
+- 像素排序把画面「融化」成流动的长条：适合流逝、溶解。
+- 全程色差加横条乱抖：经典，最俗的那一种。
+
+## 变化空间
+- 结构：一个系统被入侵 → 崩溃 → 修复；一张图片被一层层压缩到面目全非再复原；一句话被乱码吞掉又一个字一个字救回来。
+- 开场：干净的画面突然卡住两帧；黑屏上一行乱码定成第一个词。
+- 结尾：所有故障收拢，画面变得异常干净，logo 定格；最后一帧再闪一次故障。
+
+## 坑
+- 故障全程不停，眼睛很累、内容也看不清：故障是事件，平时要干净。
+- 每帧随机导致编码后糊成一片、文件巨大：随机按帧号固定种子，故障区域有结构。
+- RGB 分离做成了模糊的色差：数字故障是硬边、整像素的。
+- 光敏性：大面积高频闪烁（每秒超过 3 次的全屏亮暗交替）可能引起不适，避免连续全屏闪白。
+- 文字在故障里读不清：关键文字故障后要停留足够长的干净时间。

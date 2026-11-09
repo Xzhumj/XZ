@@ -1,1 +1,190 @@
-IyBMZWFybmluZyBMb29wCgpVc2UgdGhpcyByZWZlcmVuY2UgYWZ0ZXIgdGhlIHByb2R1Y3Rpb24gd29ya2Zsb3cgYW5kIHdoZW4gdGhlIHVzZXIgYXNrcyB3aGV0aGVyIHRoZSBza2lsbCByZW1lbWJlcnMgb3IgbGVhcm5zIGZyb20gdGhlaXIgaGFiaXRzLgoKVGhlIGluc3RhbGxlZCBza2lsbCBkb2VzIG5vdCBtb2RpZnkgaXRzZWxmIGFuZCBpcyBub3QgdHJhaW5lZCBieSBpbmRpdmlkdWFsIHByb2plY3RzLiBTdG9yZSBwcm9qZWN0IGV2aWRlbmNlIGFuZCBzdGFibGUgdXNlciBwcmVmZXJlbmNlcyBpbiB0aGUgdGVtcGxhdGUgbGlicmFyeSBpbnN0ZWFkLgoKIyMgRmlsZXMKClVzZSB0aGVzZSBsaWJyYXJ5LXJvb3QgcGF0aHM6CgpgYGB0ZXh0CuWIm+S9nOWBj+WlvS5tZArlrabkuaDnirbmgIEuanNvbgrovpPlh7ov6aG555uu5ZCN56ewX+aXpeacny/lpI3nm5gubWQK6L6T5Ye6L1/lrabkuaAvU2tpbGzljYfnuqfmj5DmoYhfWVlZWU1NREQubWQKYGBgCgotIGDliJvkvZzlgY/lpb0ubWRgOiBzdGFibGUsIHJldXNhYmxlIHByZWZlcmVuY2VzLgotIGDlrabkuaDnirbmgIEuanNvbmA6IGRldGVybWluaXN0aWMgcmV2aWV3IGNvdW50IGFuZCB1cGdyYWRlLXJlbWluZGVyIHN0YXRlLgotIGDlpI3nm5gubWRgOiBmYWN0dWFsIHJlY29yZCBvZiBvbmUgcHJvamVjdC4KLSBgU2tpbGzljYfnuqfmj5DmoYhfWVlZWU1NREQubWRgOiBwcm9wb3NlZCBza2lsbCBjaGFuZ2VzLCBuZXZlciB0aGUgdXBncmFkZWQgc2tpbGwgaXRzZWxmLgoKRG8gbm90IHB1dCBwcml2YXRlIHVzZXIgcHJlZmVyZW5jZXMgaW5zaWRlIHRoZSBpbnN0YWxsZWQgc2tpbGwgb3IgaXRzIGRpc3RyaWJ1dGlvbiBaSVAuCgojIyBTdGFydCBvZiBhIHByb2R1Y3Rpb24KCjEuIFdoZW4gYOWIm+S9nOWBj+WlvS5tZGAgZXhpc3RzLCByZWFkIGl0IGJlZm9yZSByZWNvbW1lbmRpbmcgdGVtcGxhdGVzLgoyLiBBcHBseSBvbmx5IHByZWZlcmVuY2VzIHRoYXQgYXJlIHJlbGV2YW50IHRvIHRoZSBjdXJyZW50IHRhc2suCjMuIEV4cGxpY2l0IGN1cnJlbnQgaW5zdHJ1Y3Rpb25zIG92ZXJyaWRlIHNhdmVkIHByZWZlcmVuY2VzLgo0LiBEbyBub3QgbWVudGlvbiBpcnJlbGV2YW50IHNhdmVkIHByZWZlcmVuY2VzIG9yIG1ha2UgdGhlIHVzZXIgcmVwZWF0IHRoZW0uCjUuIElmIGDlrabkuaDnirbmgIEuanNvbmAgZXhpc3RzIGFuZCBgbmVlZHNVcGdyYWRlUHJvcG9zYWxgIGlzIGB0cnVlYCwgbWVudGlvbiBvbmNlIHRoYXQgZW5vdWdoIG5ldyByZXZpZXdzIGhhdmUgYWNjdW11bGF0ZWQgZm9yIGFuIHVwZ3JhZGUgcHJvcG9zYWwuIERvIG5vdCBpbnRlcnJ1cHQgdGhlIGN1cnJlbnQgdmlkZW8gam9iLgoKIyMgUHJvamVjdCByZXZpZXcKCkFmdGVyIHRoZSBmaW5hbCB2aWRlbyBpcyBkZWxpdmVyZWQgYW5kIHZhbGlkYXRlZCwgY3JlYXRlIG9yIHVwZGF0ZToKCmBgYHRleHQK6L6T5Ye6L+mhueebruWQjeensF/ml6XmnJ8v5aSN55uYLm1kCmBgYAoKVXNlIHRoaXMgc3RydWN0dXJlOgoKYGBgbWFya2Rvd24KIyDpobnnm67lpI3nm5gKCi0g5pel5pyf77yaCi0g6aG555uu77yaCi0g6L6T5YWl57G75Z6L77yI5paH5qGIL1NSVC/or63pn7Mv5Y+j5pKtL+iEmuacrOWKoOWIhumVnO+8ie+8mgotIOiEmuacrOS4juWIhumVnOaYr+WQpuebtOaOpemHh+eUqO+8m+WGsueqgeWkhOeQhu+8mgotIOaooeadv+e8luWPt++8iOWPr+WkmuS4qu+8jOacquS9v+eUqOWImeaXoO+8ie+8mgotIOaooeadv+WQjeensO+8iOaMiee8luWPt+mhuuW6j++8ie+8mgotIOaooeadv+e7hOWQiOS4juWcuuaZr+WIhuW3pe+8mgotIOeUu+W5he+8mgotIOaXtumVv++8mgoKIyMg55So5oi356Gu6K6k5LiO5L+u5pS5CgotIOmAkOWcuuaZr+adpea6kOexu+Wei++8mueUqOaIt+aMh+Wumue0oOadkC/lt7Lpqozor4HlupPntKDmnZAv55So5oi35o+Q5L6b57Sg5p2QL+e7j+aOiOadg+eahCBBSSDnlJ/miJDnlLvpnaIKLSDpgJDlnLrmma/mo4Dmn6XnmoTnm7jlhbPntKDmnZDlupPjgIHlrp7pmYXlkb3kuK3nmoTntKDmnZAgSUQg5oiW5peg5Yy56YWN57uT5p6c77yaCi0g57y65bCR57Sg5p2Q5bqT5oiW57Sg5p2Q5pe255qE6K+35rGC44CB55So5oi35Zue5aSN5LiOIEFJIOeUn+aIkOaOiOadg++8mgotIOWunumZheS9v+eUqOeahOe0oOadkOadpea6kOOAgee0oOadkCBJROOAgeaXtumXtOeggeWSjOeUqOmAlO+8mgotIFZJREVPLVNIT1RDUkFGVCDplZzlpLTljaHlkI3jgIHmoLflvI8ga2V544CBZGVtbyDot6/lvoTjgIHnm67moIflnLrmma/jgIHnlLvluYXlkozmjojmnYPnirbmgIHvvJoKLSDlm6Dlrp7pmYXmraXpqqTpnIDopoHkvYbmnKzlnLDnvLrlpLHnmoTlupPvvJrlkI3np7DjgIHnvLrlsJHnmoTmlofku7Yv55uu5b2V44CB55So5oi35o+Q5L6b57Sg5p2Q55qE57uT5p6c77yaCi0g5pe26Ze06L205YWz6ZSu5bin6KaG55uW55qE5pyA57uI6KeG6KeJ6aOO5qC844CB5a2X5bmV44CB6L2s5Zy644CB6Z+z5pWI5ZKM5YW25LuW55S76Z2i5aSE55CG77yaCi0g5YWz6ZSu5bin5Y+N6aaI44CB5L+u5pS557uT5p6c5LiO5pyA57uI54mI5pys5beu5byC77yaCi0gCgojIyDlo7Dpn7PkuI7lrZfluZUKCi0g5peB55m95p2l5rqQ5LiO5aSE55CG77yaCi0g5q+P5Liq6Z+z5pWI55qE5a6e6ZmF5p2l5rqQ44CBYXNzZXQgSUTjgIHml7bpl7TnoIHjgIHnlKjpgJTjgIHmjojmnYPkuI7nvbLlkI3vvJoKLSBTUlQvQVNTIOS4juacgOe7iOivremfs+aYr+WQpuWQjOatpe+8mgotIOeDp+W9leWtl+W5leaYr+WQpuavj+S4quWujOaVtOacl+ivu+Wwj+WPpeS4gOadoeOAgeWNleihjOOAgeaVtOauteWHuueOsO+8jOaYr+WQpuWFgeiuuOWcqOmAl+WPt+WkhOmhuuW6j+WIh+WIhu+8jOaYr+WQpuayoeaciemAkOWtly/ljaHmi4kgT0sg5pWI5p6c77yM5ZCO57ut5bCP5Y+l5piv5ZCm5pyq5o+Q5YmN77yM6ZW/5Y+l55S76Z2i57uE5piv5ZCm5Lil5qC85Liy6KGM77yaCi0g5aSa6Zi25q61IEItUk9MTCDnlLvpnaLmloflrZfmmK/lkKbmjInljp/mloflrZfluo/lkozor63kuYnpgJDooYzlhaXlnLrvvIzlkI7nu63mloflrZfkuI7lkI7kuIDlj6XmmK/lkKbmnKrmj5DliY3vvJoKLSAKCiMjIOinhuinieOAgeiKguWlj+S4juaOkueJiAoKLSDohJrmnKzlkozliIbplZzmmK/lkKbkv53mjIHljp/mlofjgIHljp/pobrluo/lkozljp/lnLrmma/vvJoKLSDni6znq4vlvIDlpLTvvJrph4fnlKgv5pyq6YeH55So77yb5ZCE55S76Z2i5LiO5aOw6Z+z55qE5p2l5rqQ57G75Z6L77yb5bqT57Sg5p2QIElE77yaCi0g5byA5aS05rqQ5paH5LiO5Y6f5Y+lIElE77yaCi0g5byA5aS0IFNSVCDojIPlm7TkuI7mtojotLnniYfmrrXvvJoKLSDlvIDlpLTml7bplb/lj4ogNS0xMCDnp5LkvovlpJbnoa7orqTvvJoKLSDlvIDlpLTmoLfniYfot6/lvoTkuI4gYOehruiupOW8gOWktGAg57uT5p6c77yaCi0g5q2j5paH56ys5LiA5Liq5pyq5raI6LS554mH5q6177yaCi0g5pe26Ze06L205YWz6ZSu5bin6Lev5b6E44CB6YeH6ZuG5pe26Ze056CB44CB6KaG55uW5Zy65pmv5LiO6L2s5Zy677yaCi0gYOehruiupOWFs+mUruW4p2Ag57uT5p6c77yaCi0g5Y6f5paH5piv5ZCm5LiA5a2X5LiN5pS544CB5peg6YeN5aSN44CB5peg6YGX5ryP44CB6aG65bqP5LiA6Ie077yaCi0g5piv5ZCm5LuF5L2/55So6L275b6u5Yqg6YCfL+WHj+mAn+aIluWIoOmZpOawlOWPo+WSjOaXoOWjsOWBnOmhv++8mgotIFNSVCDmmK/lkKbmjInmnIDnu4jpn7PpopHph43mjpLvvJoKLSDpgJDlnLrmma/ntKDmnZDlupPmo4Dmn6XjgIHnvLrlupPor7fmsYLjgIHnlKjmiLfntKDmnZDlm57lpI3jgIFBSSDnlJ/miJDmjojmnYPjgIHnlJ/miJDmlofku7bot6/lvoTkuI7mnKrop6PlhrPpmLvloZ7vvJoKLSDmqKHmnb/lm7rlrprlhoXlrrnph43lpI3njofvvIjmnIDpq5ggNTAl77yJ77yaCi0gSU5LLVBSRVNTIOaYr+WQpuS/neaMgeWOn+eUnyAxNjo577yb5piv5ZCm5Ye6546w6KOB5YiH44CB5ouJ5Ly45oiW5pyq6I6356Gu6K6k55qEIDk6MTYg5pS56YCg77yaCi0g5Y+v57yW6L6R6KeG6KeJIGBUIC8gRCAvIChUIC0gRCkgLyBUYO+8iOacgOmrmCAzMCXvvInvvJoKLSDnlLvpnaLovazlnLogYFEgLyBVIC8gKFEgLSBVKSAvIFFg77yI5pyA6auYIDIwJe+8ie+8jOS7peWPiumAmui/h+aIluWksei0pee7k+aenO+8mgotIOWkjeadgui9rOWcuuaVsOmHjyBgQ2DjgIHlhYHorrjkuIrpmZAgYGZsb29yKFEgw5cgMTAlKWDvvIzku6Xlj4rpgJrov4fmiJblpLHotKXnu5PmnpzvvJoKLSDmr4/kuKrovazlnLrnmoTntKDmnZDmiJbnvJblj7fjgIHovazlnLrmlrnlvI/jgIHlrp7pmYXml7bplb/jgIHmoIflh4Yv5aSN5p2C5YiG57G744CB5Yy56YWN6Z+z5pWIIElE44CB57yT5Yqo5aSE55CG77yM5Lul5Y+K5reh5YWl5reh5Ye65piv5ZCm5oiQ5a+55a6M5pW077yaCi0g5piv5ZCm5pyJ6L2s5Zy657y65bCR5Yy56YWN6Z+z5pWI77yM5oiW5peg5rOV5ruh6Laz6L2s5Zy6IDIwJeOAgeWkjeadgui9rOWcuiAxMCXjgIEwLjUvMC44IOenkuOAgee8k+WKqOWNj+iwg+WSjOa3oeWFpea3oeWHuuaIkOWvueimgeaxgueahOWFt+S9k+mZkOWItuS4juWkhOeQhu+8mgotIOaXoOazleabv+aNoueahOaooeadv+mZkOWItu+8mgotIAoKIyMg5Y+R546w55qE6Zeu6aKYCgotIAoKIyMg5pyA57uI57uT5p6cCgotIAoKIyMg5Y+v5aSN55So5YGP5aW95YCZ6YCJCgotIAoKIyMg5YGP5aW96K+B5o2uCgotIApgYGAKClJlY29yZCBmYWN0cywgbm90IGd1ZXNzZXMuIERpc3Rpbmd1aXNoOgoKLSBPbmUtb2ZmIGluc3RydWN0aW9uLgotIFJlcGVhdGVkIHByZWZlcmVuY2UuCi0gVGVtcGxhdGUgbGltaXRhdGlvbi4KLSBQcm9qZWN0LXNwZWNpZmljIGV4Y2VwdGlvbi4KLSBDb25maXJtZWQgdXNlciBhcHByb3ZhbC4KCiMjIFVwZGF0aW5nIHByZWZlcmVuY2VzCgpVcGRhdGUgYOWIm+S9nOWBj+WlvS5tZGAgb25seSB3aGVuOgoKLSBUaGUgc2FtZSBwcmVmZXJlbmNlIGFwcGVhcmVkIGluIGF0IGxlYXN0IHR3byBpbmRlcGVuZGVudGx5IGFwcHJvdmVkIHByb2plY3RzLgotIFRoZSB1c2VyIGV4cGxpY2l0bHkgc2F5cyB0byByZW1lbWJlciBpdC4KLSBBIGxhdGVyIGV4cGxpY2l0IGluc3RydWN0aW9uIHJlcGxhY2VzIGFuIG9sZGVyIHByZWZlcmVuY2UuCgpFdmVyeSBzdG9yZWQgcHJlZmVyZW5jZSBzaG91bGQgY2l0ZSB0aGUgcmV2aWV3IGZpbGVzIHRoYXQgc3VwcG9ydCBpdC4gRG8gbm90IGluZmVyIHBlcnNvbmFsaXR5LCBzZW5zaXRpdmUgdHJhaXRzLCBvciB1bnJlbGF0ZWQgcGVyc29uYWwgaW5mb3JtYXRpb24uCgpSZW1vdmUgb3IgcmV2aXNlIGEgcHJlZmVyZW5jZSB3aGVuIG5ld2VyIGV2aWRlbmNlIGNvbnRyYWRpY3RzIGl0LgoKIyMgTGVhcm5pbmctc3RhdGUgdXBkYXRlCgpBZnRlciB3cml0aW5nIHRoZSBwcm9qZWN0IHJldmlldywgcnVuOgoKYGBgcG93ZXJzaGVsbApwd3NoIC1Ob1Byb2ZpbGUgLUV4ZWN1dGlvblBvbGljeSBCeXBhc3MgLUZpbGUgIjxza2lsbC1kaXI+L3NjcmlwdHMvdXBkYXRlLWxlYXJuaW5nLXN0YXRlLnBzMSIgLUxpYnJhcnlSb290ICI8bGlicmFyeS1yb290PiIKYGBgCgpUaGUgc2NyaXB0IGNvdW50cyByZXZpZXcgZmlsZXMgYW5kIHVwZGF0ZXMgYOWtpuS5oOeKtuaAgS5qc29uYC4KCldoZW4gZml2ZSBuZXcgcmV2aWV3cyBoYXZlIGFjY3VtdWxhdGVkLCBpdCBzZXRzIGBuZWVkc1VwZ3JhZGVQcm9wb3NhbGAgdG8gYHRydWVgLgoKIyMgVXBncmFkZSBwcm9wb3NhbAoKV2hlbiB0aGUgdXNlciBhc2tzIGZvciB0aGUgYWNjdW11bGF0ZWQgdXBncmFkZToKCjEuIFJlYWQgYOWIm+S9nOWBj+WlvS5tZGAuCjIuIFJlYWQgdGhlIGxhdGVzdCA1LTEwIGDlpI3nm5gubWRgIGZpbGVzLgozLiBJZGVudGlmeSBvbmx5IHJlcGVhdGVkLCBzdGFibGUgcGF0dGVybnMuCjQuIEdlbmVyYXRlOgoKYGBgdGV4dArovpPlh7ovX+WtpuS5oC9Ta2lsbOWNh+e6p+aPkOahiF9ZWVlZTU1ERC5tZApgYGAKClRoZSBwcm9wb3NhbCBtdXN0IGluY2x1ZGU6CgotIEV2aWRlbmNlIGZyb20gcHJvamVjdCByZXZpZXdzLgotIFJ1bGVzIHRvIGFkZC4KLSBSdWxlcyB0byBjaGFuZ2UuCi0gUnVsZXMgdG8gcmVtb3ZlLgotIFBvc3NpYmxlIGNvbmZsaWN0cyB3aXRoIGN1cnJlbnQgdXNlciBpbnN0cnVjdGlvbnMuCi0gRXhwZWN0ZWQgZWZmZWN0IG9uIGZ1dHVyZSB2aWRlb3MuCi0gUHJvcG9zZWQgbmV3IHNraWxsIHZlcnNpb24uCgpEbyBub3QgZWRpdCBgU0tJTEwubWRgIHVudGlsIHRoZSB1c2VyIGFwcHJvdmVzIHRoZSBwcm9wb3NhbC4KCkFmdGVyIHRoZSBwcm9wb3NhbCBpcyBnZW5lcmF0ZWQsIHJlc2V0IHRoZSByZW1pbmRlciB0aHJlc2hvbGQ6CgpgYGBwb3dlcnNoZWxsCnB3c2ggLU5vUHJvZmlsZSAtRXhlY3V0aW9uUG9saWN5IEJ5cGFzcyAtRmlsZSAiPHNraWxsLWRpcj4vc2NyaXB0cy91cGRhdGUtbGVhcm5pbmctc3RhdGUucHMxIiAtTGlicmFyeVJvb3QgIjxsaWJyYXJ5LXJvb3Q+IiAtTWFya1Byb3Bvc2FsR2VuZXJhdGVkCmBgYAoKIyMgQXBwbHlpbmcgYW4gYXBwcm92ZWQgdXBncmFkZQoKQWZ0ZXIgZXhwbGljaXQgYXBwcm92YWw6CgoxLiBDcmVhdGUgYSBuZXcgdmVyc2lvbiBvZiB0aGUgc2tpbGw7IGRvIG5vdCBvdmVyd3JpdGUgdGhlIHByZXZpb3VzIGRpc3RyaWJ1dGFibGUgWklQLgoyLiBQcmVzZXJ2ZSB0aGUgb2xkIHNraWxsIFpJUC4KMy4gVXBkYXRlIGluc3RydWN0aW9ucyBvbmx5IGZyb20gYXBwcm92ZWQgcHJvcG9zYWwgaXRlbXMuCjQuIFJ1biB0aGUgc2tpbGwgdmFsaWRhdG9yLCBlbmdpbmUgdGVzdHMsIGVuZ2luZSBkb2N0b3IsIGFuZCB0ZW1wbGF0ZS1saWJyYXJ5IHZhbGlkYXRvci4KNS4gSW5zdGFsbCB0aGUgdXBkYXRlZCBza2lsbCBhbmQgcmVnZW5lcmF0ZSBpdHMgZGlzdHJpYnV0aW9uIFpJUC4K
+# Learning Loop
+
+Use this reference after the production workflow and when the user asks whether the skill remembers or learns from their habits.
+
+The installed skill does not modify itself and is not trained by individual projects. Store project evidence and stable user preferences in the template library instead.
+
+## Files
+
+Use these library-root paths:
+
+```text
+创作偏好.md
+学习状态.json
+输出/项目名称_日期/复盘.md
+输出/_学习/Skill升级提案_YYYYMMDD.md
+```
+
+- `创作偏好.md`: stable, reusable preferences.
+- `学习状态.json`: deterministic review count and upgrade-reminder state.
+- `复盘.md`: factual record of one project.
+- `Skill升级提案_YYYYMMDD.md`: proposed skill changes, never the upgraded skill itself.
+
+Do not put private user preferences inside the installed skill or its distribution ZIP.
+
+## Start of a production
+
+1. When `创作偏好.md` exists, read it before recommending templates.
+2. Apply only preferences that are relevant to the current task.
+3. Explicit current instructions override saved preferences.
+4. Do not mention irrelevant saved preferences or make the user repeat them.
+5. If `学习状态.json` exists and `needsUpgradeProposal` is `true`, mention once that enough new reviews have accumulated for an upgrade proposal. Do not interrupt the current video job.
+
+## Project review
+
+After the final video is delivered and validated, create or update:
+
+```text
+输出/项目名称_日期/复盘.md
+```
+
+Use this structure:
+
+```markdown
+# 项目复盘
+
+- 日期：
+- 项目：
+- 输入类型（文案/SRT/语音/口播/脚本加分镜）：
+- 脚本与分镜是否直接采用；冲突处理：
+- 模板编号（可多个，未使用则无）：
+- 模板名称（按编号顺序）：
+- 模板组合与场景分工：
+- 画幅：
+- 时长：
+
+## 用户确认与修改
+
+- 逐场景来源类型：用户指定素材/已验证库素材/用户提供素材/经授权的 AI 生成画面
+- 逐场景检查的相关素材库、实际命中的素材 ID 或无匹配结果：
+- 缺少素材库或素材时的请求、用户回复与 AI 生成授权：
+- 实际使用的素材来源、素材 ID、时间码和用途：
+- VIDEO-SHOTCRAFT 镜头卡名、样式 key、demo 路径、目标场景、画幅和授权状态：
+- 因实际步骤需要但本地缺失的库：名称、缺少的文件/目录、用户提供素材的结果：
+- 时间轴关键帧覆盖的最终视觉风格、字幕、转场、音效和其他画面处理：
+- 关键帧反馈、修改结果与最终版本差异：
+- 
+
+## 声音与字幕
+
+- 旁白来源与处理：
+- 每个音效的实际来源、asset ID、时间码、用途、授权与署名：
+- SRT/ASS 与最终语音是否同步：
+- 烧录字幕是否每个完整朗读小句一条、单行、整段出现，是否允许在逗号处顺序切分，是否没有逐字/卡拉 OK 效果，后续小句是否未提前，长句画面组是否严格串行：
+- 多阶段 B-ROLL 画面文字是否按原文字序和语义逐行入场，后续文字与后一句是否未提前：
+- 
+
+## 视觉、节奏与排版
+
+- 脚本和分镜是否保持原文、原顺序和原场景：
+- 独立开头：采用/未采用；各画面与声音的来源类型；库素材 ID：
+- 开头源文与原句 ID：
+- 开头 SRT 范围与消费片段：
+- 开头时长及 5-10 秒例外确认：
+- 开头样片路径与 `确认开头` 结果：
+- 正文第一个未消费片段：
+- 时间轴关键帧路径、采集时间码、覆盖场景与转场：
+- `确认关键帧` 结果：
+- 原文是否一字不改、无重复、无遗漏、顺序一致：
+- 是否仅使用轻微加速/减速或删除气口和无声停顿：
+- SRT 是否按最终音频重排：
+- 逐场景素材库检查、缺库请求、用户素材回复、AI 生成授权、生成文件路径与未解决阻塞：
+- 模板固定内容重复率（最高 50%）：
+- INK-PRESS 是否保持原生 16:9；是否出现裁切、拉伸或未获确认的 9:16 改造：
+- 可编辑视觉 `T / D / (T - D) / T`（最高 30%）：
+- 画面转场 `Q / U / (Q - U) / Q`（最高 20%），以及通过或失败结果：
+- 复杂转场数量 `C`、允许上限 `floor(Q × 10%)`，以及通过或失败结果：
+- 每个转场的素材或编号、转场方式、实际时长、标准/复杂分类、匹配音效 ID、缓动处理，以及淡入淡出是否成对完整：
+- 是否有转场缺少匹配音效，或无法满足转场 20%、复杂转场 10%、0.5/0.8 秒、缓动协调和淡入淡出成对要求的具体限制与处理：
+- 无法替换的模板限制：
+- 
+
+## 发现的问题
+
+- 
+
+## 最终结果
+
+- 
+
+## 可复用偏好候选
+
+- 
+
+## 偏好证据
+
+- 
+```
+
+Record facts, not guesses. Distinguish:
+
+- One-off instruction.
+- Repeated preference.
+- Template limitation.
+- Project-specific exception.
+- Confirmed user approval.
+
+## Updating preferences
+
+Update `创作偏好.md` only when:
+
+- The same preference appeared in at least two independently approved projects.
+- The user explicitly says to remember it.
+- A later explicit instruction replaces an older preference.
+
+Every stored preference should cite the review files that support it. Do not infer personality, sensitive traits, or unrelated personal information.
+
+Remove or revise a preference when newer evidence contradicts it.
+
+## Learning-state update
+
+After writing the project review, run:
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "<skill-dir>/scripts/update-learning-state.ps1" -LibraryRoot "<library-root>"
+```
+
+The script counts review files and updates `学习状态.json`.
+
+When five new reviews have accumulated, it sets `needsUpgradeProposal` to `true`.
+
+## Upgrade proposal
+
+When the user asks for the accumulated upgrade:
+
+1. Read `创作偏好.md`.
+2. Read the latest 5-10 `复盘.md` files.
+3. Identify only repeated, stable patterns.
+4. Generate:
+
+```text
+输出/_学习/Skill升级提案_YYYYMMDD.md
+```
+
+The proposal must include:
+
+- Evidence from project reviews.
+- Rules to add.
+- Rules to change.
+- Rules to remove.
+- Possible conflicts with current user instructions.
+- Expected effect on future videos.
+- Proposed new skill version.
+
+Do not edit `SKILL.md` until the user approves the proposal.
+
+After the proposal is generated, reset the reminder threshold:
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "<skill-dir>/scripts/update-learning-state.ps1" -LibraryRoot "<library-root>" -MarkProposalGenerated
+```
+
+## Applying an approved upgrade
+
+After explicit approval:
+
+1. Create a new version of the skill; do not overwrite the previous distributable ZIP.
+2. Preserve the old skill ZIP.
+3. Update instructions only from approved proposal items.
+4. Run the skill validator, engine tests, engine doctor, and template-library validator.
+5. Install the updated skill and regenerate its distribution ZIP.

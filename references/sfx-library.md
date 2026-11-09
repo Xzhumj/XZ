@@ -1,1 +1,202 @@
-IyBTb3VuZCBFZmZlY3QgU2VsZWN0aW9uCgpVc2UgdGhpcyByZWZlcmVuY2Ugd2hlbiBhIHZpZGVvIG5lZWRzIHNvdW5kIGVmZmVjdHMsIHRyYW5zaXRpb25zLCBVSSBhY2NlbnRzLAppbXBhY3Qgc291bmRzLCBvciBmb2xleS4KCiMjIFByaW1hcnkgc291cmNlcwoKUmVzb2x2ZSB0aGUgQ29kZXggc2tpbGxzIHJvb3QgYXMgYCRDT0RFWF9IT01FL3NraWxsc2AsIG9yIGB+Ly5jb2RleC9za2lsbHNgCndoZW4gYENPREVYX0hPTUVgIGlzIHVuc2V0LiBVc2UgdGhlc2UgcmVsYXRpdmUgcGF0aHMgdW5kZXIgdGhhdCByb290OgoKYGBgdGV4dAptZXRhLW9wZW4tc291bmQvU0tJTEwubWQKbWV0YS1vcGVuLXNvdW5kL3NjcmlwdHMvZmluZC1tZXRhLXNmeC5wczEKbWV0YS1vcGVuLXNvdW5kL3NjcmlwdHMvZG93bmxvYWQtbWV0YS1zZngucHMxCnVpc2Z4L1NLSUxMLm1kCmBgYAoKVGhlIG9ubGluZSBpbnZlbnRvcmllcyBhcmUKPGh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9va2luY3ViYXRvci9NZXRhLW9wZW4tc291bmQ+IGFuZAo8aHR0cHM6Ly9naXRodWIuY29tL3JvbWFpbnNpbW9uL3Vpc2Z4Pi4gRm9yIFVJIFNGWCwgcmVhZCB0aGUgaW5zdGFsbGVkCnBhY2thZ2UncyBgdWlzZngvbWFuaWZlc3QuanNvbmAgd2hlbiBwcmVzZW50LCBvciB0aGUKW29ubGluZSBtYW5pZmVzdF0oaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JvbWFpbnNpbW9uL3Vpc2Z4L21haW4vcGFja2FnZXMvdWlzZngvbWFuaWZlc3QuanNvbikuClRoZSBwZXItc2NlbmUgc291cmNlIGFuZCBwYXRoIHJ1bGVzIGFyZSBpbgpbdmlzdWFsLWFzc2V0LXNlbGVjdGlvbi5tZF0odmlzdWFsLWFzc2V0LXNlbGVjdGlvbi5tZCkuCgpWSURFTy1TSE9UQ1JBRlQncyBidW5kbGVkIGF1ZGlvIGxpYnJhcnkgaXMgYW4gYWRkaXRpb25hbCBtYXRlcmlhbCBzb3VyY2UuIFJlYWQKaXRzIHByb3ZlbmFuY2UgYW5kIGF0dHJpYnV0aW9uIGZpbGVzIGJlZm9yZSBzZWxlY3RpbmcgYSBmaWxlOgoKYGBgdGV4dAphc3NldHMvdmVuZG9yL3ZpZGVvLXNob3RjcmFmdC9hc3NldHMvYXVkaW8vQVRUUklCVVRJT04ubWQKYXNzZXRzL3ZlbmRvci92aWRlby1zaG90Y3JhZnQvVEhJUkQtUEFSVFktTk9USUNFUy5tZAphc3NldHMvdmVuZG9yL3ZpZGVvLXNob3RjcmFmdC9MSUNFTlNFCmBgYAoKLSBNZXRhIE9wZW4gU291bmQ6IHJlYWxpc3RpYyByZWNvcmRlZCBmb2xleSwgYW1iaWVuY2UsIG1hdGVyaWFscywgb2JqZWN0cywKICB2ZWhpY2xlcywgd2VhdGhlciwgYW5kIGFjdGlvbiBzb3VuZHMuCi0gVUkgU0ZYOiBkZXNpZ25lZCBjbGlja3MsIHN3aXRjaGVzLCBzdWNjZXNzZXMsIHdhcm5pbmdzLCBsb2FkaW5nIHN0YXRlcywKICB0cmFuc2l0aW9ucywgYW5kIG90aGVyIGludGVyZmFjZSBjdWVzLgotIFZJREVPLVNIT1RDUkFGVDogaXRzIGJ1bmRsZWQgU0ZYIGFuZCBtdXNpYyBvbmx5IGFmdGVyIHRoZSBzZWxlY3RlZCBmaWxlIHBhc3NlcwogIHRoZSBsaWNlbnNlIGNoZWNrcyBiZWxvdy4KClJlYWQgdGhlIHNvdXJjZSBza2lsbCBiZWZvcmUgdXNlLiBTZWFyY2ggYWN0dWFsIGVudHJpZXMgYW5kIG5ldmVyIGd1ZXNzIGEgcGFjaywKY3VlLCBmaWxlbmFtZSwgb3IgYXNzZXQgSUQuIEZvciBNZXRhIE9wZW4gU291bmQsIHJldGFpbgpgTUVUQV9PUEVOX1NPVU5EX0FUVFJJQlVUSU9OLnR4dGAgYW5kIGNhcnJ5IGl0cyBDQyBCWSA0LjAgY3JlZGl0IGludG8gdGhlCnByb2plY3QuIFVJIFNGWCBhdWRpbyBpcyBDQzA7IHByZXNlcnZlIHRoZSBNSVQgbGljZW5zZSBvbmx5IHdoZW4gaXRzIHJ1bnRpbWUgY29kZQppcyBjb3BpZWQuCgojIyBTdXBwbGVtZW50YWwgbG9jYWwgbGlicmFyeQoKUmVzb2x2ZSB0aGUgdG9vbGtpdCByb290IHdpdGg6CgpgYGBiYXNoCm5vZGUgIjxza2lsbC1kaXI+L3NjcmlwdHMvY2xpLm1qcyIgcGF0aHMgLS1qc29uCmBgYAoKVXNlIHRoZSByZXR1cm5lZCBgdG9vbGtpdFJvb3RgIGFuZCBqb2luIGBzZngvYC4gQW4gZXhwbGljaXQKYE1PVElPTl9TRlhfTElCUkFSWV9ST09UYCB0YWtlcyBwcmVjZWRlbmNlIGFmdGVyIGl0cyBleGlzdGVuY2UgaXMgdmVyaWZpZWQuCgpUaGUgY3VyYXRlZCBsaWJyYXJ5IG1heSBjb250YWluOgoKYGBgdGV4dApzZngvCuKUnOKUgOKUgCB1aS8K4pSc4pSA4pSAIHRyYW5zaXRpb24vCuKUnOKUgOKUgCBpbXBhY3QvCuKUnOKUgOKUgCB0ZXh0LwrilJzilIDilIAgY2FtZXJhLwrilJzilIDilIAgZWZmZWN0cy8K4pSc4pSA4pSAIGdsaXRjaC8K4pSc4pSA4pSAIGZpbG0vCuKUnOKUgOKUgCBmb2xleS8K4pSc4pSA4pSAIGNyb3dkLwrilJzilIDilIAgcmlzZXIvCuKUlOKUgOKUgCBfbWV0YS8KICAgIOKUnOKUgOKUgCBzb3VuZC1pbmRleC5jc3YKICAgIOKUnOKUgOKUgCBzb3VuZC1pbmRleC5qc29uCiAgICDilJzilIDilIAgTElCUkFSWS5tZAogICAg4pSc4pSA4pSAIGV4Y2x1ZGVkLWxpY2Vuc2UtdW5jZXJ0YWluLmNzdgogICAg4pSU4pSA4pSAIGxpY2Vuc2VzLwpgYGAKCklmIGBfbWV0YS9zb3VuZC1pbmRleC5jc3ZgIGlzIG1pc3NpbmcsIGNvbnRpbnVlIHdpdGggTWV0YSBPcGVuIFNvdW5kIGFuZCBVSSBTRlguCkRvIG5vdCBpbnZlbnQgbG9jYWwgc291bmQgZW50cmllcy4KCiMjIFNlbGVjdGlvbgoKMS4gSW5zcGVjdCB0aGUgdGVtcGxhdGUncyBuYXRpdmUgc291bmQgZWZmZWN0cyBmaXJzdC4KMi4gU2VhcmNoIE1ldGEgT3BlbiBTb3VuZCBieSB0aGUgY29uY3JldGUgdmlzaWJsZSBhY3Rpb24gYW5kIG1hdGVyaWFsLgozLiBTZWFyY2ggdGhlIGN1cnJlbnQgVUkgU0ZYIG1hbmlmZXN0IGZvciBpbnRlcmZhY2UgZXZlbnRzIGFuZCB0cmFuc2l0aW9ucy4KNC4gQ2hlY2sgVklERU8tU0hPVENSQUZUJ3MgYnVuZGxlZCBhdWRpbyBhbmQgZXhhY3QgYXR0cmlidXRpb24gcmVjb3JkIHdoZW4gaXRzCiAgIHNob3QgbGFuZ3VhZ2UgYWxyZWFkeSBzdXBwbGllcyBhIGZpdHRpbmcgY3VlLgo1LiBVc2UgdGhlIHN1cHBsZW1lbnRhbCBsb2NhbCBpbmRleCBvbmx5IHdoZW4gdGhlIHByaW1hcnkgc291cmNlcyBkbyBub3QgY292ZXIKICAgdGhlIGV2ZW50OgoKYGBgcG93ZXJzaGVsbApwd3NoIC1Ob1Byb2ZpbGUgLUV4ZWN1dGlvblBvbGljeSBCeXBhc3MgLUZpbGUgIjxza2lsbC1kaXI+L3NjcmlwdHMvZmluZC1zZngucHMxIiAtUXVlcnkgIndob29zaCB0cmFuc2l0aW9uIiAtTGltaXQgMTAKYGBgCgpPcHRpb25hbCBjYXRlZ29yeSBmaWx0ZXI6CgpgYGBwb3dlcnNoZWxsCnB3c2ggLU5vUHJvZmlsZSAtRXhlY3V0aW9uUG9saWN5IEJ5cGFzcyAtRmlsZSAiPHNraWxsLWRpcj4vc2NyaXB0cy9maW5kLXNmeC5wczEiIC1RdWVyeSAiY2xpY2sgc3VjY2VzcyBlcnJvciIgLUNhdGVnb3J5IHVpIC1MaW1pdCAxMApgYGAKCjYuIFJldmlldyB0aGUgcmV0dXJuZWQgdXNhZ2UsIGR1cmF0aW9uLCBzb3VyY2UgVVJMLCBsaWNlbnNlLCBhbmQgYWN0dWFsIElELgo3LiBSZWplY3QgZW50cmllcyBsaXN0ZWQgaW4gYGV4Y2x1ZGVkLWxpY2Vuc2UtdW5jZXJ0YWluLmNzdmAuCjguIENvcHkgc2VsZWN0ZWQgYXVkaW8gaW50byB0aGUgcHJvamVjdCdzIG93biBg5oiQ54mHL3NmeC9gIGRpcmVjdG9yeS4KOS4gTmV2ZXIgbWFrZSB0aGUgZmluYWwgcHJvamVjdCBkZXBlbmQgb24gdGhlIHNoYXJlZCBsaWJyYXJ5IHBhdGguCgpVc2Ugb25seSBzb3VuZHMgdGhhdCBoYXZlIGEgY29uY3JldGUgdmlzdWFsIGV2ZW50OgoKLSBCdXR0b24sIHNlbGVjdGlvbiwgdG9nZ2xlLCBvciBzdGF0ZSBjaGFuZ2UuCi0gVGV4dCBvciBudW1iZXIgZW50cmFuY2UuCi0gVHJhbnNpdGlvbiBwZWFrLgotIEltcGFjdCBvciByZXZlYWwuCi0gQ2FtZXJhIHNodXR0ZXIgb3Igem9vbS4KLSBQYXBlciwgdHlwaW5nLCBvciBwaHlzaWNhbCBvYmplY3QgYWN0aW9uLgotIENvdW50ZG93biwgbm90aWZpY2F0aW9uLCBzdWNjZXNzLCBvciBlcnJvci4KCkRvIG5vdCBhZGQgYSBzb3VuZCBtZXJlbHkgdG8gZmlsbCBzaWxlbmNlLgoKIyMgVHJhbnNpdGlvbiBjdWVzCgpFdmVyeSBwaWN0dXJlIHRyYW5zaXRpb24gbmVlZHMgb25lIHZlcmlmaWVkIFNGWCBjdWUgc3luY2hyb25pemVkIHRvIGl0cyB2aXNpYmxlCmVudHJhbmNlLCBleGl0LCBvciB0cmFuc2l0aW9uIHBlYWsuIFVzZSB0aGUgdGVtcGxhdGUncyBuYXRpdmUgU0ZYLCBNZXRhIE9wZW4KU291bmQsIFVJIFNGWCwgb3IgdGhlIHN1cHBsZW1lbnRhbCBsb2NhbCBpbmRleCBhY2NvcmRpbmcgdG8gdGhlIGFjdGlvbiBhbmQKc3R5bGUuIEEgaGFyZCBjdXQgc3RpbGwgbmVlZHMgYSBtYXRjaGluZyBzaG9ydCBjdWUgdW5sZXNzIHRoZSB1c2VyIGV4cGxpY2l0bHkKcmVxdWVzdHMgc2lsZW5jZS4KCi0gU3RhbmRhcmQgbm9uLWhhcmQtY3V0IHRyYW5zaXRpb25zIG11c3Qgbm90IGV4Y2VlZCAwLjUgc2Vjb25kcyBpbiB0b3RhbC4KLSBDb21wbGV4IHRyYW5zaXRpb25zIG1heSBleGNlZWQgMC41IHNlY29uZHMgb25seSB3aGVuIHRoZSB2aXN1YWwgdHJlYXRtZW50CiAgcmVxdWlyZXMgaXQsIHdpdGggYSBtYXhpbXVtIHRvdGFsIGR1cmF0aW9uIG9mIDAuOCBzZWNvbmRzLgotIENvbXBsZXggdHJhbnNpdGlvbnMgbXVzdCBub3QgZXhjZWVkIGBmbG9vcihRIMOXIDEwJSlgLCB3aGVyZSBgUWAgaXMgdGhlIHRvdGFsCiAgbnVtYmVyIG9mIHBpY3R1cmUtdHJhbnNpdGlvbiBzbG90cyBpbiB0aGUgY29tcGxldGUgdmlkZW8uCi0gTWF0Y2ggdGhlIHNvdW5kIHBlYWsgdG8gdGhlIHZpc3VhbCBjb250YWN0IHBvaW50LiBMZXQgYSBuYXR1cmFsIHRhaWwgY29udGludWUKICBvbmx5IHdoZW4gaXQgZG9lcyBub3QgcnVuIGFjcm9zcyBuYXJyYXRpb24gb3IgdGhlIGZvbGxvd2luZyBrZXkgc291bmQuCi0gSWYgbm8gdmVyaWZpZWQgc291bmQgZml0cyB0aGUgdHJhbnNpdGlvbiwgcmVwb3J0IHRoZSBtaXNzaW5nIGN1ZSBhbmQgcmVzb2x2ZQogIGl0IGJlZm9yZSBmaW5hbCByZW5kZXJpbmc7IGRvIG5vdCByZXVzZSBhbiB1bnJlbGF0ZWQgc291bmQgbWVyZWx5IHRvIHNhdGlzZnkKICB0aGUgcnVsZS4KCiMjIE1peAoKLSBLZWVwIG9uZSBwcmltYXJ5IHNvdW5kIGV2ZW50IHBlciB2aXN1YWwgYWN0aW9uLgotIFVzZSByb3VnaGx5IDEtMyBTRlggcGVyIDEwIHNlY29uZHMgYXMgYW4gdXBwZXIgZ3VpZGUsIG5vdCBhIHF1b3RhLgotIEtlZXAgVUkgYWNjZW50cyBzaG9ydCBhbmQgcXVpZXQuCi0gRHVjayBvciBsb3dlciBTRlggdW5kZXIgc3BlZWNoLgotIEF2b2lkIHN0YWNraW5nIG11bHRpcGxlIHdob29zaGVzIG9yIGltcGFjdHMgb24gdGhlIHNhbWUgYmVhdCB1bmxlc3MgdGhlIGNvbXBvc2l0aW9uIGV4cGxpY2l0bHkgbmVlZHMgYSBsYXllcmVkIGhpdC4KLSBDaGVjayB0aGUgdGltZWxpbmUga2V5ZnJhbWVzIGFuZCBmaW5hbCByZW5kZXIgZm9yIHN5bmNocm9uaXphdGlvbiwgbWFza2luZywKICBoYXJzaG5lc3MsIGFuZCB0YWlscyB0aGF0IHJ1biBpbnRvIHRoZSBuZXh0IHNob3QuCgojIyBDdWUgcmVjb3JkCgpDcmVhdGUgYHNmeC1jdWUtc2hlZXQuanNvbmAgaW4gdGhlIG91dHB1dCBwcm9qZWN0OgoKYGBganNvbgp7CiAgInByb2plY3QiOiAiUHJvamVjdCBuYW1lIiwKICAibGljZW5zZSI6ICJNaXhlZCB2ZXJpZmllZCBsaWNlbnNlcyIsCiAgImN1ZXMiOiBbCiAgICB7CiAgICAgICJ0aW1lX3MiOiAxLjI1LAogICAgICAibGlicmFyeSI6ICJ1aS1zZngiLAogICAgICAiYXNzZXRfaWQiOiAic29mdC9jbGljayIsCiAgICAgICJhc3NldCI6ICJjbGljay5tcDMiLAogICAgICAidm9sdW1lIjogMC4xOCwKICAgICAgInB1cnBvc2UiOiAiTGFiZWwgYXBwZWFycyIsCiAgICAgICJzb3VyY2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL3JvbWFpbnNpbW9uL3Vpc2Z4IiwKICAgICAgImxpY2Vuc2UiOiAiQ0MwIiwKICAgICAgImxvY2FsX3BhdGgiOiAi5oiQ54mHL3NmeC9jbGljay5tcDMiCiAgICB9CiAgXQp9CmBgYAoKQWxzbyByZXRhaW4gdGhlIHJlbGV2YW50IG1hbmlmZXN0IHJvd3MgYW5kIGFueSByZXF1aXJlZCBhdHRyaWJ1dGlvbiBmaWxlIHNvIHRoZQpkZWxpdmVyZWQgcHJvamVjdCBjYW4gYmUgYXVkaXRlZCBhZnRlciB0aGUgc2hhcmVkIGxpYnJhcmllcyBjaGFuZ2UuCgojIyBMaWNlbnNpbmcKCi0gTWV0YSBPcGVuIFNvdW5kIGVmZmVjdHMgdXNlIENDIEJZIDQuMCBhbmQgcmVxdWlyZSB0aGUgZG93bmxvYWRlZCBhdHRyaWJ1dGlvbgogIGZpbGUuIEl0cyBpbnN0cnVtZW50IHNhbXBsZXMgYXJlIENDMC4KLSBVSSBTRlggYXVkaW8gaXMgQ0MwLgotIFN1cHBsZW1lbnRhbCBQaXhhYmF5IGVudHJpZXMgdXNlIHRoZSBQaXhhYmF5IENvbnRlbnQgTGljZW5zZS4KLSBTdXBwbGVtZW50YWwgTWl4a2l0IGVudHJpZXMgdXNlIHRoZSBNaXhraXQgU291bmQgRWZmZWN0cyBGcmVlIExpY2Vuc2UuCi0gVklERU8tU0hPVENSQUZUJ3MgYnVuZGxlZCBhdWRpbyBtYXkgY2FycnkgZGlmZmVyZW50IHRlcm1zLiBWZXJpZnkgZWFjaCBzZWxlY3RlZAogIGZpbGUgYWdhaW5zdCB0aGUgcmV0YWluZWQgYXR0cmlidXRpb24gYW5kIHRoaXJkLXBhcnR5IG5vdGljZXMuIERvIG5vdCBhc3N1bWUKICB0aGF0IHRoZSBBcGFjaGUtMi4wIGNvZGUgbGljZW5zZSBjb3ZlcnMgYXVkaW8uCi0gS2VlcCB0aGUgc291cmNlIFVSTCwgYXV0aG9yIGlmIGtub3duLCBsaWNlbnNlLCBsb2NhbCBwYXRoLCBhbmQgU0hBLTI1NiBpbiB0aGUgaW5kZXguCi0gRG8gbm90IHJlZGlzdHJpYnV0ZSB0aGUgc2hhcmVkIGxpYnJhcnkgaXRzZWxmIGFzIGEgcmF3IGFzc2V0IHBhY2suCi0gQ2hlY2sgYnJhbmQsIGxvZ28sIGxpa2VuZXNzLCBhbmQgdGhpcmQtcGFydHkgcmlnaHRzIHdoZW4gYW4gZWZmZWN0IGNvbnRhaW5zIHJlY29nbmlzYWJsZSBjb250ZW50LgoKVGhlIGZvbGxvd2luZyBzaXggVklERU8tU0hPVENSQUZUIGZpbGVzIGhhdmUgdW5yZXNvbHZlZCBzb3VyY2Ugb3IgY29tbWVyY2lhbApyaWdodHMuIFRoZXkgYXJlIHByb2hpYml0ZWQgZm9yIGNvbW1lcmNpYWwgdXNlIHVudGlsIHRoZSByaWdodHMgYXJlIHJlY2hlY2tlZDoKCmBgYHRleHQKYXNzZXRzL2F1ZGlvL3NmeC90ZXh0L2tleWJvYXJkLm1wMwphc3NldHMvYXVkaW8vc2Z4L3VpL3BvcC5tcDMKYXNzZXRzL2F1ZGlvL3NmeC9yaXNlci9yaXNlci1jaW5lLm1wMwphc3NldHMvYXVkaW8vc2Z4L2xpZ2h0L3NwYXJrbGUubXAzCmFzc2V0cy9hdWRpby9zZngvdHJhbnNpdGlvbi93aG9vc2gtYmlnLm1wMwphc3NldHMvYXVkaW8vYmdtL2JnbS10ZWNoLWhvdXNlLm1wMwpgYGAK
+# Sound Effect Selection
+
+Use this reference when a video needs sound effects, transitions, UI accents,
+impact sounds, or foley.
+
+## Primary sources
+
+Resolve the Codex skills root as `$CODEX_HOME/skills`, or `~/.codex/skills`
+when `CODEX_HOME` is unset. Use these relative paths under that root:
+
+```text
+meta-open-sound/SKILL.md
+meta-open-sound/scripts/find-meta-sfx.ps1
+meta-open-sound/scripts/download-meta-sfx.ps1
+uisfx/SKILL.md
+```
+
+The online inventories are
+<https://github.com/facebookincubator/Meta-open-sound> and
+<https://github.com/romainsimon/uisfx>. For UI SFX, read the installed
+package's `uisfx/manifest.json` when present, or the
+[online manifest](https://raw.githubusercontent.com/romainsimon/uisfx/main/packages/uisfx/manifest.json).
+The per-scene source and path rules are in
+[visual-asset-selection.md](visual-asset-selection.md).
+
+VIDEO-SHOTCRAFT's bundled audio library is an additional material source. Read
+its provenance and attribution files before selecting a file:
+
+```text
+assets/vendor/video-shotcraft/assets/audio/ATTRIBUTION.md
+assets/vendor/video-shotcraft/THIRD-PARTY-NOTICES.md
+assets/vendor/video-shotcraft/LICENSE
+```
+
+- Meta Open Sound: realistic recorded foley, ambience, materials, objects,
+  vehicles, weather, and action sounds.
+- UI SFX: designed clicks, switches, successes, warnings, loading states,
+  transitions, and other interface cues.
+- VIDEO-SHOTCRAFT: its bundled SFX and music only after the selected file passes
+  the license checks below.
+
+Read the source skill before use. Search actual entries and never guess a pack,
+cue, filename, or asset ID. For Meta Open Sound, retain
+`META_OPEN_SOUND_ATTRIBUTION.txt` and carry its CC BY 4.0 credit into the
+project. UI SFX audio is CC0; preserve the MIT license only when its runtime code
+is copied.
+
+## Supplemental local library
+
+Resolve the toolkit root with:
+
+```bash
+node "<skill-dir>/scripts/cli.mjs" paths --json
+```
+
+Use the returned `toolkitRoot` and join `sfx/`. An explicit
+`MOTION_SFX_LIBRARY_ROOT` takes precedence after its existence is verified.
+
+The curated library may contain:
+
+```text
+sfx/
+├── ui/
+├── transition/
+├── impact/
+├── text/
+├── camera/
+├── effects/
+├── glitch/
+├── film/
+├── foley/
+├── crowd/
+├── riser/
+└── _meta/
+    ├── sound-index.csv
+    ├── sound-index.json
+    ├── LIBRARY.md
+    ├── excluded-license-uncertain.csv
+    └── licenses/
+```
+
+If `_meta/sound-index.csv` is missing, continue with Meta Open Sound and UI SFX.
+Do not invent local sound entries.
+
+## Selection
+
+1. Inspect the template's native sound effects first.
+2. Search Meta Open Sound by the concrete visible action and material.
+3. Search the current UI SFX manifest for interface events and transitions.
+4. Check VIDEO-SHOTCRAFT's bundled audio and exact attribution record when its
+   shot language already supplies a fitting cue.
+5. Use the supplemental local index only when the primary sources do not cover
+   the event:
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "<skill-dir>/scripts/find-sfx.ps1" -Query "whoosh transition" -Limit 10
+```
+
+Optional category filter:
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "<skill-dir>/scripts/find-sfx.ps1" -Query "click success error" -Category ui -Limit 10
+```
+
+6. Review the returned usage, duration, source URL, license, and actual ID.
+7. Reject entries listed in `excluded-license-uncertain.csv`.
+8. Copy selected audio into the project's own `成片/sfx/` directory.
+9. Never make the final project depend on the shared library path.
+
+Use only sounds that have a concrete visual event:
+
+- Button, selection, toggle, or state change.
+- Text or number entrance.
+- Transition peak.
+- Impact or reveal.
+- Camera shutter or zoom.
+- Paper, typing, or physical object action.
+- Countdown, notification, success, or error.
+
+Do not add a sound merely to fill silence.
+
+## Transition cues
+
+Every picture transition needs one verified SFX cue synchronized to its visible
+entrance, exit, or transition peak. Use the template's native SFX, Meta Open
+Sound, UI SFX, or the supplemental local index according to the action and
+style. A hard cut still needs a matching short cue unless the user explicitly
+requests silence.
+
+- Standard non-hard-cut transitions must not exceed 0.5 seconds in total.
+- Complex transitions may exceed 0.5 seconds only when the visual treatment
+  requires it, with a maximum total duration of 0.8 seconds.
+- Complex transitions must not exceed `floor(Q × 10%)`, where `Q` is the total
+  number of picture-transition slots in the complete video.
+- Match the sound peak to the visual contact point. Let a natural tail continue
+  only when it does not run across narration or the following key sound.
+- If no verified sound fits the transition, report the missing cue and resolve
+  it before final rendering; do not reuse an unrelated sound merely to satisfy
+  the rule.
+
+## Mix
+
+- Keep one primary sound event per visual action.
+- Use roughly 1-3 SFX per 10 seconds as an upper guide, not a quota.
+- Keep UI accents short and quiet.
+- Duck or lower SFX under speech.
+- Avoid stacking multiple whooshes or impacts on the same beat unless the composition explicitly needs a layered hit.
+- Check the timeline keyframes and final render for synchronization, masking,
+  harshness, and tails that run into the next shot.
+
+## Cue record
+
+Create `sfx-cue-sheet.json` in the output project:
+
+```json
+{
+  "project": "Project name",
+  "license": "Mixed verified licenses",
+  "cues": [
+    {
+      "time_s": 1.25,
+      "library": "ui-sfx",
+      "asset_id": "soft/click",
+      "asset": "click.mp3",
+      "volume": 0.18,
+      "purpose": "Label appears",
+      "source": "https://github.com/romainsimon/uisfx",
+      "license": "CC0",
+      "local_path": "成片/sfx/click.mp3"
+    }
+  ]
+}
+```
+
+Also retain the relevant manifest rows and any required attribution file so the
+delivered project can be audited after the shared libraries change.
+
+## Licensing
+
+- Meta Open Sound effects use CC BY 4.0 and require the downloaded attribution
+  file. Its instrument samples are CC0.
+- UI SFX audio is CC0.
+- Supplemental Pixabay entries use the Pixabay Content License.
+- Supplemental Mixkit entries use the Mixkit Sound Effects Free License.
+- VIDEO-SHOTCRAFT's bundled audio may carry different terms. Verify each selected
+  file against the retained attribution and third-party notices. Do not assume
+  that the Apache-2.0 code license covers audio.
+- Keep the source URL, author if known, license, local path, and SHA-256 in the index.
+- Do not redistribute the shared library itself as a raw asset pack.
+- Check brand, logo, likeness, and third-party rights when an effect contains recognisable content.
+
+The following six VIDEO-SHOTCRAFT files have unresolved source or commercial
+rights. They are prohibited for commercial use until the rights are rechecked:
+
+```text
+assets/audio/sfx/text/keyboard.mp3
+assets/audio/sfx/ui/pop.mp3
+assets/audio/sfx/riser/riser-cine.mp3
+assets/audio/sfx/light/sparkle.mp3
+assets/audio/sfx/transition/whoosh-big.mp3
+assets/audio/bgm/bgm-tech-house.mp3
+```

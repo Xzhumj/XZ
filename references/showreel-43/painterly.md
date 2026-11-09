@@ -1,1 +1,101 @@
-IyDmsrnnlLvnrJTop6bvvIhwYWludGVybHnvvIkKCj4g5LiA5bmF5Lya5Yqo55qE55S777ya5q+P5LiA56yU6YO95pyJ5pa55ZCR44CB5Y6a5bqm5ZKM6aKc5paZ55qE6aKX57KS77yM5YWJ5Zyo55S75biD5LiK5rWB5Yqo77yM55S76YeM55qE5Lic6KW/6L276L275Zyw5rS7552A44CCCj4g5Y+C54Wn77yI5Y+q5a2m6K+t5rOV77yJ77ya5Y2w6LGh5rS+5ZKM5ZCO5Y2w6LGh5rS+55qE56yU6Kem6K+t6KiA44CB5Y6a5raC77yIaW1wYXN0b++8ieOAgeWkluWFiea0vueahOWFieiJsuOAgeW9k+S7o+aVsOWtl+e7mOeUu+eahOeslOWIt+WKqOeUu+OAguS4jeeFp+aQrOWFt+S9k+eUu+S9nOeahOaehOWbvuWSjOWQjeS9nOeahOeUu+mdouOAggoKIyMg5pys6LSoIC8g5LiN5piv5LuA5LmICi0g5pys6LSo77yaKirnlLvpnaLmmK/kuIDnrJTkuIDnrJTnlLvlh7rmnaXnmoQqKuOAguW9oueKtueUseeslOinpue7hOaIkO+8jOeslOinpueahOaWueWQkei3n+edgOeJqeS9k+eahOe7k+aehOWSjOWFiei1sO+8m+minOiJsuaYr+S4gOS4quWMuuWfn+mHjOWHoOenjeminOiJsueahOW5tue9ru+8jOS4jeaYr+S4gOS4quW5s+a2guiJsuWKoOWZqueCue+8m+eUu+aYr+a0u+eahO+8jOS9hueslOinpuS4jeS5sei3s+OAggotIOS4jeaYr++8mueFp+eJh+WKoOS4gOS4quayueeUu+a7pOmVnO+8m+S5n+S4jeaYr+avj+W4p+mHjeaWsOmaj+acuueUn+aIkOeslOinpu+8iOmCo+aYr+mXqueDge+8jOS4jeaYr+eUn+WRve+8ieOAggoKIyMg6L6o6K+G5L+h5Y+377ya5q+P5pSv54mH5a2Q5oyRIDLigJMzIOS4qgp8IOS/oeWPtyB8IOmVv+S7gOS5iOagtyB8IOmAguWQiOeahOS4u+mimCB8CnwtLS18LS0tfC0tLXwKfCDmlrnlkJHlnLrnrJTop6YgfCDnrJTop6bmsr/niankvZPnu5PmnoTmjpLliJfvvJrlpKnnqbrml4vovazjgIHlnLDpnaLmsr/pgI/op4bjgIHlopnpnaLnq5bnm7QgfCDpo47mma/jgIHnqbrpl7QgfAp8IOefreS/g+iJsueCuSB8IOWGt+aaluS6pOmUmeeahOefreeslOinpu+8jOi/nOeci+aJjea3t+aIkOminOiJsiB8IOWFieOAgeepuuawlOOAgeaIt+WkliB8Cnwg5Y6a5raCIHwg56yU6Kem5pyJ5Y6a5bqm5ZKM6auY5YWJ77yM5YOP6aKc5paZ5aCG6LW35p2lIHwg6LSo5oSf44CB5oOF5oSf5rWT54OIIHwKfCDljLrln5/oibLnu4QgfCDmr4/kuKrljLrln5/mnIkgNeKAkzgg56eN55u46L+R55qE6aKc6Imy5Lqk6ZSZIHwg5LiA5YiHIHwKfCDlj6/op4HnmoTnlLvluIPnurnnkIYgfCDnrJTop6bkuYvpl7TpnLLlh7rnlLvluIPnmoTluIPnurkgfCDmiYvlt6XjgIHnnJ/lrp4gfAp8IOeUu+WHuuadpeeahOi/h+eoiyB8IOeUu+mdouS4gOeslOS4gOeslOiiq+eUu+WHuuadpSB8IOW8gOWcuuOAgeWIm+S9nCB8Cnwg5YWJ55qE5rWB5YqoIHwg5YWJ5paR5Zyo5rC06Z2i44CB5qCR5Y+25LiK5piO54GtIHwg5pe26Ze044CB5oOF57uqIHwKfCDnspfova7lu5Pnur8gfCDmt7HoibLnmoTnspfnur/li77lh7rniankvZPvvIznur/mnKzouqvkuZ/mmK/nrJTop6YgfCDooajnjrDlipvjgIHlvLrng4ggfAp8IOWIruWIgOeXlSB8IOWkp+Wdl+W5s+ebtOeahOWIruWIgOaKueeXlSB8IOeOsOS7o+OAgeeyl+eKtyB8Cnwg5pyq5a6M5oiQ55qE6L6557yYIHwg55S76Z2i6L6557yY55WZ552A5rKh55S75a6M55qE5bqV56i/5ZKM55S75biDIHwg6L+H56iL44CB55yf6K+aIHwKCuinhOWIme+8mgotIOavj+aUr+aMkSAy4oCTMyDkuKrvvIzoh7PlsJHkuIDkuKrkuI3lnKjkuIvpnaLjgIzmnIDkv5fnmoTniYjmnKzjgI3ph4zjgIIKLSDkv6Hlj7fku47kuLvpopjph4zpgInvvIzkuI3mjInpobrluo/lhajkuIrjgIIKLSDlrabnmoTmmK/nrJTop6bnmoTor63oqIDvvIzkuI3mmK/mn5DkuIDluYXlkI3nlLvvvJrlj6/ku6XjgIzlg4/ljbDosaHmtL7pgqPmoLflpITnkIblhYnjgI3vvIzkvYbkuI3opoHlpI3liLvlkI3kvZznmoTmnoTlm77jgIIKCiMjIOi/meS4qumjjuagvOacgOS/l+eahOeJiOacrAotIOeUu+mdou+8muaYn+epuua8qea2oeW8j+eahOaXi+i9rOWkqeepuuOAgeWQkeaXpeiRteOAgem7hOiTneWvueavlOOAgeS4gOWIh+mDveWcqOaJk+i9rOOAggotIOWjsOmfs++8muWPpOWFuOmSoueQtOaIluW8puS5kOWbm+mHjeWlj+OAggotIGJyaWVmIOeahCBzdHlsZSDkuIDmoI/lhpnmmI7ov5nmlK/niYflrZDnv7vmjonkuoblk6rlh6DmnaHvvIzmiJbogIXkuLrku4DkuYjliLvmhI/kv53nlZnvvIjmr5TlpoLnlKjmiLfopoHnmoTlsLHmmK/nu4/lhbjniYjvvInjgILkv53nlZnml7bvvIzmiorlipvmsJToirHlnKjmnoTlm77jgIHplZzlpLTjgIHoioLlpY/miJbkuIDkuKrmhI/lpJbnmoTorrDlv4bngrnkuIrjgIIKCiMjIOmAgumFjQotIOeUqOmAlO+8muWTgeeJjOaDhee7queJh+OAgeeJh+WktOOAgeaWh+WMluWSjOiJuuacr+exu+Wuo+S8oOOAgeiKguaXpeWSjOe6quW/teOAgeS9nOWTgembhumHjOeahOS4gOauteOAggotIOWGheWuue+8muiJuuacr+OAgeaWh+WMluOAgee+jumjn+OAgeaXheihjOOAgeWto+iKguOAgeaAgOaXp+OAgemrmOerr+aJi+W3peWTgeeJjOOAggotIOS4jemAguWQiO+8mumcgOimgea4heaZsOS8oOi+vuWkp+mHj+S/oeaBr+eahOS6p+WTgeiusuino++8m+aWh+Wtl+W+iOWkmueahOeJh+WtkO+8iOeslOinpuS8muWSjOWwj+Wtl+aJk+aetu+8ie+8m+a4suafk+aXtumXtOe0p+eahOmhueebru+8iOi/meenjemjjuagvOW+iOaFou+8ieOAggoKIyMg5oqA5pyv6Lev57q/CkNhbnZhcyAyRCDkuKTmraXvvJrlhYjnlLvkuIDlvKDlubPmtoLnmoTlupXnqL/vvIjnprvlsY/vvIzlhrPlrprmnoTlm77lkozmmI7mmpfvvInvvIzlho3nlKjnrJTop6bmuLLmn5PlmajmlbTluYXph43nlLvvvJrlnKjnvZHmoLzkuIrmkpLnrJTop6bvvIjkvY3nva7nlKjlm7rlrprnp43lrZDvvIzlj6rnrpfkuIDmrKHvvInvvIzmr4/kuIDnrJTku47lupXnqL/lj5boibLjgIHmjInljLrln5/oibLnu4TlgY/np7vjgIHmsr/mlrnlkJHlnLrlj5bop5LluqbvvIznlLvmiJDluKbmt7HoibLovrnnmoTlvK/mm7Lnn63mnaHjgILlsI/nianku7blkozkuLvkvZPljZXni6zkuIDlsYLjgIHnlKjmm7Tnu4bnmoTnrJTop6bnlLvvvIzlkKbliJnkvJrooqvlpKfnrJTop6bmiZPnoo7jgILpnZnmgIHpg6jliIbnvJPlrZjvvIzmr4/luKflj6rph43nlLvkvJrliqjnmoTljLrln5/jgILlhYjlnKggOTYww5c1NDAg5rWL5Y2V5bin6ICX5pe277yM5bi46KeBIDUw4oCTMTUwIOavq+enkuOAggoKIyMg5p2Q6LSo5LiO5riy5p+TCi0g5pa55ZCR5Zy677ya5oyJ5Yy65Z+f5YaZ77yI5aSp56m65rK/5LqR55qE6LWw5ZCR44CB5rC06Z2i5qiq5ZCR44CB5aKZ56uW55u044CB5Zyw6Z2i5rK/6YCP6KeG77yJ77yM6ZqP5pe26Ze06L+e57ut5pGG5Yqo77yM5LiN5oyJ5bin6YeN5paw6ZqP5py644CCCi0g5Yy65Z+f6Imy57uE77ya5q+P5Liq5Yy65Z+f5a6aIDXigJM4IOS4quebuOi/keeahOminOiJsu+8jOavj+S4gOeslOS7jue7hOmHjOaKveS4gOS4qu+8jOWGjea3tyAzMOKAkzQwJSDlupXnqL/oibLkv53nlZnmmI7mmpfjgILlj6rlgZrpopzoibLmipbliqjkvJrlj5jmiJDjgIzlkIzkuIDkuKrpopzoibLnmoTlmarngrnjgI3jgIIKLSDnrJTop6bvvJrplb/luqbjgIHlrr3luqbpmo/ljLrln5/lj5jljJbvvIjov5zlpITnn63nu4bjgIHov5HlpITnspfplb/vvInvvIzmr4/kuIDnrJTmnInlvojnu4bnmoTmt7HoibLovrnvvIzljprmtoLml7bliqDkuIDpgZPpq5jlhYnovrnjgIIKLSDnlLvluIPvvJrlupXkuIvkuIDlsYLluIPnurnnurnnkIbvvIznrJTop6bkuYvpl7TlgbblsJTpnLLlh7rmnaXjgIIKLSDkuLvkvZPvvJrljZXni6zkuIDlsYLjgIHljZXni6zlj4LmlbDvvIzmnIDlkI7nlKjkuIDlnIjmuIXmmbDnmoTova7lu5PmiJbpq5jlhYnmiorlroPku47og4zmma/ph4zmi4nlh7rmnaXjgIIKCiMjIOmFjeiJsgrkuIvpnaLnmoToibLlgLzmmK/npLrkvovvvIznnIvmgJ3ot6/vvIzkuI3opoHljp/moLfnhafmioTjgIIKLSDlpJblhYnvvJrlpKnok50gYCM2RkE4RENgIC8g6I2J57u/IGAjOTNDNDdEYCAvIOaalum7hCBgI0Y2RDM2NWAgLyDntKvlvbEgYCM4RTdDQzNgIC8g55S75biDIGAjRUZFNkQyYAotIOaaluWupOWGhe+8mui1reefsyBgI0I1NjUxRGAgLyDmt7HnuqIgYCM3QjJEMjZgIC8g6YeR6buEIGAjRTFCNDRDYCAvIOaphOamhCBgIzZCNkIzQWAgLyDmmpfopJAgYCMyQjFEMTRgCi0g5Ya35aSc77ya5rex6JOdIGAjMUIyQTQ5YCAvIOe+pOmdkiBgIzNBNUJBMGAgLyDmnIjpu4QgYCNGMkUyQTBgIC8g5aKo57u/IGAjMUYzQjJEYAotIOaOqOWvvO+8muWFiOWumuWFie+8iOWkluWFieOAgeWupOWGheOAgeWknOaZmu+8ie+8jOWGjee7meavj+S4quWMuuWfn+WumuiJsue7hO+8muWPl+WFiemdouWBj+aaluOAgemYtOW9seWBj+WGt++8iOWKoOS4gOeCueihpeiJsu+8ie+8jOS4jeimgeeUqOm7keiJsueUu+mYtOW9seOAgum7hOiTneW8uuWvueavlOaYr+acgOW4uOingeeahOmCo+e7hOOAggoKIyMg5a2X5L2TCueslOinpueUu+mdoumHjOeahOWtl+imgeWwke+8muagh+mimOeUqOacieaJi+WGmeaEn+aIluWPpOWFuOawlOi0qOeahOihrOe6v++8iENvcm1vcmFudCBHYXJhbW9uZOOAgUVCIEdhcmFtb25k44CBUGxheWZhaXIgRGlzcGxhee+8ie+8jOaIluiAheW5suiEhueUqOeslOWIt+eUu+WHuuadpe+8m+S4reaWh+eUqOaAnea6kOWui+S9k+OAgemcnum5nOaWh+alt+OAguWtl+aUvuWcqOeUu+mdouWuiemdmeeahOWMuuWfn++8jOaIluiAheaUvuWcqOS4gOWdl+W5s+a2gueahOiJsuWdl+S4iuOAggoKIyMg6L+Q5YqoCi0g56yU6Kem55qE5L2N572u5Zu65a6a77yM6L+Q5Yqo5p2l6Ieq5pa55ZCR5Zy655qE6L+e57ut5pGG5Yqo44CB5YWJ5paR55qE56e75Yqo5ZKM5bCR5pWw5Li75L2T55qE5Yqo5L2c44CCCi0g5byA5Zy65Y+v5Lul44CM55S75Ye65p2l44CN77ya56yU6Kem5oyJ5Yy65Z+f6aG65bqP5ZyoIDAuNeKAkzEuNSDnp5LlhoXpgJDnrJTlh7rnjrDjgIIKLSDplZzlpLTmhaLmjqjmhaLnp7vvvIznrJTop6blpKflsI/mjInlsY/luZXlg4/ntKDlrprvvIjmjqjov5Hml7bph43nlLvvvIznrJTop6bkuI3ot5/nnYDlj5jnspfvvInjgIIKLSDkuLvkvZPnmoTliqjkvZzlj6/ku6XmraXov5vvvIgxMmZwc++8ie+8jOWSjOeslOinpueahOaJi+W3peaEn+S4gOiHtOOAggoKIyMg55S76Z2i5oCO5LmI5rS7Ci0g5pa55ZCR5Zy66ZqP5pe26Ze057yT5oWi5pGH5puz77yM56yU6Kem5YOP6KKr6aOO5ZC55Yqo55qE6I2J77yb5rC06Z2i5ZKM5qCR5Y+25LiK55qE5YWJ5paR5piO54Gt44CCCi0g5LiA5Lik5Liq5Li75L2T55qE5bCP5Yqo5L2c77ya5LiA57yV54KK54Of44CB5LiA5Y+q6aOe6L+H55qE6bif44CB56qX5biY6KKr6aOO6byT6LW344CCCi0g5Y+q57uZ5pa55ZCR5Zy65ZKM5YWJ5YGa6L+e57ut5Y+Y5YyW77yM5pW05bGP5LiN6KaB5o2i56eN5a2Q6YeN55S777yI6YKj5Lya6K+75oiQ6Zeq54OB77yJ44CCCgojIyDplZzlpLTor63ms5UKfCDplZzlpLTov5DliqggfCDooajovr7ku4DkuYggfCDpgILlkIjlk6rnsbvlhoXlrrkgfAp8LS0tfC0tLXwtLS18Cnwg5p6B5oWi55qE5o6o6L+R5Yiw5LiA5aSE56yU6KemIHwg6LWw6L+b55S76YeMIHwg6K6w5b+G54K544CB57uG6IqCIHwKfCDku47nlLvmoYblpJbmi4nov5vnlLvmoYblhoUgfCDnlLvmtLvkuoYgfCDlvIDlnLogfAp8IOaoquenu++8jOWDj+WcqOe+juacr+mmhumHjOi1sOi/h+S4gOW5hemVv+eUuyB8IOaXtumXtOOAgeaXheeoiyB8IOWPmeS6iyB8Cnwg5Zu65a6a5py65L2N77yM5Y+q5pyJ5YWJ5Zyo5Y+YIHwg5LiA5aSp44CB5a2j6IqCIHwg5oOF57uqIHwKCiMjIOWjsOmfs+iwg+iJsuadvwrljp/lo7DotKjmhJ/vvJrnrKwgMiDmoaPnmoTpkqLnkLTph4fmoLfjgIFgcGx1Y2tgIOaooeaLn+aLqOW8puOAgeaflOWSjOeahCBgcGFkYCDlvZPlvKbkuZDpk7rlupXvvJvnjq/looPlo7DvvIjpo47jgIHpuJ/jgIHmsLTvvInlvojpgILlkIjjgILmt7flk43kuK3nrYnlgY/lpKfjgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8mjMvNCDnmoTlnIboiJ7mm7LmhJ/jgIHmhaLpgJ/nmoTliIbop6PlkozlvKbjgIHml6DpvJPvvJvljbDosaHmtL7nmoTlkozlo7DoibLlvanvvIjlpKfkuIPjgIHkuZ3lkozlvKbjgIHlhajpn7PpmLbjgIHlubPooYzlkozlvKbvvInvvJvkuZ/lj6/ku6Xlj43nnYDnlKjvvJrnrJTop6bnlLvpnaLphY3kuIDmrrXnjrDku6PnlLXlrZDkuZDvvIzlvaLmiJDlj43lt67jgIIKCiMjIOWOn+eUn+aJi+azlQotIOeUu+mdouS4gOeslOS4gOeslOiiq+eUu+WHuuadpe+8mumAguWQiOW8gOWcuuOAgeOAjOWIm+S9nOOAjeexu+S4u+mimOOAggotIOS4gOS4quWMuuWfn+eahOeslOinpuaXi+i9rOOAgemHjee7hOaIkOS4i+S4gOmVnO+8mumAguWQiOi9rOWcuuOAggotIOeUu+ahhuWkluaYr+eOsOWunu+8iOaIluWPpuS4gOenjemjjuagvO+8ie+8jOmVnOWktOepv+i/m+eUu+ahhu+8mumAguWQiOOAjOi1sOi/m+S9nOWTgeOAjeOAggotIOWFieS7juS4gOi+ueaJq+i/h++8jOeUu+mdouS7juWGt+iwg+WPmOaaluiwg++8mumAguWQiOaXtumXtOa1gemAneOAggotIOaYn+epuua8qea2oeWKoOWQkeaXpeiRte+8mue7j+WFuO+8jOS6uuS6uumDveS8muaDs+WIsOOAggoKIyMg5Y+Y5YyW56m66Ze0Ci0g57uT5p6E77ya5ZCM5LiA5Liq5Zy65pmv5LuO5riF5pmo55S75Yiw5aSc5pma77yb5LiA5byg56m655m955S75biD6KKr55S75ruh77yb5LiA5Liq54mp5Lu25Zyo5Zub5Liq5a2j6IqC6YeM5ZCE55S75LiA5qyh77yb55S75a6255qE6KeG6KeS77yM5LiA56yU5LiA56yU55S75Ye65Lqn5ZOB44CCCi0g5byA5Zy677ya56m655m955S75biD5LiK6JC95LiL56ys5LiA56yU77yb5LiA5Liq55S75qGG6YeM5YWI5piv5bqV56i/77yM6aKc6Imy5LiA5bGC5bGC6ZO65LiK44CCCi0g57uT5bC+77ya6ZWc5aS05ouJ6L+c77yM5Y6f5p2l5piv5oyC5Zyo5aKZ5LiK55qE5LiA5bmF55S777yM5peB6L6555qE5qCH562+5pivIGxvZ2/vvJvpopzmlpnlubLkuobvvIznlLvpnaLlrprmoLzjgIIKCiMjIOWdkQotIOavj+W4p+mHjeaWsOmaj+acuueslOinpu+8muaVtOWxj+mDveWcqOmXquOAgueslOinpuS9jee9ruWbuuWumu+8jOWPquiuqeaWueWQkeWcuui/nue7reWPmOWMluOAggotIOWPquWBmuminOiJsuaKluWKqO+8jOayoeacieWMuuWfn+iJsue7hO+8mueUu+mdouWPmOaIkOOAjOWQjOS4gOS4quminOiJsueahOWZqueCueOAjeOAggotIOWwj+eJqeS7tuWSjOS4u+S9k+iiq+Wkp+eslOinpuaJk+eiju+8muWNleeLrOS4gOWxguOAgeWNleeLrOWPguaVsOOAggotIOa4suafk+WkquaFou+8mumdmeaAgemDqOWIhue8k+WtmO+8jOWFiOa1i+WNleW4p+iAl+aXtu+8jOW8gOa4suWJjeaKpemihOiuoeaXtumXtOOAggotIOWtl+WOi+WcqOe5geW/meeahOeslOinpuS4iuivu+S4jea4he+8muWtl+aUvuWcqOW5s+a2guWMuuWfn++8jOaIluiAhee7meWtl+S4gOWdl+WuiemdmeeahOW6leOAggotIOWkjeWIu+WQjeS9nOaehOWbvu+8muWPquWtpueslOinpuWSjOWFieeahOivreiogOOAggo=
+# 油画笔触（painterly）
+
+> 一幅会动的画：每一笔都有方向、厚度和颜料的颗粒，光在画布上流动，画里的东西轻轻地活着。
+> 参照（只学语法）：印象派和后印象派的笔触语言、厚涂（impasto）、外光派的光色、当代数字绘画的笔刷动画。不照搬具体画作的构图和名作的画面。
+
+## 本质 / 不是什么
+- 本质：**画面是一笔一笔画出来的**。形状由笔触组成，笔触的方向跟着物体的结构和光走；颜色是一个区域里几种颜色的并置，不是一个平涂色加噪点；画是活的，但笔触不乱跳。
+- 不是：照片加一个油画滤镜；也不是每帧重新随机生成笔触（那是闪烁，不是生命）。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 方向场笔触 | 笔触沿物体结构排列：天空旋转、地面沿透视、墙面竖直 | 风景、空间 |
+| 短促色点 | 冷暖交错的短笔触，远看才混成颜色 | 光、空气、户外 |
+| 厚涂 | 笔触有厚度和高光，像颜料堆起来 | 质感、情感浓烈 |
+| 区域色组 | 每个区域有 5–8 种相近的颜色交错 | 一切 |
+| 可见的画布纹理 | 笔触之间露出画布的布纹 | 手工、真实 |
+| 画出来的过程 | 画面一笔一笔被画出来 | 开场、创作 |
+| 光的流动 | 光斑在水面、树叶上明灭 | 时间、情绪 |
+| 粗轮廓线 | 深色的粗线勾出物体，线本身也是笔触 | 表现力、强烈 |
+| 刮刀痕 | 大块平直的刮刀抹痕 | 现代、粗犷 |
+| 未完成的边缘 | 画面边缘留着没画完的底稿和画布 | 过程、真诚 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 学的是笔触的语言，不是某一幅名画：可以「像印象派那样处理光」，但不要复刻名作的构图。
+
+## 这个风格最俗的版本
+- 画面：星空漩涡式的旋转天空、向日葵、黄蓝对比、一切都在打转。
+- 声音：古典钢琴或弦乐四重奏。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：品牌情绪片、片头、文化和艺术类宣传、节日和纪念、作品集里的一段。
+- 内容：艺术、文化、美食、旅行、季节、怀旧、高端手工品牌。
+- 不适合：需要清晰传达大量信息的产品讲解；文字很多的片子（笔触会和小字打架）；渲染时间紧的项目（这种风格很慢）。
+
+## 技术路线
+Canvas 2D 两步：先画一张平涂的底稿（离屏，决定构图和明暗），再用笔触渲染器整幅重画：在网格上撒笔触（位置用固定种子，只算一次），每一笔从底稿取色、按区域色组偏移、沿方向场取角度，画成带深色边的弯曲短条。小物件和主体单独一层、用更细的笔触画，否则会被大笔触打碎。静态部分缓存，每帧只重画会动的区域。先在 960×540 测单帧耗时，常见 50–150 毫秒。
+
+## 材质与渲染
+- 方向场：按区域写（天空沿云的走向、水面横向、墙竖直、地面沿透视），随时间连续摆动，不按帧重新随机。
+- 区域色组：每个区域定 5–8 个相近的颜色，每一笔从组里抽一个，再混 30–40% 底稿色保留明暗。只做颜色抖动会变成「同一个颜色的噪点」。
+- 笔触：长度、宽度随区域变化（远处短细、近处粗长），每一笔有很细的深色边，厚涂时加一道高光边。
+- 画布：底下一层布纹纹理，笔触之间偶尔露出来。
+- 主体：单独一层、单独参数，最后用一圈清晰的轮廓或高光把它从背景里拉出来。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 外光：天蓝 `#6FA8DC` / 草绿 `#93C47D` / 暖黄 `#F6D365` / 紫影 `#8E7CC3` / 画布 `#EFE6D2`
+- 暖室内：赭石 `#B5651D` / 深红 `#7B2D26` / 金黄 `#E1B44C` / 橄榄 `#6B6B3A` / 暗褐 `#2B1D14`
+- 冷夜：深蓝 `#1B2A49` / 群青 `#3A5BA0` / 月黄 `#F2E2A0` / 墨绿 `#1F3B2D`
+- 推导：先定光（外光、室内、夜晚），再给每个区域定色组：受光面偏暖、阴影偏冷（加一点补色），不要用黑色画阴影。黄蓝强对比是最常见的那组。
+
+## 字体
+笔触画面里的字要少：标题用有手写感或古典气质的衬线（Cormorant Garamond、EB Garamond、Playfair Display），或者干脆用笔刷画出来；中文用思源宋体、霞鹜文楷。字放在画面安静的区域，或者放在一块平涂的色块上。
+
+## 运动
+- 笔触的位置固定，运动来自方向场的连续摆动、光斑的移动和少数主体的动作。
+- 开场可以「画出来」：笔触按区域顺序在 0.5–1.5 秒内逐笔出现。
+- 镜头慢推慢移，笔触大小按屏幕像素定（推近时重画，笔触不跟着变粗）。
+- 主体的动作可以步进（12fps），和笔触的手工感一致。
+
+## 画面怎么活
+- 方向场随时间缓慢摇曳，笔触像被风吹动的草；水面和树叶上的光斑明灭。
+- 一两个主体的小动作：一缕炊烟、一只飞过的鸟、窗帘被风鼓起。
+- 只给方向场和光做连续变化，整屏不要换种子重画（那会读成闪烁）。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 极慢的推近到一处笔触 | 走进画里 | 记忆点、细节 |
+| 从画框外拉进画框内 | 画活了 | 开场 |
+| 横移，像在美术馆里走过一幅长画 | 时间、旅程 | 叙事 |
+| 固定机位，只有光在变 | 一天、季节 | 情绪 |
+
+## 声音调色板
+原声质感：第 2 档的钢琴采样、`pluck` 模拟拨弦、柔和的 `pad` 当弦乐铺底；环境声（风、鸟、水）很适合。混响中等偏大。
+
+律动与和声（举例，不止这些）：3/4 的圆舞曲感、慢速的分解和弦、无鼓；印象派的和声色彩（大七、九和弦、全音阶、平行和弦）；也可以反着用：笔触画面配一段现代电子乐，形成反差。
+
+## 原生手法
+- 画面一笔一笔被画出来：适合开场、「创作」类主题。
+- 一个区域的笔触旋转、重组成下一镜：适合转场。
+- 画框外是现实（或另一种风格），镜头穿进画框：适合「走进作品」。
+- 光从一边扫过，画面从冷调变暖调：适合时间流逝。
+- 星空漩涡加向日葵：经典，人人都会想到。
+
+## 变化空间
+- 结构：同一个场景从清晨画到夜晚；一张空白画布被画满；一个物件在四个季节里各画一次；画家的视角，一笔一笔画出产品。
+- 开场：空白画布上落下第一笔；一个画框里先是底稿，颜色一层层铺上。
+- 结尾：镜头拉远，原来是挂在墙上的一幅画，旁边的标签是 logo；颜料干了，画面定格。
+
+## 坑
+- 每帧重新随机笔触：整屏都在闪。笔触位置固定，只让方向场连续变化。
+- 只做颜色抖动，没有区域色组：画面变成「同一个颜色的噪点」。
+- 小物件和主体被大笔触打碎：单独一层、单独参数。
+- 渲染太慢：静态部分缓存，先测单帧耗时，开渲前报预计时间。
+- 字压在繁忙的笔触上读不清：字放在平涂区域，或者给字一块安静的底。
+- 复刻名作构图：只学笔触和光的语言。

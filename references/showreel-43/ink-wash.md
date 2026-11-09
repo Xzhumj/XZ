@@ -1,1 +1,94 @@
-IyDmsLTloqjvvIhpbmstd2FzaO+8iQoKPiDloqjlnKjlrqPnurjkuIrmmZXlvIDvvIzmtZPmt6HlubLmub/vvIzpo57nmb3lkoznlZnnmb3vvJvkuIDnrJTokL3kuIvvvIzlsbHmsLToh6rnjrDjgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJrkuK3lm73msLTloqjnlLvnmoTnrJTloqjor63oqIDvvIjmtZPmt6HjgIHlubLmub/jgIHnmrTmk6bjgIHnlZnnmb3vvInjgIHmsLTloqjliqjnlLvnmoTmmZXmn5PovazlnLrjgILkuI3nhafmkKzlhbfkvZPnlLvkvZzjgIIKCiMjIOacrOi0qCAvIOS4jeaYr+S7gOS5iAotIOacrOi0qO+8mioq5aKo55qE5omp5pWjKirvvIjmub/ovrnjgIHmmZXlvIDjgIHmuJDmt6HvvInjgIEqKueslOinpueahOmjnueZvSoq77yI5bmy56yU55qE5pat57ut77yJ44CBKirlpKfpnaLnp6/nlZnnmb0qKu+8m+WPqueUqOWiqOiJsueahOa1k+a3oe+8jOWBtuWwlOS4gOeCueacsee6ou+8iOWNsOeroOOAgeeCueedm++8ieOAggotIOS4jeaYr++8mueBsOW6pua4kOWPmOeahOefoumHj+WbvuW9ou+8m+S5n+S4jeaYr+WKoOS6huavm+eslOWtl+S9k+eahOaZrumAmiBQUFTjgIIKCiMjIOi+qOivhuS/oeWPt++8muavj+aUr+eJh+WtkOaMkSAy4oCTMyDkuKoKfCDkv6Hlj7cgfCDplb/ku4DkuYjmoLcgfCDpgILlkIjnmoTkuLvpopggfAp8LS0tfC0tLXwtLS18Cnwg5aKo55qE5pmV5byAIHwg5rm/6L6544CB5omp5pWj44CB5riQ5rehIHwg6LW35rqQ44CB5oOF57uqIHwKfCDpo57nmb0gfCDlubLnrJTnmoTmlq3nu60gfCDlipvph4/jgIHpgJ/luqYgfAp8IOWkp+mdouenr+eVmeeZvSB8IOeUu+mdouS4gOWNiuS7peS4iuaYr+e6uCB8IOaEj+Wig+OAgeWFi+WItiB8Cnwg5bGx5rC06ZW/5Y23IHwg5qiq5ZCR5bGV5byA55qE6L+c5bGx6L+R5rC0IHwg5peF56iL44CB5pe26Ze0IHwKfCDkuabms5UgfCDkuIDnrJTkuIDnlLvlhpnlh7rnmoTlrZcgfCDmoIfpopjjgIHmlofljJYgfAp8IOacsee6ouWNsOeroCB8IOWwj+aWueWNsO+8jOi+uee8mOS4jeinhOWImSB8IOiQveasvuOAgeiupOWPryB8Cnwg5bel56yU57q/5o+PIHwg57uG6ICM5YyA55qE57q/5Yu+5Ye66L2u5buTIHwg57K+57uG44CB5Zmo54mpIHwKfCDms7zloqggfCDlpKflnZfnmoTloqjms7zlvIDvvIzlvaLnirbkuI3lj6/mjqcgfCDniIblj5HjgIHoh6rnlLEgfAp8IOawtOWiqOWKqOeJqSB8IOWHoOeslOeUu+WHuueahOiZvuOAgemxvOOAgemprOOAgem4nyB8IOeUn+WRveOAgeeBteWKqCB8Cnwg6Zu+5ZKM54OfIHwg5reh5aKo55qE6Zu+5bim5qiq6L+H55S76Z2iIHwg56m66Ze044CB56We56eYIHwKfCDloqjlnKjmsLTph4wgfCDkuIDmu7TloqjokL3lhaXmuIXmsLTph4zljbfmm7IgfCDnjrDku6PjgIHlrp7pqowgfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggotIOWiqOeahOihjOS4uu+8iOaJqeaVo+OAgea1k+a3oeOAgea5v+i+ue+8ieaYr+i/meenjeWqkuS7i+eahOadkOi0qO+8jOWni+e7iOmDveWcqO+8m+S/oeWPt+aMkeeahOaYr+eqgeWHuuS7gOS5iOOAgeeUu+S7gOS5iOOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya5LiA5ru05aKo6JC95LiL5pmV5byA5oiQ6L+c5bGx44CB5Y+k55C05aOw6LW344CB5LiA56yU5YaZ5Ye65qCH6aKY44CB5pyA5ZCO55uW5LiA5Liq5pyx57qi5Y2w56ug44CCCi0g5aOw6Z+z77ya5Y+k55C05ouo5bym44CB566r44CB5rC05ru05aOw44CB5aSn5re35ZON44CCCi0gYnJpZWYg55qEIHN0eWxlIOS4gOagj+WGmeaYjui/meaUr+eJh+WtkOe/u+aOieS6huWTquWHoOadoe+8jOaIluiAheS4uuS7gOS5iOWIu+aEj+S/neeVme+8iOavlOWmgueUqOaIt+imgeeahOWwseaYr+e7j+WFuOeJiO+8ieOAguS/neeVmeaXtu+8jOaKiuWKm+awlOiKseWcqOaehOWbvuOAgemVnOWktOOAgeiKguWlj+aIluS4gOS4quaEj+WklueahOiusOW/hueCueS4iuOAggoKIyMg6YCC6YWNCi0g55So6YCU77ya54mH5aS044CBTG9nbyDmvJTnu47jgIHkuJzmlrnpopjmnZDnmoTlrqPkvKDniYfjgIHoioLml6XjgIHlk4HniYzmg4Xnu6rniYfjgIIKLSDlhoXlrrnvvJrmlofljJbjgIHojLbjgIHor5for43jgIHkvKDnu5/lt6XoibrjgIHkuJzmlrnnvo7lrablk4HniYzjgIHmrabkvqDjgIIKCiMjIOaKgOacr+i3r+e6vwpDYW52YXMgMkQg6Ieq5YaZ56yU6KemICsgV2ViR0wg5ZCO5pyf5YGa5omp5pWj5ZKM57q457q577yb5oiW6ICF5YWo6YOo5Zyo552A6Imy5Zmo6YeM5YGa77yI5aKo6L+5ID0g6ZqP5pe26Ze05omp5byg55qEIFNERiArIOWfn+aJreabsuWZquWjsOWBmuavm+i+ue+8jOa1k+W6pumaj+i3neemu+ihsOWHj++8ieOAgueslOinpu+8muayv+i3r+W+hOeUu+Wkp+mHj+W4puWZquWjsOWNiuW+hOeahOWchu+8jOmAn+W6puW/q+eahOWcsOaWuemjnueZve+8iOmaj+acuui3s+i/h++8ie+8jOaFoueahOWcsOaWueWiqOmHjeOAguaZleafk+eUqCB0IOaOp+WItuaJqeaVo+WNiuW+hO+8jOS4jeimgemAkOW4p+e0r+enr+aooeaLn+OAggoKIyMg5p2Q6LSo5LiO5riy5p+TCi0g5a6j57q477ya5pqW55m977yM57qk57u057q555CG77yM5aKo5Zyo57qk57u05pa55ZCR5LiK5riX5b6X5pu05b+r77yI55So5ZCE5ZCR5byC5oCn5Zmq5aOw5omw5Yqo6L6557yY77yJ44CCCi0g5aKo77ya5LqU6Imy77yI54Sm44CB5rWT44CB6YeN44CB5reh44CB5riF77yJ77yM55So5ZCM5LiA6Imy55u455qEIDUg5Liq5piO5bqm44CC5rm/6L655pu05rex44CCCi0g6aOe55m977ya5bmy56yU55qE5pat57ut77yM55So5Zmq5aOw6ZiI5YC85oqK56yU6Kem5oyW5Ye656m66ZqZ44CCCi0g5pyx57qi5Y2w56ug77ya5bCP5pa55Z2X77yM6L6557yY5LiN6KeE5YiZ77yM5YOP55yf55qE55uW5LiK5Y6755qE44CCCgojIyDphY3oibIK5LiL6Z2i55qE6Imy5YC85piv56S65L6L77yM55yL5oCd6Lev77yM5LiN6KaB5Y6f5qC354Wn5oqE44CCCi0g5a6j57q4IGAjRjNFRUUyYCAvIOeEpuWiqCBgIzE1MTQxMmAgLyDmt6HloqggYCM4QTg1N0JgIC8g5riF5aKoIGAjQzlDM0I2YCAvIOacsee6oiBgI0I4MjYyQWAKLSDmmpfniYjvvJrmt7HloqggYCMxNjE2MUFgIOW6lSAvIOeZveWiqCBgI0U4RTJENGDvvIjlj43ovazvvIznlKjkuo7lpJzmma/vvIkKLSDop4TliJnvvJrkuIDlsY/kuYvlhoXmnLHnuqLmnIDlpJrkuIDlpITvvJvnlZnnmb3oh7PlsJHljaDnlLvpnaLkuIDljYrjgIIKLSDmjqjlr7zvvJrloqjnmoTkupToibLvvIjlkIzkuIDoibLnm7jnmoTlh6DkuKrmmI7luqbvvInliqDnurjoibLvvIzmnLHnuqLmnIDlpJrkuIDlpITjgILkuZ/lj6/ku6Xor5Xlj43ovaznmoTmmpfniYjjgIHmt6HlvanvvIjoirHpnZLjgIHota3nn7PvvInjgIHlj6rnlKjnhKbloqjlkoznurjnmoTpq5jlr7nmr5TvvJvlrqPnurjliqDmnLHnuqLljbDnq6DmmK/mnIDluLjop4HnmoTpgqPnu4TjgIIKCiMjIOWtl+S9kwrkuabms5XlrZfkvZPvvIjnq5nphbflsI/olofjgIHpnJ7puZzmlofmpbfjgIHmgJ3mupDlrovkvZPnlKjkuo7lsI/lrZfvvJvlj6/llYbnlKjnmoTkuabms5XlrZfkvZPopoHnoa7orqTmjojmnYPvvInvvJvoi7HmlofnlKjkvJjpm4XnmoTooaznur/kvZPvvIhDb3Jtb3JhbnTjgIFFQiBHYXJhbW9uZO+8ieOAguagh+mimOWPr+S7peeUqOeslOinpuOAjOWGmeOAjeWHuuadpeOAggoKIyMg6L+Q5YqoCi0g5oWi77ya5pmV5byAIDHigJMzIOenku+8m+S4gOeslCAwLjPigJMwLjgg56eS77yb5pW05L2T6IqC5aWP5YOP5ZG85ZC444CCCi0g6L+Q56yU5pyJ5o+Q5oyJ77ya6LW356yU6YeN44CB6KGM56yU5b+r6ICM57uG44CB5pS256yU5Zue6ZSL44CCCi0g6L2s5Zy677ya5aKo5ru06JC95LiL5pmV5byA6ZO65ruh55S76Z2i77yM5YaN5LuO5Lit5b+D5reh5byA6Zyy5Ye65LiL5LiA6ZWc44CCCgojIyDnlLvpnaLmgI7kuYjmtLsKLSDloqjmmZXnmoTovrnnvJjov5jlnKjmnoHmhaLlnLDmtIflvIDvvJvkuIDnvJXng5/miJbkuIDmnaHpm77luKbmqKrnnYDpo5jov4fvvJvmsLTpnaLkuIrkuIDlnIjmtp/mvKrjgIIKLSDlpKfpnaLnp6/nlZnnmb3lp4vnu4jkuI3liqjvvIzmtLvnmoTkuJzopb/lj6rljaDnlLvpnaLkuIDlsI/lnZfjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDplb/ljbfmqKrnp7sgfCDml7bpl7TjgIHml4XnqIvvvIjmiYvljbfnmoTop4LnnIvmlrnlvI/vvIkgfCDlj5nkuovjgIHpo47mma8gfAp8IOe8k+aFouaOqOi/keWIsOS4gOeslCB8IOaEj+Wig+OAgee7huiKgiB8IOiusOW/hueCuSB8Cnwg5L+v6KeG5LiA5ru05aKoIHwg5byA5aeLIHwg5byA5Zy6IHwKCiMjIOWjsOmfs+iwg+iJsuadvwrlj6TnkLTjgIHnkLXnkLbjgIHnrqvnmoTpn7PoibLmhJ/vvJpgcGx1Y2tg77yIYnJpZ2h0IOS9juOAgWRhbXAg6auY5o6l6L+R5Y+k55C077yJ44CB5bim5ruR6Z+z55qEIGBsZWFkYO+8iHNpbmXvvIxnbGlkZe+8ieaooeaLn+euq++8m+epuueBteeahOmTuuW6leOAgeawtOa7tOWjsOOAgemjjuWjsO+8iGBhbWJpZW5jZSh7IGtpbmQ6ICd3aW5kJyB9KWDvvInjgILlpKfph4/nlZnnmb3lkozpnZnpn7PjgILmt7flk43opoHlpKfvvIgwLjTigJMwLjXvvInjgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8muaXoOaLjeaIluW+iOaFoueahOiHqueUseiKguWlj++8m+S6lOWjsOiwg+W8j++8iGBzY2FsZShyLCAnc2hhbmcnKWDjgIFgJ3poaSdg44CBYCd5dSdgIOetie+8ieOAgeaMgee7reS9jumfs++8m+WNlee6v+adoeaIluaLn+mfs+S4u+WvvOOAguawtOa7tOWPr+S7peeUqOmrmOmfsyBgbWFsbGV0KHsgbWF0ZXJpYWw6ICdnbG9jaycgfSlgIOaIluW/q+mAn+S4i+a7keeahCBgcG9wYOOAguS4jeS+p+mTvuOAggoKIyMg5Y6f55Sf5omL5rOVCi0g5LiA5ru05aKo6JC95LiL77yM5pmV5byA5oiQ5bGx77ya6YCC5ZCI5byA5Zy65ZKM44CM6LW35rqQ44CN77yI57uP5YW477yM5Lq65Lq66YO95Lya5oOz5Yiw77yJ44CCCi0g5aKo5pmV5p+T6L2s5Zy677ya6YCC5ZCI5q616JC95YiH5o2i44CCCi0g5LiA56yU5YaZ5Ye6IGxvZ28gLyDmoIfpopjvvIzmnIDlkI7nm5bkuIrmnLHnuqLljbDnq6DvvJrpgILlkIjokL3niYjvvIjnu4/lhbjvvInjgIIKLSDms7zloqjlnKjph43mi43kuIrngrjlvIDvvIzloqjngrnph4zmmL7lh7rkuIvkuIDkuKrnlLvpnaLvvJrpgILlkIjpq5jmva7jgIIKLSDloqjmu7TokL3lhaXmuIXmsLTvvIzljbfmm7LnmoTloqjlvaLmiJDlrZfvvJrpgILlkIjnjrDku6Plk4HniYzjgIIKCiMjIOWPmOWMluepuumXtAotIOe7k+aehO+8muS4gOW5hemVv+WNt+S7juWktOeci+WIsOWwvu+8m+S4gOeslOS4gOeUu+WGmeWujOS4gOS4quWtl++8m+aYpeWkj+eni+WGrOWbm+auteWiqOiJsuWPmOWMluOAggotIOW8gOWcuu+8muS4gOa7tOWiqOiQveWcqOeZvee6uOS4iu+8m+S4gOaUr+eslOeahOW9seWtkOOAggotIOe7k+Wwvu+8muWNsOeroOiQveS4i++8m+WiqOiJsua3oeWOu++8jOWPqueVmeeZveOAggoKIyMg5Z2RCi0g55So54Gw6Imy5riQ5Y+Y5YaS5YWF5aKo6Imy77ya6KaB5pyJ5omp5pWj44CB5rm/6L6544CB6aOe55m96L+Z5Lqb44CM5aKo55qE6KGM5Li644CN44CCCi0g55WZ55m95aSq5bCR77yM55S76Z2i5bCx5ruh5LqG44CB5L+X5LqG44CCCi0g5Lmm5rOV5a2X5L2T55qE5o6I5p2D77ya5Y+q55So56Gu6K6k5Y+v5ZWG55So55qE5a2X5L2T44CCCg==
+# 水墨（ink-wash）
+
+> 墨在宣纸上晕开，浓淡干湿，飞白和留白；一笔落下，山水自现。
+> 参照（只学语法）：中国水墨画的笔墨语言（浓淡、干湿、皴擦、留白）、水墨动画的晕染转场。不照搬具体画作。
+
+## 本质 / 不是什么
+- 本质：**墨的扩散**（湿边、晕开、渐淡）、**笔触的飞白**（干笔的断续）、**大面积留白**；只用墨色的浓淡，偶尔一点朱红（印章、点睛）。
+- 不是：灰度渐变的矢量图形；也不是加了毛笔字体的普通 PPT。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 墨的晕开 | 湿边、扩散、渐淡 | 起源、情绪 |
+| 飞白 | 干笔的断续 | 力量、速度 |
+| 大面积留白 | 画面一半以上是纸 | 意境、克制 |
+| 山水长卷 | 横向展开的远山近水 | 旅程、时间 |
+| 书法 | 一笔一画写出的字 | 标题、文化 |
+| 朱红印章 | 小方印，边缘不规则 | 落款、认可 |
+| 工笔线描 | 细而匀的线勾出轮廓 | 精细、器物 |
+| 泼墨 | 大块的墨泼开，形状不可控 | 爆发、自由 |
+| 水墨动物 | 几笔画出的虾、鱼、马、鸟 | 生命、灵动 |
+| 雾和烟 | 淡墨的雾带横过画面 | 空间、神秘 |
+| 墨在水里 | 一滴墨落入清水里卷曲 | 现代、实验 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 墨的行为（扩散、浓淡、湿边）是这种媒介的材质，始终都在；信号挑的是突出什么、画什么。
+
+## 这个风格最俗的版本
+- 画面：一滴墨落下晕开成远山、古琴声起、一笔写出标题、最后盖一个朱红印章。
+- 声音：古琴拨弦、箫、水滴声、大混响。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：片头、Logo 演绎、东方题材的宣传片、节日、品牌情绪片。
+- 内容：文化、茶、诗词、传统工艺、东方美学品牌、武侠。
+
+## 技术路线
+Canvas 2D 自写笔触 + WebGL 后期做扩散和纸纹；或者全部在着色器里做（墨迹 = 随时间扩张的 SDF + 域扭曲噪声做毛边，浓度随距离衰减）。笔触：沿路径画大量带噪声半径的圆，速度快的地方飞白（随机跳过），慢的地方墨重。晕染用 t 控制扩散半径，不要逐帧累积模拟。
+
+## 材质与渲染
+- 宣纸：暖白，纤维纹理，墨在纤维方向上渗得更快（用各向异性噪声扰动边缘）。
+- 墨：五色（焦、浓、重、淡、清），用同一色相的 5 个明度。湿边更深。
+- 飞白：干笔的断续，用噪声阈值把笔触挖出空隙。
+- 朱红印章：小方块，边缘不规则，像真的盖上去的。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 宣纸 `#F3EEE2` / 焦墨 `#151412` / 淡墨 `#8A857B` / 清墨 `#C9C3B6` / 朱红 `#B8262A`
+- 暗版：深墨 `#16161A` 底 / 白墨 `#E8E2D4`（反转，用于夜景）
+- 规则：一屏之内朱红最多一处；留白至少占画面一半。
+- 推导：墨的五色（同一色相的几个明度）加纸色，朱红最多一处。也可以试反转的暗版、淡彩（花青、赭石）、只用焦墨和纸的高对比；宣纸加朱红印章是最常见的那组。
+
+## 字体
+书法字体（站酷小薇、霞鹜文楷、思源宋体用于小字；可商用的书法字体要确认授权）；英文用优雅的衬线体（Cormorant、EB Garamond）。标题可以用笔触「写」出来。
+
+## 运动
+- 慢：晕开 1–3 秒；一笔 0.3–0.8 秒；整体节奏像呼吸。
+- 运笔有提按：起笔重、行笔快而细、收笔回锋。
+- 转场：墨滴落下晕开铺满画面，再从中心淡开露出下一镜。
+
+## 画面怎么活
+- 墨晕的边缘还在极慢地洇开；一缕烟或一条雾带横着飘过；水面上一圈涟漪。
+- 大面积留白始终不动，活的东西只占画面一小块。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 长卷横移 | 时间、旅程（手卷的观看方式） | 叙事、风景 |
+| 缓慢推近到一笔 | 意境、细节 | 记忆点 |
+| 俯视一滴墨 | 开始 | 开场 |
+
+## 声音调色板
+古琴、琵琶、箫的音色感：`pluck`（bright 低、damp 高接近古琴）、带滑音的 `lead`（sine，glide）模拟箫；空灵的铺底、水滴声、风声（`ambience({ kind: 'wind' })`）。大量留白和静音。混响要大（0.4–0.5）。
+
+律动与和声（举例，不止这些）：无拍或很慢的自由节奏；五声调式（`scale(r, 'shang')`、`'zhi'`、`'yu'` 等）、持续低音；单线条或拟音主导。水滴可以用高音 `mallet({ material: 'glock' })` 或快速下滑的 `pop`。不侧链。
+
+## 原生手法
+- 一滴墨落下，晕开成山：适合开场和「起源」（经典，人人都会想到）。
+- 墨晕染转场：适合段落切换。
+- 一笔写出 logo / 标题，最后盖上朱红印章：适合落版（经典）。
+- 泼墨在重拍上炸开，墨点里显出下一个画面：适合高潮。
+- 墨滴落入清水，卷曲的墨形成字：适合现代品牌。
+
+## 变化空间
+- 结构：一幅长卷从头看到尾；一笔一画写完一个字；春夏秋冬四段墨色变化。
+- 开场：一滴墨落在白纸上；一支笔的影子。
+- 结尾：印章落下；墨色淡去，只留白。
+
+## 坑
+- 用灰色渐变冒充墨色：要有扩散、湿边、飞白这些「墨的行为」。
+- 留白太少，画面就满了、俗了。
+- 书法字体的授权：只用确认可商用的字体。

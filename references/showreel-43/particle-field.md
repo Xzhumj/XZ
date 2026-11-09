@@ -1,1 +1,96 @@
-IyDnspLlrZDlnLrvvIhwYXJ0aWNsZS1maWVsZO+8iQoKPiDmiJDljYPkuIrkuIfkuKrngrnvvJrku47mt7fmsozkuK3ogZrmiJDkuIDkuKror43vvIzmsr/nnYDnnIvkuI3op4HnmoTlipvlnLrmtYHliqjvvIzlnKjph43mi43kuIrngrjlvIDvvIzlho3ph43mlrDnu4TlkIjjgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJrmlbDmja7lj6/op4bljJbkuK3nmoTnspLlrZDliqjnlLvjgIHlk4HniYzniYfph4znmoTnspLlrZDnu4TlrZfjgIHmtYHlnLroibrmnK/jgILkuI3nhafmkKzlhbfkvZPkvZzlk4HjgIIKCiMjIOacrOi0qCAvIOS4jeaYr+S7gOS5iAotIOacrOi0qO+8mioq57KS5a2Q5pyJ55uu55qEKirvvJrnu4TlrZfjgIHnu4TlvaLjgIHmsr/lnLrmtYHliqjjgIHot5/pmo/kuLvkvZPvvJvmlbTkvZPlg4/kuIDnp43nianotKjvvIzogIzkuI3mmK/liLDlpITpo57nmoTkuq7ngrnjgIIKLSDkuI3mmK/vvJrpgJrnlKjnmoTjgIznspLlrZDniIbngrggKyDplZzlpLTlhYnmmZXjgI3mqKHmnb/vvJvkuZ/kuI3mmK/msqHmnInnu5PmnoTnmoTmmJ/nqbrog4zmma/jgIIKCiMjIOi+qOivhuS/oeWPt++8muavj+aUr+eJh+WtkOaMkSAy4oCTMyDkuKoKfCDkv6Hlj7cgfCDplb/ku4DkuYjmoLcgfCDpgILlkIjnmoTkuLvpopggfAp8LS0tfC0tLXwtLS18Cnwg57KS5a2Q57uE5a2XIHwg5re35rKM5Lit55qE54K56IGa5oiQ5LiA5Liq6K+N5oiWIGxvZ28gfCBkcm9w44CB6K6w5b+G54K5IHwKfCDmtYHlnLogfCDnspLlrZDmsr/nnIvkuI3op4HnmoTlipvlnLrmtYHliqggfCDmtYHliqjjgIHotovlir8gfAp8IOmHjeaLjeeCuOW8gCB8IOS4gOS4queCueWcqOmHjeaLjeS4iueCuOaIkOeykuWtkCB8IOWGsuWHu+OAgeeIhuWPkSB8Cnwg5bC+6L+5IHwg57KS5a2Q6Lef552A5Li75L2T5ouW5Ye66L2o6L+5IHwg6YCf5bqm44CB6Lev5b6EIHwKfCDlsJjln4PlkozlhYnngrkgfCDmhaLmhaLmvILmta7nmoTpopfnspLvvIzmnInmma/mt7EgfCDmsJvlm7TjgIHlroHpnZkgfAp8IOaymeWSjOmil+eykiB8IOeykuWtkOWDj+aymeS4gOagt+Wghuenr+OAgeWhjOiQvSB8IOaXtumXtOOAgeS+teiagCB8Cnwg576k6ZuGIHwg57KS5a2Q5YOP6bif576k5oiW6bG8576k5LiA5qC36IGa5pWjIHwg576k5L2T44CB5Y2P5L2cIHwKfCDmlbDmja7nspLlrZAgfCDkuIDkuKrnspLlrZDku6PooajkuIDkuKrljZXkvY3vvIzmjInmlbDmja7ogZrmiJDlvaLnirYgfCDop4TmqKHjgIHmlbDph48gfAp8IOeCueS6kSB8IOeykuWtkOe7hOaIkOS4gOS4quS4iee7tOeJqeS9k++8jOmVnOWktOe7leedgOi9rCB8IOS6p+WTgeOAgeepuumXtCB8Cnwg5aKo54K55ZKM5rC05b2p54K5IHwg57KS5a2Q5piv5LiN6KeE5YiZ55qE5aKo54K56ICM5LiN5piv5YWJ54K5IHwg5omL5L2c44CB5Lic5pa5IHwKCuinhOWIme+8mgotIOavj+aUr+aMkSAy4oCTMyDkuKrvvIzoh7PlsJHkuIDkuKrkuI3lnKjkuIvpnaLjgIzmnIDkv5fnmoTniYjmnKzjgI3ph4zjgIIKLSDkv6Hlj7fku47kuLvpopjph4zpgInvvIzkuI3mjInpobrluo/lhajkuIrjgIIKLSDnspLlrZDopoHmnInnm67nmoTvvJrmr4/kuIDmrKHov5Dliqjpg73or7Tlvpflh7rlroPku6zopoHljrvlk6rjgIIKCiMjIOi/meS4qumjjuagvOacgOS/l+eahOeJiOacrAotIOeUu+mdou+8mum7keW6leS4iuS4gOWbouWPkeWFieeahOeykuWtkOeCuOW8gOOAgeaXi+i9rOOAgeiBmuaIkCBsb2dv77yM5Zub5ZGo5YaN5Yqg5LiA54K56ZWc5aS05YWJ5pmV44CCCi0g5aOw6Z+z77ya5LiK5Y2H55qEIHJpc2Vy44CB54K45byA55qEIGltcGFjdOOAgemXqueDgeeahCBzaGltbWVy44CCCi0gYnJpZWYg55qEIHN0eWxlIOS4gOagj+WGmeaYjui/meaUr+eJh+WtkOe/u+aOieS6huWTquWHoOadoe+8jOaIluiAheS4uuS7gOS5iOWIu+aEj+S/neeVme+8iOavlOWmgueUqOaIt+imgeeahOWwseaYr+e7j+WFuOeJiO+8ieOAguS/neeVmeaXtu+8jOaKiuWKm+awlOiKseWcqOaehOWbvuOAgemVnOWktOOAgeiKguWlj+aIluS4gOS4quaEj+WklueahOiusOW/hueCueS4iuOAggoKIyMg6YCC6YWNCi0g55So6YCU77ya562+5ZCN5pe25Yi744CBTG9nbyDmvJTnu47jgIHniYflpLTjgIHlrqPkvKDniYfph4znmoTjgIzmsYfogZrjgI3ml7bliLvjgIIKLSDlhoXlrrnvvJpBSeOAgeaVsOaNruOAgee9kee7nOOAgeekvuWMuuOAgeWTgeeJjOOAgeWuh+WumeWSjOiHqueEtuS4u+mimOOAggoKIyMg5oqA5pyv6Lev57q/Ci0g4omkIDUwMDAg5Liq57KS5a2Q77yaQ2FudmFzIDJEIGBmaWxsUmVjdGDjgIIKLSA1MDAw4oCTMTAwMDAw77yaV2ViR0wg54K557K+54G15oiW6ICFIFRocmVlLmpzIGBJbnN0YW5jZWRNZXNoYCAvIGBQb2ludHNg77yM5L2N572u5Zyo6aG254K5552A6Imy5Zmo6YeM55SxIGB0YCDlkozmr4/kuKrnspLlrZDnmoTlsZ7mgKfvvIjnp43lrZDjgIHnm67moIfvvInnrpflh7rmnaXjgIIKLSAqKuaXoOeKtuaAgSoq77ya5q+P5Liq57KS5a2Q55qE5L2N572u5pivIGBmKOW6j+WPtywgdClg77yIcmVjaXBlcy5tZCDnrKwgN+OAgTgg6IqC77yJ77yM5LiN6KaB6YCQ5bin56ev5YiG6YCf5bqm44CCCi0g55uu5qCH5b2i54q277ya5a2X5L2T5Yqg6L295a6M5ZCO77yM5Zyo56a75bGP55S75biD5LiK5YaZ5a2X5oiW55S7IGxvZ2/vvIzmjInnvZHmoLzph4fmoLflvpfliLDnm67moIfngrnvvIjkuIDmrKHmgKfjgIHnoa7lrprmgKfvvInjgIIKCiMjIOadkOi0qOS4jua4suafkwotIOeykuWtkOWwj++8iDLigJM1cHjvvInvvIzlpKflsI/lkozkuq7luqbmnInkuIDngrnpmo/mnLrvvIjlm7rlrprnp43lrZDvvInvvJsxMOKAkzE1JSDnmoTnspLlrZDnlKjlvLrosIPoibLjgIIKLSDlr4bluqblhrPlrprlvaLnirbnmoTlj6/or7vmgKfvvJrph4fmoLfmraXplb8gNeKAkzhweO+8iDEwODBw77yJ44CCCi0g5Y+v6YCJ5ouW5bC+77ya55SoIHJlY2lwZXMubWQg56ysIDEzIOiKgueahOaXtumXtOWbnumHh++8jOaIluiAhei/kOWKqOaooeeziiBgLS1zdWJmcmFtZXMgNGDjgIIKLSDmt7HoibLog4zmma/kuIrnspLlrZDnlKjliqDms5Xmt7flkIjvvIhgbGlnaHRlcmDvvInkvJrmm7Tkuq7vvJvmtYXoibLog4zmma/nlKjmraPluLjmt7flkIjjgIIKCiMjIOmFjeiJsgrkuIvpnaLnmoToibLlgLzmmK/npLrkvovvvIznnIvmgJ3ot6/vvIzkuI3opoHljp/moLfnhafmioTjgIIKLSDov5Hpu5EgYCMwQjBCMERgIC8g57q46Imy57KS5a2QIGAjRUZFQkUzYCAvIOW8uuiwgyBgIzE2QzE3MmAKLSDnmb3lupUgYCNGN0Y2RjJgIC8g5aKo6Imy57KS5a2QIGAjMTUxNTE1YCAvIOW8uuiwgyBgI0ZGNEExQ2AKLSDop4TliJnvvJrnspLlrZDmnIDlpJrkuKTnp43popzoibLvvJvlvLrosIPoibLnmoTnspLlrZDmr5Tkvovlm7rlrprjgIIKLSDmjqjlr7zvvJrnspLlrZDmnIDlpJrkuKTnp43popzoibLvvIzlvLrosIPoibLnspLlrZDnmoTmr5Tkvovlm7rlrprvvJvmtYXlupXmt7HnspLlrZDjgIHmt7HlupXmtYXnspLlrZDpg73lj6/ku6XvvIzku47lk4HniYzmnaXjgILpu5HlupXlj5HlhYnnspLlrZDmmK/mnIDluLjop4HnmoTpgqPnu4TjgIIKCiMjIOWtl+S9kwrnu4TlrZfnlKjotoXnspfnmoTlsZXnpLrlrZfkvZPvvIjnrJTnlLvotornspfvvIznspLlrZDlrZfotormuIXmmbDvvInvvJpBcmNoaXZvIEJsYWNr44CBQW50b27jgIFVbmJvdW5kZWQgQmxhY2vjgIIKCiMjIOi/kOWKqAotIOiBmuWQiO+8muW8ueewpyBgezEuNSwgMC44Mn1g77yM5q+P5Liq57KS5a2Q5pyJ6ZqP5py65bu26L+f77yIMOKAkzAuOSDnp5LvvInvvIzogZrlkIjliY3luKbkuIDngrnlmarlo7DmvILnp7vjgIIKLSDngrjlvIDvvJpgb3V0RXhwb2DvvIwwLjTigJMwLjgg56eS77yM5pa55ZCR5LuO5Lit5b+D5ZCR5aSW5Yqg5LiA54K56ZqP5py644CCCi0g5rWB5Yqo77ya57KS5a2Q5L2N572uID0g6LW354K5ICsg5rK/5rWB5Zy655qE6Kej5p6Q6Lev5b6E77yI5q+U5aaC5rK/5LiA57uE5q2j5bym5puy57q/77yJ77yM5oiW6ICF5ZGo5pyf5oCn55qE5Zmq5aOw5YGP56e744CCCi0g5Zyo5LiA5Liq5b2i54q25YGc55WZ6Laz5aSf5LmF6K6p5Lq66K+75riF77yI4omlIDEuNSDnp5LvvInvvIzlho3lj5jmiJDkuIvkuIDkuKrjgIIKCiMjIOeUu+mdouaAjuS5iOa0uwotIOe7hOaIkOS4gOS4quW9oueKtuWQju+8jOeykuWtkOS4jeWujOWFqOmdmeatou+8muavj+S4queykuWtkOWcqOebruagh+eCuemZhOi/keWwj+W5hea8guenu++8iDLigJM0cHjvvIzlmarlo7DlnKjlnIbkuIrph4fmoLfvvIzlj6/lvqrnjq/vvInvvIzmlbTkvZPnnIvotbfmnaXlnKjlkbzlkLjjgIIKLSDovrnnvJjlgbblsJTmnInlh6DpopfnspLlrZDohLHokL3po5jotbDvvIzmj5DnpLrov5nkuKrlvaLnirbmmK/nlLHnspLlrZDogZrmiJDnmoTjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDmgKXmjqggKyDpnIflsY/vvIjngrjlvIDml7bvvIkgfCDlhrLlh7sgfCBkcm9wIHwKfCDnvJPmhaLmi4nov5zvvIznspLlrZDnu4TmiJDmm7TlpKfnmoTlvaLnirYgfCDlsLrluqYgfCDmj63npLogfAp8IOepv+i/h+eykuWtkOS6kSB8IOayiea1uCB8IOi9rOWcuiB8CgojIyDlo7Dpn7PosIPoibLmnb8K54K45byA55SoIGBpbXBhY3RgICsgYGNyYXNoYO+8m+iBmuWQiOeUqCBzaGltbWVy44CB5LiK5Y2H55qEIHJpc2Vy77yb5rWB5Yqo55So6ZO65bqV5ZKM6aKX57KS5oSf55qE6auY6aKR44CCZHJvcCDliY3nlZnkuIDmi43pnZnpn7PjgILnrKwgMSDmoaPlkIjmiJDljbPlj6/jgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8muWbm+i4qeeahOaOqOi/m++8jOaIluiAheWkjeiKguWlj+eahOmil+eykuaEn++8iOS4iei/numfs+eQtumfs+WOi+WcqOWbm+aLjeS4iu+8ie+8m+Wwj+iwg+OAgURvcmlhbu+8jOaIluiAheS4gOS4quWSjOW8puWPqumdoOa7pOazouWPmOWMlu+8m+e0r+WKoO+8iOeykuWtkOi2iuiBmui2iuWkmu+8jOWjsOmDqOi2iuWPoOi2iuWOmu+8ieWSjOWQuOawlCDihpIg54iG5Y+R6YO95ZCI6YCC44CCCgojIyDljp/nlJ/miYvms5UKLSDkuIDkuKrngrnngrjmiJDnspLlrZDvvIznspLlrZDogZrmiJDkuIDkuKror43vvJrpgILlkIggZHJvcCDlkozorrDlv4bngrnjgIIKLSDkuIDkuKror43nmoTnspLlrZDmtYHliqjnnYDph43nu4TmiJDlj6bkuIDkuKror43vvJrpgILlkIjjgIxBIOWPmOaIkCBC44CN44CCCi0g57KS5a2Q6Lef6ZqP5LiA5Liq5Li75L2T5b2i5oiQ5bC+6L+577ya6YCC5ZCI6YCf5bqm5ZKM6Lev5b6E44CCCgojIyDlj5jljJbnqbrpl7QKLSDnu5PmnoTvvJrmt7fmsowg4oaSIOenqeW6jyDihpIg5YaN5re35rKM77yb5LiA5Liq6K+N5Y+Y5LiJ5Liq6K+N77yb57KS5a2Q5LuO55S76Z2i5Zub6KeS5rGH6IGa5Yiw5Lit5b+D44CCCi0g5byA5Zy677ya5LiA5Liq54K577yb5LiA5Zui5ryC5rWu55qE5bCY5Z+D44CCCi0g57uT5bC+77ya57KS5a2Q57uE5oiQIGxvZ28g5ZCO6Z2Z5q2i77yb57KS5a2Q5pWj5byA44CB5Y+q5Ymp5LiA5Liq54K577yI5b6q546v77yJ44CCCgojIyDlnZEKLSDnspLlrZDmsqHmnInnm67nmoTvvIzlsLHmmK/mqKHmnb/vvJrmr4/mrKHov5Dliqjpg73opoHlm57nrZTjgIzlroPku6zopoHljrvlk6rjgI3jgIIKLSDkuK3lv4PnlZnlh7rkuIDkuKrjgIzmtJ7jgI3vvJrngrjlvIDnmoTotbflp4vot53nprvku44gMCDlvIDlp4vliIbluIPjgIIKLSDlvaLnirblgZznlZnlpKrnn63nnIvkuI3muIXlrZfjgIIKLSDnspLlrZDlpKrlpJrjgIHluKfml7bpl7TmmrTmtqjvvJrotoXov4cgNTAwMCDkuKrlsLHmjaIgV2ViR0zjgIIK
+# 粒子场（particle-field）
+
+> 成千上万个点：从混沌中聚成一个词，沿着看不见的力场流动，在重拍上炸开，再重新组合。
+> 参照（只学语法）：数据可视化中的粒子动画、品牌片里的粒子组字、流场艺术。不照搬具体作品。
+
+## 本质 / 不是什么
+- 本质：**粒子有目的**：组字、组形、沿场流动、跟随主体；整体像一种物质，而不是到处飞的亮点。
+- 不是：通用的「粒子爆炸 + 镜头光晕」模板；也不是没有结构的星空背景。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 粒子组字 | 混沌中的点聚成一个词或 logo | drop、记忆点 |
+| 流场 | 粒子沿看不见的力场流动 | 流动、趋势 |
+| 重拍炸开 | 一个点在重拍上炸成粒子 | 冲击、爆发 |
+| 尾迹 | 粒子跟着主体拖出轨迹 | 速度、路径 |
+| 尘埃和光点 | 慢慢漂浮的颗粒，有景深 | 氛围、宁静 |
+| 沙和颗粒 | 粒子像沙一样堆积、塌落 | 时间、侵蚀 |
+| 群集 | 粒子像鸟群或鱼群一样聚散 | 群体、协作 |
+| 数据粒子 | 一个粒子代表一个单位，按数据聚成形状 | 规模、数量 |
+| 点云 | 粒子组成一个三维物体，镜头绕着转 | 产品、空间 |
+| 墨点和水彩点 | 粒子是不规则的墨点而不是光点 | 手作、东方 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 粒子要有目的：每一次运动都说得出它们要去哪。
+
+## 这个风格最俗的版本
+- 画面：黑底上一团发光的粒子炸开、旋转、聚成 logo，四周再加一点镜头光晕。
+- 声音：上升的 riser、炸开的 impact、闪烁的 shimmer。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：签名时刻、Logo 演绎、片头、宣传片里的「汇聚」时刻。
+- 内容：AI、数据、网络、社区、品牌、宇宙和自然主题。
+
+## 技术路线
+- ≤ 5000 个粒子：Canvas 2D `fillRect`。
+- 5000–100000：WebGL 点精灵或者 Three.js `InstancedMesh` / `Points`，位置在顶点着色器里由 `t` 和每个粒子的属性（种子、目标）算出来。
+- **无状态**：每个粒子的位置是 `f(序号, t)`（recipes.md 第 7、8 节），不要逐帧积分速度。
+- 目标形状：字体加载完后，在离屏画布上写字或画 logo，按网格采样得到目标点（一次性、确定性）。
+
+## 材质与渲染
+- 粒子小（2–5px），大小和亮度有一点随机（固定种子）；10–15% 的粒子用强调色。
+- 密度决定形状的可读性：采样步长 5–8px（1080p）。
+- 可选拖尾：用 recipes.md 第 13 节的时间回采，或者运动模糊 `--subframes 4`。
+- 深色背景上粒子用加法混合（`lighter`）会更亮；浅色背景用正常混合。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 近黑 `#0B0B0D` / 纸色粒子 `#EFEBE3` / 强调 `#16C172`
+- 白底 `#F7F6F2` / 墨色粒子 `#151515` / 强调 `#FF4A1C`
+- 规则：粒子最多两种颜色；强调色的粒子比例固定。
+- 推导：粒子最多两种颜色，强调色粒子的比例固定；浅底深粒子、深底浅粒子都可以，从品牌来。黑底发光粒子是最常见的那组。
+
+## 字体
+组字用超粗的展示字体（笔画越粗，粒子字越清晰）：Archivo Black、Anton、Unbounded Black。
+
+## 运动
+- 聚合：弹簧 `{1.5, 0.82}`，每个粒子有随机延迟（0–0.9 秒），聚合前带一点噪声漂移。
+- 炸开：`outExpo`，0.4–0.8 秒，方向从中心向外加一点随机。
+- 流动：粒子位置 = 起点 + 沿流场的解析路径（比如沿一组正弦曲线），或者周期性的噪声偏移。
+- 在一个形状停留足够久让人读清（≥ 1.5 秒），再变成下一个。
+
+## 画面怎么活
+- 组成一个形状后，粒子不完全静止：每个粒子在目标点附近小幅漂移（2–4px，噪声在圆上采样，可循环），整体看起来在呼吸。
+- 边缘偶尔有几颗粒子脱落飘走，提示这个形状是由粒子聚成的。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 急推 + 震屏（炸开时） | 冲击 | drop |
+| 缓慢拉远，粒子组成更大的形状 | 尺度 | 揭示 |
+| 穿过粒子云 | 沉浸 | 转场 |
+
+## 声音调色板
+炸开用 `impact` + `crash`；聚合用 shimmer、上升的 riser；流动用铺底和颗粒感的高频。drop 前留一拍静音。第 1 档合成即可。
+
+律动与和声（举例，不止这些）：四踩的推进，或者复节奏的颗粒感（三连音琶音压在四拍上）；小调、Dorian，或者一个和弦只靠滤波变化；累加（粒子越聚越多，声部越叠越厚）和吸气 → 爆发都合适。
+
+## 原生手法
+- 一个点炸成粒子，粒子聚成一个词：适合 drop 和记忆点。
+- 一个词的粒子流动着重组成另一个词：适合「A 变成 B」。
+- 粒子跟随一个主体形成尾迹：适合速度和路径。
+
+## 变化空间
+- 结构：混沌 → 秩序 → 再混沌；一个词变三个词；粒子从画面四角汇聚到中心。
+- 开场：一个点；一团漂浮的尘埃。
+- 结尾：粒子组成 logo 后静止；粒子散开、只剩一个点（循环）。
+
+## 坑
+- 粒子没有目的，就是模板：每次运动都要回答「它们要去哪」。
+- 中心留出一个「洞」：炸开的起始距离从 0 开始分布。
+- 形状停留太短看不清字。
+- 粒子太多、帧时间暴涨：超过 5000 个就换 WebGL。

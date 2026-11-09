@@ -1,1 +1,100 @@
-IyBUYWxraW5nLUhlYWQgUmV0YWtlIENsZWFudXAKCiMjIFdoZW4gdG8gdXNlCgpVc2UgdGhpcyB3b3JrZmxvdyB3aGVuIGEgdGFsa2luZy1oZWFkIHJlY29yZGluZyBjb250YWlucyBhIGZhaWxlZCBhdHRlbXB0LAphcHByb3hpbWF0ZWx5IHR3byBzZWNvbmRzIG9mIHNpbGVuY2Ugb3IgbW9yZSwgYW5kIHRoZW4gYSByZXBlYXRlZCwgbW9yZQpjb21wbGV0ZSB0YWtlLgoKVGhpcyBpcyBhIHJvdWdoLWN1dCBhdXRvbWF0aW9uLCBub3QgYW4gdW5yZXN0cmljdGVkIHNlbWFudGljIGVkaXRvci4gSXQgbWF5CnJlbW92ZSBvbmx5IGEgZmFpbGVkIHJlcGVhdGVkIHRha2UuIEl0IG11c3Qgbm90IHJlbW92ZSBhIGRlbGliZXJhdGUgZW1waGFzaXMsCmEgZGlmZmVyZW50IGNsYWltLCBvciBjb250ZW50IHdob3NlIG1lYW5pbmcgY2Fubm90IGJlIGVzdGFibGlzaGVkIGZyb20gdGhlCnRyYW5zY3JpcHQuCgojIyBSZXF1aXJlZCBldmlkZW5jZSBmb3IgYW4gYXV0b21hdGljIGN1dAoKQWxsIGZvdXIgY29uZGl0aW9ucyBtdXN0IGJlIHRydWU6CgoxLiBUaGUgbGF0ZXIgdGFrZSBiZWdpbnMgYWZ0ZXIgYSBwYXVzZSBtZWV0aW5nIHRoZSBjb25maWd1cmVkIHRocmVzaG9sZCwKICAgZGVmYXVsdCBgMmAgc2Vjb25kcy4KMi4gVGhlIGxhdGVyIHRha2UgcmVwZWF0cyB0aGUgZWFybGllciBvcGVuaW5nLiBEZWZhdWx0IHByZWZpeCBjb250YWlubWVudDoKICAgYDAuNDVgLgozLiBUaGUgbm9ybWFsaXplZCB0ZXh0IGlzIGhpZ2hseSBzaW1pbGFyLiBEZWZhdWx0czoKICAgLSBDb250YWlubWVudDogYDAuODJgLgogICAtIFNpbWlsYXJpdHk6IGAwLjU4YC4KICAgLSBNaW5pbXVtIHRleHQgbGVuZ3RoOiBgNmAgbm9ybWFsaXplZCBjaGFyYWN0ZXJzLgo0LiBUaGUgbGF0ZXIgdGFrZSBpcyBzdWJzdGFudGlhbGx5IGFzIGNvbXBsZXRlIG9yIG1vcmUgY29tcGxldGUgdGhhbiB0aGUKICAgZWFybGllciB0YWtlLiBEZWZhdWx0IGxlbmd0aCByYXRpbzogYDAuODVgLgoKSWYgdGhlIGxhdGVyIHRha2UgaXMgc2hvcnRlciwgc3RvcCBhdXRvbWF0aWMgZGVsZXRpb24gYW5kIGZsYWcgdGhlIHBhaXIgZm9yCnJldmlldy4KCiMjIFdvcmtmbG93CgoxLiBQcmVzZXJ2ZSB0aGUgb3JpZ2luYWwgdGFsa2luZy1oZWFkIGZpbGUgYW5kIGNvbXB1dGUgaXRzIFNIQS0yNTYuCjIuIFJ1biB3b3JkLWxldmVsIGxvY2FsIEFTUjoKCiAgIGBgYHBvd2Vyc2hlbGwKICAgaHlwZXJmcmFtZXMgdHJhbnNjcmliZSAiPHRhbGtpbmctaGVhZC1maWxlPiIgLS1sYW5ndWFnZSB6aCAtLWpzb24gLS10byBzcnQgLW8gIjxwcm9qZWN0Pi/ntKDmnZAv5Y+j5pKtL+WOn+Wni+Wtl+W5lS5zcnQiCiAgIGBgYAoKICAgUmVhZCB0aGUgSlNPTiBvdXRwdXQgYW5kIHJlY29yZCB0aGUgcmV0dXJuZWQgYHRyYW5zY3JpcHRQYXRoYC4KCjMuIEFuYWx5emUgcmVwZWF0ZWQgdGFrZXMsIGdlbmVyYXRlIGEgY2xlYW4gU1JULCBhbmQgcmVuZGVyIHRoZSByb3VnaCBjdXQKICAgd2l0aG91dCBvdmVyd3JpdGluZyBzb3VyY2U6CgogICBgYGBwb3dlcnNoZWxsCiAgIG5vZGUgIjxza2lsbC1kaXI+L3NjcmlwdHMvcmV0YWtlLWNsZWFudXAubWpzIiAtLXRyYW5zY3JpcHQgIjx0cmFuc2NyaXB0UGF0aD4iIC0tbWVkaWEgIjx0YWxraW5nLWhlYWQtZmlsZT4iIC0tb3V0cHV0LWRpciAiPHByb2plY3Q+L+e0oOadkC/lpITnkIYv5Y+j5pKt5Y675Y2h6aG/X3YxIiAtLXBhdXNlLXNlY29uZHMgMiAtLXJlbmRlcgogICBgYGAKCjQuIEluc3BlY3QgYHJldGFrZS1wbGFuLmpzb25gIGFuZCBgcmV0YWtlLXBsYW4ubWRgLgogICAtIEV2ZXJ5IGF1dG9tYXRpYyBkZWxldGlvbiBtdXN0IGNpdGUgdGhlIGVhcmxpZXIgdGFrZSBhbmQgdGhlIGxhdGVyIHRha2UuCiAgIC0gQW1iaWd1b3VzIHBhaXJzIG11c3QgcmVtYWluIHVuY3V0IGFuZCBhcHBlYXIgaW4gdGhlIHJldmlldyB3YXJuaW5ncy4KICAgLSBBIG5vLWNhbmRpZGF0ZSByZXN1bHQgaXMgdmFsaWQuIE5ldmVyIGZvcmNlIGEgY3V0LgoKNS4gUmUtdHJhbnNjcmliZSBgY2xlYW4ubXA0YCBhbmQgY29tcGFyZSBpdHMgdHJhbnNjcmlwdCB3aXRoIGBjbGVhbi5zcnRgLgogICBSZWdlbmVyYXRlIG9yIHJlcGFpciBzdWJ0aXRsZSB0aW1pbmcgaWYgdGhlIGN1dCBjaGFuZ2VkIHdvcmQgYm91bmRhcmllcy4KNi4gV2hlbiB0aGUgcHJvamVjdCB1c2VzIGEgc3RhbmRhbG9uZSBvcGVuaW5nLCBjb21wbGV0ZSB0aGUgdGltZWxpbmUta2V5ZnJhbWUKICAgZ2F0ZSBhZnRlciBg56Gu6K6k5byA5aS0YC4KNy4gVXNlIHRoZSBjbGVhbmVkIG1lZGlhIGFuZCBzeW5jZWQgU1JUIGluIHRoZSBhcHByb3ZlZCB0aW1lbGluZS4KOC4gU2hvdyB0aGUgYWZmZWN0ZWQga2V5ZnJhbWVzIGFuZCB3YWl0IGZvciBg56Gu6K6k5YWz6ZSu5binYC4KOS4gQWZ0ZXIgYOehruiupOWFs+mUruW4p2AsIHBsYWNlIHRoZSB0YWxraW5nLWhlYWQgaW4gdGhlIGFwcHJvdmVkIHRyZWF0bWVudCBhbmQgcmVuZGVyCiAgIHRoZSBmaW5hbCB2aWRlbyBkaXJlY3RseS4KCiMjIE91dHB1dHMKClRoZSBoZWxwZXIgd3JpdGVzOgoKLSBgcmV0YWtlLXBsYW4uanNvbmA6IGZ1bGwgdGFrZXMsIGNvbXBhcmlzb25zLCBjdXQgcmFuZ2VzLCBrZXB0IHdvcmRzLCB3YXJuaW5ncy4KLSBgcmV0YWtlLXBsYW4ubWRgOiBodW1hbi1yZWFkYWJsZSBjdXQgZGVjaXNpb24gcmVwb3J0LgotIGBjbGVhbi5zcnRgOiBzdWJ0aXRsZSBmaWxlIHNoaWZ0ZWQgb250byB0aGUgY2xlYW5lZCB0aW1lbGluZS4gRWFjaCBjdWUgaXMgb25lCiAgY29tcGxldGUgcmVhZGluZyBjbGF1c2Ugb24gb25lIGxpbmU7IGEgbG9uZyBzZW50ZW5jZSBtYXkgdXNlIHNlcXVlbnRpYWwgY3VlcwogIGF0IGNvbW1hIGJvdW5kYXJpZXMuIFRoZSBoZWxwZXIgbmV2ZXIgaW5zZXJ0cyBsaW5lIGJyZWFrcyBvciBjaGFyYWN0ZXItcmV2ZWFsCiAgdGltaW5nLgotIGBjbGVhbi5tcDRgOiBvcHRpb25hbCByb3VnaC1jdXQgdGFsa2luZy1oZWFkIHdoZW4gYC0tcmVuZGVyYCBpcyB1c2VkLgoKVGhlIHNvdXJjZSBhdWRpbyBhbmQgdmlkZW8gYXJlIG5ldmVyIG1vZGlmaWVkLgoKIyMgVmlzdWFsIGN1dCBoYW5kbGluZwoKLSBLZWVwIHRoZSBzcGVha2VyIGluIHN5bmMgd2l0aCBhdWRpby4KLSBVc2Ugc3RyYWlnaHQgY3V0cyBieSBkZWZhdWx0LgotIERvIG5vdCBjcm9wLCBzdHJldGNoLCBvciBjaGFuZ2Ugc3BlZWQgdG8gaGlkZSBhIGN1dC4KLSBBIHNob3J0IGRpc3NvbHZlIG9yIG1vdGlvbiBjb3ZlciBtYXkgYmUgdXNlZCBvbmx5IHdoZW4gdGhlIHNlbGVjdGVkIHRlbXBsYXRlCiAgc3VwcG9ydHMgaXQgYW5kIHRoZSBhZmZlY3RlZCBrZXlmcmFtZXMgaGF2ZSBiZWVuIGFwcHJvdmVkLgoKIyMgTGltaXRzCgpEbyBub3QgY2xhaW0gYXV0b21hdGljIHJlbGlhYmlsaXR5IGZvcjoKCi0gUmVwZXRpdGlvbiB3aXRob3V0IGEgbG9uZyBwYXVzZS4KLSBSZXBldGl0aW9uIHdpdGggYSBkaWZmZXJlbnQgb3BlbmluZyBvciBhIGNvbnRpbnVhdGlvbiB0aGF0IHNoYXJlcyBvbmx5IGEKICBjb21tb24gdGFpbC4KLSBOb24tYWRqYWNlbnQgcmV0YWtlcyB3aXRoIG90aGVyIGNvbnRlbnQgYmV0d2VlbiB0aGVtLgotIE1lYW5pbmdmdWxseSBkaWZmZXJlbnQgcGFyYXBocmFzZXMuCi0gSW50ZW50aW9uYWwgcmhldG9yaWNhbCByZXBldGl0aW9uLgotIE92ZXJsYXBwaW5nIGF1ZGlvIHNvdXJjZXMgdGhhdCBwcmV2ZW50IHJlbGlhYmxlIHRyYW5zY3JpcHRpb24uCi0gQ2FzZXMgd2hlcmUgdGhlIGxhdGVyIHRha2Ugc291bmRzIGNvbXBsZXRlIGJ1dCBvbWl0cyByZXF1aXJlZCBpbmZvcm1hdGlvbi4KCkZsYWcgdGhlc2UgY2FzZXMgZm9yIGh1bWFuIHJldmlldyBpbnN0ZWFkIG9mIGN1dHRpbmcuCgo=
+# Talking-Head Retake Cleanup
+
+## When to use
+
+Use this workflow when a talking-head recording contains a failed attempt,
+approximately two seconds of silence or more, and then a repeated, more
+complete take.
+
+This is a rough-cut automation, not an unrestricted semantic editor. It may
+remove only a failed repeated take. It must not remove a deliberate emphasis,
+a different claim, or content whose meaning cannot be established from the
+transcript.
+
+## Required evidence for an automatic cut
+
+All four conditions must be true:
+
+1. The later take begins after a pause meeting the configured threshold,
+   default `2` seconds.
+2. The later take repeats the earlier opening. Default prefix containment:
+   `0.45`.
+3. The normalized text is highly similar. Defaults:
+   - Containment: `0.82`.
+   - Similarity: `0.58`.
+   - Minimum text length: `6` normalized characters.
+4. The later take is substantially as complete or more complete than the
+   earlier take. Default length ratio: `0.85`.
+
+If the later take is shorter, stop automatic deletion and flag the pair for
+review.
+
+## Workflow
+
+1. Preserve the original talking-head file and compute its SHA-256.
+2. Run word-level local ASR:
+
+   ```powershell
+   hyperframes transcribe "<talking-head-file>" --language zh --json --to srt -o "<project>/素材/口播/原始字幕.srt"
+   ```
+
+   Read the JSON output and record the returned `transcriptPath`.
+
+3. Analyze repeated takes, generate a clean SRT, and render the rough cut
+   without overwriting source:
+
+   ```powershell
+   node "<skill-dir>/scripts/retake-cleanup.mjs" --transcript "<transcriptPath>" --media "<talking-head-file>" --output-dir "<project>/素材/处理/口播去卡顿_v1" --pause-seconds 2 --render
+   ```
+
+4. Inspect `retake-plan.json` and `retake-plan.md`.
+   - Every automatic deletion must cite the earlier take and the later take.
+   - Ambiguous pairs must remain uncut and appear in the review warnings.
+   - A no-candidate result is valid. Never force a cut.
+
+5. Re-transcribe `clean.mp4` and compare its transcript with `clean.srt`.
+   Regenerate or repair subtitle timing if the cut changed word boundaries.
+6. When the project uses a standalone opening, complete the timeline-keyframe
+   gate after `确认开头`.
+7. Use the cleaned media and synced SRT in the approved timeline.
+8. Show the affected keyframes and wait for `确认关键帧`.
+9. After `确认关键帧`, place the talking-head in the approved treatment and render
+   the final video directly.
+
+## Outputs
+
+The helper writes:
+
+- `retake-plan.json`: full takes, comparisons, cut ranges, kept words, warnings.
+- `retake-plan.md`: human-readable cut decision report.
+- `clean.srt`: subtitle file shifted onto the cleaned timeline. Each cue is one
+  complete reading clause on one line; a long sentence may use sequential cues
+  at comma boundaries. The helper never inserts line breaks or character-reveal
+  timing.
+- `clean.mp4`: optional rough-cut talking-head when `--render` is used.
+
+The source audio and video are never modified.
+
+## Visual cut handling
+
+- Keep the speaker in sync with audio.
+- Use straight cuts by default.
+- Do not crop, stretch, or change speed to hide a cut.
+- A short dissolve or motion cover may be used only when the selected template
+  supports it and the affected keyframes have been approved.
+
+## Limits
+
+Do not claim automatic reliability for:
+
+- Repetition without a long pause.
+- Repetition with a different opening or a continuation that shares only a
+  common tail.
+- Non-adjacent retakes with other content between them.
+- Meaningfully different paraphrases.
+- Intentional rhetorical repetition.
+- Overlapping audio sources that prevent reliable transcription.
+- Cases where the later take sounds complete but omits required information.
+
+Flag these cases for human review instead of cutting.
+

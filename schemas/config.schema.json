@@ -1,1 +1,38 @@
-ewogICIkc2NoZW1hIjogImh0dHBzOi8vanNvbi1zY2hlbWEub3JnL2RyYWZ0LzIwMjAtMTIvc2NoZW1hIiwKICAiJGlkIjogImh0dHBzOi8vZXhhbXBsZS5pbnZhbGlkL3ZpZGVvLWF1dG8tdGVtcGxhdGUvY29uZmlnLnNjaGVtYS5qc29uIiwKICAidGl0bGUiOiAiVmlkZW8gQXV0byBUZW1wbGF0ZSBsb2NhbCBjb25maWd1cmF0aW9uIiwKICAidHlwZSI6ICJvYmplY3QiLAogICJyZXF1aXJlZCI6IFsKICAgICJzY2hlbWFWZXJzaW9uIiwKICAgICJ0b29sa2l0Um9vdCIKICBdLAogICJwcm9wZXJ0aWVzIjogewogICAgInNjaGVtYVZlcnNpb24iOiB7CiAgICAgICJjb25zdCI6IDEKICAgIH0sCiAgICAidG9vbGtpdFJvb3QiOiB7CiAgICAgICJ0eXBlIjogInN0cmluZyIsCiAgICAgICJtaW5MZW5ndGgiOiAxCiAgICB9LAogICAgImNhdGFsb2dQYXRoIjogewogICAgICAidHlwZSI6IFsKICAgICAgICAic3RyaW5nIiwKICAgICAgICAibnVsbCIKICAgICAgXQogICAgfSwKICAgICJmZm1wZWdQYXRoIjogewogICAgICAidHlwZSI6IFsKICAgICAgICAic3RyaW5nIiwKICAgICAgICAibnVsbCIKICAgICAgXQogICAgfSwKICAgICJjb25maWd1cmVkQXQiOiB7CiAgICAgICJ0eXBlIjogInN0cmluZyIKICAgIH0sCiAgICAibGFzdERvY3RvckF0IjogewogICAgICAidHlwZSI6ICJzdHJpbmciCiAgICB9CiAgfSwKICAiYWRkaXRpb25hbFByb3BlcnRpZXMiOiBmYWxzZQp9Cg==
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/video-auto-template/config.schema.json",
+  "title": "Video Auto Template local configuration",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "toolkitRoot"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "toolkitRoot": {
+      "type": "string",
+      "minLength": 1
+    },
+    "catalogPath": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ffmpegPath": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "configuredAt": {
+      "type": "string"
+    },
+    "lastDoctorAt": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

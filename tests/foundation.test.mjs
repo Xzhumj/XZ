@@ -1,1 +1,143 @@
-aW1wb3J0IGFzc2VydCBmcm9tICJub2RlOmFzc2VydC9zdHJpY3QiOwppbXBvcnQgZnMgZnJvbSAibm9kZTpmcy9wcm9taXNlcyI7CmltcG9ydCBvcyBmcm9tICJub2RlOm9zIjsKaW1wb3J0IHBhdGggZnJvbSAibm9kZTpwYXRoIjsKaW1wb3J0IHRlc3QgZnJvbSAibm9kZTp0ZXN0IjsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gIm5vZGU6dXJsIjsKaW1wb3J0IHsgbG9hZENvbmZpZywgc2F2ZUNvbmZpZyB9IGZyb20gIi4uL3NjcmlwdHMvbGliL2NvbmZpZy5tanMiOwppbXBvcnQgewogIGRpc2NvdmVyVG9vbGtpdCwKICBpbnNwZWN0VG9vbGtpdFJvb3QsCn0gZnJvbSAiLi4vc2NyaXB0cy9saWIvZGlzY292ZXIubWpzIjsKaW1wb3J0IHsgcnVuRG9jdG9yIH0gZnJvbSAiLi4vc2NyaXB0cy9saWIvZG9jdG9yLm1qcyI7Cgpjb25zdCB0ZXN0RGlyZWN0b3J5ID0gcGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSk7CmNvbnN0IHNraWxsRGlyZWN0b3J5ID0gcGF0aC5kaXJuYW1lKHRlc3REaXJlY3RvcnkpOwpjb25zdCBwcml2YXRlQXNzZXRzU2tpcCA9IGF3YWl0IGZzCiAgLmFjY2VzcyhwYXRoLmpvaW4oc2tpbGxEaXJlY3RvcnksICJhc3NldHMiKSkKICAudGhlbigoKSA9PiBmYWxzZSwgKCkgPT4gInByaXZhdGUgYXNzZXRzIGFyZSBub3QgaW5jbHVkZWQgaW4gdGhpcyByZXBvc2l0b3J5Iik7Cgphc3luYyBmdW5jdGlvbiBtYWtlRml4dHVyZSgpIHsKICBjb25zdCByb290ID0gYXdhaXQgZnMubWtkdGVtcCgKICAgIHBhdGguam9pbihvcy50bXBkaXIoKSwgInZpZGVvLWF1dG8tdGVtcGxhdGUtIiksCiAgKTsKICBjb25zdCBraXRSb290ID0gcGF0aC5qb2luKHJvb3QsICJraXQiKTsKICBhd2FpdCBmcy5ta2RpcihwYXRoLmpvaW4oa2l0Um9vdCwgImNvbmZpZyIpLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICBhd2FpdCBmcy53cml0ZUZpbGUoCiAgICBwYXRoLmpvaW4oa2l0Um9vdCwgImtpdC5qc29uIiksCiAgICBKU09OLnN0cmluZ2lmeSh7CiAgICAgIHNjaGVtYVZlcnNpb246IDEsCiAgICAgIG5hbWU6ICJ2aWRlby10ZW1wbGF0ZS1raXQiLAogICAgICBkaXJlY3RvcmllczogWyJ0ZW1wbGF0ZXMiLCAiam9icyJdLAogICAgfSksCiAgKTsKICBhd2FpdCBmcy53cml0ZUZpbGUoCiAgICBwYXRoLmpvaW4oa2l0Um9vdCwgImNvbmZpZyIsICJkZWZhdWx0cy5qc29uIiksCiAgICBKU09OLnN0cmluZ2lmeSh7IHNjaGVtYVZlcnNpb246IDEgfSksCiAgKTsKICByZXR1cm4geyByb290LCBraXRSb290IH07Cn0KCnRlc3QoImluc3BlY3RzIGEgdmFsaWQgdG9vbGtpdCBtYXJrZXIiLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgZml4dHVyZSA9IGF3YWl0IG1ha2VGaXh0dXJlKCk7CiAgY29uc3QgcmVzdWx0ID0gYXdhaXQgaW5zcGVjdFRvb2xraXRSb290KGZpeHR1cmUua2l0Um9vdCk7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdD8ucm9vdCwgZml4dHVyZS5raXRSb290KTsKfSk7Cgp0ZXN0KCJkaXNjb3ZlcnMgYSByZWNvcmRlZCB0b29sa2l0IHBhdGgiLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgZml4dHVyZSA9IGF3YWl0IG1ha2VGaXh0dXJlKCk7CiAgY29uc3QgY29uZmlnUGF0aCA9IHBhdGguam9pbihmaXh0dXJlLnJvb3QsICJjb25maWcuanNvbiIpOwogIGF3YWl0IHNhdmVDb25maWcoCiAgICB7IHRvb2xraXRSb290OiBmaXh0dXJlLmtpdFJvb3QsIGNhdGFsb2dQYXRoOiBudWxsIH0sCiAgICBjb25maWdQYXRoLAogICk7CiAgY29uc3QgcmVzdWx0ID0gYXdhaXQgZGlzY292ZXJUb29sa2l0KHsKICAgIGN3ZDogZml4dHVyZS5yb290LAogICAgZW52OiB7IFZJREVPX0FVVE9fVEVNUExBVEVfQ09ORklHOiBjb25maWdQYXRoIH0sCiAgICBjb25maWdQYXRoLAogIH0pOwogIGFzc2VydC5lcXVhbChyZXN1bHQucm9vdCwgZml4dHVyZS5raXRSb290KTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LnNvdXJjZSwgInJlY29yZGVkIik7Cn0pOwoKdGVzdCgiY29uZmlnIHJvdW5kLXRyaXBzIG5vcm1hbGl6ZWQgcGF0aHMiLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgZml4dHVyZSA9IGF3YWl0IG1ha2VGaXh0dXJlKCk7CiAgY29uc3QgY29uZmlnUGF0aCA9IHBhdGguam9pbihmaXh0dXJlLnJvb3QsICJjb25maWcuanNvbiIpOwogIGF3YWl0IHNhdmVDb25maWcoCiAgICB7IHRvb2xraXRSb290OiBmaXh0dXJlLmtpdFJvb3QsIGNhdGFsb2dQYXRoOiBudWxsIH0sCiAgICBjb25maWdQYXRoLAogICk7CiAgY29uc3QgY29uZmlnID0gYXdhaXQgbG9hZENvbmZpZyhjb25maWdQYXRoKTsKICBhc3NlcnQuZXF1YWwoY29uZmlnLnRvb2xraXRSb290LCBwYXRoLnJlc29sdmUoZml4dHVyZS5raXRSb290KSk7CiAgYXNzZXJ0LmVxdWFsKGNvbmZpZy5zY2hlbWFWZXJzaW9uLCAxKTsKfSk7Cgp0ZXN0KCJkb2N0b3IgLS1maXggY3JlYXRlcyB0b29sa2l0IGRpcmVjdG9yaWVzIiwgYXN5bmMgKCkgPT4gewogIGNvbnN0IGZpeHR1cmUgPSBhd2FpdCBtYWtlRml4dHVyZSgpOwogIGNvbnN0IGNvbmZpZ1BhdGggPSBwYXRoLmpvaW4oZml4dHVyZS5yb290LCAiY29uZmlnLmpzb24iKTsKICBjb25zdCByZXBvcnQgPSBhd2FpdCBydW5Eb2N0b3IoewogICAga2l0Um9vdDogZml4dHVyZS5raXRSb290LAogICAgY29uZmlnUGF0aCwKICAgIGZpeDogdHJ1ZSwKICAgIGVudjogeyBMT0NBTEFQUERBVEE6IGZpeHR1cmUucm9vdCwgVVNFUlBST0ZJTEU6IGZpeHR1cmUucm9vdCB9LAogIH0pOwogIGFzc2VydC5lcXVhbCgKICAgIHJlcG9ydC5jaGVja3MuZmluZCgoY2hlY2spID0+IGNoZWNrLmlkID09PSAiZGlyOnRlbXBsYXRlcyIpPy5zdGF0dXMsCiAgICAib2siLAogICk7CiAgYXNzZXJ0LmVxdWFsKAogICAgcmVwb3J0LmNoZWNrcy5maW5kKChjaGVjaykgPT4gY2hlY2suaWQgPT09ICJkaXI6am9icyIpPy5zdGF0dXMsCiAgICAib2siLAogICk7CiAgYXdhaXQgZnMuYWNjZXNzKHBhdGguam9pbihmaXh0dXJlLmtpdFJvb3QsICJ0ZW1wbGF0ZXMiKSk7CiAgYXdhaXQgZnMuYWNjZXNzKHBhdGguam9pbihmaXh0dXJlLmtpdFJvb3QsICJqb2JzIikpOwp9KTsKCnRlc3QoImRvY3RvciBjYW4gcnVuIHdpdGhvdXQgd3JpdGluZyBydW50aW1lIGNvbmZpZ3VyYXRpb24iLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgZml4dHVyZSA9IGF3YWl0IG1ha2VGaXh0dXJlKCk7CiAgY29uc3QgY29uZmlnUGF0aCA9IHBhdGguam9pbihmaXh0dXJlLnJvb3QsICJyZWFkLW9ubHktY29uZmlnLmpzb24iKTsKICBhd2FpdCBydW5Eb2N0b3IoewogICAga2l0Um9vdDogZml4dHVyZS5raXRSb290LAogICAgY29uZmlnUGF0aCwKICAgIHBlcnNpc3Q6IGZhbHNlLAogICAgZW52OiB7IExPQ0FMQVBQREFUQTogZml4dHVyZS5yb290LCBVU0VSUFJPRklMRTogZml4dHVyZS5yb290IH0sCiAgfSk7CiAgYXdhaXQgYXNzZXJ0LnJlamVjdHMoZnMuYWNjZXNzKGNvbmZpZ1BhdGgpKTsKfSk7Cgp0ZXN0KCJ0ZW1wbGF0ZSBjb21iaW5hdGlvbnMgYXJlIGVuYWJsZWQgd2l0aCBhIHRocmVlLXRlbXBsYXRlIHByZWZlcmVuY2UiLCB7CiAgc2tpcDogcHJpdmF0ZUFzc2V0c1NraXAsCn0sIGFzeW5jICgpID0+IHsKICBjb25zdCBkZWZhdWx0cyA9IEpTT04ucGFyc2UoCiAgICBhd2FpdCBmcy5yZWFkRmlsZSgKICAgICAgcGF0aC5qb2luKAogICAgICAgIHNraWxsRGlyZWN0b3J5LAogICAgICAgICJhc3NldHMiLAogICAgICAgICJ2aWRlby10ZW1wbGF0ZS1raXQiLAogICAgICAgICJjb25maWciLAogICAgICAgICJkZWZhdWx0cy5qc29uIiwKICAgICAgKSwKICAgICAgInV0ZjgiLAogICAgKSwKICApOwogIGFzc2VydC5lcXVhbChkZWZhdWx0cy5tYXRjaGluZy5hbGxvd1RlbXBsYXRlQ29tYmluYXRpb25zLCB0cnVlKTsKICBhc3NlcnQuZXF1YWwoZGVmYXVsdHMubWF0Y2hpbmcubWF4VGVtcGxhdGVzUGVyVmlkZW8sIDMpOwogIGFzc2VydC5lcXVhbChkZWZhdWx0cy5tYXRjaGluZy5tYXhUZW1wbGF0ZXNJc0hhcmRMaW1pdCwgZmFsc2UpOwogIGFzc2VydC5vayhkZWZhdWx0cy5pbnB1dC5hbGxvd2VkVHlwZXMuaW5jbHVkZXMoInNjcmlwdC1zdG9yeWJvYXJkIikpOwogIGFzc2VydC5vayghKCJzYW1wbGVTZWNvbmRzIiBpbiBkZWZhdWx0cy5yZXZpZXcpKTsKICBhc3NlcnQub2soISgiY29uZmlybVNhbXBsZUJlZm9yZUZpbmFsUmVuZGVyIiBpbiBkZWZhdWx0cy5yZXZpZXcpKTsKICBhc3NlcnQub2soISgicmVqZWN0ZWRTYW1wbGUiIGluIGRlZmF1bHRzLnJldmlldykpOwogIGFzc2VydC5lcXVhbChkZWZhdWx0cy5hdWRpby5zZnhTb3VyY2UsICJtZXRhLW9wZW4tc291bmQtYW5kLXVpLXNmeCIpOwogIGFzc2VydC5lcXVhbChkZWZhdWx0cy5hdWRpby5iZ20uYXNrQmVmb3JlRmluYWxSZW5kZXIsIHRydWUpOwogIGFzc2VydC5lcXVhbChkZWZhdWx0cy5hdWRpby5iZ20udW5hbnN3ZXJlZERlY2lzaW9uLCAibm8tYmdtIik7CiAgYXNzZXJ0Lm9rKCEoImFza0JlZm9yZVNhbXBsZSIgaW4gZGVmYXVsdHMuYXVkaW8uYmdtKSk7CiAgYXNzZXJ0Lm9rKCEoInJlcXVpcmVkSW5SZXByZXNlbnRhdGl2ZVNhbXBsZSIgaW4gZGVmYXVsdHMuYXVkaW8uYmdtKSk7CiAgYXNzZXJ0LmVxdWFsKGRlZmF1bHRzLmF1ZGlvLmJnbS5yZXF1aXJlZEluRmluYWxWaWRlbywgZmFsc2UpOwogIGFzc2VydC5lcXVhbChkZWZhdWx0cy5hdWRpby5iZ20uZXhjbHVkZWRGcm9tU3RhbmRhbG9uZU9wZW5pbmdTYW1wbGUsIHRydWUpOwogIGFzc2VydC5lcXVhbChkZWZhdWx0cy5hdWRpby5iZ20uaW5zdHJ1bWVudGFsT25seSwgdHJ1ZSk7CiAgYXNzZXJ0LmVxdWFsKGRlZmF1bHRzLmF1ZGlvLmJnbS50cmFja0NvdW50LCAxKTsKICBhc3NlcnQuZXF1YWwoZGVmYXVsdHMuYXVkaW8uYmdtLmNvbnN0YW50Vm9sdW1lLCB0cnVlKTsKICBhc3NlcnQuZXF1YWwoZGVmYXVsdHMuYXVkaW8uYmdtLmR5bmFtaWNEdWNraW5nLCBmYWxzZSk7CiAgYXNzZXJ0LmVxdWFsKGRlZmF1bHRzLmF1ZGlvLmJnbS52b2x1bWVBdXRvbWF0aW9uLCBmYWxzZSk7CiAgYXNzZXJ0LmVxdWFsKGRlZmF1bHRzLmF1ZGlvLmJnbS5mYWRlQXV0b21hdGlvbiwgZmFsc2UpOwp9KTsK
+import assert from "node:assert/strict";
+import fs from "node:fs/promises";
+import os from "node:os";
+import path from "node:path";
+import test from "node:test";
+import { fileURLToPath } from "node:url";
+import { loadConfig, saveConfig } from "../scripts/lib/config.mjs";
+import {
+  discoverToolkit,
+  inspectToolkitRoot,
+} from "../scripts/lib/discover.mjs";
+import { runDoctor } from "../scripts/lib/doctor.mjs";
+
+const testDirectory = path.dirname(fileURLToPath(import.meta.url));
+const skillDirectory = path.dirname(testDirectory);
+const privateAssetsSkip = await fs
+  .access(path.join(skillDirectory, "assets"))
+  .then(() => false, () => "private assets are not included in this repository");
+
+async function makeFixture() {
+  const root = await fs.mkdtemp(
+    path.join(os.tmpdir(), "video-auto-template-"),
+  );
+  const kitRoot = path.join(root, "kit");
+  await fs.mkdir(path.join(kitRoot, "config"), { recursive: true });
+  await fs.writeFile(
+    path.join(kitRoot, "kit.json"),
+    JSON.stringify({
+      schemaVersion: 1,
+      name: "video-template-kit",
+      directories: ["templates", "jobs"],
+    }),
+  );
+  await fs.writeFile(
+    path.join(kitRoot, "config", "defaults.json"),
+    JSON.stringify({ schemaVersion: 1 }),
+  );
+  return { root, kitRoot };
+}
+
+test("inspects a valid toolkit marker", async () => {
+  const fixture = await makeFixture();
+  const result = await inspectToolkitRoot(fixture.kitRoot);
+  assert.equal(result?.root, fixture.kitRoot);
+});
+
+test("discovers a recorded toolkit path", async () => {
+  const fixture = await makeFixture();
+  const configPath = path.join(fixture.root, "config.json");
+  await saveConfig(
+    { toolkitRoot: fixture.kitRoot, catalogPath: null },
+    configPath,
+  );
+  const result = await discoverToolkit({
+    cwd: fixture.root,
+    env: { VIDEO_AUTO_TEMPLATE_CONFIG: configPath },
+    configPath,
+  });
+  assert.equal(result.root, fixture.kitRoot);
+  assert.equal(result.source, "recorded");
+});
+
+test("config round-trips normalized paths", async () => {
+  const fixture = await makeFixture();
+  const configPath = path.join(fixture.root, "config.json");
+  await saveConfig(
+    { toolkitRoot: fixture.kitRoot, catalogPath: null },
+    configPath,
+  );
+  const config = await loadConfig(configPath);
+  assert.equal(config.toolkitRoot, path.resolve(fixture.kitRoot));
+  assert.equal(config.schemaVersion, 1);
+});
+
+test("doctor --fix creates toolkit directories", async () => {
+  const fixture = await makeFixture();
+  const configPath = path.join(fixture.root, "config.json");
+  const report = await runDoctor({
+    kitRoot: fixture.kitRoot,
+    configPath,
+    fix: true,
+    env: { LOCALAPPDATA: fixture.root, USERPROFILE: fixture.root },
+  });
+  assert.equal(
+    report.checks.find((check) => check.id === "dir:templates")?.status,
+    "ok",
+  );
+  assert.equal(
+    report.checks.find((check) => check.id === "dir:jobs")?.status,
+    "ok",
+  );
+  await fs.access(path.join(fixture.kitRoot, "templates"));
+  await fs.access(path.join(fixture.kitRoot, "jobs"));
+});
+
+test("doctor can run without writing runtime configuration", async () => {
+  const fixture = await makeFixture();
+  const configPath = path.join(fixture.root, "read-only-config.json");
+  await runDoctor({
+    kitRoot: fixture.kitRoot,
+    configPath,
+    persist: false,
+    env: { LOCALAPPDATA: fixture.root, USERPROFILE: fixture.root },
+  });
+  await assert.rejects(fs.access(configPath));
+});
+
+test("template combinations are enabled with a three-template preference", {
+  skip: privateAssetsSkip,
+}, async () => {
+  const defaults = JSON.parse(
+    await fs.readFile(
+      path.join(
+        skillDirectory,
+        "assets",
+        "video-template-kit",
+        "config",
+        "defaults.json",
+      ),
+      "utf8",
+    ),
+  );
+  assert.equal(defaults.matching.allowTemplateCombinations, true);
+  assert.equal(defaults.matching.maxTemplatesPerVideo, 3);
+  assert.equal(defaults.matching.maxTemplatesIsHardLimit, false);
+  assert.ok(defaults.input.allowedTypes.includes("script-storyboard"));
+  assert.ok(!("sampleSeconds" in defaults.review));
+  assert.ok(!("confirmSampleBeforeFinalRender" in defaults.review));
+  assert.ok(!("rejectedSample" in defaults.review));
+  assert.equal(defaults.audio.sfxSource, "meta-open-sound-and-ui-sfx");
+  assert.equal(defaults.audio.bgm.askBeforeFinalRender, true);
+  assert.equal(defaults.audio.bgm.unansweredDecision, "no-bgm");
+  assert.ok(!("askBeforeSample" in defaults.audio.bgm));
+  assert.ok(!("requiredInRepresentativeSample" in defaults.audio.bgm));
+  assert.equal(defaults.audio.bgm.requiredInFinalVideo, false);
+  assert.equal(defaults.audio.bgm.excludedFromStandaloneOpeningSample, true);
+  assert.equal(defaults.audio.bgm.instrumentalOnly, true);
+  assert.equal(defaults.audio.bgm.trackCount, 1);
+  assert.equal(defaults.audio.bgm.constantVolume, true);
+  assert.equal(defaults.audio.bgm.dynamicDucking, false);
+  assert.equal(defaults.audio.bgm.volumeAutomation, false);
+  assert.equal(defaults.audio.bgm.fadeAutomation, false);
+});

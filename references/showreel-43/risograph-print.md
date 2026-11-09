@@ -1,1 +1,91 @@
-IyDlrZTniYjljbDliLfvvIhyaXNvZ3JhcGgtcHJpbnTvvIkKCj4gUmlzb2dyYXBoIOWtlOeJiOWNsOWIt+eahOi0qOaEn++8muaciemZkOeahOS4k+iJsuOAgeWll+iJsumUmeS9jeOAgeWNiuiwg+e9keeCueOAgemil+eykuWSjOe6uOe6ue+8jOWDj+eLrOeri+WHuueJiOeJqeWcqOWKqOOAggo+IOWPgueFp++8iOWPquWtpuivreazle+8ie+8mueLrOeri+adguW/l+WSjCB6aW5lIOeahOWtlOeJiOWNsOWIt+OAgeaXpeacrOWSjOasp+a0sueahCByaXNvIOW3peS9nOWupOS9nOWTgeOAgeazouaZruWNiuiwg+e9keeCueOAguS4jeeFp+aQrOWFt+S9k+S9nOWTgeOAggoKIyMg5pys6LSoIC8g5LiN5piv5LuA5LmICi0g5pys6LSo77yaKioy4oCTMyDkuKrkuJPoibLlj6DljbAqKu+8iOmHjeWPoOWkhOa3t+WHuuesrOS4ieiJsu+8ie+8jCoq5q+P5Liq6Imy54mI5pyJ6L275b6u6ZSZ5L2NKirvvIzmmpfpg6jmmK/ljYrosIPnvZHngrnvvIzovrnnvJjmnInpopfnspLlkozkuI3lnYfljIDnmoTmsrnloqjjgIIKLSDkuI3mmK/vvJrlubLlh4DnmoTnn6Lph4/miYHlubPmj5LnlLvvvJvkuZ/kuI3mmK/mu6TplZzkuIDplK7liqDlmarngrnjgIIKCiMjIOi+qOivhuS/oeWPt++8muavj+aUr+eJh+WtkOaMkSAy4oCTMyDkuKoKfCDkv6Hlj7cgfCDplb/ku4DkuYjmoLcgfCDpgILlkIjnmoTkuLvpopggfAp8LS0tfC0tLXwtLS18Cnwg5Y+g5Y2w5re36ImyIHwg5Lik5Liq5LiT6Imy6YeN5Y+g55qE5Zyw5pa55re35Ye656ys5LiJ56eN6aKc6ImyIHwg57uE5ZCI44CB5ZCI5L2c44CB5re35ZCIIHwKfCDlpZfoibLplJnkvY0gfCDoibLniYjkuYvpl7TplJnlvIAgMeKAkzNweO+8jOi+ueS4iumcsuWHuuWPpuS4gOenjeminOiJsiB8IOaJi+S9nOOAgeeLrOeriyB8Cnwg5Y2K6LCD572R54K5IHwg5pqX6YOo5Y+Y5oiQ5peL6L2s572R5qC85LiK55qE5ZyG54K5IHwg5Y2w5Yi35oSf44CB5aSN5Y+kIHwKfCDmsrnloqjkuI3lnYflkozpopfnspIgfCDoibLlnZfph4zmtZPmt6HkuI3ljIDvvIzovrnnvJjmr5vns5kgfCDotKjmhJ/jgIHmuKnluqYgfAp8IOiNp+WFieS4k+iJsiB8IOiNp+WFieeyieOAgeiNp+WFieapmei/meexu+Wxj+W5leS4iuS5n+W+iOi3s+eahOayueWiqOiJsiB8IOa9rua1geOAgea0u+WKqCB8Cnwg5Y+M6Imy6LCD54Wn54mHIHwg5LiA5byg54Wn54mH5Y+q55So5Lik5Liq5LiT6Imy5Y2w5Ye65p2lIHwg5Lq654mp44CB5Lqn5ZOBIHwKfCDmiYvnu5jnur/nqL/mj5Llm74gfCDnspfnu4bkuI3ljIDnmoTloqjnur/vvIzlg4/pkqLnrJTnlLsgfCDmlYXkuovjgIHlh7rniYggfAp8IHppbmUg54mI5byPIHwg6K6i5Lmm6ZKJ44CB6aG156CB44CB6KOB5YiH57q/44CB5omL5YaZ55uu5b2VIHwg5Ye654mI44CB54us56uL5ZOB54mMIHwKfCDljbDliLfmoIforrAgfCDlpZflh4bljYHlrZfjgIHoibLmoIfmnaHjgIHlh7rooYDnur/nlZnlnKjnlLvpnaLph4wgfCDliLbkvZzov4fnqIvjgIHorr7orqEgfAp8IOa8j+WNsOWSjOWiqOeCuSB8IOWBtuWwlOS4gOWdl+ayoeWNsOS4iuOAgeS4gOS4quWkmuS9meeahOWiqOeCuSB8IOS4jeWujOe+juOAgeecn+WuniB8Cgrop4TliJnvvJoKLSDmr4/mlK/mjJEgMuKAkzMg5Liq77yM6Iez5bCR5LiA5Liq5LiN5Zyo5LiL6Z2i44CM5pyA5L+X55qE54mI5pys44CN6YeM44CCCi0g5L+h5Y+35LuO5Li76aKY6YeM6YCJ77yM5LiN5oyJ6aG65bqP5YWo5LiK44CCCi0g5Y+g5Y2w44CB6ZSZ5L2N44CB572R54K55piv6L+Z56eN5aqS5LuL55qE54mp55CG57qm5p2f77yM5L2c5Li65p2Q6LSo5aeL57uI6YO95Zyo77yb5Yy65Yir5Zyo5LqO56qB5Ye65ZOq5Liq44CC5oyR5Ye65p2l55qEIDLigJMzIOS4quS/oeWPt+aUvuWkp+WBmuS4u+inku+8jOWFtuS9meeahOWOi+WIsOW+iOi9u++8jOWPquW9k+W6leiJsuOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya6I2n5YWJ57KJ5Yqg6JOd5Lik6Imy44CB5ruh5bGP5aSn572R54K544CB6ZSZ5L2N5LiA55u05Zyo5oqW44CB54mI6Z2i5piv5LiA5byg5bGF5Lit55qE5rW35oql44CCCi0g5aOw6Z+z77yabG8tZmkgaGlwLWhvcCDnmoTpvJPliqDpu5Hog7blupXlmarjgIIKLSBicmllZiDnmoQgc3R5bGUg5LiA5qCP5YaZ5piO6L+Z5pSv54mH5a2Q57+75o6J5LqG5ZOq5Yeg5p2h77yM5oiW6ICF5Li65LuA5LmI5Yi75oSP5L+d55WZ77yI5q+U5aaC55So5oi36KaB55qE5bCx5piv57uP5YW454mI77yJ44CC5L+d55WZ5pe277yM5oqK5Yqb5rCU6Iqx5Zyo5p6E5Zu+44CB6ZWc5aS044CB6IqC5aWP5oiW5LiA5Liq5oSP5aSW55qE6K6w5b+G54K55LiK44CCCgojIyDpgILphY0KLSDnlKjpgJTvvJrlrqPkvKDnn63niYfjgIFMb2dvIOa8lOe7juOAgeaOkueJiOWNoeeCueOAgea0u+WKqOa1t+aKpeWKqOi1t+adpeOAggotIOWGheWuue+8muaWh+WMluOAgeWIm+aEj+OAgeeLrOeri+WTgeeJjOOAgeWHuueJiOOAgemfs+S5kOOAgea0u+WKqOOAggoKIyMg5oqA5pyv6Lev57q/CkNhbnZhcyDnlLvlh7rmr4/kuKroibLniYjvvIjngbDluqbpga7nvanvvInihpIgV2ViR0wg5ZCO5pyf5ZCI5oiQ77ya5q+P5Liq6Imy54mI55So5a+55bqU55qE5LiT6Imy5LulIG11bHRpcGx5IOWPoOWNsO+8jOWKoOmUmeS9jeOAgeWNiuiwg+WSjOmil+eykuOAguS5n+WPr+S7peWPqueUqCBDYW52YXPvvIhgbXVsdGlwbHlgIOWQiOaIkCArIOmihOWFiOeUn+aIkOeahOe9keeCuee6ueeQhu+8ie+8jOS9hiBXZWJHTCDmm7Tlv6vjgILpopfnspLmlL7lnKjnnYDoibLlmajph4zmjInluKflm7rlrprnp43lrZDvvIzmiJbogIXnlKggYC0tZ3JhaW5g44CCCgojIyDmnZDotKjkuI7muLLmn5MKLSDoibLniYjvvJrmr4/kuKrlhYPntKDmjIflrprlsZ7kuo7lk6rkuKroibLniYjvvJvoibLniYjkuYvpl7TlgZogMeKAkzNweCDnmoTplJnkvY3vvIjlj6/ku6Xpmo/ml7bpl7Tovbvlvq7mvILnp7vvvIzkvYbopoHnoa7lrprmgKfvvInjgIIKLSDljYrosIPvvJrlnKjnnYDoibLlmajph4zmjInkuq7luqbnlLvml4vovaznvZHmoLzkuIrnmoTlnIbngrnvvIjkuI3lkIzoibLniYjnlKjkuI3lkIzop5LluqbvvIzmr5TlpoIgMTXCsCAvIDQ1wrAgLyA3NcKw77yJ44CCCi0g5rK55aKo5LiN5Z2H77ya55So5L2O6aKR5Zmq5aOw6LCD5Yi25q+P5Liq6Imy54mI55qE5rWT5bqm77yb6L6557yY55So6auY6aKR5Zmq5aOw5YGa5q+b6L6544CCCi0g57q477ya5pqW55m95bqV77yM5Yqg5LiA5bGC6Z2e5bi45reh55qE57qk57u057q555CG44CCCgojIyDphY3oibIK5LiL6Z2i55qE6Imy5YC85piv56S65L6L77yM55yL5oCd6Lev77yM5LiN6KaB5Y6f5qC354Wn5oqE44CCCi0g6I2n5YWJ57KJIGAjRkY0OEIwYCArIOiTnSBgIzAwNzhCRmAgKyDnurggYCNGNkYxRTdg77yI6YeN5Y+g5aSE5piv57Sr77yJCi0g6buEIGAjRkZFODAwYCArIOmdkiBgIzAwQTk1Q2DvvIhSaXNvIOe7v++8iSsg57q4IGAjRjRFRkU0YAotIOe6oiBgI0ZGNjY1RWAgKyDkuK3ok50gYCMzMjU1QTRgICsg6buRIGAjMkIyQjJCYCArIOe6uCBgI0Y3RjNFQWAKLSDop4TliJnvvJrlj6rnlKjkuJPoibLlkozlroPku6znmoTlj6DljbDoibLvvIzkuI3liqDliKvnmoTpopzoibLvvJvkuI3nlKjmuJDlj5jvvIzmuJDlj5jkuIDlvovlj5jmiJDnvZHngrnjgIIKLSDmjqjlr7zvvJrku47nnJ/lrp7nmoQgUmlzbyDmsrnloqjoibLph4zpgIkgMuKAkzMg5Liq77yI6I2n5YWJ57KJ44CB6JOd44CB6buE44CBUmlzbyDnu7/jgIHmqZnjgIHntKvjgIHph5HlsZ7ph5HigKbigKbvvInvvIzph43lj6DoibLnlLEgbXVsdGlwbHkg6Ieq54S25Lqn55Sf77yM5LiN6KaB5Y+m5aSW5Yqg44CC6I2n5YWJ57KJ5Yqg6JOd5piv5pyA5bi46KeB55qE57uE5ZCI44CCCgojIyDlrZfkvZMK5pyJ5oCn5qC855qE5oCq6K+e5L2T5oiW5a696KGs57q/5L2T77yaU3BhY2UgR3JvdGVza+OAgVN5bmXjgIFCcmljb2xhZ2UgR3JvdGVzcXVl44CBRnJhdW5jZXMg5Lul5aSW55qE6KGs57q/5L2T77yI5aaCIFlvdW5nIFNlcmlm44CBRE0gU2VyaWYgRGlzcGxhee+8ieOAguWtl+S5n+i1sOiJsueJiO+8jOWPr+S7peaciemUmeS9jeOAggoKIyMg6L+Q5YqoCi0g6YCC5Lit55qE6YCf5bqm77yM5by557CnIGB7Mi40LCAwLjc1fWDvvJvlhYPntKDlg4/ooqvjgIzljbDjgI3kuIrmnaXvvJrlhYjlh7rkuIDkuKroibLniYjvvIzlho3lh7rnrKzkuozkuKroibLniYjvvIjplJnlvIAgMuKAkzQg5bin77yJ44CCCi0g5Y+v5Lul55So5q2l6L+b77yIMTJmcHPvvInlop7liqDljbDliLflk4HnmoTmiYvkvZzmhJ/vvIzkvYbplZzlpLTkv53mjIHlubPmu5HjgIIKCiMjIOeUu+mdouaAjuS5iOa0uwotIOS4pOS4quiJsueJiOS5i+mXtOeahOWvueeJiOivr+W3rumaj+aXtumXtOi9u+i9u+a8guenu++8iDAuNeKAkzJweO+8jOWHoOenkuS4gOS4quWRqOacn++8ie+8jOi/meWwseaYr+WtlOeJiOacuuWZqOeahOWRvOWQuOOAggotIOWNiuiwg+e9keeCueeahOeCueW+hOaIlue9keinkue8k+aFouWPmOWMlu+8m+e6uOe6ueWbuuWumuS4jeWKqO+8jOe6uOacrOi6q+S4jeS8muWKqOOAggoKIyMg6ZWc5aS06K+t5rOVCnwg6ZWc5aS06L+Q5YqoIHwg6KGo6L6+5LuA5LmIIHwg6YCC5ZCI5ZOq57G75YaF5a65IHwKfC0tLXwtLS18LS0tfAp8IOW5s+enu+i/h+S4gOW8oOmVv+eJiOmdoiB8IOe/u+mYhSB8IOWIl+ihqOOAgeaXtumXtOe6vyB8Cnwg5o6o6L+R5Yiw572R54K5IHwg6LSo5oSf44CB57uG6IqCIHwg6K6w5b+G54K544CB6L2s5Zy6IHwKfCDoibLniYjliIbnprvlho3lkIjkuIogfCDnu4TmiJAgfCBMb2dv44CB5qCH6aKYIHwKCiMjIOWjsOmfs+iwg+iJsuadvwpsby1maSDpvJPvvIhraWNrIGRlY2F5IOefreS4gOeCueOAgWhhdCDliqAgYGxvd3Bhc3Ng77yJ44CB5rip5pqW55qEIGtleXPjgIFwbHVja++8m+WPr+S7peWPoOS4gOWxguW+iOi9u+eahOm7keiDtuW6leWZqu+8iGBhbWJpZW5jZSh7IGtpbmQ6ICd2aW55bCcgfSlg77yJ44CC56ysIDEg5qGj5ZCI5oiQ5Y2z5Y+v44CCCgrlvovliqjkuI7lkozlo7DvvIjkuL7kvovvvIzkuI3mraLov5nkupvvvInvvJpsby1maSBoaXAtaG9wIOeahCBzd2luZ++8iGBTLnN3aW5nKG4sIDAuMywgMC4yNSlg77yJ44CBYm9vbS1iYXDvvJtEb3JpYW7jgIFtOSAvIG1hajcg6L+Z57G75p+U5ZKM55qE5LiD5ZKM5bym77yb6byTIGJ1cyBgY3J1c2g6IDEw4oCTMTJgICsgYGxvd3Bhc3Ng77yMbXVzaWMgYHdvdzogMC4zYOOAggoKIyMg5Y6f55Sf5omL5rOVCi0g6Imy54mI5YiG56a777ya5LiA5Liq55S76Z2i5ouG5oiQ5Lik5LiJ5Liq5LiT6Imy5bGC6ZSZ5byA77yM5YaN5ZCI5LiK5Y+Y5oiQ5LiL5LiA5Liq55S76Z2i44CC6YCC5ZCI44CM57uE5oiQ44CN44CM5ou85ZCI44CN44CCCi0g5o6o6L+R5Yiw5Y2K6LCD572R54K577yM572R54K55Y+Y5oiQ5LiL5LiA6ZWc55qE57KS5a2Q5oiW5Zu+5qGI44CC6YCC5ZCI6L2s5Zy65ZKM6K6w5b+G54K544CCCi0g5aWX6Imy6ZSZ5L2N6ZqP6IqC5ouN6Lez5LiA5LiL44CC6YCC5ZCI5Y2h54K544CCCgojIyDlj5jljJbnqbrpl7QKLSDnu5PmnoTvvJrkuIDmnKwgemluZSDnv7vpobXvvJvkuIDlvKDmtbfmiqXku47ljZXoibLljbDliLDkuInoibLvvJvlkIzkuIDkuKrlm77lvaLmjaLkuInnp43kuJPoibLnu4TlkIjjgIIKLSDlvIDlnLrvvJrnurjpnaLkuIrnrKzkuIDkuKroibLniYjljbDkuIvmnaXvvJvmjqjov5HnvZHngrnnhLblkI7mi4nov5zpnLLlh7rlhajosozjgIIKLSDnu5PlsL7vvJrmiYDmnInoibLniYjlr7npvZDjgIHplJnkvY3lvZLpm7bvvIzlj5jmiJDkuIDlvKDlubLlh4DnmoTmtbfmiqXjgIIKCiMjIOWdkQotIOmUmeS9jeWkquWkp+S8muWDj+WHuumUme+8mzHigJMzcHgg5bCx5aSf44CCCi0g5q+P5bin6YO96ZqP5py65Y+Y5YyW55qE5Zmq54K55Lya6Zeq77ya5omA5pyJ5Zmq5aOw6YO96KaB5Zu65a6a56eN5a2Q77yM5oyJIHQg5oiW5oyJ5q2l6L+b5bin5Y+W5YC844CCCi0g572R54K55aSq57uG5pe25Lya5Zyo6KeG6aKR57yW56CB5ZCO5Ye6546w5pGp5bCU57q577ya572R54K555u05b6EIOKJpSA2cHjvvIgxMDgwcO+8ie+8jOa4suafk+WQjuajgOafpeOAggo=
+# 孔版印刷（risograph-print）
+
+> Risograph 孔版印刷的质感：有限的专色、套色错位、半调网点、颗粒和纸纹，像独立出版物在动。
+> 参照（只学语法）：独立杂志和 zine 的孔版印刷、日本和欧洲的 riso 工作室作品、波普半调网点。不照搬具体作品。
+
+## 本质 / 不是什么
+- 本质：**2–3 个专色叠印**（重叠处混出第三色），**每个色版有轻微错位**，暗部是半调网点，边缘有颗粒和不均匀的油墨。
+- 不是：干净的矢量扁平插画；也不是滤镜一键加噪点。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 叠印混色 | 两个专色重叠的地方混出第三种颜色 | 组合、合作、混合 |
+| 套色错位 | 色版之间错开 1–3px，边上露出另一种颜色 | 手作、独立 |
+| 半调网点 | 暗部变成旋转网格上的圆点 | 印刷感、复古 |
+| 油墨不均和颗粒 | 色块里浓淡不匀，边缘毛糙 | 质感、温度 |
+| 荧光专色 | 荧光粉、荧光橙这类屏幕上也很跳的油墨色 | 潮流、活动 |
+| 双色调照片 | 一张照片只用两个专色印出来 | 人物、产品 |
+| 手绘线稿插图 | 粗细不匀的墨线，像钢笔画 | 故事、出版 |
+| zine 版式 | 订书钉、页码、裁切线、手写目录 | 出版、独立品牌 |
+| 印刷标记 | 套准十字、色标条、出血线留在画面里 | 制作过程、设计 |
+| 漏印和墨点 | 偶尔一块没印上、一个多余的墨点 | 不完美、真实 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 叠印、错位、网点是这种媒介的物理约束，作为材质始终都在；区别在于突出哪个。挑出来的 2–3 个信号放大做主角，其余的压到很轻，只当底色。
+
+## 这个风格最俗的版本
+- 画面：荧光粉加蓝两色、满屏大网点、错位一直在抖、版面是一张居中的海报。
+- 声音：lo-fi hip-hop 的鼓加黑胶底噪。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：宣传短片、Logo 演绎、排版卡点、活动海报动起来。
+- 内容：文化、创意、独立品牌、出版、音乐、活动。
+
+## 技术路线
+Canvas 画出每个色版（灰度遮罩）→ WebGL 后期合成：每个色版用对应的专色以 multiply 叠印，加错位、半调和颗粒。也可以只用 Canvas（`multiply` 合成 + 预先生成的网点纹理），但 WebGL 更快。颗粒放在着色器里按帧固定种子，或者用 `--grain`。
+
+## 材质与渲染
+- 色版：每个元素指定属于哪个色版；色版之间做 1–3px 的错位（可以随时间轻微漂移，但要确定性）。
+- 半调：在着色器里按亮度画旋转网格上的圆点（不同色版用不同角度，比如 15° / 45° / 75°）。
+- 油墨不均：用低频噪声调制每个色版的浓度；边缘用高频噪声做毛边。
+- 纸：暖白底，加一层非常淡的纤维纹理。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 荧光粉 `#FF48B0` + 蓝 `#0078BF` + 纸 `#F6F1E7`（重叠处是紫）
+- 黄 `#FFE800` + 青 `#00A95C`（Riso 绿）+ 纸 `#F4EFE4`
+- 红 `#FF665E` + 中蓝 `#3255A4` + 黑 `#2B2B2B` + 纸 `#F7F3EA`
+- 规则：只用专色和它们的叠印色，不加别的颜色；不用渐变，渐变一律变成网点。
+- 推导：从真实的 Riso 油墨色里选 2–3 个（荧光粉、蓝、黄、Riso 绿、橙、紫、金属金……），重叠色由 multiply 自然产生，不要另外加。荧光粉加蓝是最常见的组合。
+
+## 字体
+有性格的怪诞体或宽衬线体：Space Grotesk、Syne、Bricolage Grotesque、Fraunces 以外的衬线体（如 Young Serif、DM Serif Display）。字也走色版，可以有错位。
+
+## 运动
+- 适中的速度，弹簧 `{2.4, 0.75}`；元素像被「印」上来：先出一个色版，再出第二个色版（错开 2–4 帧）。
+- 可以用步进（12fps）增加印刷品的手作感，但镜头保持平滑。
+
+## 画面怎么活
+- 两个色版之间的对版误差随时间轻轻漂移（0.5–2px，几秒一个周期），这就是孔版机器的呼吸。
+- 半调网点的点径或网角缓慢变化；纸纹固定不动，纸本身不会动。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 平移过一张长版面 | 翻阅 | 列表、时间线 |
+| 推近到网点 | 质感、细节 | 记忆点、转场 |
+| 色版分离再合上 | 组成 | Logo、标题 |
+
+## 声音调色板
+lo-fi 鼓（kick decay 短一点、hat 加 `lowpass`）、温暖的 keys、pluck；可以叠一层很轻的黑胶底噪（`ambience({ kind: 'vinyl' })`）。第 1 档合成即可。
+
+律动与和声（举例，不止这些）：lo-fi hip-hop 的 swing（`S.swing(n, 0.3, 0.25)`）、boom-bap；Dorian、m9 / maj7 这类柔和的七和弦；鼓 bus `crush: 10–12` + `lowpass`，music `wow: 0.3`。
+
+## 原生手法
+- 色版分离：一个画面拆成两三个专色层错开，再合上变成下一个画面。适合「组成」「拼合」。
+- 推近到半调网点，网点变成下一镜的粒子或图案。适合转场和记忆点。
+- 套色错位随节拍跳一下。适合卡点。
+
+## 变化空间
+- 结构：一本 zine 翻页；一张海报从单色印到三色；同一个图形换三种专色组合。
+- 开场：纸面上第一个色版印下来；推近网点然后拉远露出全貌。
+- 结尾：所有色版对齐、错位归零，变成一张干净的海报。
+
+## 坑
+- 错位太大会像出错；1–3px 就够。
+- 每帧都随机变化的噪点会闪：所有噪声都要固定种子，按 t 或按步进帧取值。
+- 网点太细时会在视频编码后出现摩尔纹：网点直径 ≥ 6px（1080p），渲染后检查。

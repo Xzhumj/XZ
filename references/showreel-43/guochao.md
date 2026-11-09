@@ -1,1 +1,105 @@
-IyDlm73mva7nurnmoLfvvIhndW9jaGFv77yJCgo+IOS8oOe7n+e6ueagt+OAgeWZqOeJqeWSjOiJsuW9qe+8jOeUqOeOsOS7o+eahOeJiOW8j+WSjOiKguWlj+mHjeaWsOaOkuS4gOmBje+8muelpeS6keOAgeWbnue6ueOAgeaPj+mHkeOAgeacsee6ou+8jOaXouacieW5tOWRs+WSjOWPpOaEj++8jOWPiOWDj+S4gOW8oOa9rueJjOa1t+aKpeOAggo+IOWPgueFp++8iOWPquWtpuivreazle+8ie+8muS4reWbveS8oOe7n+e6ueagt++8iOS6kee6ueOAgeWbnue6ueOAgea1t+awtOaxn+W0luOAgee8oOaene+8ieOAgeS8oOe7n+iJsuS9k+ezu+OAgeW5tOeUu+WSjOmXqOelnueahOmAoOWei+OAgei/keW5tOWbvei0p+WTgeeJjOWSjOiKguW6huiQpemUgOeahOinhuinieOAguS4jeeFp+aQrOWFt+S9k+WTgeeJjOeahOiuvuiuoeOAgeaWh+eJqeeahOmrmOa4heWOn+WbvuWSjOWPl+eJiOadg+S/neaKpOeahOaPkueUu+OAggoKIyMg5pys6LSoIC8g5LiN5piv5LuA5LmICi0g5pys6LSo77yaKirkvKDnu5/nmoTjgIzmlpnjgI3vvIznjrDku6PnmoTjgIzlgZrms5XjgI0qKuOAgue6ueagt+OAgeWZqOeJqeOAgeiJsuW9qeadpeiHquS8oOe7n++8jOS9huaehOWbvuOAgeWtl+S9k+OAgeiKguWlj+WSjOWKqOaViOaYr+W9k+S7o+eahO+8muWkp+mdouenr+iJsuWdl+OAgeW8uuWvueavlOOAgee9keagvOaOkueJiOOAgeWIqeiQveeahOi9rOWcuuOAggotIOS4jeaYr++8muawtOWiqOWGmeaEj++8iOmCo+aYryBgaW5rLXdhc2hg77yM6K6y55WZ55m95ZKM5aKo55qE6KGM5Li677yJ77yb5Lmf5LiN5piv5oqK6b6Z5Yek44CB54Gv56y844CB5Lit5Zu957uT5aCG5ruh55S76Z2i55qE5pil5pma6IOM5pmv5p2/44CCCgojIyDovqjor4bkv6Hlj7fvvJrmr4/mlK/niYflrZDmjJEgMuKAkzMg5LiqCnwg5L+h5Y+3IHwg6ZW/5LuA5LmI5qC3IHwg6YCC5ZCI55qE5Li76aKYIHwKfC0tLXwtLS18LS0tfAp8IOelpeS6kSB8IOWNt+absueahOS6kee6ue+8jOe6v+adoeWchua2pu+8jOaIkOe7hOWHuueOsCB8IOWQieelpeOAgeWkqeepuuOAgeW8gOWcuiB8Cnwg5Zue57q5IC8g5LiH5a2X57q5IHwg5pa55oqY6L+e57ut55qE6L655qGG57q5IHwg6L655qGG44CB6L2s5Zy644CB56ep5bqPIHwKfCDmtbfmsLTmsZ/ltJYgfCDlsYLlsYLlj6Dlj6DnmoTlvKflvaLmtarnurkgfCDlupXpg6joo4XppbDjgIHmsJTlir8gfAp8IOaPj+mHkee6vyB8IOe7humHkee6v+WLvuWHuueahOi9ruW7k+WSjOi+ueahhiB8IOmrmOerr+OAgeekvOebkuOAgeiKguW6hiB8Cnwg5Lyg57uf6Imy5aSn6Imy5Z2XIHwg5pyx57qi44CB6bub6JOd44CB5p2+57u/44CB6bmF6buE55qE5bmz5raC5aSn5Z2XIHwg5ZOB54mM44CB5rW35oqlIHwKfCDlubTnlLvpgKDlnosgfCDog5blqIPlqIPjgIHpl6jnpZ7jgIHlnIbmtqbppbHmu6HnmoTkurrniakgfCDmmKXoioLjgIHllpzluoYgfAp8IOWZqOeJqeWJquW9sSB8IOeTt+eTtuOAgem8juOAgeaJh+mdouOAgeeBr+esvOeahOWHoOS9leWMlui9ruW7kyB8IOaWh+WMluOAgeS6p+WTgSB8Cnwg5Y2w56ug5LiO56+G5Yi7IHwg5pa55Y2w44CB5pyx5paH55m95paHIHwg6JC95qy+44CB6K6k6K+BIHwKfCDnqpfmo4LkuI7mnIjpl6ggfCDmoLzlrZDnqpfjgIHlnIblvaLmnIjkuq7pl6jlgZrnlLvmoYYgfCDovazlnLrjgIHmoYbmma8gfAp8IOe8oOaeneiKsee6uSB8IOi/nue7reeahOiXpOiUk+iKseWNiee6ueagtyB8IOijhemlsOOAgeeUn+mVvyB8Cnwg56uW5o6S5Lmm5rOV5qCH6aKYIHwg56uW5o6S55qE5q+b56yU5a2X5oiW5a6L5L2T5aSn5a2XIHwg5qCH6aKY44CB5paH5qGIIHwKfCDnjrDku6Pmkp7oibIgfCDkvKDnu5/nurnmoLfphY3ojaflhYnoibLmiJbpq5jppbHlkozmkp7oibIgfCDmva7mtYHjgIHlubTovbsgfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggotIOe6ueagt+imgeeUu+Wvue+8muWbnue6ueaYr+aWueaKmOi/nue7reeahO+8jOelpeS6keacieWbuuWumueahOWNt+absue7k+aehOOAguS4jeehruWumueahOe6ueagt+WugeWPr+S4jeeUqO+8jOS5n+S4jeimgeeUu+aIkOS8vOaYr+iAjOmdnueahOiKsei+ueOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya5aSn57qi5bqV44CB6YeR6Imy56Wl5LqR5LuO5Lik6L656aOY6L+b5p2l44CB54Gv56y85ZKM5Lit5Zu957uT5oyC5Zyo6KeS5LiK44CB5Lit6Ze05LiA5Liq5Lmm5rOV44CM56aP44CN5a2X44CB57uT5bC+54Of6Iqx44CCCi0g5aOw6Z+z77ya6ZSj6byT5ZSi5ZGQ55qE5Zac5bqG5puy5Yqg6Z6t54Ku5aOw44CCCi0gYnJpZWYg55qEIHN0eWxlIOS4gOagj+WGmeaYjui/meaUr+eJh+WtkOe/u+aOieS6huWTquWHoOadoe+8jOaIluiAheS4uuS7gOS5iOWIu+aEj+S/neeVme+8iOavlOWmgueUqOaIt+imgeeahOWwseaYr+e7j+WFuOeJiO+8ieOAguS/neeVmeaXtu+8jOaKiuWKm+awlOiKseWcqOaehOWbvuOAgemVnOWktOOAgeiKguWlj+aIluS4gOS4quaEj+WklueahOiusOW/hueCueS4iuOAggoKIyMg6YCC6YWNCi0g55So6YCU77ya6IqC5bqG6JCl6ZSA77yI5pil6IqC44CB5Lit56eL44CB56uv5Y2I77yJ44CB5Zu96LSn5ZKM5paw5raI6LS55ZOB54mM55qE5a6j5Lyg54mH44CBTG9nbyDmvJTnu47jgIHmlofliJvkuqflk4HjgIHmtLvliqjlvIDluZXjgIIKLSDlhoXlrrnvvJrojLbppa7jgIHpo5/lk4HjgIHnvo7lpobjgIHmlofml4XjgIHmuLjmiI/jgIHkvKDnu5/lt6XoibrnmoTnjrDku6Pooajovr7jgIIKLSDkuI3pgILlkIjvvJrpnIDopoHlhYvliLbnkIbmgKfnmoTnp5HmioDlkozmlbDmja7kuLvpopjvvJvpnIDopoHlm73pmYXljJbjgIHljrvlnLDln5/ljJbooajovr7nmoTlk4HniYzjgIIKCiMjIOaKgOacr+i3r+e6vwpDYW52YXMgMkQg5oiWIFNWR+OAgue6ueagt+WBmuaIkOWPr+WkjeeUqOeahOi3r+W+hOWHveaVsO+8iOS4gOS4quS6kee6ueWNleWFg+OAgeS4gOS4quWbnue6ueWNleWFg++8ie+8jOaMiee9keagvOaIlui3r+W+hOW5s+mTuu+8m+aPj+mHkeeUqOe7hue6v+WKoOS4gOmBk+ayv+e6v+enu+WKqOeahOmrmOWFie+8m+mcgOimgee6uOacrOi0qOaEn+aXtu+8jOWcqOW6leiJsuS4iuWPoOS4gOWxguW+iOa3oeeahOWuo+e6uOaIlue7oueahOe6ueeQhuOAgue6ueagt+W5s+mTuueahOWPluaooeWRqOacn+W/hemhu+etieS6juWNleWFg+eahOecn+WunuWRqOacn++8jOWQpuWImea7muWKqOaXtuS8mui3s+OAggoKIyMg5p2Q6LSo5LiO5riy5p+TCi0g57q55qC35Y2V5YWD77ya5YWI55S75LiA5Liq5qCH5YeG5Y2V5YWD77yM5YaN5peL6L2s44CB6ZWc5YOP44CB5bmz6ZO677yb57q/5a6957uf5LiA77yM6L2s6KeS5aSE55CG5LiA6Ie044CCCi0g5o+P6YeR77ya6YeR5LiN5piv6buE6Imy77yM5piv5LiA57uE5riQ5Y+Y77yI5pqX6YeRIOKGkiDkuq7ph5Eg4oaSIOeZvemrmOWFie+8ie+8jOmrmOWFieWPquayv+e6v+i1sO+8jOS4jemTuua7oemdouOAggotIOiJsuWdl++8muW5s+a2gu+8jOi+uee8mOW5suWHgO+8m+mcgOimgeWxguasoeaXtueUqOWQjOiJsuezu+a3sea1he+8jOS4jeeUqOa4kOWPmOOAggotIOW5tOeUu+S6uueJqe+8muWchua2pumlsea7oe+8jOi9ruW7k+e6v+eyl+e7huS4gOiHtO+8jOiEuOmiiuS4pOWbouiFrue6ouOAggotIOi0qOaEn++8muWPr+mAieWuo+e6uOe6pOe7tOOAgee7oueahOe7hue6ueOAgea8huWZqOeahOWFieazve+8jOS4iemAieS4gO+8jOWFqOeJh+e7n+S4gOOAggoKIyMg6YWN6ImyCuS4i+mdoueahOiJsuWAvOaYr+ekuuS+i++8jOeci+aAnei3r++8jOS4jeimgeWOn+agt+eFp+aKhOOAggotIOacsee6oumHke+8muacsee6oiBgI0M4MTAyRWAgLyDmmpfph5EgYCNCODg2MEJgIC8g5Lqu6YeRIGAjRTlDNDZBYCAvIOWiqCBgIzFDMUExN2AgLyDlrqPnurggYCNGM0VCRERgCi0g6Z2S57u/5bGx5rC077ya6bub6JOdIGAjMUUzQTVGYCAvIOadvue7vyBgIzJFOEI1N2AgLyDnn7PpnZIgYCM1QjlCRDVgIC8g6LWt55+zIGAjQTA1MjJEYCAvIOexs+eZvSBgI0Y1RjBFNmAKLSDmva7mtYHmkp7oibLvvJrpuYXpu4QgYCNGNkM0NDVgIC8g6IOt6ISCIGAjRTAzQzZFYCAvIOWtlOmbgOiTnSBgIzBGN0M4Q2AgLyDpu5EKLSDmjqjlr7zvvJrku47kuK3lm73kvKDnu5/oibLph4zpgIkgMuKAkzMg5Liq5YGa5Li76Imy77yI5pyx57qi44CB6bub6JOd44CB5p2+57u/44CB6bmF6buE44CB6JeV6I2344CB5pyI55m94oCm4oCm77yJ77yM6YeR5Y+q5YGa57q/5ZKM54K557yA77yM5LiN6ZO65aSn6Z2i44CC5ZOB54mM6Imy6IO95a+55bqU5Yiw5LiA5Liq5Lyg57uf6Imy5pe277yM55So5Lyg57uf6Imy55qE5ZCN5a2X5ZKM5a6D6YWN44CC5pyx57qi5Yqg6YeR5piv5pyA5bi46KeB55qE6YKj57uE44CCCgojIyDlrZfkvZMKLSDmoIfpopjvvJrkuabms5XlrZfkvZPvvIjnq5nphbflsI/olofkvZPjgIHpnJ7puZzmlofmpbfjgIHmgJ3mupDlrovkvZMgSGVhdnnvvJvkuabms5XlrZfkvZPliqHlv4Xnoa7orqTlj6/llYbnlKjvvInvvIzmiJbogIXmnInorr7orqHmhJ/nmoTlrovkvZPnspfkvZPvvJvlj6/ku6Xnq5bmjpLjgIIKLSDoi7HmloflkozmlbDlrZfvvJrooaznur/kvZPvvIhDb3Jtb3JhbnTjgIFFQiBHYXJhbW9uZO+8ieaIluiAheeqhOS9k+aXoOihrOe6v+mFjeWQiOeOsOS7o+eJiOW8j+OAggotIOS4gOWxj+acgOWkmuS4pOenjeWtl+S9k++8jOerluaOkuagh+mimOmFjeaoquaOkuWwj+Wtl+OAggoKIyMg6L+Q5YqoCi0g6IqC5aWP5q+U5rC05aKo5b+r77yM5q+U5ZCI5oiQ5rOi56iz77ya57q55qC35bGV5byA44CB6Imy5Z2X5YiH5o2i55SoIGBzbmFwYCDmiJblvLnnsKcgYHsyLjQsIDAuODV9YO+8jOWHoOS5juS4jeWbnuW8ueOAggotIOe6ueagt+OAjOeUn+mVv+OAje+8muWbnue6ueayv+i3r+W+hOmAkOauteeUu+WHuu+8jOelpeS6keS7juS4gOS4quWNt+W8gOWni+S4gOWciOWciOWxleW8gOOAggotIOaPj+mHkemrmOWFieayv+e6v+aJq+i/h++8jOS4gOasoSAwLjjigJMxLjUg56eS44CCCi0g5bm055S75Lq654mp55qE5Yqo5L2c5Y+v5LulIDEyZnBzIOatpei/m++8jOWDj+earuW9seaIluacqOWBtuOAggoKIyMg55S76Z2i5oCO5LmI5rS7Ci0g56Wl5LqR57yT5oWi5Zyw5qiq5ZCR5ryC56e777yb5o+P6YeR57q/5LiK55qE6auY5YWJ6ZqU5Yeg56eS5omr5LiA5qyh77yb54Gv56y855qE56mX5a2Q6L276L275pmD44CCCi0g5rW35rC05rGf5bSW55qE5rWq57q55oyJ5ZGo5pyf6LW35LyP77yI5Y+W5qih5ZGo5pyfID0g57q55qC35ZGo5pyf77yJ44CCCi0g5aSn6Imy5Z2X5ZKM5qCH6aKY6JC95a6a5ZCO5LiN5Yqo77yM5rS755qE5Lic6KW/6YO95Zyo57q55qC35ZKM6KOF6aWw5LiK44CCCgojIyDplZzlpLTor63ms5UKfCDplZzlpLTov5DliqggfCDooajovr7ku4DkuYggfCDpgILlkIjlk6rnsbvlhoXlrrkgfAp8LS0tfC0tLXwtLS18Cnwg5o6o6ZeoIC8g56m/6L+H5pyI5Lqu6ZeoIHwg6L+b5YWl5LiA5Liq5LiW55WMIHwg5byA5Zy644CB6L2s5Zy6IHwKfCDplb/ljbfmqKrnp7sgfCDml7bpl7TjgIHml4XnqIsgfCDlj5nkuovjgIHkuqflk4Hnur8gfAp8IOS/r+inhuW5s+mTuueahOe6ueagt++8jOaXi+i9rCB8IOenqeW6j+OAgeWbvuahiOS5i+e+jiB8IOeJh+WktOOAgUxvZ28gfAp8IOaOqOi/keWIsOS4gOWkhOaPj+mHkee7huiKgiB8IOW3peiJuuOAgei0qOaEnyB8IOmrmOerr+S6p+WTgSB8Cnwg56uW5ZCR5Y236L205bGV5byAIHwg5o+t56S6IHwg5qCH6aKY44CB6JC954mIIHwKCiMjIOWjsOmfs+iwg+iJsuadvwrmsJHkuZDpn7PoibLvvJpgcGx1Y2tgIOaooeaLn+WPpOetneWSjOeQteeQtu+8iGJyaWdodCDlgY/pq5jjgIHnn63oobDlh4/vvInjgIHluKbmu5Hpn7PnmoQgYGxlYWRgIOaooeaLn+esm+WtkOOAgWBtYWxsZXQoeyBtYXRlcmlhbDogJ3dvb2QnIH0pYCDlgZrmnKjpsbzlkozmooblrZDvvJvoioLluoblj6/ku6XliqDlpKfpvJPvvIhgdG9tYCDkvY7pn7PjgIHph43mt7flk43vvInlkozplbLjgILnrKwgMSDmoaPljbPlj6/vvIzpnIDopoHmm7TnnJ/nmoTlvKbkuZDml7bnlKjnrKwgMiDmoaPjgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8muS6lOWjsOiwg+W8j++8iGBzY2FsZShyLCAnZ29uZycpYOOAgWAnemhpJ2DjgIFgJ3l1J2DvvInvvIzkuZ/lj6/ku6XmiorkupTlo7Dml4vlvovmlL7lnKjnjrDku6PnmoTnlLXlrZDpvJPmiJYgdHJhcCDoioLmi43kuIrvvIjlm73mva7mnIDluLjop4HnmoTlgZrms5XkuYvkuIDvvInvvJvmhaLmnb/nmoTlj6Tpo47pk7rlupXvvJvmiJbogIXlj6rnlKjmiZPlh7vkuZDnmoTpvJPngrnlgZrlvIDlnLrjgILkuI3kuIDlrprmr4/mrKHpg73mmK/plKPpvJPllpzluobjgIIKCiMjIOWOn+eUn+aJi+azlQotIOWbnue6ueayv+eUu+mdoui+ueahhumAkOauteeUn+mVv++8jOWQiOaIkOS4gOS4quaWueahhuWQjuahhuS9j+agh+mimO+8mumAguWQiOeJh+WktOWSjOiQveeJiOOAggotIOaOqOW8gOS4pOaJh+mXqOaIluepv+i/h+aciOS6rumXqO+8jOi/m+WFpeS4i+S4gOS4quWcuuaZr++8mumAguWQiOi9rOWcuuOAggotIOS4gOS4que6ueagt+WNleWFg+W5s+mTuuOAgeaXi+i9rOOAgee8qeaUvuaIkOaVtOS4queUu+mdoueahOW6lee6ue+8jOWGjeaUtuWbnuaIkCBsb2dv77ya6YCC5ZCIIExvZ28g5ryU57uO44CCCi0g5Y236L2056uW5ZCR5bGV5byA77yM6Zyy5Ye656uW5o6S5qCH6aKY77ya6YCC5ZCI5qCH6aKY5ZKM6JC954mI44CCCi0g56Wl5LqR5LuO5Lik6L656aOY6L+b5p2l44CB5Lit6Ze05LiA5Liq44CM56aP44CN5a2X77ya57uP5YW477yM5pil6IqC54mH55qE56ys5LiA5Liq5oOz5rOV44CCCgojIyDlj5jljJbnqbrpl7QKLSDnu5PmnoTvvJrkuIDku7blmajnianku47ms6Xlna/liLDmiJDlk4HvvJvkuIDlubTkuozljYHlm5voioLmsJTvvJvkuIDkuKrkvKDnu5/nurnmoLfooqvmi4blvIDjgIHph43nu4TmiJDnjrDku6MgbG9nb++8m+S4gOeil+iMtuS7jumHh+iMtuWIsOWFpeWPo+OAggotIOW8gOWcuu+8muS4gOaJh+mXqOe8k+e8k+aOqOW8gO+8m+S4gOS4que6ueagt+WNleWFg+WcqOeZvee6uOS4iueUu+WHuuadpe+8m+S4gOaWueWNsOeroOiQveS4i+OAggotIOe7k+Wwvu+8muWNt+i9tOWQiOS4iu+8jOWwgeetvuaYryBsb2dv77yb5Y2w56ug55uW5LiL77yb57q55qC35pS25oui5oiQ5ZOB54mM5qCH6K+G44CCCgojIyDlnZEKLSDlhYPntKDloIbnoIzvvIzmiJDkuobmmKXmmZrog4zmma/mnb/vvJrkuIDlsY/lj6rmlL7kuIDkuKTnp43nurnmoLfvvIznlZnlh7rlpKflnZfnmoToibLpnaLjgIIKLSDph5HoibLnlKjmiJDkuobpu4ToibLvvJrph5HopoHmnInmmpfpg6jjgIHkuq7pg6jlkozpq5jlhYnvvIzogIzkuJTlj6rnlKjlnKjnur/lkozngrnnvIDkuIrjgIIKLSDnurnmoLfnlLvplJnvvJrlm57nurnnlLvmiJDkuobpmo/mhI/nmoTmipjnur/jgIHnpaXkupHnlLvmiJDkuobmma7pgJrnmoTkupHjgILlroHlj6/lsJHnlKjvvIzkuZ/opoHnlLvlr7njgIIKLSDnuYHnroDlrZfkvZPmt7fnlKjjgIHkuabms5XlrZfkvZPmsqHmnInmjojmnYPvvJrlrZfkvZPopoHnu5/kuIDvvIzlubbnoa7orqTlj6/llYbnlKjjgIIKLSDnlKjmlofnianpq5jmuIXlm77miJbliKvkurrnmoTmj5LnlLvlvZPntKDmnZDvvJrlj6rnlKjoh6rlt7HnlLvnmoTnurnmoLfvvIzmiJbogIXnlKjmiLfmj5DkvpvnmoTntKDmnZDjgIIK
+# 国潮纹样（guochao）
+
+> 传统纹样、器物和色彩，用现代的版式和节奏重新排一遍：祥云、回纹、描金、朱红，既有年味和古意，又像一张潮牌海报。
+> 参照（只学语法）：中国传统纹样（云纹、回纹、海水江崖、缠枝）、传统色体系、年画和门神的造型、近年国货品牌和节庆营销的视觉。不照搬具体品牌的设计、文物的高清原图和受版权保护的插画。
+
+## 本质 / 不是什么
+- 本质：**传统的「料」，现代的「做法」**。纹样、器物、色彩来自传统，但构图、字体、节奏和动效是当代的：大面积色块、强对比、网格排版、利落的转场。
+- 不是：水墨写意（那是 `ink-wash`，讲留白和墨的行为）；也不是把龙凤、灯笼、中国结堆满画面的春晚背景板。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 祥云 | 卷曲的云纹，线条圆润，成组出现 | 吉祥、天空、开场 |
+| 回纹 / 万字纹 | 方折连续的边框纹 | 边框、转场、秩序 |
+| 海水江崖 | 层层叠叠的弧形浪纹 | 底部装饰、气势 |
+| 描金线 | 细金线勾出的轮廓和边框 | 高端、礼盒、节庆 |
+| 传统色大色块 | 朱红、黛蓝、松绿、鹅黄的平涂大块 | 品牌、海报 |
+| 年画造型 | 胖娃娃、门神、圆润饱满的人物 | 春节、喜庆 |
+| 器物剪影 | 瓷瓶、鼎、扇面、灯笼的几何化轮廓 | 文化、产品 |
+| 印章与篆刻 | 方印、朱文白文 | 落款、认证 |
+| 窗棂与月门 | 格子窗、圆形月亮门做画框 | 转场、框景 |
+| 缠枝花纹 | 连续的藤蔓花卉纹样 | 装饰、生长 |
+| 竖排书法标题 | 竖排的毛笔字或宋体大字 | 标题、文案 |
+| 现代撞色 | 传统纹样配荧光色或高饱和撞色 | 潮流、年轻 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 纹样要画对：回纹是方折连续的，祥云有固定的卷曲结构。不确定的纹样宁可不用，也不要画成似是而非的花边。
+
+## 这个风格最俗的版本
+- 画面：大红底、金色祥云从两边飘进来、灯笼和中国结挂在角上、中间一个书法「福」字、结尾烟花。
+- 声音：锣鼓唢呐的喜庆曲加鞭炮声。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：节庆营销（春节、中秋、端午）、国货和新消费品牌的宣传片、Logo 演绎、文创产品、活动开幕。
+- 内容：茶饮、食品、美妆、文旅、游戏、传统工艺的现代表达。
+- 不适合：需要克制理性的科技和数据主题；需要国际化、去地域化表达的品牌。
+
+## 技术路线
+Canvas 2D 或 SVG。纹样做成可复用的路径函数（一个云纹单元、一个回纹单元），按网格或路径平铺；描金用细线加一道沿线移动的高光；需要纸本质感时，在底色上叠一层很淡的宣纸或绢的纹理。纹样平铺的取模周期必须等于单元的真实周期，否则滚动时会跳。
+
+## 材质与渲染
+- 纹样单元：先画一个标准单元，再旋转、镜像、平铺；线宽统一，转角处理一致。
+- 描金：金不是黄色，是一组渐变（暗金 → 亮金 → 白高光），高光只沿线走，不铺满面。
+- 色块：平涂，边缘干净；需要层次时用同色系深浅，不用渐变。
+- 年画人物：圆润饱满，轮廓线粗细一致，脸颊两团腮红。
+- 质感：可选宣纸纤维、绢的细纹、漆器的光泽，三选一，全片统一。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 朱红金：朱红 `#C8102E` / 暗金 `#B8860B` / 亮金 `#E9C46A` / 墨 `#1C1A17` / 宣纸 `#F3EBDD`
+- 青绿山水：黛蓝 `#1E3A5F` / 松绿 `#2E8B57` / 石青 `#5B9BD5` / 赭石 `#A0522D` / 米白 `#F5F0E6`
+- 潮流撞色：鹅黄 `#F6C445` / 胭脂 `#E03C6E` / 孔雀蓝 `#0F7C8C` / 黑
+- 推导：从中国传统色里选 2–3 个做主色（朱红、黛蓝、松绿、鹅黄、藕荷、月白……），金只做线和点缀，不铺大面。品牌色能对应到一个传统色时，用传统色的名字和它配。朱红加金是最常见的那组。
+
+## 字体
+- 标题：书法字体（站酷小薇体、霞鹜文楷、思源宋体 Heavy；书法字体务必确认可商用），或者有设计感的宋体粗体；可以竖排。
+- 英文和数字：衬线体（Cormorant、EB Garamond）或者窄体无衬线配合现代版式。
+- 一屏最多两种字体，竖排标题配横排小字。
+
+## 运动
+- 节奏比水墨快，比合成波稳：纹样展开、色块切换用 `snap` 或弹簧 `{2.4, 0.85}`，几乎不回弹。
+- 纹样「生长」：回纹沿路径逐段画出，祥云从一个卷开始一圈圈展开。
+- 描金高光沿线扫过，一次 0.8–1.5 秒。
+- 年画人物的动作可以 12fps 步进，像皮影或木偶。
+
+## 画面怎么活
+- 祥云缓慢地横向漂移；描金线上的高光隔几秒扫一次；灯笼的穗子轻轻晃。
+- 海水江崖的浪纹按周期起伏（取模周期 = 纹样周期）。
+- 大色块和标题落定后不动，活的东西都在纹样和装饰上。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 推门 / 穿过月亮门 | 进入一个世界 | 开场、转场 |
+| 长卷横移 | 时间、旅程 | 叙事、产品线 |
+| 俯视平铺的纹样，旋转 | 秩序、图案之美 | 片头、Logo |
+| 推近到一处描金细节 | 工艺、质感 | 高端产品 |
+| 竖向卷轴展开 | 揭示 | 标题、落版 |
+
+## 声音调色板
+民乐音色：`pluck` 模拟古筝和琵琶（bright 偏高、短衰减）、带滑音的 `lead` 模拟笛子、`mallet({ material: 'wood' })` 做木鱼和梆子；节庆可以加大鼓（`tom` 低音、重混响）和镲。第 1 档即可，需要更真的弦乐时用第 2 档。
+
+律动与和声（举例，不止这些）：五声调式（`scale(r, 'gong')`、`'zhi'`、`'yu'`），也可以把五声旋律放在现代的电子鼓或 trap 节拍上（国潮最常见的做法之一）；慢板的古风铺底；或者只用打击乐的鼓点做开场。不一定每次都是锣鼓喜庆。
+
+## 原生手法
+- 回纹沿画面边框逐段生长，合成一个方框后框住标题：适合片头和落版。
+- 推开两扇门或穿过月亮门，进入下一个场景：适合转场。
+- 一个纹样单元平铺、旋转、缩放成整个画面的底纹，再收回成 logo：适合 Logo 演绎。
+- 卷轴竖向展开，露出竖排标题：适合标题和落版。
+- 祥云从两边飘进来、中间一个「福」字：经典，春节片的第一个想法。
+
+## 变化空间
+- 结构：一件器物从泥坯到成品；一年二十四节气；一个传统纹样被拆开、重组成现代 logo；一碗茶从采茶到入口。
+- 开场：一扇门缓缓推开；一个纹样单元在白纸上画出来；一方印章落下。
+- 结尾：卷轴合上，封签是 logo；印章盖下；纹样收拢成品牌标识。
+
+## 坑
+- 元素堆砌，成了春晚背景板：一屏只放一两种纹样，留出大块的色面。
+- 金色用成了黄色：金要有暗部、亮部和高光，而且只用在线和点缀上。
+- 纹样画错：回纹画成了随意的折线、祥云画成了普通的云。宁可少用，也要画对。
+- 繁简字体混用、书法字体没有授权：字体要统一，并确认可商用。
+- 用文物高清图或别人的插画当素材：只用自己画的纹样，或者用户提供的素材。

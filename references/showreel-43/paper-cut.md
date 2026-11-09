@@ -1,1 +1,95 @@
-IyDnurjoibrliIblsYLvvIhwYXBlci1jdXTvvIkKCj4g5LiA5bGC5bGC5Ymq5aW955qE5b2p6Imy5Y2h57q477yM5YmN5ZCO6ZSZ6JC977yM5oqV5LiL5p+U5ZKM55qE5b2x5a2Q77yb55S76Z2i5YOP5LiA5Liq57q46ZuV54Gv566x77yM5oiW6ICF5LiA5pys5omT5byA55qE56uL5L2T5Lmm44CCCj4g5Y+C54Wn77yI5Y+q5a2m6K+t5rOV77yJ77ya57q46ZuV5o+S55S744CB5Ymq57q444CB56uL5L2T5Lmm5py65YWz44CB57q46ZuV54Gv566x44CC5LiN54Wn5pCs5YW35L2T5L2c5ZOB44CCCgojIyDmnKzotKggLyDkuI3mmK/ku4DkuYgKLSDmnKzotKjvvJoqKuWIhuWxgioq77yINOKAkzgg5bGC5bmz6Z2i77yM5q+P5bGC5piv5LiA5byg5Ymq5aW955qE57q477yJ44CBKirlsYLpl7TmipXlvbEqKu+8iOaflOWSjOOAgeaWueWQkeS4gOiHtO+8ieOAgSoq57q455qE6LSo5oSfKirvvIjnu4blvq7nurnnkIbjgIHliIfovrnvvInvvJvov5DliqjmmK/lsYLnmoTljYfotbfjgIHmipjlj6DjgIHnv7vlvIDjgIHmu5HliqjjgIIKLSDkuI3mmK/vvJrmiYHlubPnn6Lph4/mj5LnlLvvvJvkuZ/kuI3mmK/lhpnlrp4gM0TjgIIKCiMjIOi+qOivhuS/oeWPt++8muavj+aUr+eJh+WtkOaMkSAy4oCTMyDkuKoKfCDkv6Hlj7cgfCDplb/ku4DkuYjmoLcgfCDpgILlkIjnmoTkuLvpopggfAp8LS0tfC0tLXwtLS18Cnwg5bGC5Y+g57q46ZuVIHwgNOKAkzgg5bGC57q45YmN5ZCO6ZSZ6JC977yM5bGC6Ze05pyJ5oqV5b2xIHwg5Zy65pmv44CB5rex5bqmIHwKfCDnq4vkvZPkuabmnLrlhbMgfCDnv7vlvIDkuabpobXvvIzlnLrmma/nq4votbfmnaUgfCDlvIDlnLrjgIHmlYXkuosgfAp8IOeql+iKseWJque6uCB8IOS4gOiJsuWJque6uOeahOmVguepuuWbvuahiCB8IOiKguaXpeOAgeS8oOe7nyB8Cnwg54Gv566xIHwg57q45bGC5ZCO6Z2i5pyJ5YWJ6YCP6L+H5p2lIHwg5aSc5pma44CB5rip6aaoIHwKfCDmipjnurggfCDnurjmsr/mipjnur/mipjmiJDlvaLnirYgfCDlj5jljJbjgIHnsr7lt6cgfAp8IOe6uOadoeWNt+absiB8IOihjee6uOS4gOagt+WNt+i1t+eahOe6uOadoSB8IOijhemlsOOAgee7huiKgiB8Cnwg5ouJ5p2h5py65YWzIHwg5LiA5ouJ57q45p2h77yM55S76Z2i6YeM55qE5Lic6KW/5Yqo6LW35p2lIHwg5LqS5Yqo44CB5o+t56S6IHwKfCDnurjnurnlkozliIfovrkgfCDnurjnmoTnuqTnu7TnurnnkIbjgIHliIflj6PnmoTnmb3ovrkgfCDotKjmhJ8gfAp8IOmVguepuumAj+aZryB8IOWJjeWxgueahOa0numHjOeci+WIsOWQjuWxgueahOS4lueVjCB8IOepv+i2iuOAgei9rOWcuiB8Cnwg57q454mH6aOY6JC9IHwg5Ymq5LiL5p2l55qE57q454mH5YOP6JC95Y+25LiA5qC36aOYIHwg5a2j6IqC44CB57uT5bC+IHwKCuinhOWIme+8mgotIOavj+aUr+aMkSAy4oCTMyDkuKrvvIzoh7PlsJHkuIDkuKrkuI3lnKjkuIvpnaLjgIzmnIDkv5fnmoTniYjmnKzjgI3ph4zjgIIKLSDkv6Hlj7fku47kuLvpopjph4zpgInvvIzkuI3mjInpobrluo/lhajkuIrjgIIKCiMjIOi/meS4qumjjuagvOacgOS/l+eahOeJiOacrAotIOeUu+mdou+8muiTnee7v+iJsueahOa1t+a1que6uOWxguaIluaaruiJsuWxseWzpuS4gOWxguWxguWPoOi1t++8jOeri+S9k+S5pue/u+W8gO+8jOe7k+WwvuS5puWQiOS4iuOAggotIOWjsOmfs++8mumSoueJh+eQtOOAgeaLqOW8puOAgee6uOW8oOe/u+WKqOWjsOOAggotIGJyaWVmIOeahCBzdHlsZSDkuIDmoI/lhpnmmI7ov5nmlK/niYflrZDnv7vmjonkuoblk6rlh6DmnaHvvIzmiJbogIXkuLrku4DkuYjliLvmhI/kv53nlZnvvIjmr5TlpoLnlKjmiLfopoHnmoTlsLHmmK/nu4/lhbjniYjvvInjgILkv53nlZnml7bvvIzmiorlipvmsJToirHlnKjmnoTlm77jgIHplZzlpLTjgIHoioLlpY/miJbkuIDkuKrmhI/lpJbnmoTorrDlv4bngrnkuIrjgIIKCiMjIOmAgumFjQotIOeUqOmAlO+8muWuo+S8oOefreeJh+OAgeiKguaXpemXruWAmeOAgeiusuino+efreeJh+OAgUxvZ28g5ryU57uO44CCCi0g5YaF5a6577ya55Sf5rS75pa55byP44CB6IqC5pel44CB5pWZ6IKy44CB5peF5ri444CB546v5L+d44CB5rip5pqW55qE5ZOB54mM44CCCgojIyDmioDmnK/ot6/nur8KLSAyLjVE77yaQ2FudmFzIDJE77yM5q+P5bGC5LiA5LiqIFBhdGgyRO+8jOaMieWxgueUu+aKleW9se+8iOaooeeziiArIOWBj+enu+eahOa3seiJsuWJr+acrO+8ieWGjeeUu+e6uOmdou+8m+inhuW3ruW5s+enu+iuqeWxguaciea3seW6puOAggotIOeri+S9k+S5piAvIOaKmOWPoO+8mlRocmVlLmpz77yM5q+P5bGC5piv5LiA5Liq5bmz6Z2i572R5qC877yM57uV5oqY57q/5peL6L2s77yb57q46Z2i55So5bim57q555CG55qEIGBNZXNoU3RhbmRhcmRNYXRlcmlhbGDvvIzmn5TlkoznmoTmlrnlkJHlhYkgKyDpmLTlvbHjgIIKLSDnurjnurnmmK/kuIDlvKDku6PnoIHnlJ/miJDnmoTlmarlo7DnurnnkIbvvIzlj6DlnKjmr4/lsYLnurjpnaLkuIrvvIjlvojmt6HvvInjgIIKCiMjIOadkOi0qOS4jua4suafkwotIOWxgumXtOi3neWGs+WumuaKleW9seeahOWkp+Wwj+WSjOaooeeziuW6pu+8mui/nOeahOWxguaKleW9seWkp+iAjOiZmu+8jOi/keeahOWxguWwj+iAjOWunuOAggotIOWIh+i+ue+8mui+uee8mOWPr+S7peacieS4gOWciOW+iOe7hueahOS6rui+ue+8iOe6uOeahOWOmuW6pu+8ieOAggotIOW9oueKtu+8muWJque6uOaEn+eahOi9ruW7k++8iOS6keOAgeWxseOAgeagkeOAgeeql+iKse+8ie+8jOi+uee8mOaYr+W5s+a7keabsue6v+aIluiAheaVheaEj+eahOaKmOe6v+OAggotIOWFie+8muS7juS4gOS4quaWueWQkeadpe+8jOaVtOeJh+S4gOiHtO+8m+WPr+S7peacieS4gOS4quOAjOeBr+euseOAjeaViOaenO+8iOiDjOWQjumAj+WFie+8jOWxgui+uee8mOWPkeS6ru+8ieOAggoKIyMg6YWN6ImyCuS4i+mdoueahOiJsuWAvOaYr+ekuuS+i++8jOeci+aAnei3r++8jOS4jeimgeWOn+agt+eFp+aKhOOAggotIOeUsei/nOWIsOi/keeahOaYjuW6pua4kOWPmO+8mui/nOWxgua1heOAgei/keWxgua3se+8iOaIluWPjei/h+adpe+8ieOAggogIC0g5rW377yaYCNFOEYzRjFgIGAjQkZFM0RFYCBgIzdDQzZDMGAgYCMzRjlBOUFgIGAjMUY1RjZCYAogIC0g5pqu77yaYCNGRkUzQzJgIGAjRjdCNDhBYCBgI0UwN0E1RmAgYCM4QzRCNUFgIGAjM0QyQzREYAogIC0g56qX6Iqx77ya57qiIGAjQzgxMDJFYCDkuIDoibLliarnurjlnKjnsbPnmb0gYCNGNkVGRTJgIOS4igotIOinhOWIme+8muWQjOS4gOWcuuaZr+eUqOS4gOS4quiJsuebuOeahOaYjuW6pumYtuair++8jOWGjeWKoOS4gOS4quW8uuiwg+iJsuOAggotIOaOqOWvvO+8muWQjOS4gOWcuuaZr+eUqOS4gOS4quiJsuebuOeahOaYjuW6pumYtuair++8iOi/nOa1hei/kea3seaIluWPjei/h+adpe+8ie+8jOWGjeWKoOS4gOS4quW8uuiwg+iJsuOAguiJsuebuOS7juS4u+mimOadpe+8m+a1t+iTnee7v+WSjOaaruiJsuapmee0q+aYr+acgOW4uOingeeahOS4pOe7hO+8jOS4gOiJsue6oueql+iKseOAgem7keeZveWJquW9seOAgeWTgeeJjOiJsumYtuair+S5n+mDveaIkOeri+OAggoKIyMg5a2X5L2TCuWchua2puaIluiAheWJque6uOaEn+eahOWtl+S9k++8mkZyYXVuY2VzIFNvZnTjgIFSZWNvbGV0YSDpo47moLznmoTmm7/ku6PvvIhZb3VuZyBTZXJpZu+8ieOAgU51bml0b++8m+S4reaWh+eUqOaAnea6kOWui+S9kyBIZWF2eSDmiJbnq5nphbfluobnp5Hpu4TmsrnkvZPjgILlrZfmnKzouqvkuZ/lj6/ku6XmmK/kuIDlsYLliarnurjjgIIKCiMjIOi/kOWKqAotIOWxguS7juS4i+aWueaIluWQjuaWueOAjOeri+i1t+adpeOAje+8muW8ueewpyBgezIuMiwgMC44fWDvvIzplJnls7AgNjDigJMxMDAg5q+r56eS77yM55Sx6L+c5Yiw6L+R5oiW55Sx6L+R5Yiw6L+c44CCCi0g57+75byA77ya57uV5oqY57q/5peL6L2sIDkwwrDvvIxgaW5PdXRDdWJpY2DvvIwwLjbigJMwLjkg56eS44CCCi0g5Y+v5Lul55So5q2l6L+b77yIMTJmcHPvvInlgZrmiJDlrprmoLzliqjnlLvnmoTotKjmhJ/vvIzkvYbplZzlpLTlubPmu5HjgIIKCiMjIOeUu+mdouaAjuS5iOa0uwotIOe6uOWxguS5i+mXtOeahOaKleW9semaj+S4gOebj+eci+S4jeingeeahOeBr+e8k+aFouaRhuWKqO+8m+mSieedgOeahOe6uOeJh+iiq+mjjuWQueW+l+e7lemSieeCuei9u+aZg++8m+eri+S9k+S5pumHjOeahOS4gOmhtei9u+i9u+mipOOAggotIOWwj+WKqOS9nOWPr+S7pSAxMmZwcyDmraXov5vvvIzlg4/lrprmoLzliqjnlLvvvJvplZzlpLTkv53mjIHlubPmu5HjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDop4blt67mqKrnp7sgfCDmt7HluqbjgIHml4XnqIsgfCDlnLrmma/np7vliqggfAp8IOaOqOi/keepv+i/h+S4gOWxgu+8iOi/m+WFpeS4i+S4gOWxgueahOS4lueVjO+8iSB8IOa3seWFpSB8IOi9rOWcuiB8Cnwg5L+v6KeG57+75byA55qE5LmmIHwg5byA5aeL5LiA5Liq5pWF5LqLIHwg5byA5Zy6IHwKCiMjIOWjsOmfs+iwg+iJsuadvwrnurjlvKDmi5/pn7PvvIjnv7vpobXjgIHmipjlj6DvvJrluKbpgJrlmarlo7AgYHN3aXBlYOOAgei9uyBgY2xpY2tg77yJ44CB5pyo55C0IC8g6ams5p6X5be0IC8g5Y2h5p6X5be077yIYG1hbGxldGDvvInjgIHmuKnmmpbnmoQga2V5c+OAgei9u+aflOeahOmTuuW6leOAguesrCAyIOaho+eahOmSoueQtOmHh+agt+WQiOmAguOAggoK5b6L5Yqo5LiO5ZKM5aOw77yI5Li+5L6L77yM5LiN5q2i6L+Z5Lqb77yJ77yaMy8044CBNi84IOaIlui9uyBzd2luZ++8m+Wkp+iwg+OAgU1peG9seWRpYW7jgIHliqDlha3luqblkozlvKbvvJvpn7PnlLvlkIzlvaLvvIjnv7vpobXjgIHmipjlj6DlkITlr7nlupTkuIDkuKrkuZDpn7PvvInjgILlsI/miL/pl7TvvIzkuI3kvqfpk77jgIIKCiMjIOWOn+eUn+aJi+azlQotIOeri+S9k+S5pue/u+W8gO+8jOWcuuaZr+S7juS5pumhtemHjOeri+i1t+adpe+8mumAguWQiOW8gOWcuu+8iOe7j+WFuO+8ieOAggotIOaLieWKqOS4gOaguee6uOadoe+8jOeUu+mdoumHjOeahOacuuWFs+WKqOi1t+adpe+8mumAguWQiOOAjOS4gOS4quWKqOS9nOW4puadpeWPmOWMluOAjeOAggotIOmVnOWktOepv+i/h+WJjeWxgueahOS4gOS4qua0nu+8jOi/m+WFpeWQjumdoueahOS4lueVjO+8mumAguWQiOi9rOWcuuOAggotIOWxguWxguaUtuaLouWQiOaIkOS4gOS4qiBsb2dvIOW9oueKtu+8mumAguWQiOe7k+WwvuOAggoKIyMg5Y+Y5YyW56m66Ze0Ci0g57uT5p6E77ya5LiA5pys56uL5L2T5Lmm55qE5Zub6aG177yb5LiA5Liq56qX5Y+j6YeM5Zub5a2j5pu05pu/77yb5LuO5Zyw6Z2i5Yiw5aSp56m65LiA5bGC5bGC5Y2H6LW344CCCi0g5byA5Zy677ya5LiA5byg5bmz6ZO655qE57q45oWi5oWi56uL6LW35p2l77yb5LiA5oqK5Ymq5YiA55qE5Ymq5b2x5Ymq5byA57q444CCCi0g57uT5bC+77ya5Lmm5ZCI5LiK77yM5bCB6Z2i5pivIGxvZ2/vvJvnga/nrrHnmoTnga/nhoTnga3jgIIKCiMjIOWdkQotIOaKleW9seaWueWQkeS4jeS4gOiHtO+8jOWxguasoeWwseS5seS6huOAggotIOWxguWkquWkmuOAgeminOiJsuWkquWkmu+8jOeUu+mdouiKse+8mjTigJM4IOWxguOAgeS4gOS4quiJsuebuOeahOaYjuW6pumYtuair+OAggotIOWJque6uOW9oueKtuWkque7hueiju+8jOaJi+acuuS4iueci+S4jea4heOAggo=
+# 纸艺分层（paper-cut）
+
+> 一层层剪好的彩色卡纸，前后错落，投下柔和的影子；画面像一个纸雕灯箱，或者一本打开的立体书。
+> 参照（只学语法）：纸雕插画、剪纸、立体书机关、纸雕灯箱。不照搬具体作品。
+
+## 本质 / 不是什么
+- 本质：**分层**（4–8 层平面，每层是一张剪好的纸）、**层间投影**（柔和、方向一致）、**纸的质感**（细微纹理、切边）；运动是层的升起、折叠、翻开、滑动。
+- 不是：扁平矢量插画；也不是写实 3D。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 层叠纸雕 | 4–8 层纸前后错落，层间有投影 | 场景、深度 |
+| 立体书机关 | 翻开书页，场景立起来 | 开场、故事 |
+| 窗花剪纸 | 一色剪纸的镂空图案 | 节日、传统 |
+| 灯箱 | 纸层后面有光透过来 | 夜晚、温馨 |
+| 折纸 | 纸沿折线折成形状 | 变化、精巧 |
+| 纸条卷曲 | 衍纸一样卷起的纸条 | 装饰、细节 |
+| 拉条机关 | 一拉纸条，画面里的东西动起来 | 互动、揭示 |
+| 纸纹和切边 | 纸的纤维纹理、切口的白边 | 质感 |
+| 镂空透景 | 前层的洞里看到后层的世界 | 穿越、转场 |
+| 纸片飘落 | 剪下来的纸片像落叶一样飘 | 季节、结尾 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+
+## 这个风格最俗的版本
+- 画面：蓝绿色的海浪纸层或暮色山峦一层层叠起，立体书翻开，结尾书合上。
+- 声音：钢片琴、拨弦、纸张翻动声。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：宣传短片、节日问候、讲解短片、Logo 演绎。
+- 内容：生活方式、节日、教育、旅游、环保、温暖的品牌。
+
+## 技术路线
+- 2.5D：Canvas 2D，每层一个 Path2D，按层画投影（模糊 + 偏移的深色副本）再画纸面；视差平移让层有深度。
+- 立体书 / 折叠：Three.js，每层是一个平面网格，绕折线旋转；纸面用带纹理的 `MeshStandardMaterial`，柔和的方向光 + 阴影。
+- 纸纹是一张代码生成的噪声纹理，叠在每层纸面上（很淡）。
+
+## 材质与渲染
+- 层间距决定投影的大小和模糊度：远的层投影大而虚，近的层小而实。
+- 切边：边缘可以有一圈很细的亮边（纸的厚度）。
+- 形状：剪纸感的轮廓（云、山、树、窗花），边缘是平滑曲线或者故意的折线。
+- 光：从一个方向来，整片一致；可以有一个「灯箱」效果（背后透光，层边缘发亮）。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 由远到近的明度渐变：远层浅、近层深（或反过来）。
+  - 海：`#E8F3F1` `#BFE3DE` `#7CC6C0` `#3F9A9A` `#1F5F6B`
+  - 暮：`#FFE3C2` `#F7B48A` `#E07A5F` `#8C4B5A` `#3D2C4D`
+  - 窗花：红 `#C8102E` 一色剪纸在米白 `#F6EFE2` 上
+- 规则：同一场景用一个色相的明度阶梯，再加一个强调色。
+- 推导：同一场景用一个色相的明度阶梯（远浅近深或反过来），再加一个强调色。色相从主题来；海蓝绿和暮色橙紫是最常见的两组，一色红窗花、黑白剪影、品牌色阶梯也都成立。
+
+## 字体
+圆润或者剪纸感的字体：Fraunces Soft、Recoleta 风格的替代（Young Serif）、Nunito；中文用思源宋体 Heavy 或站酷庆科黄油体。字本身也可以是一层剪纸。
+
+## 运动
+- 层从下方或后方「立起来」：弹簧 `{2.2, 0.8}`，错峰 60–100 毫秒，由远到近或由近到远。
+- 翻开：绕折线旋转 90°，`inOutCubic`，0.6–0.9 秒。
+- 可以用步进（12fps）做成定格动画的质感，但镜头平滑。
+
+## 画面怎么活
+- 纸层之间的投影随一盏看不见的灯缓慢摆动；钉着的纸片被风吹得绕钉点轻晃；立体书里的一页轻轻颤。
+- 小动作可以 12fps 步进，像定格动画；镜头保持平滑。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 视差横移 | 深度、旅程 | 场景移动 |
+| 推近穿过一层（进入下一层的世界） | 深入 | 转场 |
+| 俯视翻开的书 | 开始一个故事 | 开场 |
+
+## 声音调色板
+纸张拟音（翻页、折叠：带通噪声 `swipe`、轻 `click`）、木琴 / 马林巴 / 卡林巴（`mallet`）、温暖的 keys、轻柔的铺底。第 2 档的钢琴采样合适。
+
+律动与和声（举例，不止这些）：3/4、6/8 或轻 swing；大调、Mixolydian、加六度和弦；音画同形（翻页、折叠各对应一个乐音）。小房间，不侧链。
+
+## 原生手法
+- 立体书翻开，场景从书页里立起来：适合开场（经典）。
+- 拉动一根纸条，画面里的机关动起来：适合「一个动作带来变化」。
+- 镜头穿过前层的一个洞，进入后面的世界：适合转场。
+- 层层收拢合成一个 logo 形状：适合结尾。
+
+## 变化空间
+- 结构：一本立体书的四页；一个窗口里四季更替；从地面到天空一层层升起。
+- 开场：一张平铺的纸慢慢立起来；一把剪刀的剪影剪开纸。
+- 结尾：书合上，封面是 logo；灯箱的灯熄灭。
+
+## 坑
+- 投影方向不一致，层次就乱了。
+- 层太多、颜色太多，画面花：4–8 层、一个色相的明度阶梯。
+- 剪纸形状太细碎，手机上看不清。

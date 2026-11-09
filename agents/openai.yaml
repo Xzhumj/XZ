@@ -1,1 +1,6 @@
-aW50ZXJmYWNlOg0KICBkaXNwbGF5X25hbWU6ICJYWi12aWRlbyINCiAgc2hvcnRfZGVzY3JpcHRpb246ICLlm5vmqKHmnb/lupPpgInlnovjgIHpooTop4jnoa7orqTjgIHmuLLmn5PkuI7pqozmlLYiDQogIGRlZmF1bHRfcHJvbXB0OiAi5L2/55SoICR4ei12aWRlbyDmiorkuK3mlofmlofmoYjjgIFTUlTjgIHpn7PpopHmiJblj6Pmkq3op4bpopHliLbkvZzmiJDkuK3mlofmiJDniYfvvIzlubbng6flvZXkuK3mloflrZfluZXjgIIiDQpwb2xpY3k6DQogIGFsbG93X2ltcGxpY2l0X2ludm9jYXRpb246IHRydWUNCg==
+interface:
+  display_name: "XZ-video"
+  short_description: "四模板库选型、预览确认、渲染与验收"
+  default_prompt: "使用 $xz-video 把中文文案、SRT、音频或口播视频制作成中文成片，并烧录中文字幕。"
+policy:
+  allow_implicit_invocation: true

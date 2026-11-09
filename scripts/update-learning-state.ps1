@@ -1,1 +1,110 @@
-W0NtZGxldEJpbmRpbmcoKV0KcGFyYW0oCiAgICBbc3RyaW5nXSRMaWJyYXJ5Um9vdCwKICAgIFtzd2l0Y2hdJE1hcmtQcm9wb3NhbEdlbmVyYXRlZAopCgokRXJyb3JBY3Rpb25QcmVmZXJlbmNlID0gIlN0b3AiCiRzY3JpcHRSb290ID0gU3BsaXQtUGF0aCAtUGFyZW50ICRQU1NjcmlwdFJvb3QKCmlmICgtbm90ICRMaWJyYXJ5Um9vdCkgewogICAgaWYgKCRlbnY6TU9USU9OX1RFTVBMQVRFX0xJQlJBUllfUk9PVCkgewogICAgICAgICRMaWJyYXJ5Um9vdCA9ICRlbnY6TU9USU9OX1RFTVBMQVRFX0xJQlJBUllfUk9PVAogICAgfQogICAgZWxzZWlmIChUZXN0LVBhdGggLUxpdGVyYWxQYXRoIChKb2luLVBhdGggKEdldC1Mb2NhdGlvbikgInRlbXBsYXRlLW51bWJlci1pbmRleC5jc3YiKSkgewogICAgICAgICRMaWJyYXJ5Um9vdCA9IChHZXQtTG9jYXRpb24pLlBhdGgKICAgIH0KICAgIGVsc2UgewogICAgICAgICRjYW5kaWRhdGUgPSBTcGxpdC1QYXRoIC1QYXJlbnQgKFNwbGl0LVBhdGggLVBhcmVudCAkc2NyaXB0Um9vdCkKICAgICAgICBpZiAoVGVzdC1QYXRoIC1MaXRlcmFsUGF0aCAoSm9pbi1QYXRoICRjYW5kaWRhdGUgInRlbXBsYXRlLW51bWJlci1pbmRleC5jc3YiKSkgewogICAgICAgICAgICAkTGlicmFyeVJvb3QgPSAkY2FuZGlkYXRlCiAgICAgICAgfQogICAgfQp9CgppZiAoLW5vdCAkTGlicmFyeVJvb3QpIHsKICAgIHRocm93ICJUZW1wbGF0ZSBsaWJyYXJ5IHBhdGggbm90IGZvdW5kLiBTZXQgTU9USU9OX1RFTVBMQVRFX0xJQlJBUllfUk9PVCBvciBwYXNzIC1MaWJyYXJ5Um9vdC4iCn0KCiRyb290ID0gW1N5c3RlbS5JTy5QYXRoXTo6R2V0RnVsbFBhdGgoJExpYnJhcnlSb290KQppZiAoLW5vdCAoVGVzdC1QYXRoIC1MaXRlcmFsUGF0aCAoSm9pbi1QYXRoICRyb290ICJ0ZW1wbGF0ZS1udW1iZXItaW5kZXguY3N2IikpKSB7CiAgICB0aHJvdyAiSW52YWxpZCB0ZW1wbGF0ZSBsaWJyYXJ5OiAkcm9vdCIKfQoKJG91dHB1dFJvb3QgPSBKb2luLVBhdGggJHJvb3QgIui+k+WHuiIKJHN0YXRlUGF0aCA9IEpvaW4tUGF0aCAkcm9vdCAi5a2m5Lmg54q25oCBLmpzb24iCiR0aHJlc2hvbGQgPSA1Cgokc3RhdGUgPSAkbnVsbAppZiAoVGVzdC1QYXRoIC1MaXRlcmFsUGF0aCAkc3RhdGVQYXRoKSB7CiAgICB0cnkgewogICAgICAgICRzdGF0ZSA9IEdldC1Db250ZW50IC1SYXcgLUVuY29kaW5nIFVURjggLUxpdGVyYWxQYXRoICRzdGF0ZVBhdGggfCBDb252ZXJ0RnJvbS1Kc29uCiAgICB9CiAgICBjYXRjaCB7CiAgICAgICAgJHN0YXRlID0gJG51bGwKICAgIH0KfQoKJGxhc3RQcm9wb3NhbFJldmlld0NvdW50ID0gaWYgKCRzdGF0ZSAtYW5kICRudWxsIC1uZSAkc3RhdGUubGFzdFByb3Bvc2FsUmV2aWV3Q291bnQpIHsKICAgIFtpbnRdJHN0YXRlLmxhc3RQcm9wb3NhbFJldmlld0NvdW50Cn0KZWxzZSB7CiAgICAwCn0KCiRyZXZpZXdzID0gQCgKICAgIGlmIChUZXN0LVBhdGggLUxpdGVyYWxQYXRoICRvdXRwdXRSb290KSB7CiAgICAgICAgR2V0LUNoaWxkSXRlbSAtTGl0ZXJhbFBhdGggJG91dHB1dFJvb3QgLVJlY3Vyc2UgLUZpbGUgLUZpbHRlciAi5aSN55uYLm1kIiAtRXJyb3JBY3Rpb24gU2lsZW50bHlDb250aW51ZSB8CiAgICAgICAgICAgIFNvcnQtT2JqZWN0IExhc3RXcml0ZVRpbWUsIEZ1bGxOYW1lCiAgICB9CikKCiRyZXZpZXdDb3VudCA9ICRyZXZpZXdzLkNvdW50CiRsYXN0UmV2aWV3ID0gaWYgKCRyZXZpZXdDb3VudCAtZ3QgMCkgeyAkcmV2aWV3c1stMV0gfSBlbHNlIHsgJG51bGwgfQokbmV3UmV2aWV3cyA9IFtNYXRoXTo6TWF4KDAsICRyZXZpZXdDb3VudCAtICRsYXN0UHJvcG9zYWxSZXZpZXdDb3VudCkKJG5lZWRzVXBncmFkZVByb3Bvc2FsID0gJGZhbHNlCgppZiAoJE1hcmtQcm9wb3NhbEdlbmVyYXRlZCkgewogICAgJGxhc3RQcm9wb3NhbFJldmlld0NvdW50ID0gJHJldmlld0NvdW50CiAgICAkbmV3UmV2aWV3cyA9IDAKfQplbHNlIHsKICAgICRuZWVkc1VwZ3JhZGVQcm9wb3NhbCA9ICgkcmV2aWV3Q291bnQgLWdlICR0aHJlc2hvbGQgLWFuZCAkbmV3UmV2aWV3cyAtZ2UgJHRocmVzaG9sZCkKfQoKJG5leHRQcm9wb3NhbEF0ID0gJGxhc3RQcm9wb3NhbFJldmlld0NvdW50ICsgJHRocmVzaG9sZAokbm93ID0gKEdldC1EYXRlKS5Ub1N0cmluZygicyIpCgokdXBkYXRlZCA9IFtwc2N1c3RvbW9iamVjdF1AewogICAgc2NoZW1hVmVyc2lvbiA9IDEKICAgIHJldmlld0NvdW50ID0gJHJldmlld0NvdW50CiAgICBuZXdSZXZpZXdzU2luY2VQcm9wb3NhbCA9ICRuZXdSZXZpZXdzCiAgICBsYXN0UHJvcG9zYWxSZXZpZXdDb3VudCA9ICRsYXN0UHJvcG9zYWxSZXZpZXdDb3VudAogICAgbmV4dFByb3Bvc2FsQXRSZXZpZXdDb3VudCA9ICRuZXh0UHJvcG9zYWxBdAogICAgbmVlZHNVcGdyYWRlUHJvcG9zYWwgPSAkbmVlZHNVcGdyYWRlUHJvcG9zYWwKICAgIGxhc3RSZXZpZXcgPSBpZiAoJGxhc3RSZXZpZXcpIHsKICAgICAgICAkbGFzdFJldmlldy5GdWxsTmFtZS5TdWJzdHJpbmcoJHJvb3QuTGVuZ3RoKS5UcmltU3RhcnQoJ1wnKQogICAgfQogICAgZWxzZSB7CiAgICAgICAgJG51bGwKICAgIH0KICAgIGxhc3RSZXZpZXdBdCA9IGlmICgkbGFzdFJldmlldykgewogICAgICAgICRsYXN0UmV2aWV3Lkxhc3RXcml0ZVRpbWUuVG9TdHJpbmcoInMiKQogICAgfQogICAgZWxzZSB7CiAgICAgICAgJG51bGwKICAgIH0KICAgIGxhc3RQcm9wb3NhbEdlbmVyYXRlZEF0ID0gaWYgKCRNYXJrUHJvcG9zYWxHZW5lcmF0ZWQpIHsKICAgICAgICAkbm93CiAgICB9CiAgICBlbHNlaWYgKCRzdGF0ZSAtYW5kICRzdGF0ZS5sYXN0UHJvcG9zYWxHZW5lcmF0ZWRBdCkgewogICAgICAgICRzdGF0ZS5sYXN0UHJvcG9zYWxHZW5lcmF0ZWRBdAogICAgfQogICAgZWxzZSB7CiAgICAgICAgJG51bGwKICAgIH0KICAgIHVwZGF0ZWRBdCA9ICRub3cKfQoKJHVwZGF0ZWQgfCBDb252ZXJ0VG8tSnNvbiAtRGVwdGggNCB8IFNldC1Db250ZW50IC1FbmNvZGluZyB1dGY4IC1MaXRlcmFsUGF0aCAkc3RhdGVQYXRoCiR1cGRhdGVkIHwgQ29udmVydFRvLUpzb24gLURlcHRoIDQK
+[CmdletBinding()]
+param(
+    [string]$LibraryRoot,
+    [switch]$MarkProposalGenerated
+)
+
+$ErrorActionPreference = "Stop"
+$scriptRoot = Split-Path -Parent $PSScriptRoot
+
+if (-not $LibraryRoot) {
+    if ($env:MOTION_TEMPLATE_LIBRARY_ROOT) {
+        $LibraryRoot = $env:MOTION_TEMPLATE_LIBRARY_ROOT
+    }
+    elseif (Test-Path -LiteralPath (Join-Path (Get-Location) "template-number-index.csv")) {
+        $LibraryRoot = (Get-Location).Path
+    }
+    else {
+        $candidate = Split-Path -Parent (Split-Path -Parent $scriptRoot)
+        if (Test-Path -LiteralPath (Join-Path $candidate "template-number-index.csv")) {
+            $LibraryRoot = $candidate
+        }
+    }
+}
+
+if (-not $LibraryRoot) {
+    throw "Template library path not found. Set MOTION_TEMPLATE_LIBRARY_ROOT or pass -LibraryRoot."
+}
+
+$root = [System.IO.Path]::GetFullPath($LibraryRoot)
+if (-not (Test-Path -LiteralPath (Join-Path $root "template-number-index.csv"))) {
+    throw "Invalid template library: $root"
+}
+
+$outputRoot = Join-Path $root "输出"
+$statePath = Join-Path $root "学习状态.json"
+$threshold = 5
+
+$state = $null
+if (Test-Path -LiteralPath $statePath) {
+    try {
+        $state = Get-Content -Raw -Encoding UTF8 -LiteralPath $statePath | ConvertFrom-Json
+    }
+    catch {
+        $state = $null
+    }
+}
+
+$lastProposalReviewCount = if ($state -and $null -ne $state.lastProposalReviewCount) {
+    [int]$state.lastProposalReviewCount
+}
+else {
+    0
+}
+
+$reviews = @(
+    if (Test-Path -LiteralPath $outputRoot) {
+        Get-ChildItem -LiteralPath $outputRoot -Recurse -File -Filter "复盘.md" -ErrorAction SilentlyContinue |
+            Sort-Object LastWriteTime, FullName
+    }
+)
+
+$reviewCount = $reviews.Count
+$lastReview = if ($reviewCount -gt 0) { $reviews[-1] } else { $null }
+$newReviews = [Math]::Max(0, $reviewCount - $lastProposalReviewCount)
+$needsUpgradeProposal = $false
+
+if ($MarkProposalGenerated) {
+    $lastProposalReviewCount = $reviewCount
+    $newReviews = 0
+}
+else {
+    $needsUpgradeProposal = ($reviewCount -ge $threshold -and $newReviews -ge $threshold)
+}
+
+$nextProposalAt = $lastProposalReviewCount + $threshold
+$now = (Get-Date).ToString("s")
+
+$updated = [pscustomobject]@{
+    schemaVersion = 1
+    reviewCount = $reviewCount
+    newReviewsSinceProposal = $newReviews
+    lastProposalReviewCount = $lastProposalReviewCount
+    nextProposalAtReviewCount = $nextProposalAt
+    needsUpgradeProposal = $needsUpgradeProposal
+    lastReview = if ($lastReview) {
+        $lastReview.FullName.Substring($root.Length).TrimStart('\')
+    }
+    else {
+        $null
+    }
+    lastReviewAt = if ($lastReview) {
+        $lastReview.LastWriteTime.ToString("s")
+    }
+    else {
+        $null
+    }
+    lastProposalGeneratedAt = if ($MarkProposalGenerated) {
+        $now
+    }
+    elseif ($state -and $state.lastProposalGeneratedAt) {
+        $state.lastProposalGeneratedAt
+    }
+    else {
+        $null
+    }
+    updatedAt = $now
+}
+
+$updated | ConvertTo-Json -Depth 4 | Set-Content -Encoding utf8 -LiteralPath $statePath
+$updated | ConvertTo-Json -Depth 4

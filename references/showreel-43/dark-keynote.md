@@ -1,1 +1,91 @@
-IyDmmpfoibLlj5HluIPkvJrvvIhkYXJrLWtleW5vdGXvvIkKCj4g5rex6Imy6Iie5Y+w44CB5LiA5p2f6IGa5YWJ44CB5beo5aSn55qE5pWw5a2X5ZKM5LiA5Y+l6K+d44CB5Lqn5ZOB5YOP6Iux6ZuE5LiA5qC355m75Zy644CC5rex6Imy5Zyo6L+Z6YeM5piv6K6+6K6h5Ye65p2l55qE77yM5LiN5pivIEFJIOeahOm7mOiupOOAggo+IOWPgueFp++8iOWPquWtpuivreazle+8ie+8muenkeaKgOWFrOWPuOWPkeW4g+S8mueahOS4u+inhuinieWSjOinhumikeOAgUFwcGxlIOmjjuagvOeahOS6p+WTgeWPmeS6i+eJh+OAguS4jeeFp+aQrOS7u+S9leWTgeeJjOeahOiuvuWkh+WkluW9ouOAgeWtl+S9k+WSjOmFjeiJsuaooeadv+OAggoKIyMg5pys6LSoIC8g5LiN5piv5LuA5LmICi0g5pys6LSo77yaKirmt7HoibLkvYbmnInlsYLmrKEqKu+8iOi/kem7keeahOW6lSArIOS4gOS4que8k+aFouenu+WKqOeahOaflOWFiea6kO+8jOS4jeaYr+atu+m7ke+8ie+8m+S4gOWxj+WPquivtOS4gOS7tuS6i++8m+Wkp+aVsOWtl+OAgeWkp+efreWPpe+8m+S6p+WTgeaIlueVjOmdouWcqOWFiemHjOaFouaFoui9rOWHuuadpe+8m+iKguWlj+aYr+OAjOmdmSDihpIg5o+t56S6IOKGkiDpnZnjgI3jgIIKLSDkuI3mmK/vvJrmt7HoibIgKyDlsYXkuK3lpKflrZcgKyDntKvok53muJDlj5ggKyDliLDlpITlj5HlhYnnmoQgQUkg6buY6K6k6aOO5qC844CC5Yy65Yir5Zyo5LqO77ya5YWJ5pyJ5pa55ZCR44CB5pyJ5p2l5rqQ77yb5Y+q5pyJ5LiA5Liq5by66LCD6Imy77yb5a2X5pyJ6K6+6K6h5aW955qE5o6S54mI5L2N572u77yb5o+t56S65piv5pyJ6IqC5aWP55qE44CCCgojIyDovqjor4bkv6Hlj7fvvJrmr4/mlK/niYflrZDmjJEgMuKAkzMg5LiqCnwg5L+h5Y+3IHwg6ZW/5LuA5LmI5qC3IHwg6YCC5ZCI55qE5Li76aKYIHwKfC0tLXwtLS18LS0tfAp8IOenu+WKqOeahOaflOWFiea6kCB8IOi/kem7keeahOW6leS4iuS4gOWboue8k+aFouenu+WKqOeahOWFie+8jOS4jeaYr+atu+m7kSB8IOmrmOerr+OAgeaDhee7qiB8Cnwg5beo5aSn55qE5pWw5a2XIHwg5LiA5Liq5Y+C5pWw5Y2g5ruh55S76Z2i77yM5YaN57yp5Zue5LiA5Y+l6K+d6YeMIHwg5oCn6IO944CB5oiQ57upIHwKfCDkuIDlsY/kuIDlj6Xor50gfCDlpKflj7fnn63lj6XlsYXkuK3miJblt6blr7npvZDvvIzliY3lkI7pg73mmK/mmpflnLogfCDlj6Plj7fjgIHmib/or7ogfAp8IOWFieaJq+WHuui9ruW7kyB8IOS4gOmBk+WFieayv+S6p+WTgei+uee8mOaJq+i/h++8jOi9ruW7k+WFiOS6juWunuS9k+WHuueOsCB8IOS6p+WTgemmluasoeS6ruebuCB8Cnwg5Lqn5ZOB6Iux6ZuE6ZWc5aS0IHwg5Lqn5ZOB5oiW55WM6Z2i5Zyo5YWJ6YeM5oWi5oWi6L2s5Ye65p2lIHwg56Gs5Lu244CBQXBwIHwKfCDnjrvnkoPljaHniYcgfCDljYrpgI/mmI7nmoTno6jnoILljaHniYfoo4XnnYDmiKrlm77miJblj4LmlbAgfCDlip/og73ku4vnu40gfAp8IOWAkuaVsOWSjOaPreaZkyB8IDPjgIEy44CBMSDkuYvlkI7nlLvpnaLkuq7otbcgfCDlj5HluIPjgIHkuIrnur8gfAp8IOWPguaVsOihqCB8IOS4gOWIl+Wvuem9kOeahOinhOagvOaVsOWtl+mAkOihjOS6rui1tyB8IOWvueavlOOAgeinhOagvCB8Cnwg5Y+N5bCE5Zyw6Z2iIHwg5Lqn5ZOB5LiL5pa55LiA54mH5b6u5byx55qE5YCS5b2xIHwg56Gs5Lu244CB6auY56uvIHwKfCDlrZfku47mqKHns4rph4zmta7lh7ogfCDmoIfpopjku47omZrnhKbliLDmuIXmmbDvvIzkvLTpmo/lvojovbvnmoTmlL7lpKcgfCDmoIfpopjjgIHnq6DoioIgfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya6buR5bqVICsg5LiA6YGT6JOd6Imy5YWJ5omr6L+HICsg5bGF5Lit55qE5beo5aSn5pWw5a2XICsg5Lqn5ZOB5oWi5oWi5peL6L2sICsg57uT5bC+IGxvZ28g5Zyo5YWJ6YeM5a6a5qC844CCCi0g5aOw6Z+z77ya5L2O6aKRIGJvb23jgIHkuIrljYfnmoQgcmlzZXLjgIHpkqLnkLTljZXpn7PliqDlpKfmt7flk43nmoTpk7rlupXjgIIKLSBicmllZiDnmoQgc3R5bGUg5LiA5qCP5YaZ5piO6L+Z5pSv54mH5a2Q57+75o6J5LqG5ZOq5Yeg5p2h77yM5oiW6ICF5Li65LuA5LmI5Yi75oSP5L+d55WZ77yI5q+U5aaC55So5oi36KaB55qE5bCx5piv57uP5YW454mI77yJ44CC5L+d55WZ5pe277yM5oqK5Yqb5rCU6Iqx5Zyo5p6E5Zu+44CB6ZWc5aS044CB6IqC5aWP5oiW5LiA5Liq5oSP5aSW55qE6K6w5b+G54K55LiK44CCCgojIyDpgILphY0KLSDnlKjpgJTvvJrkuqflk4HlrqPkvKDnn63niYfjgIHmlbDmja7niIbngrnjgIFMb2dvIOiQveeJiOOAgeWPkeW4g+WAkuiuoeaXtuOAggotIOWGheWuue+8muehrOS7tuOAgUFJIOS6p+WTgeOAgeW5s+WPsOOAgemHjeWkp+abtOaWsOOAggoKIyMg5oqA5pyv6Lev57q/CkRPTSAvIENhbnZhcyDmjpLniYggKyDkuIDlsYLlhYnvvJrlvoTlkJHmuJDlj5jlhYnmlpHpmo/ml7bpl7TnvJPmhaLnp7vliqjvvJvkuqflk4Hlm77nlKjnlKjmiLfmj5DkvpvnmoTnnJ/lrp7lm77niYfmiJbmiKrlm77vvIzkuZ/lj6/ku6XnlKggVGhyZWUuanMg5YGaIDNEIOWRiOeOsO+8iOingSBgZ2xhc3MtbWF0ZXJpYWwubWRg77yJ44CCYC0tZHByIDJgIOS/neivgee7huWtl+W5suWHgO+8m2AtLWdyYWluIDLigJMzYCDljrvmjonmt7HoibLog4zmma/nmoToibLluKbjgIIKCiMjIOadkOi0qOS4jua4suafkwotIOiDjOaZr++8mmAjMDUwNTA2YOKAk2AjMEIwQjBFYO+8jOWPoOS4gOS4quWkp+iAjOi9r+eahOWFieaWke+8iGByYWRpYWwtZ3JhZGllbnRg77yM5Lqu5bqm5b6I5L2O77yJ77yM6ZqP6ZWc5aS057yT5oWi5ryC56e744CCCi0g5paH5a2X55qE6auY5YWJ77ya5LiA6YGT5pac5ZCR55qE5YWJ5omr6L+H5aSn5a2X77yIbWFzayArIOa4kOWPmO+8jDAuNuKAkzEg56eS77yJ44CCCi0g6K6+5aSHIC8g5oiq5Zu+77ya6L275b6u5Y+N5YWJ55qE6L655qGG77yM5LiL6Z2i5LiA6YGT5b6I5reh55qE5YCS5b2x77yb5Y+q5Zyo5YWz6ZSu5pe25Yi757uZ5LiA54K56L6557yY5YWJ44CCCi0g5pWw5a2X77ya6LaF5aSn5a2X5Y+377yM562J5a695pWw5a2X77yM5Y+Y5YyW5pe255So5rua5Yqo5oiW6ICF6YCQ5L2N57+76L2s44CCCgojIyDphY3oibIK5LiL6Z2i55qE6Imy5YC85piv56S65L6L77yM55yL5oCd6Lev77yM5LiN6KaB5Y6f5qC354Wn5oqE44CCCi0g6L+R6buRIGAjMDcwNzBBYCAvIOeZvSBgI0Y1RjVGN2AgLyDngbAgYCM4Njg2OEJgIC8g5by66LCD77yI5LiA5Liq77ya5Yaw6JOdIGAjNUFDOEZBYCDmiJblk4HniYzoibLvvIkKLSDov5Hpu5EgYCMwQTBBMEFgIC8g5pqW55m9IGAjRjJFREU0YCAvIOmHkSBgI0M5QTk2RWAKLSDop4TliJnvvJrkuIDlsY/mnIDlpJrkuIDkuKrlvLrosIPoibLvvJvmuJDlj5jlj6rog73mmK/jgIzlhYnjgI3vvIzkuI3og73mmK/jgIzoo4XppbDoibLlnZfjgI3jgIIKLSDmjqjlr7zvvJrov5Hpu5HnmoTlupXvvIjlgY/lhrfjgIHlgY/mmpbjgIHlgY/lk4HniYzoibLpg73ooYzvvIkrIOeZveaIluaalueZveeahOWtlyArIOS4gOS4quW8uuiwg+iJsuOAguW8uuiwg+iJsuS7juWTgeeJjOaIluS6p+WTgeadkOi0qOadpe+8iOmHkeWxnuiJsuOAgeS6p+WTgemFjeiJsu+8ie+8jOWGsOiTneaYr+acgOW4uOingeeahOmCo+S4quOAggoKIyMg5a2X5L2TCui2hee7huWIsOS4reetieWtl+mHjeeahOaXoOihrOe6v+S9k++8jOWkp+Wtl+WPt+OAgeWuveWtl+i3neeahOWwj+agh+mimO+8mkludGVyIFRpZ2h077yIMjAw4oCTNjAw77yJ44CBTWFucm9wZeOAgVNwYWNlIEdyb3Rlc2vvvJvmlbDlrZfnlKggdGFidWxhcuOAguS4reaWh+eUqOaAnea6kOm7keS9kyBMaWdodCAvIE1lZGl1beOAggoKIyMg6L+Q5YqoCi0g5oWi6ICM57K+56Gu77ya5aSn5qCH6aKY55SoIGB7MS42LCAwLjk1fWDvvIzmj63npLrnlKggYGdsaWRlYO+8iDAuOOKAkzEuMiDnp5LvvInvvJvnprvlnLrmr5Tov5vlnLrlv6vjgIIKLSDmj63npLrnmoTlpZfot6/vvJrlhYjmmpflnLog4oaSIOWFieaJq+WHuui9ruW7kyDihpIg5Li75L2T5a6M5YWo5Lqu6LW3IOKGkiDmloflrZfot5/kuIrjgIIKLSDmlbDlrZfmu5rliqjnlKggYG91dEV4cG9g77yM6JC95a6a5pe25LiA5qyh5b6I6L2755qE57yp5pS+6ISJ5Yay44CCCgojIyDnlLvpnaLmgI7kuYjmtLsKLSDkuLvkvZPooajpnaLkuIDpgZPpq5jlhYnnvJPmhaLmiavov4fvvIjkuIDmrKEgMuKAkzQg56eS77yJ77yb6IOM5pmv55qE5YWJ5paR5p6B5oWi5Zyw5ryC56e777yb6ZWc5aS05oyB57ut5b6I5oWi5Zyw5o6o6L+b77yM6L+Z5pys6Lqr5bCx5piv5rS744CCCi0g5paH5a2X6JC95a6a5ZCO5LiN5Yqo77yM55WZ57uZ6KeC5LyX6K+744CCCgojIyDplZzlpLTor63ms5UKfCDplZzlpLTov5DliqggfCDooajovr7ku4DkuYggfCDpgILlkIjlk6rnsbvlhoXlrrkgfAp8LS0tfC0tLXwtLS18Cnwg5pqX5Zy65Lit57yT5oWi5o6o6L+RIHwg5pyf5b6FIHwg5byA5Zy644CB5o+t56S65YmNIHwKfCDnjq/nu5XkuLvkvZMgfCDlrozmlbTjgIHnsr7oh7QgfCDkuqflk4Hkuq7nm7ggfAp8IOato+mdoiArIOi9u+aOqCB8IOWuo+WRiiB8IOS4gOS4quaVsOWtl+OAgeS4gOS4quWQjeWtlyB8Cnwg5ouJ6L+c6L+b5YWl5aSn6Z2i56ev6LSf56m66Ze0IHwg55WZ5Ye657uZ5a2X55qE5L2N572uIHwgc2xvZ2Fu44CB57uT5bC+IHwKCiMjIOWjsOmfs+iwg+iJsuadvwpzdWIgZHJvbmXjgIHmn5TlkoznmoQga2lja+OAgUZNIOmSn+WjsCAvIOeOu+eSg+mfs+iJsuOAgeWuvemTuuW6leOAgeeyvuehrueahCB0aWNr77yb5o+t56S65YmN55WZ5LiA5bCP5q615a6M5YWo55qE6Z2Z6Z+z44CC5Lqn5ZOB5Lqu55u45pe25Y+v5Lul55So56ysIDIg5qGj77yIVG9uZS5qcyDnmoTljbfnp6/mt7flk43jgIHpkqLnkLTph4fmoLfvvInorqnnqbrpl7TmhJ/mm7Tlpb3jgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8muaFoiBoYWxmLXRpbWXvvIzmiJbogIXlj6rmnInlv4Pot7PoiKznmoQgc3Vi77ybTHlkaWFu77yI5Lqn5ZOB5Lqu55u455qE44CM5oOK5aWH44CN77yJ44CB5Zub5bqm5Y+g572u77yM5oiW6ICF5YWo54mH5LiA5Liq5ZKM5bym5Y+q6Z2g5a+G5bqm5Y+Y5YyW44CC5puy57q/5bi455So5oq956m677yI5ruh57yWIOKGkiDlj6rliankuIDkuKrpkp/lo7DvvInvvIzkuI3kuIDlrpropoEgZHJvcOOAguW5suWHgOOAgeWuve+8jOS+p+mTvuW+iOi9u+aIluS4jeeUqOOAggoKIyMg5Y6f55Sf5omL5rOVCi0g5YWJ5omr5Ye66L2u5buT77ya6YCC5ZCI5Lqn5ZOB6aaW5qyh5Lqu55u444CCCi0g5LiA5Liq5pWw5a2X5Y2g5ruh55S76Z2i77yM5YaN57yp5bCP5oiQ5LiA5Y+l6K+d6YeM55qE5LiA5Liq6K+N77ya6YCC5ZCI5pWw5o2u44CCCi0g5oiq5Zu+6YeM55qE5LiA5Liq5YWD57Sg44CM5rWu5Ye644CN5oiq5Zu+5Y+Y5oiQ5aSn5a2X77ya6YCC5ZCI5Yqf6IO954K544CCCgojIyDlj5jljJbnqbrpl7QKLSDnu5PmnoTvvJrkuInkuKrmlbDlrZforrLlrozkuIDkuKrkuqflk4HvvJvkuIDkuKrpl67popgg4oaSIOS4gOS4quetlOahiO+8m+WAkuaVsCAz44CBMuOAgTEg5ZCO5o+t5pmT44CCCi0g5byA5Zy677ya5YWo6buR5Lit5LiA6YGT5YWJ77yb5LiA5Liq5aOw6Z+z5YWI5LqO55S76Z2i5Ye6546w44CCCi0g57uT5bC+77yabG9nbyDlnKjlhYnph4zlrprmoLzvvJvlhYnmhaLmhaLnhoTnga3vvIzlj6rlianlkI3lrZfjgIIKCiMjIOWdkQotIOmAgOWMluaIkCBBSSDpu5jorqTpo47moLzvvJrmr4/lsY/pg73mnInmuJDlj5jlkozlj5HlhYnjgIHmiYDmnInlhYPntKDlkIzml7bmt6HlhaXjgILlm57liLDjgIzlhYnmnInmnaXmupDjgIHkuIDkuKrlvLrosIPoibLjgIHoioLlpY/mj63npLrjgI3kuInmnaHop4TliJnjgIIKLSDog4zmma/lpKrpu5Hlh7rnjrDoibLluKbvvJrliqDovbvlvq7popfnspLjgIIKLSDnvJbpgKDlj4LmlbDlkozmlbDlrZfvvJrlj6rnlKjnlKjmiLfnu5nnmoTjgIIK
+# 暗色发布会（dark-keynote）
+
+> 深色舞台、一束聚光、巨大的数字和一句话、产品像英雄一样登场。深色在这里是设计出来的，不是 AI 的默认。
+> 参照（只学语法）：科技公司发布会的主视觉和视频、Apple 风格的产品叙事片。不照搬任何品牌的设备外形、字体和配色模板。
+
+## 本质 / 不是什么
+- 本质：**深色但有层次**（近黑的底 + 一个缓慢移动的柔光源，不是死黑）；一屏只说一件事；大数字、大短句；产品或界面在光里慢慢转出来；节奏是「静 → 揭示 → 静」。
+- 不是：深色 + 居中大字 + 紫蓝渐变 + 到处发光的 AI 默认风格。区别在于：光有方向、有来源；只有一个强调色；字有设计好的排版位置；揭示是有节奏的。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 移动的柔光源 | 近黑的底上一团缓慢移动的光，不是死黑 | 高端、情绪 |
+| 巨大的数字 | 一个参数占满画面，再缩回一句话里 | 性能、成绩 |
+| 一屏一句话 | 大号短句居中或左对齐，前后都是暗场 | 口号、承诺 |
+| 光扫出轮廓 | 一道光沿产品边缘扫过，轮廓先于实体出现 | 产品首次亮相 |
+| 产品英雄镜头 | 产品或界面在光里慢慢转出来 | 硬件、App |
+| 玻璃卡片 | 半透明的磨砂卡片装着截图或参数 | 功能介绍 |
+| 倒数和揭晓 | 3、2、1 之后画面亮起 | 发布、上线 |
+| 参数表 | 一列对齐的规格数字逐行亮起 | 对比、规格 |
+| 反射地面 | 产品下方一片微弱的倒影 | 硬件、高端 |
+| 字从模糊里浮出 | 标题从虚焦到清晰，伴随很轻的放大 | 标题、章节 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+
+## 这个风格最俗的版本
+- 画面：黑底 + 一道蓝色光扫过 + 居中的巨大数字 + 产品慢慢旋转 + 结尾 logo 在光里定格。
+- 声音：低频 boom、上升的 riser、钢琴单音加大混响的铺底。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：产品宣传短片、数据爆点、Logo 落版、发布倒计时。
+- 内容：硬件、AI 产品、平台、重大更新。
+
+## 技术路线
+DOM / Canvas 排版 + 一层光：径向渐变光斑随时间缓慢移动；产品图用用户提供的真实图片或截图，也可以用 Three.js 做 3D 呈现（见 `glass-material.md`）。`--dpr 2` 保证细字干净；`--grain 2–3` 去掉深色背景的色带。
+
+## 材质与渲染
+- 背景：`#050506`–`#0B0B0E`，叠一个大而软的光斑（`radial-gradient`，亮度很低），随镜头缓慢漂移。
+- 文字的高光：一道斜向的光扫过大字（mask + 渐变，0.6–1 秒）。
+- 设备 / 截图：轻微反光的边框，下面一道很淡的倒影；只在关键时刻给一点边缘光。
+- 数字：超大字号，等宽数字，变化时用滚动或者逐位翻转。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 近黑 `#07070A` / 白 `#F5F5F7` / 灰 `#86868B` / 强调（一个：冰蓝 `#5AC8FA` 或品牌色）
+- 近黑 `#0A0A0A` / 暖白 `#F2EDE4` / 金 `#C9A96E`
+- 规则：一屏最多一个强调色；渐变只能是「光」，不能是「装饰色块」。
+- 推导：近黑的底（偏冷、偏暖、偏品牌色都行）+ 白或暖白的字 + 一个强调色。强调色从品牌或产品材质来（金属色、产品配色），冰蓝是最常见的那个。
+
+## 字体
+超细到中等字重的无衬线体，大字号、宽字距的小标题：Inter Tight（200–600）、Manrope、Space Grotesk；数字用 tabular。中文用思源黑体 Light / Medium。
+
+## 运动
+- 慢而精确：大标题用 `{1.6, 0.95}`，揭示用 `glide`（0.8–1.2 秒）；离场比进场快。
+- 揭示的套路：先暗场 → 光扫出轮廓 → 主体完全亮起 → 文字跟上。
+- 数字滚动用 `outExpo`，落定时一次很轻的缩放脉冲。
+
+## 画面怎么活
+- 主体表面一道高光缓慢扫过（一次 2–4 秒）；背景的光斑极慢地漂移；镜头持续很慢地推进，这本身就是活。
+- 文字落定后不动，留给观众读。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 暗场中缓慢推近 | 期待 | 开场、揭示前 |
+| 环绕主体 | 完整、精致 | 产品亮相 |
+| 正面 + 轻推 | 宣告 | 一个数字、一个名字 |
+| 拉远进入大面积负空间 | 留出给字的位置 | slogan、结尾 |
+
+## 声音调色板
+sub drone、柔和的 kick、FM 钟声 / 玻璃音色、宽铺底、精确的 tick；揭示前留一小段完全的静音。产品亮相时可以用第 2 档（Tone.js 的卷积混响、钢琴采样）让空间感更好。
+
+律动与和声（举例，不止这些）：慢 half-time，或者只有心跳般的 sub；Lydian（产品亮相的「惊奇」）、四度叠置，或者全片一个和弦只靠密度变化。曲线常用抽空（满编 → 只剩一个钟声），不一定要 drop。干净、宽，侧链很轻或不用。
+
+## 原生手法
+- 光扫出轮廓：适合产品首次亮相。
+- 一个数字占满画面，再缩小成一句话里的一个词：适合数据。
+- 截图里的一个元素「浮出」截图变成大字：适合功能点。
+
+## 变化空间
+- 结构：三个数字讲完一个产品；一个问题 → 一个答案；倒数 3、2、1 后揭晓。
+- 开场：全黑中一道光；一个声音先于画面出现。
+- 结尾：logo 在光里定格；光慢慢熄灭，只剩名字。
+
+## 坑
+- 退化成 AI 默认风格：每屏都有渐变和发光、所有元素同时淡入。回到「光有来源、一个强调色、节奏揭示」三条规则。
+- 背景太黑出现色带：加轻微颗粒。
+- 编造参数和数字：只用用户给的。

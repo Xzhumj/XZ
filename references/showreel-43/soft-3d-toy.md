@@ -1,1 +1,91 @@
-IyDova/okIwgM0TvvIhzb2Z0LTNkLXRvee+8iQoKPiDlnIbmtqbnmoTlk5HlhYnlh6DkvZXkvZPjgIHpu4/lnJ/lkoznjqnlhbfnmoTotKjmhJ/jgIHmn5TlkoznmoTlvbHlrZDvvIzkuJzopb/kvJrlvLnjgIHkvJrmjKTjgIHkvJrouabvvIzorqnkurrmg7PkvLjmiYvljrvmjY/jgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJrpu4/lnJ/liqjnlLvjgIHmva7njqnjgIHlk4HniYwgM0Qg5o+S55S76YeM5ZyG5ram55qE5Yeg5L2V6aOO5qC844CC5LiN54Wn5pCs5YW35L2T6KeS6Imy5ZKMIElQ44CCCgojIyDmnKzotKggLyDkuI3mmK/ku4DkuYgKLSDmnKzotKjvvJoqKuaJgOaciei+uemDveaYr+Wchuinkioq44CBKirlk5HlhYnmnZDotKgqKu+8iOmrmOeyl+ezmeW6pu+8jOW4puS4gOeCueasoeihqOmdouaVo+WwhOeahOaEn+inie+8ieOAgeaflOWSjOeahOWkp+mdouenr+WFieWSjOaOpeinpumYtOW9se+8m+i/kOWKqOWkuOW8oOiAjOacieW8ueaAp++8iOaMpOWOi+S4juaLieS8uO+8ieOAggotIOS4jeaYr++8muWGmeWunua4suafk++8m+S5n+S4jeaYr+S9juWkmui+ueW9oueahOehrOi+uemjjuagvOOAggoKIyMg6L6o6K+G5L+h5Y+377ya5q+P5pSv54mH5a2Q5oyRIDLigJMzIOS4qgp8IOS/oeWPtyB8IOmVv+S7gOS5iOagtyB8IOmAguWQiOeahOS4u+mimCB8CnwtLS18LS0tfC0tLXwKfCDmjKTljovkuI7mi4nkvLggfCDokL3lnLDljovmiYHjgIHlvLnotbfmi4nplb8gfCDmtLvlipvjgIHovbvmnb4gfAp8IOi/numUgeWPjeW6lCB8IOS4gOS4queJqeS9k+aSnuWAkuS4i+S4gOS4qu+8jOWkmuexs+ivuuW8j+S8oOS4i+WOuyB8IOa1geeoi+OAgeWboOaenCB8Cnwg6buP5Zyf5oyH57q5IHwg6KGo6Z2i5pyJ5omL5o2P55qE5Ye555eV5ZKM5oyH57q5IHwg5omL5L2c44CB5rip5bqmIHwKfCDmva7njqnlsI/op5LoibIgfCDlnIblpLTlpKfouqvjgIHkuKTkuKrngrnlgZrnnLznnZsgfCDlkInnpaXnianjgIHlk4HniYzop5LoibIgfAp8IOenr+acqOS4juaLvOaPkiB8IOaWueWdl+aMieWNoeaJo+aLvOi1t+adpSB8IOe7hOWQiOOAgeaQreW7uiB8Cnwg5YWF5rCU5ZKM5rCU55CDIHwg6byT6LW35p2l44CB5ryP5rCU44CB6aOY6LWwIHwg5aKe6ZW/44CB5bqG56WdIHwKfCDmnpzlhrvlkozova/ns5YgfCDljYrpgI/mmI7jgIHmmYPliqjnmoTova/kvZMgfCDpo5/lk4HjgIHotqPlkbMgfAp8IOi/t+S9oOWcuuaZryB8IOahjOmdouWkp+Wwj+eahOWwj+aIv+mXtOOAgeWwj+WfjiB8IOWcuuaZr+OAgeeUn+a0uyB8Cnwg5o2P5oiQ5paw5b2i54q2IHwg5LiA5Liq54mp5L2T6KKr5o2P44CB6KKr5ouJ5oiQ5LiL5LiA5Liq5b2i54q2IHwg6L2s5Y+Y44CB5Y+Y6LqrIHwKfCDlgJLov5vlrrnlmaggfCDlvojlpJrlsI/niankvZPlgJLov5vkuIDkuKrlvaLnirbph4zloavmu6EgfCDmsYfogZrjgIHnu5PlsL4gfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya5aW25rK55bqV5LiK54+K55Ga44CB6JaE6I2344CB5aSp6JOd55qE5ZyG55CD5ZKM5pa55Z2X77yM5LiA5Liq55CD5o6J5LiL5p2l5by55Lik5LiL77yM5omA5pyJ5Lic6KW/5oyk6L+bIGxvZ2/jgIIKLSDlo7Dpn7PvvJrpqazmnpflt7TjgIFwb3DjgIFib2luZyDlvLnnsKflo7DvvIzovbvlv6vnmoTlpKfosIPjgIIKLSBicmllZiDnmoQgc3R5bGUg5LiA5qCP5YaZ5piO6L+Z5pSv54mH5a2Q57+75o6J5LqG5ZOq5Yeg5p2h77yM5oiW6ICF5Li65LuA5LmI5Yi75oSP5L+d55WZ77yI5q+U5aaC55So5oi36KaB55qE5bCx5piv57uP5YW454mI77yJ44CC5L+d55WZ5pe277yM5oqK5Yqb5rCU6Iqx5Zyo5p6E5Zu+44CB6ZWc5aS044CB6IqC5aWP5oiW5LiA5Liq5oSP5aSW55qE6K6w5b+G54K55LiK44CCCgojIyDpgILphY0KLSDnlKjpgJTvvJrkuqflk4HlrqPkvKDvvIjlj4vlpb3lnovkuqflk4HvvInjgIHlkInnpaXniannmbvlnLrjgIHorrLop6Pnn63niYfjgIFMb2dvIOa8lOe7juOAggotIOWGheWuue+8mua2iOi0ueexuyBBcHDjgIHmlZnogrLjgIHlhL/nq6XjgIHpo5/lk4HjgIHnpL7ljLrjgIHmuLjmiI/ljJblip/og73jgIIKCiMjIOaKgOacr+i3r+e6vwpUaHJlZS5qc++8mmBSb3VuZGVkQm94R2VvbWV0cnlg77yIYWRkb25z77yJ44CB55CD5L2T44CB6IO25ZuK5L2T44CB5ZyG546v5ou85Ye654mp5L2T77ybYE1lc2hTdGFuZGFyZE1hdGVyaWFsYCAvIGBNZXNoUGh5c2ljYWxNYXRlcmlhbGDvvIxyb3VnaG5lc3MgMC424oCTMC4577yMc2hlZW4g5Y+v5Lul5aKe5Yqg57uS5oSf77yb5LiA55uP5aSn6Z2i56ev5p+U5YWJ77yIYFJlY3RBcmVhTGlnaHRgIOaIluWkp+eahOaWueWQkeWFiSArIOi9r+mYtOW9se+8ieWKoOeOr+Wig+WFie+8m+WcsOmdoueUqCBgU2hhZG93TWF0ZXJpYWxgIOaOpemYtOW9seOAguWQjuacn+WPr+WKoOi9u+W+rueahOaZr+a3seOAgmAtLWRwciAyYOOAggoKIyMg5p2Q6LSo5LiO5riy5p+TCi0g6aKc6Imy6aWx5ZKM5L2G5LiN5Yi655y855qE57KJ5b2p77yb5ZCM5LiA54mp5L2T55qE5LiN5ZCM6YOo5YiG55So55u46YK755qE6Imy44CCCi0g5o6l6Kem6Zi05b2x77yI54mp5L2T6JC95Zyw55qE5Zyw5pa55LiA5Zui5p+U5ZKM55qE5pqX77yJ5q+U5oqV5b2x5pu06YeN6KaB44CCCi0g6KGo6Z2i5Y+v5Lul5pyJ5p6B57uG55qE5Zmq5aOw5Ye55Ye477yI6buP5Zyf5oyH57q55oSf77yM6LCo5oWO5L2/55So77yJ44CCCi0g6IOM5pmv5piv57qv6Imy5oiW6Z2e5bi45p+U5ZKM55qE5riQ5Y+Y77yM5Zyw6Z2i5ZKM6IOM5pmv5peg57yd6KGU5o6l44CCCgojIyDphY3oibIK5LiL6Z2i55qE6Imy5YC85piv56S65L6L77yM55yL5oCd6Lev77yM5LiN6KaB5Y6f5qC354Wn5oqE44CCCi0g5aW25rK5IGAjRkZGNEU2YCAvIOePiueRmiBgI0ZGOEE3M2AgLyDoloTojbcgYCM3RUQ5QzNgIC8g5aSp6JOdIGAjN0NCN0ZGYCAvIOm7hOayuSBgI0ZGRDY2QmAKLSDolrDooaPojYnlupUgYCNFOUU0RkZgIC8g57SrIGAjOEI3Q0ZGYCAvIOahgyBgI0ZGQjU5RWAgLyDloqggYCMyQjI1NDBg77yI5Y+q57uZ55y8552b5ZKM5paH5a2X77yJCi0g6KeE5YiZ77ya5LiA5Liq54mp5L2T5pyA5aSa5LiJ5Liq6aKc6Imy77yb6IOM5pmv5q+U5Li75L2T5rWF44CB5L2O6aWx5ZKM44CCCi0g5o6o5a+877ya6IOM5pmv5q+U5Li75L2T5rWF44CB6aWx5ZKM5bqm5L2O77yM5LiA5Liq54mp5L2T5pyA5aSa5LiJ5Liq6aKc6Imy44CC5Li76Imy5LuO5ZOB54mM5o6o77yM5ZyoIE9LTGFiIOmHjOaLieWHuuaflOWSjOeahOaYjuaal++8m+WltuayueWKoOezluaenOiJsuaYr+acgOW4uOingeeahOmCo+e7hO+8jOS5n+WPr+S7peivleWkp+WcsOiJsum7j+Wcn+OAgeWNleiJsuezu+OAgea3seiJsuiDjOaZr+S4iueahOmrmOmlseWSjOWwj+eJqeS7tuOAggoKIyMg5a2X5L2TCuWchua2pueahOeyl+S9k++8mkZyZWRva2HjgIFCYWxvbyAy44CBTnVuaXRvIEJsYWNr44CBUnViaWvvvIhPRkzvvInvvJvkuK3mlofnlKjnq5nphbflv6vkuZDkvZPjgIHmgJ3mupDpu5HkvZMgSGVhdnnjgILlrZfkuZ/lj6/ku6XmjKTlh7rmiJAgM0Qg5ZyG6KeS5a2X44CCCgojIyDov5DliqgKLSDlvLnnsKcgYHsyLjgsIDAuNDV9YO+8muaYjuaYvueahOWbnuW8ue+8m+iQveWcsOaXtuaMpOWOi++8iHkg57ypIDMwJeOAgXh6IOaJqe+8ie+8jOW8uei1t+aXtuaLieS8uOOAggotIOmihOWkh+WKqOS9nOWkuOW8oOS4gOS6m++8iOS4i+i5suWGjei3s++8ie+8m+i3n+maj+WKqOS9nO+8iOiAs+acteOAgeWkqee6v+aZmuS4gOeCueWBnO+8ieOAggotIOeJqeS9k+S5i+mXtOeahOeisOaSnuimgeacieaXtuW3ruWSjOaMpOWOi+OAggoKIyMg55S76Z2i5oCO5LmI5rS7Ci0g54mp5L2T5b6F5py65pe26L276L275ZG85ZC477yI5oyk5Y6LIDLigJMzJe+8ie+8m+acieecvOedm+eahOecqOS4gOS4i++8m+Wkqee6v+OAgeiAs+actei/meexu+Wwj+mFjeS7tui/mOWcqOS9meaRhuOAggotIOWwj+WKqOS9nOmUmeW8gOaXtumXtO+8jOWIq+iuqeaJgOacieS4nOilv+WQjOS4gOaLjeS4gOi1t+WKqOOAggoKIyMg6ZWc5aS06K+t5rOVCnwg6ZWc5aS06L+Q5YqoIHwg6KGo6L6+5LuA5LmIIHwg6YCC5ZCI5ZOq57G75YaF5a65IHwKfC0tLXwtLS18LS0tfAp8IDQ1wrAg5L+v6KeG55qE5bmz5Y+w6KeG6KeSIHwg5LiA5Liq5bCP5LiW55WMIHwg5Zy65pmv44CB5rWB56iLIHwKfCDot5/nnYDot7Pot4PnmoTniankvZPkuIrkuIsgfCDmtLvlipsgfCDop5LoibLnmbvlnLogfAp8IOaOqOi/keWIsOS4gOS4queJqeS9kyB8IOeJueWGmSB8IOS6p+WTgee7huiKgiB8Cnwg57yT5oWi546v57uV5LiA5Liq6L2s5Y+wIHwg5bGV56S6IHwg5Lqn5ZOB44CB5ZCJ56Wl54mpIHwKCiMjIOWjsOmfs+iwg+iJsuadvwrkv4/nmq7vvJpgcG9wYO+8iOmfs+mrmOmaj+eJqeS9k+Wkp+Wwj+WPmOWMlu+8ieOAgei9ryBgYm9vbWDjgIHmnKjnkLTjgIHpqazmnpflt7TvvIhgbWFsbGV0YO+8jG1hdGVyaWFsICd4eWxvJyAvICdtYXJpbWJhJ++8ieOAgei9u+W/q+eahOaLjeaJi+WSjCBzaGFrZXLjgIJCUE0gMTAw4oCTMTI044CCCgrlvovliqjkuI7lkozlo7DvvIjkuL7kvovvvIzkuI3mraLov5nkupvvvInvvJrmnInlvLnmgKfnmoTnm7Tmi43miJYgc2h1ZmZsZe+8m+Wkp+iwg+OAgUx5ZGlhbuOAgeWKoOS5neW6pu+8m+mfs+eUu+WQjOW9ou+8iOavj+asoeW8uei3s+S4gOS4qumfs++8jOmfs+mrmOi3n+edgOmrmOW6pui1sO+8ieacgOWQiOmAgu+8m2Bjb3diZWxsYOOAgWByaW1g44CBYHNoYWtlcmAg5YGa546p5YW35omT5Ye75LmQ44CC5LiN5L6n6ZO+5oiW5b6I6L2744CCCgojIyDljp/nlJ/miYvms5UKLSDkuIDkuKrniankvZPokL3kuIvmiorlj6bkuIDkuKrlvLnpo57vvIzov57plIHlj43lupTvvJrpgILlkIjmtYHnqIvlkozlm6DmnpzvvIjjgIzkuIDkuKrliqjkvZzlvJXlj5HkuIDkuLLnu5PmnpzjgI3vvInjgIIKLSDniankvZPooqvmjY/miJDkuIvkuIDkuKrlvaLnirbvvJrpgILlkIjovazlj5jjgIHlj5jouqvjgIIKLSDlvojlpJrlsI/niankvZPlgJLov5vkuIDkuKrlrrnlmajmi7zmiJAgbG9nb++8mumAguWQiOe7k+WwvuOAggoKIyMg5Y+Y5YyW56m66Ze0Ci0g57uT5p6E77ya5LiA5p2h5aSa57Gz6K+65byP55qE6L+e6ZSB5Y+N5bqU77yb5LiA5Liq6KeS6Imy55qE5LiA5aSp77yb5LiA5Liq55uS5a2Q6YeM6Lmm5Ye65LiJ5Liq5Yqf6IO944CCCi0g5byA5Zy677ya5LiA5Liq55CD5LuO55S76Z2i5LiK5pa55o6J5LiL5p2l5by55Lik5LiL77yb5LiA5Liq55uS5a2Q5Zyo5pmD5Yqo44CCCi0g57uT5bC+77ya5omA5pyJ54mp5L2T5oyk6L+bIGxvZ28g5b2i54q26YeM77yM5pyA5ZCO5LiA5Liq6Lmm5LiK5Y676JC95a6a44CCCgojIyDlnZEKLSDlvLnov4flpLTmmL7lvpflu4nku7fvvJrlkIznsbvlhYPntKDnu5/kuIDlvLnnsKfmoaPkvY3vvIzkuLvkvZPmr5TlsI/nianku7blvLnlvpflsJHjgIIKLSDmnZDotKjlpKrkuq7lpKrmu5HvvIzlsLHmiJDkuobloZHmlpnvvJrnspfns5nluqbopoHpq5jjgIIKLSDnlLvop5LoibLml7bliKvnlLvlhpnlrp7kupTlrpjvvJrmnIDlpJrkuKTkuKrngrnlgZrnnLznnZvjgIIK
+# 软萌 3D（soft-3d-toy）
+
+> 圆润的哑光几何体、黏土和玩具的质感、柔和的影子，东西会弹、会挤、会蹦，让人想伸手去捏。
+> 参照（只学语法）：黏土动画、潮玩、品牌 3D 插画里圆润的几何风格。不照搬具体角色和 IP。
+
+## 本质 / 不是什么
+- 本质：**所有边都是圆角**、**哑光材质**（高粗糙度，带一点次表面散射的感觉）、柔和的大面积光和接触阴影；运动夸张而有弹性（挤压与拉伸）。
+- 不是：写实渲染；也不是低多边形的硬边风格。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 挤压与拉伸 | 落地压扁、弹起拉长 | 活力、轻松 |
+| 连锁反应 | 一个物体撞倒下一个，多米诺式传下去 | 流程、因果 |
+| 黏土指纹 | 表面有手捏的凹痕和指纹 | 手作、温度 |
+| 潮玩小角色 | 圆头大身、两个点做眼睛 | 吉祥物、品牌角色 |
+| 积木与拼插 | 方块按卡扣拼起来 | 组合、搭建 |
+| 充气和气球 | 鼓起来、漏气、飘走 | 增长、庆祝 |
+| 果冻和软糖 | 半透明、晃动的软体 | 食品、趣味 |
+| 迷你场景 | 桌面大小的小房间、小城 | 场景、生活 |
+| 捏成新形状 | 一个物体被捏、被拉成下一个形状 | 转变、变身 |
+| 倒进容器 | 很多小物体倒进一个形状里填满 | 汇聚、结尾 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+
+## 这个风格最俗的版本
+- 画面：奶油底上珊瑚、薄荷、天蓝的圆球和方块，一个球掉下来弹两下，所有东西挤进 logo。
+- 声音：马林巴、pop、boing 弹簧声，轻快的大调。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：产品宣传（友好型产品）、吉祥物登场、讲解短片、Logo 演绎。
+- 内容：消费类 App、教育、儿童、食品、社区、游戏化功能。
+
+## 技术路线
+Three.js：`RoundedBoxGeometry`（addons）、球体、胶囊体、圆环拼出物体；`MeshStandardMaterial` / `MeshPhysicalMaterial`，roughness 0.6–0.9，sheen 可以增加绒感；一盏大面积柔光（`RectAreaLight` 或大的方向光 + 软阴影）加环境光；地面用 `ShadowMaterial` 接阴影。后期可加轻微的景深。`--dpr 2`。
+
+## 材质与渲染
+- 颜色饱和但不刺眼的粉彩；同一物体的不同部分用相邻的色。
+- 接触阴影（物体落地的地方一团柔和的暗）比投影更重要。
+- 表面可以有极细的噪声凹凸（黏土指纹感，谨慎使用）。
+- 背景是纯色或非常柔和的渐变，地面和背景无缝衔接。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 奶油 `#FFF4E6` / 珊瑚 `#FF8A73` / 薄荷 `#7ED9C3` / 天蓝 `#7CB7FF` / 黄油 `#FFD66B`
+- 薰衣草底 `#E9E4FF` / 紫 `#8B7CFF` / 桃 `#FFB59E` / 墨 `#2B2540`（只给眼睛和文字）
+- 规则：一个物体最多三个颜色；背景比主体浅、低饱和。
+- 推导：背景比主体浅、饱和度低，一个物体最多三个颜色。主色从品牌推，在 OKLab 里拉出柔和的明暗；奶油加糖果色是最常见的那组，也可以试大地色黏土、单色系、深色背景上的高饱和小物件。
+
+## 字体
+圆润的粗体：Fredoka、Baloo 2、Nunito Black、Rubik（OFL）；中文用站酷快乐体、思源黑体 Heavy。字也可以挤出成 3D 圆角字。
+
+## 运动
+- 弹簧 `{2.8, 0.45}`：明显的回弹；落地时挤压（y 缩 30%、xz 扩），弹起时拉伸。
+- 预备动作夸张一些（下蹲再跳）；跟随动作（耳朵、天线晚一点停）。
+- 物体之间的碰撞要有时差和挤压。
+
+## 画面怎么活
+- 物体待机时轻轻呼吸（挤压 2–3%）；有眼睛的眨一下；天线、耳朵这类小配件还在余摆。
+- 小动作错开时间，别让所有东西同一拍一起动。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 45° 俯视的平台视角 | 一个小世界 | 场景、流程 |
+| 跟着跳跃的物体上下 | 活力 | 角色登场 |
+| 推近到一个物体 | 特写 | 产品细节 |
+| 缓慢环绕一个转台 | 展示 | 产品、吉祥物 |
+
+## 声音调色板
+俏皮：`pop`（音高随物体大小变化）、软 `boom`、木琴、马林巴（`mallet`，material 'xylo' / 'marimba'）、轻快的拍手和 shaker。BPM 100–124。
+
+律动与和声（举例，不止这些）：有弹性的直拍或 shuffle；大调、Lydian、加九度；音画同形（每次弹跳一个音，音高跟着高度走）最合适；`cowbell`、`rim`、`shaker` 做玩具打击乐。不侧链或很轻。
+
+## 原生手法
+- 一个物体落下把另一个弹飞，连锁反应：适合流程和因果（「一个动作引发一串结果」）。
+- 物体被捏成下一个形状：适合转变、变身。
+- 很多小物体倒进一个容器拼成 logo：适合结尾。
+
+## 变化空间
+- 结构：一条多米诺式的连锁反应；一个角色的一天；一个盒子里蹦出三个功能。
+- 开场：一个球从画面上方掉下来弹两下；一个盒子在晃动。
+- 结尾：所有物体挤进 logo 形状里，最后一个蹦上去落定。
+
+## 坑
+- 弹过头显得廉价：同类元素统一弹簧档位，主体比小物件弹得少。
+- 材质太亮太滑，就成了塑料：粗糙度要高。
+- 画角色时别画写实五官：最多两个点做眼睛。

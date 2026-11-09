@@ -1,1 +1,4 @@
-YXNzZXRzLwpkZWJ1Zy5sb2cKbm9kZV9tb2R1bGVzLwoqLnRtcAo=
+assets/
+debug.log
+node_modules/
+*.tmp

@@ -1,1 +1,90 @@
-IyDonKHnrJTnu5jmnKzvvIhjcmF5b24tc3Rvcnlib29r77yJCgo+IOicoeeslOOAgeW9qemTheWSjOawtOW9qeeUu+WcqOe6uOS4iu+8jOavj+enkuWPquaNouWNgeadpeW8oO+8jOe6v+adoeW+ruW+ruaKluWKqO+8jOWDj+S4gOacrOS8muWKqOeahOerpeS5puOAggo+IOWPgueFp++8iOWPquWtpuivreazle+8ie+8muaJi+e7mOe7mOacrOaPkueUu+OAgeW9qemTheWKqOeUu+efreeJh+OAgXA1LmJydXNoIOeahOeslOWIt+iDveWKm+OAguS4jeeFp+aQrOWFt+S9k+e7mOacrOeahOinkuiJsuWSjOeUu+mdouOAggoKIyMg5pys6LSoIC8g5LiN5piv5LuA5LmICi0g5pys6LSo77yaKirnrJTop6bmnInmlrnlkJHjgIHnspfnu4bjgIHpopfnspLlkoznurjnurkqKu+8m+minOiJsuS4jeWujOWFqOWhq+a7oei9ruW7k++8m+eUu+mdouaMiSAxMmZwcyDmraXov5vvvIzmr4/kuIDlvKDpg73mnInnu4blvq7nmoTkuI3lkIzvvIhib2lsaW5nIGxpbmXvvInvvIzplZzlpLTku43nhLblubPmu5HjgIIKLSDkuI3mmK/vvJrnn6Lph4/miYHlubPmj5LnlLvliqDkuIDlsYLnurjnurnmu6TplZzvvJvkuZ/kuI3mmK/nlKggU1ZHIOeUu+WGmeWunuS6uuiEuOOAggoKIyMg6L6o6K+G5L+h5Y+377ya5q+P5pSv54mH5a2Q5oyRIDLigJMzIOS4qgp8IOS/oeWPtyB8IOmVv+S7gOS5iOagtyB8IOmAguWQiOeahOS4u+mimCB8CnwtLS18LS0tfC0tLXwKfCDmsrjohb7nur8gfCDnur/nqL/mjIkgMTJmcHMg6L276L275oqW5YqoIHwg5omL57uY44CB56ul6LajIHwKfCDonKHnrJTmtoLoibIgfCDpopzoibLkuI3loavmu6Hova7lu5PvvIzpnLLlh7rnurjoibLlkoznrJTop6bmlrnlkJEgfCDmuKnmmpbjgIHlpKnnnJ8gfAp8IOawtOW9qeaZleafkyB8IOminOiJsuWcqOe6uOS4iuaZleW8gO+8jOi+uee8mOacieawtOeXlSB8IOaflOWSjOOAgeaDhee7qiB8Cnwg5b2p6ZOF5o6S57q/IHwg57uG5a+G55qE5pac57q/5Y+g5Ye65piO5pqXIHwg57uG6IW744CB5a6J6Z2ZIHwKfCDliarotLTnurjniYcgfCDmiYvnu5jnmoTnurjniYfooqvliarkuIvmnaXnp7vliqggfCDmuLjmiI/mhJ/jgIHmiYvlt6UgfAp8IOWwj+inkuiJsiB8IOeugOWNleeahOixhuWtkOW9ouaIlueBq+aftOS6uuinkuiJsiB8IOaVheS6i+OAgeWQieelpeeJqSB8Cnwg5Lmm6aG1IHwg6aG16L6544CB6aG156CB44CB57+76aG155qE5Yqo5L2cIHwg5Y+Z5LqL44CB56ug6IqCIHwKfCDmk6bpmaTph43nlLsgfCDmqaHnmq7mk6bmjonkuIDlnZfvvIzph43mlrDnlLvkuIogfCDkv67mlLnjgIHmlLnlj5ggfAp8IOaJi+WGmeWtlyB8IOatquatquaJreaJreeahOaJi+WGmeagh+mimOWSjOWvueeZvSB8IOaWh+ahiOOAgeWvueivnSB8Cnwg55S756yU5YWl55S7IHwg5LiA5pSv56yU5LuO55S75aSW5Ly46L+b5p2l55S75LiL5LiA6ZWcIHwg5Yib5L2c44CB5byA5aeLIHwKfCDmtoLpuKbmnKzmoLzlrZAgfCDmlrnmoLzmnKzmiJbmqKrnur/mnKzlgZrlupUgfCDlrabkuaDjgIHorrDlvZUgfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya57Gz6buE57q45LiK55Wq6IyE57qi5ZKM5aSp6JOd55qE6Jyh56yU5bCP5Lq677yM5LiA5Liq5aSq6Ziz5Zyo6KeS6JC956yR77yM57uT5bC+5Lmm5ZCI5LiK77yM5bCB6Z2i5pivIGxvZ2/jgIIKLSDlo7Dpn7PvvJrmnKjnkLTjgIHlsKTlhYvph4zph4zjgIHlj6Plk6jvvIzovbvlv6vnmoTlpKfosIPjgIIKLSBicmllZiDnmoQgc3R5bGUg5LiA5qCP5YaZ5piO6L+Z5pSv54mH5a2Q57+75o6J5LqG5ZOq5Yeg5p2h77yM5oiW6ICF5Li65LuA5LmI5Yi75oSP5L+d55WZ77yI5q+U5aaC55So5oi36KaB55qE5bCx5piv57uP5YW454mI77yJ44CC5L+d55WZ5pe277yM5oqK5Yqb5rCU6Iqx5Zyo5p6E5Zu+44CB6ZWc5aS044CB6IqC5aWP5oiW5LiA5Liq5oSP5aSW55qE6K6w5b+G54K55LiK44CCCgojIyDpgILphY0KLSDnlKjpgJTvvJrmlYXkuovlkJHnmoTlrqPkvKDnn63niYfjgIHorrLop6Pnn63niYfjgIHoioLml6Xpl67lgJnjgIHlk4HniYzmg4Xnu6rniYfjgIIKLSDlhoXlrrnvvJrmlZnogrLjgIHlhL/nq6XjgIHnlJ/mtLvmlrnlvI/jgIHlhaznm4rjgIHkuKrkurrmlYXkuovjgIHmuKnmmpbnmoTlk4HniYzjgIIKCiMjIOaKgOacr+i3r+e6vwpwNS5qc++8iOWunuS+i+aooeW8jyArIGBub0xvb3AoKWDvvIxgcmVuZGVyKHQpYCDph4zorr7nva7ml7bpl7TlkI4gYHJlZHJhdygpYO+8iSsgcDUuYnJ1c2jvvIjlvanpk4XjgIHonKHnrJTjgIHmsLTlvannrJTliLfvvInvvIzmiJbogIXnlKggQ2FudmFzIOiHquW3seWGmeeslOinpu+8iOayv+i3r+W+hOeUu+W+iOWkmuWNiumAj+aYjuOAgeW4puaKluWKqOeahOWwj+e6v+aute+8ieOAgioq56yU5Yi35b6I5oWiKirvvJrlhYjmtYvljZXluKfogJfml7bvvIzlhrPlrprml7bplb/lkozluKfnjofvvIgyNGZwcyDovpPlh7rvvIznlLvpnaIgMTJmcHMg5q2l6L+b77yM5Y+v5Lul5q+P5Lik5bin5aSN55So5ZCM5LiA5byg77yJ44CC57q457q55piv6aKE5YWI55Sf5oiQ55qE5LiA5byg5Zmq5aOw57q555CG77yM5q+P5bin5Y+g5Zyo5pyA5LiK5bGC44CCCgojIyDmnZDotKjkuI7muLLmn5MKLSDnrJTop6bnmoTpmo/mnLrnp43lrZDnlKggYGZsb29yKHQgKiAxMilg77ya5q+P56eS5Y+YIDEyIOasoe+8jOW9ouaIkOaJi+e7mOeahOOAjOayuOiFvuOAjeaEn+OAggotIOi9ruW7k+e6v++8mua3seiJsuW9qemThe+8jOeVpeW+ruS4jemXreWQiO+8m+Whq+iJsu+8muicoeeslOaIluawtOW9qe+8jOeVmeWHuue6uOiJsueahOi+ueOAggotIOawtOW9qe+8muWkmuWxguWNiumAj+aYjueahOS4jeinhOWImeW9oueKtuWPoOWKoO+8jOi+uee8mOabtOa3se+8iOminOaWmeWghuenr++8ieOAggotIOe6uO+8muaalueZve+8jOaciee6pOe7tOe6ueeQhuWSjOi9u+W+rueahOS4jeWdh+WMgOOAggoKIyMg6YWN6ImyCuS4i+mdoueahOiJsuWAvOaYr+ekuuS+i++8jOeci+aAnei3r++8jOS4jeimgeWOn+agt+eFp+aKhOOAggotIOe6uCBgI0Y3RjFFM2AgLyDnur8gYCMzQjJGMkFgIC8g55Wq6IyEIGAjRTg2NjRBYCAvIOWkqeiTnSBgIzZGQThEQ2AgLyDojYnnu78gYCM4Q0JGNkJgIC8g6bmF6buEIGAjRjRDOTVEYAotIOWknOaZmu+8mue6uCBgI0U5RTRGMmAgLyDmt7Hok50gYCMyRTNBNjZgIC8g5pyI6buEIGAjRjJENzdCYCAvIOeyiSBgI0U4OUJCNWAKLSDop4TliJnvvJrpopzmlpnmhJ/nmoTmnInpmZDosIPoibLmnb/vvIznlZnlh7rnurjoibLvvIzkuI3nlKjnuq/pu5HjgIIKLSDmjqjlr7zvvJrpopzmlpnmhJ/nmoTmnInpmZDosIPoibLmnb/vvIznlZnlh7rnurjoibLvvIzkuI3nlKjnuq/pu5HjgILnurjoibLlkozpopzmlpnku47kuLvpopjmnaXvvJrlpJzmmZrjgIHnp4vlpKnjgIHljZXoibLpk4XnrJTjgIHlj6rmnInkuKTmlK/onKHnrJTpg73lj6/ku6XvvJvnsbPpu4TnurjliqDnlarojITnuqLlpKnok53mmK/mnIDluLjop4HnmoTpgqPnu4TjgIIKCiMjIOWtl+S9kwrmiYvlhpnkvZPmiJbmiYvkvZzmhJ/nmoTlrZfkvZPvvJpQYXRyaWNrIEhhbmTjgIFHYWVndeOAgUNhdmVhdO+8m+S4reaWh+eUqOermemFt+W/q+S5kOS9k+OAgemcnum5nOaWh+alt++8iE9GTO+8ieOAguWtl+S5n+WPr+S7peeUqOeslOWIt+S4gOeslOS4gOeslOOAjOWGmeOAjeWHuuadpeOAggoKIyMg6L+Q5YqoCi0gMTJmcHMg5q2l6L+b77yM5Yqo5L2c5aS45byg5L2G5oWi77yb6KeS6Imy55So566A5Y2V55qEIDIuNUQg6aqo6aq877yI6Lqv5bmy44CB5aS044CB5Zub6IKi77yJ77yM5YWz6ZSu5ae/5Yq/5LmL6Ze057yT5Yqo44CCCi0g6L2s5Zy65bi455So44CM6YeN55S744CN77ya5paw55S76Z2i5LiA56yU5LiA56yU55S75Ye65p2l77yM5pen55S76Z2i6KKr5pOm5o6J44CCCgojIyDnlLvpnaLmgI7kuYjmtLsKLSDnur/nqL/jgIzmsrjohb7jgI3vvJrnur/mnaHmjIkgOOKAkzEyZnBzIOaNouenjeWtkOi9u+i9u+aKluOAguWPque7mee6v+eov+WSjOWwj+WMuuWfn++8jOaVtOWxj+eahOiJsuWdl+avj+malOWHoOW4p+mHjeeUu+S4gOmBje+8jOivu+i1t+adpeWwseaYr+mXqueDgeOAggotIOS6keOAgeiNieOAgeagkeWPtiAxMmZwcyDmraXov5vlnLDmmYPvvJvop5LoibLnnKjnnLzjgIHlkbzlkLjjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDnvJPmhaLmjqjov5EgfCDov5vlhaXmlYXkuosgfCDlvIDlnLrjgIHmg4Xnu6rngrkgfAp8IOWIhuWxguinhuW3ruaoquenu++8iOe6uOeJh+WJjeWQjuaZr++8iSB8IOa3seW6puOAgeaXheeoiyB8IOWcuuaZr+enu+WKqCB8Cnwg57+76aG1IHwg5LiL5LiA56ugIHwg5q616JC95YiH5o2iIHwKCiMjIOWjsOmfs+iwg+iJsuadvwrljp/lo7DmhJ/vvJrmi6jlvKbvvIhgcGx1Y2tg77yJ44CB6ZKi54mH55C05oSf55qEIGBiZWxsYOOAgei9ryBga2V5c2DvvJvnurjlvKDlkozpk4XnrJTnmoTmi5/pn7PvvIjluKbpgJrlmarlo7DvvInjgILnrKwgMiDmoaPnmoTpkqLnkLTph4fmoLfvvIhTYWxhbWFuZGVy77yJ5b6I6YCC5ZCI6L+Z56eN5rip5pqW55qE6aOO5qC844CCCgrlvovliqjkuI7lkozlo7DvvIjkuL7kvovvvIzkuI3mraLov5nkupvvvInvvJozLzQg5oiWIDYvOCDnmoTmkYfojaHjgIHovbsgc3dpbmfvvJvlpKfosIPjgIFMeWRpYW7jgIHliqDlha3luqYgLyDliqDkuZ3luqblkozlvKbjgILpn7PnlLvlkIzlvaLvvIjmr4/nlLvkuIDnrJTkuIDkuKrpn7PvvInlvojlkIjpgILvvJtgbWFsbGV0YO+8iGdsb2Nr44CBbWFyaW1iYe+8ieOAgWBwbHVja2DjgIHmn5Tlkozmi4nmnYbnmoQgYG9yZ2FuYCDpg73lj6/ku6XlvZPkuLvlpY/jgILlsI/miL/pl7TvvIzkuI3kvqfpk77jgIIKCiMjIOWOn+eUn+aJi+azlQotIOS4gOeslOeUu+WHuuS4i+S4gOmVnO+8mumAguWQiOOAjOaDs+azleWPmOaIkOeOsOWunuOAjeOAggotIOawtOW9qeaZleW8gOmTuua7oeeUu+mdouaIkOS4uuS4i+S4gOmVnOeahOW6leiJsu+8mumAguWQiOi9rOWcuuOAggotIOaTpuaOiemHjeeUu++8mumAguWQiOOAjOaUueWPmOOAjeOAjOS/ruato+OAjeOAggoKIyMg5Y+Y5YyW56m66Ze0Ci0g57uT5p6E77ya5LiA5Liq5bCP6KeS6Imy55qE5LiA5qyh5YaS6Zmp77yb5LiA5bm05Zub5a2j5Zyo5ZCM5LiA5byg57q45LiK5pu05pu/77yb5LiA5bCB5L+h5LuO5YaZ5LiL5Yiw6YCB6L6+44CCCi0g5byA5Zy677ya5LiA5byg55m957q477yM56ys5LiA56yU6JC95LiL77yb5LiA5pSv56yU5LuO55S75aSW5Ly46L+b5p2l44CCCi0g57uT5bC+77ya55S76Z2i57yp5bCP5oiQ5Lmm6YeM55qE5LiA6aG177yM5Lmm5ZCI5LiK77yM5bCB6Z2i5pivIGxvZ2/vvIjnu4/lhbjnu5PlsL7vvIzkuZ/lj6/ku6XlgZzlnKjmnIDlkI7kuIDnrJTjgIHnurjooqvmi7/otbDpnLLlh7rmoYzpnaLvvInjgIIKCiMjIOWdkQotIOavj+W4p+mDvemHjeaWsOmaj+acuueslOinpu+8iOiAjOS4jeaYr+aMiSAxMmZwcyDlm7rlrprnp43lrZDvvInvvIznlLvpnaLkvJrliafng4jpl6rng4HjgIIKLSDnrJTliLflpKrmhaLlr7zoh7TmuLLmn5Pml7bpl7TniIbngrjvvJrlhYjmtYvvvIzlho3lhrPlrprjgIIKLSDnlLvlhpnlrp7kurrnianmiJbkupTlrpjvvJrkv53mjIHmnoHnroDlkozpo47moLzljJbjgIIK
+# 蜡笔绘本（crayon-storybook）
+
+> 蜡笔、彩铅和水彩画在纸上，每秒只换十来张，线条微微抖动，像一本会动的童书。
+> 参照（只学语法）：手绘绘本插画、彩铅动画短片、p5.brush 的笔刷能力。不照搬具体绘本的角色和画面。
+
+## 本质 / 不是什么
+- 本质：**笔触有方向、粗细、颗粒和纸纹**；颜色不完全填满轮廓；画面按 12fps 步进，每一张都有细微的不同（boiling line），镜头仍然平滑。
+- 不是：矢量扁平插画加一层纸纹滤镜；也不是用 SVG 画写实人脸。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 沸腾线 | 线稿按 12fps 轻轻抖动 | 手绘、童趣 |
+| 蜡笔涂色 | 颜色不填满轮廓，露出纸色和笔触方向 | 温暖、天真 |
+| 水彩晕染 | 颜色在纸上晕开，边缘有水痕 | 柔和、情绪 |
+| 彩铅排线 | 细密的斜线叠出明暗 | 细腻、安静 |
+| 剪贴纸片 | 手绘的纸片被剪下来移动 | 游戏感、手工 |
+| 小角色 | 简单的豆子形或火柴人角色 | 故事、吉祥物 |
+| 书页 | 页边、页码、翻页的动作 | 叙事、章节 |
+| 擦除重画 | 橡皮擦掉一块，重新画上 | 修改、改变 |
+| 手写字 | 歪歪扭扭的手写标题和对白 | 文案、对话 |
+| 画笔入画 | 一支笔从画外伸进来画下一镜 | 创作、开始 |
+| 涂鸦本格子 | 方格本或横线本做底 | 学习、记录 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+
+## 这个风格最俗的版本
+- 画面：米黄纸上番茄红和天蓝的蜡笔小人，一个太阳在角落笑，结尾书合上，封面是 logo。
+- 声音：木琴、尤克里里、口哨，轻快的大调。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：故事向的宣传短片、讲解短片、节日问候、品牌情绪片。
+- 内容：教育、儿童、生活方式、公益、个人故事、温暖的品牌。
+
+## 技术路线
+p5.js（实例模式 + `noLoop()`，`render(t)` 里设置时间后 `redraw()`）+ p5.brush（彩铅、蜡笔、水彩笔刷），或者用 Canvas 自己写笔触（沿路径画很多半透明、带抖动的小线段）。**笔刷很慢**：先测单帧耗时，决定时长和帧率（24fps 输出，画面 12fps 步进，可以每两帧复用同一张）。纸纹是预先生成的一张噪声纹理，每帧叠在最上层。
+
+## 材质与渲染
+- 笔触的随机种子用 `floor(t * 12)`：每秒变 12 次，形成手绘的「沸腾」感。
+- 轮廓线：深色彩铅，略微不闭合；填色：蜡笔或水彩，留出纸色的边。
+- 水彩：多层半透明的不规则形状叠加，边缘更深（颜料堆积）。
+- 纸：暖白，有纤维纹理和轻微的不均匀。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 纸 `#F7F1E3` / 线 `#3B2F2A` / 番茄 `#E8664A` / 天蓝 `#6FA8DC` / 草绿 `#8CBF6B` / 鹅黄 `#F4C95D`
+- 夜晚：纸 `#E9E4F2` / 深蓝 `#2E3A66` / 月黄 `#F2D77B` / 粉 `#E89BB5`
+- 规则：颜料感的有限调色板，留出纸色，不用纯黑。
+- 推导：颜料感的有限调色板，留出纸色，不用纯黑。纸色和颜料从主题来：夜晚、秋天、单色铅笔、只有两支蜡笔都可以；米黄纸加番茄红天蓝是最常见的那组。
+
+## 字体
+手写体或手作感的字体：Patrick Hand、Gaegu、Caveat；中文用站酷快乐体、霞鹜文楷（OFL）。字也可以用笔刷一笔一笔「写」出来。
+
+## 运动
+- 12fps 步进，动作夸张但慢；角色用简单的 2.5D 骨骼（躯干、头、四肢），关键姿势之间缓动。
+- 转场常用「重画」：新画面一笔一笔画出来，旧画面被擦掉。
+
+## 画面怎么活
+- 线稿「沸腾」：线条按 8–12fps 换种子轻轻抖。只给线稿和小区域，整屏的色块每隔几帧重画一遍，读起来就是闪烁。
+- 云、草、树叶 12fps 步进地晃；角色眨眼、呼吸。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 缓慢推近 | 进入故事 | 开场、情绪点 |
+| 分层视差横移（纸片前后景） | 深度、旅程 | 场景移动 |
+| 翻页 | 下一章 | 段落切换 |
+
+## 声音调色板
+原声感：拨弦（`pluck`）、钢片琴感的 `bell`、软 `keys`；纸张和铅笔的拟音（带通噪声）。第 2 档的钢琴采样（Salamander）很适合这种温暖的风格。
+
+律动与和声（举例，不止这些）：3/4 或 6/8 的摇荡、轻 swing；大调、Lydian、加六度 / 加九度和弦。音画同形（每画一笔一个音）很合适；`mallet`（glock、marimba）、`pluck`、柔和拉杆的 `organ` 都可以当主奏。小房间，不侧链。
+
+## 原生手法
+- 一笔画出下一镜：适合「想法变成现实」。
+- 水彩晕开铺满画面成为下一镜的底色：适合转场。
+- 擦掉重画：适合「改变」「修正」。
+
+## 变化空间
+- 结构：一个小角色的一次冒险；一年四季在同一张纸上更替；一封信从写下到送达。
+- 开场：一张白纸，第一笔落下；一支笔从画外伸进来。
+- 结尾：画面缩小成书里的一页，书合上，封面是 logo（经典结尾，也可以停在最后一笔、纸被拿走露出桌面）。
+
+## 坑
+- 每帧都重新随机笔触（而不是按 12fps 固定种子），画面会剧烈闪烁。
+- 笔刷太慢导致渲染时间爆炸：先测，再决定。
+- 画写实人物或五官：保持极简和风格化。

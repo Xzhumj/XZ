@@ -1,1 +1,172 @@
-IyDlm5vmqKHmnb/lupPpgInlnovmgLvlhaXlj6MNCg0K5riF5Y2V5pel5pyf77yaMjAyNi0xMC0yOA0KDQrmnKzmlofku7bmmK8gTU9USU9O44CBTGVtby1PcHVzY2Fy44CBVklERU8tU0hPVENSQUZU44CBU0hPV1JFRUwtNDMg5Zub5Liq5qih5p2/5bqT55qE57uf5LiA6YCJ5Z6L5YWl5Y+j44CCDQoNCiMjIEFJIOiHquWKqOWMuemFjeS8mOWFiOe6pw0KDQroh6rliqjljLnphY3ph4fnlKjpgJDnuqflm57pgIDvvIzkuI3miorlm5vkuKrlupPlkIjlubbmiJDkuIDkuKrlgJnpgInmsaDvvJoNCg0KMS4g5YWI5ZCM5pe25Yy56YWNIExlbW8tT3B1c2NhciDlkowgVklERU8tU0hPVENSQUZU44CC5Lik5bqT5ZCM5bGe56ys5LiA5LyY5YWI57qn44CCDQoyLiDlj6rmnInnrKzkuIDkvJjlhYjnuqfmsqHmnInnnJ/mraPlkIjpgILjgIHlj6/miafooYznmoTmqKHmnb/miJbpo47moLzml7bvvIzmiY3ljLnphY0gU0hPV1JFRUwtNDPjgIINCjMuIOWPquacieWJjeS4ieWll+W6k+mDveayoeacieecn+ato+WQiOmAguOAgeWPr+aJp+ihjOeahOaooeadv+aIlumjjuagvOaXtu+8jOacgOWQjuaJjeWMuemFjSBNT1RJT07jgIINCg0K6auY5LyY5YWI57qn5bqT5om+5Yiw5Y+v55So5Yy56YWN5ZCO77yM5LiN5YaN5LuO5L2O5LyY5YWI57qn5bqT6KGl5YCZ6YCJ77yM5Lmf5LiN5Li65LqG5YeR5ruhIDMg6IezIDUNCuS4quWAmemAieiAjOmZjeS9juS8mOWFiOe6p+OAgueUqOaIt+ebtOaOpeaMh+Wumuaooeadv+OAgemjjuagvOOAgemVnOWktOWNoeaIluagt+W8j+aXtu+8jOS7peeUqOaIt+mAieaLqeS4uuWHhuOAgg0KDQojIyBTSE9XUkVFTC00Mw0KDQotIOWujOaVtOmjjuagvOinhOWIme+8mmByZWZlcmVuY2VzL3Nob3dyZWVsLTQzL0lOREVYLm1kYOOAgg0KLSDlrozmlbTmuIXljZXkuI7pooTop4jlhaXlj6PvvJpgcmVmZXJlbmNlcy9zaG93cmVlbC00My5tZGDjgIINCi0g5pys5Zyw55S75buK77ya6L+Q6KGMIGBub2RlICI8c2tpbGwtZGlyPi9zY3JpcHRzL2dhbGxlcnktc2hvd3JlZWwtNDMubWpzImDvvIzmiZPlvIAgYGh0dHA6Ly8xMjcuMC4wLjE6NDE3NC9nYWxsZXJ5Lmh0bWxg44CCDQotIDQzIOenjemjjuagvOWPr+mAkOmhuemAieaLqeOAgkFJIOWMuemFjeaXtu+8jOWPquacieWcqCBMZW1vLU9wdXNjYXIg5ZKMDQogIFZJREVPLVNIT1RDUkFGVCDpg73msqHmnInnnJ/mraPlkIjpgILjgIHlj6/miafooYznmoTljLnphY3ml7bvvIzmiY3ov5vlhaUgU0hPV1JFRUwtNDPjgIINCi0g6aKE6KeI57uf5LiA5Li6IDUg56eS44CBMTI4MMOXNzIw44CBMzBmcHMg55qE5Yqo5oCB5qC354mH44CC6aKE6KeI5piv6YCJ5Z6L5L6d5o2u77yM5LiN5piv55So5pys5pyf5paH5qGI5Yi25L2c55qE55yf5a6e5qC354mH44CCDQoNCiMjIFZJREVPLVNIT1RDUkFGVA0KDQotIOWujOaVtOaooeadv++8mmBJTkstUFJFU1NgIOWuo+S8oOeJh+aooeadv+OAgg0KLSDplZzlpLTkuI7ntKDmnZDog73lipvvvJoxMjQg5byg6ZWc5aS05Y2h44CBMTUwIOS4quagt+W8j+OAgTEwIOS4quWIhuexu++8jOS7peWPiue7hOS7tuOAgee6ueeQhuOAgemfs+mikeetiee0oOadkOOAgg0KLSDlrozmlbTmuIXljZXvvJpgcmVmZXJlbmNlcy92aWRlby1zaG90Y3JhZnQubWRg44CCDQotIOacrOWcsOeUu+W7iu+8mui/kOihjCBgbm9kZSAiPHNraWxsLWRpcj4vc2NyaXB0cy9nYWxsZXJ5LXZpZGVvLXNob3RjcmFmdC5tanMiYO+8jOaJk+W8gCBgaHR0cDovLzEyNy4wLjAuMTo0MTczL2xpYnJhcnkuaHRtbGDjgIINCi0g5a6Y5pa555S75buK77yaaHR0cHM6Ly92aW5jZW50d2VpMTAyMS5naXRodWIuaW8vdmlkZW8tc2hvdGNyYWZ0Lw0KLSBgSU5LLVBSRVNTYCDljp/nlJ/lj6rmlK/mjIEgMTY6Oe+8jOS4jeiDvemdmem7mOijgeWIh+OAgeaLieS8uOaIluaUuemAoOaIkCA5OjE244CCDQoNCiMjIExFTU8tT1BVU0NBUg0KDQpMZW1vLU9wdXNjYXIg55qEIDY2IOenjemjjuagvOS4jeWcqOacrOaWh+S7tuWkjeWItu+8jOe7n+S4gOS9v+eUqOWumOaWueWcqOe6v+mihOiniOW6k++8mg0KaHR0cHM6Ly9sZW1vbW8tYWkuZ2l0aHViLmlvL2xlbW8tb3B1c2Nhci8NCg0KIyMgTU9USU9ODQoNCuS4i+mdouWIl+WHuiBNT1RJT04g5qih5p2/5bqT55qEIDU3IOS4qiBgLm1vdGlvbmAg5qih5p2/44CCDQoNCuacrOa4heWNleaMieS4u+imgeeUqOmAlOWIhue7hO+8jOavj+S4quaooeadv+WPquW9kuWFpeS4gOS4quWIhue7hOOAgumihOiniOinhumikeS/neWtmOWcqOaooeadv+W6k+agueebruW9leeahCBgcHJldmlld3MvYCDkuK3vvIzlj6/nlKjkuo7lv6vpgJ/mr5TovoPnlLvpnaLpo47moLzvvJvpmaQgYE1ULTAzMGAg5L2/55So5pys5Zyw5qih5p2/5a6e6ZmF5riy5p+T55qEIDgg56eS5qiq5bGP6aKE6KeI5aSW77yM5YW25L2Z6KeG6aKR5p2l6Ieq5a6Y5pa55YWs5byA5qih5p2/6aG144CC5a6Y5pa5572R56uZ5bGV56S655qE5Y+v6IO95LiN5piv5pys5Zyw5Y6G5Y+y5YyF5omA5a+55bqU55qE5pen54mI5pys77yM5q2j5byP5Yi25L2c5LuN5Lul6YCJ5Lit55qEIGAubW90aW9uYCDmlofku7bkuLrlh4bjgIINCg0K5pys5paH5Lu25L2N5LqOIFNraWxsIOeahCBgcmVmZXJlbmNlcy9gIOebruW9leOAguS4i+aWh+mihOiniOWIl+S4reeahCBgcHJldmlld3MvTVQteHh4Lm1wNGAg5b+F6aG755u45a+55qih5p2/5bqT5qC555uu5b2V6Kej5p6Q77yM5LiN5piv55u45a+55pys5paH5Lu25omA5Zyo55uu5b2V6Kej5p6Q44CCDQoNCueUu+W5hee7n+iuoe+8mjE2Ojkg5YWxIDQ4IOS4qu+8jDk6MTYg5YWxIDgg5Liq77yMMToxIOWFsSAxIOS4quOAgg0KDQror63oqIDor7TmmI7vvJrmqKHmnb/pooTop4jkuK3nmoToi7HmlofmiJblhbbku5blpJbmloflj6rmmK/mqKHmnb/npLrkvovmlofmoYjvvIzlj6rnlKjkuo7liKTmlq3op4bop4npo47moLzjgILkuK3mloflhoXlrrnkvb/nlKjov5nkupvmqKHmnb/ml7bvvIzmraPlvI/pooTop4jlkozmiJDniYfkuK3nmoTmoIfpopjjgIHlrZfluZXjgIHmoIfnrb7jgIHmjInpkq7jgIFDVEHjgIHniYflsL7lkozlhbbku5blj6/op4HmloflrZflv4Xpobvlhajpg6jmlLnkuLrkuK3mlofjgIINCg0KIyMg5b+r6YCf5a+86IiqDQoNCi0gW+WPo+aSreiusuino10oI+WPo+aSreiusuinoynvvIgxMiDkuKrvvIkNCi0gW+S6p+WTgeWuo+S8oF0oI+S6p+WTgeWuo+S8oCnvvIgxMiDkuKrvvIkNCi0gW+WTgeeJjOWPmeS6i10oI+WTgeeJjOWPmeS6iynvvIg1IOS4qu+8iQ0KLSBb54Wn54mH55u45YaMXSgj54Wn54mH55u45YaMKe+8iDcg5Liq77yJDQotIFvmlbDmja7lm77ooahdKCPmlbDmja7lm77ooagp77yIMyDkuKrvvIkNCi0gW+a1geeoi+aVmeeoi10oI+a1geeoi+aVmeeoiynvvIgzIOS4qu+8iQ0KLSBb5Yqo5pWI57uE5Lu2XSgj5Yqo5pWI57uE5Lu2Ke+8iDEwIOS4qu+8iQ0KLSBb56eR5oqA6KeG6KeJXSgj56eR5oqA6KeG6KeJKe+8iDUg5Liq77yJDQoNCiMjIOWPo+aSreiusuinow0KDQp8IOe8luWPtyB8IOaooeadvyB8IOeUu+W5hSB8IOeJiOacrCB8IOacgOmAguWQiOeahOWGheWuuSB8IOacrOWcsOmihOiniCB8DQp8LS0tfC0tLXwtLS18LS0tOnwtLS18LS0tfA0KfCBNVC0wMDkgfCDnjrDku6Plm77mlocgwrcg5Y+j5pKt6K6y6KejIHwgMTY6OSB8IDIuNy4xNy1hbHBoYS40IHwg5qiq5bGP5Y+j5pKt44CB6K6y6Kej5ZKM5L+h5oGv5ouG6KejIHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDA5Lm1wNCkgfA0KfCBNVC0wMTAgfCDnjrDku6Plm77mlocgwrcg5Y+j5pKt6K6y6KejIMK3IOerluWxjyB8IDk6MTYgfCAyLjcuMTMgfCDnq5blsY/lj6Pmkq3lkozorrLop6MgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMTAubXA0KSB8DQp8IE1ULTAxMSB8IOe6uOmdoumAj+inhiDCtyDlj6Pmkq3orrLop6MgfCAxNjo5IHwgMi43LjIwLWFscGhhLjIgfCDnurjpnaLpo47moLzlj6Pmkq3lkozorrLop6MgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMTEubXA0KSB8DQp8IE1ULTAxMiB8IOe6uOmdoumAj+inhiDCtyDlj6Pmkq3orrLop6Mgwrcg56uW5bGPIHwgOToxNiB8IDIuNy4xMyB8IOerluWxj+e6uOmdoumjjuagvOWPo+aSrSB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAxMi5tcDQpIHwNCnwgTVQtMDE1IHwg56eR5oqA5o6n5Yi25Y+wIMK3IOWPo+aSreiusuinoyB8IDE2OjkgfCAyLjcuMTEgfCDnp5HmioDpo47lj6Pmkq3lkozorrLop6MgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMTUubXA0KSB8DQp8IE1ULTAxNiB8IOenkeaKgOaOp+WItuWPsCDCtyDlj6Pmkq3orrLop6Mgwrcg56uW5bGPIHwgOToxNiB8IDIuNy4xNy1hbHBoYS4zIHwg56uW5bGP56eR5oqA6aOO5Y+j5pKtIHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDE2Lm1wNCkgfA0KfCBNVC0wMjcgfCDmtLvlipvmtbfmiqUgwrcg5Y+j5pKt6K6y6KejIHwgMTY6OSB8IDIuNy4xNy1hbHBoYS4zIHwg5qiq5bGP5rS75Yqb5rW35oql5Y+j5pKtIHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDI3Lm1wNCkgfA0KfCBNVC0wMjggfCDmtLvlipvmtbfmiqUgwrcg5Y+j5pKt6K6y6KejIMK3IOerluWxjyB8IDk6MTYgfCAyLjcuMTctYWxwaGEuMyB8IOerluWxj+a0u+WKm+a1t+aKpeWPo+aSrSB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAyOC5tcDQpIHwNCnwgTVQtMDM1IHwg5Y+j5pKt5a6j5Lyg5Yqo5pWIIDEwIOenkiB8IDE2OjkgfCAxLjAuMCB8IDEwIOenkuWPo+aSreWuo+S8oOWKqOaViCB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAzNS5tcDQpIHwNCnwgTVQtMDQ1IHwgREVFUCBTVEFHRSDlj6Pmkq3kuLvoiJ7lj7AgfCAxNjo5IHwgMS4wLjAgfCBERUVQLVNUQUdFIOWPo+aSreS4u+iInuWPsCB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTA0NS5tcDQpIHwNCnwgTVQtMDUyIHwg5Zu+6Kej5Y+j5pKt5LiO5Zu+54mH5bGV56S6IHwgMTY6OSB8IDAuOC4xLXJjLjEgfCDlm77op6Plj6Pmkq3lkozlm77niYflsZXnpLogfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wNTIubXA0KSB8DQp8IE1ULTA1NCB8IEtpdCAyIMK3IOWPo+aSreWKqOaViOWMheijhe+8iOerluWxj++8iSB8IDk6MTYgfCAxLjAuMCB8IOerluWxj+WPo+aSreWKqOaViOWMheijhSB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTA1NC5tcDQpIHwNCg0KIyMg5Lqn5ZOB5a6j5LygDQoNCnwg57yW5Y+3IHwg5qih5p2/IHwg55S75bmFIHwg54mI5pysIHwg5pyA6YCC5ZCI55qE5YaF5a65IHwg5pys5Zyw6aKE6KeIIHwNCnwtLS18LS0tfC0tLXwtLS06fC0tLXwtLS18DQp8IE1ULTAwMSB8IOWkmuWxj+aLvOi0tCDCtyDlk4HniYzlrqPkvKAgfCAxNjo5IHwgMi42LjQgfCDlk4HniYzmiJbkuqflk4HnmoTlpJrlsY/mi7zotLTlrqPkvKAgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMDEubXA0KSB8DQp8IE1ULTAwMiB8IOWDj+e0oOmXr+WFsyDCtyDkuqflk4HlrqPkvKAgfCAxNjo5IHwgMi42LjYgfCDlg4/ntKDpo47kuqflk4HlrqPkvKAgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMDIubXA0KSB8DQp8IE1ULTAwMyB8IOaYjuaal+W/q+WIhyDCtyDkuqflk4HlrqPkvKAgfCAxNjo5IHwgMi42LjQgfCDlv6voioLlpY/kuqflk4HlrqPkvKAgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMDMubXA0KSB8DQp8IE1ULTAwNSB8IOaooeWdl+aLvOi0tCDCtyDliJvkvZzogIXlrqPkvKAgfCAxNjo5IHwgMi42LjQgfCDliJvkvZzogIXmiJbkuqflk4HmqKHlnZflrqPkvKAgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMDUubXA0KSB8DQp8IE1ULTAwNiB8IOW3peeoi+iTneWbviDCtyDkuqflk4Hmi4bop6MgfCAxNjo5IHwgMi42LjQgfCDkuqflk4Hnu5PmnoTmi4bop6Plkozlt6XnqIvorrLop6MgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMDYubXA0KSB8DQp8IE1ULTAwNyB8IOWPkeW4g+S8muiInuWPsCDCtyDkuqflk4HmvJTnpLogfCAxNjo5IHwgMi42LjQgfCDlj5HluIPkvJrlkozkuqflk4HmvJTnpLogfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMDcubXA0KSB8DQp8IE1ULTAxMyB8IOa3seiJsueri+S9kyDCtyDlpJrlsY/lsZXpmYggfCAxNjo5IHwgMi43LjE3LWFscGhhLjIgfCDmt7HoibLlpJrlsY/kuqflk4HlkozmlrnmoYjlsZXnpLogfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMTMubXA0KSB8DQp8IE1ULTAxNCB8IOa3seiJsueri+S9kyDCtyDlpJrlsY/lsZXpmYggwrcg56uW5bGPIHwgOToxNiB8IDIuNy4xNy1hbHBoYS4yIHwg56uW5bGP5rex6Imy5aSa5bGP5bGV56S6IHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDE0Lm1wNCkgfA0KfCBNVC0wMjEgfCDlh6DkvZXmi7zotLQgwrcg5Yqo5oCB5rW35oqlIHwgMTY6OSB8IDIuNi40IHwg5Yeg5L2V5Yqo5oCB5rW35oql5ZKM5ZOB54mM5a6j5LygIHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDIxLm1wNCkgfA0KfCBNVC0wNDIgfCDkuqflk4HkuI7lk4HniYwgwrcgUFJPRFVDVCDihpIgQlJBTkQgfCAxNjo5IHwgMS4wLjAgfCDku47kuqflk4Hku4vnu43otbDlkJHlk4HniYzooajovr4gfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wNDIubXA0KSB8DQp8IE1ULTA0NiB8IERFRVAgU1RBR0Ug5Lqn5ZOB6K6y6KejIHwgMTY6OSB8IDEuMC4wIHwg5Lqn5ZOB6K6y6Kej5ZKM5bGV56S6IHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDQ2Lm1wNCkgfA0KfCBNVC0wNTAgfCBERUVQIFNUQUdFIOa3seWig+iInuWPsOWujOaVtOeJiCB8IDE2OjkgfCAxLjAuMCB8IOa3seWig+iInuWPsOWujOaVtOWuo+S8oCB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTA1MC5tcDQpIHwNCg0KIyMg5ZOB54mM5Y+Z5LqLDQoNCnwg57yW5Y+3IHwg5qih5p2/IHwg55S75bmFIHwg54mI5pysIHwg5pyA6YCC5ZCI55qE5YaF5a65IHwg5pys5Zyw6aKE6KeIIHwNCnwtLS18LS0tfC0tLXwtLS06fC0tLXwtLS18DQp8IE1ULTAwOCB8IOWuo+e6uOaJi+WNtyDCtyDlk4HniYzlj5nkuosgfCAxNjo5IHwgMi42LjYgfCDlk4HniYzmlYXkuovlkozmlofljJblj5nkuosgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMDgubXA0KSB8DQp8IE1ULTAxNyB8IOmynOiJsuinkuiJsiDCtyDlj5nkuovorrLop6MgfCAxNjo5IHwgMi43LjEzIHwg6bKc6Imy6KeS6Imy5Y+Z5LqL6K6y6KejIHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDE3Lm1wNCkgfA0KfCBNVC0wMTggfCDpspzoibLop5LoibIgwrcg5Y+Z5LqL6K6y6KejIMK3IOerluWxjyB8IDk6MTYgfCAyLjcuMTctYWxwaGEuMiB8IOerluWxj+inkuiJsuWPmeS6i+iusuinoyB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAxOC5tcDQpIHwNCnwgTVQtMDUzIHwgS2l0IDEgwrcg5Lq65paH57qq5b2V54mH55+l6K+G55+t54mHIHwgMTY6OSB8IDEuMC4wIHwg5Lq65paH57qq5b2V54mH5ZKM55+l6K+G55+t54mHIHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDUzLm1wNCkgfA0KfCBNVC0wNTYgfCDmsLTloqjkurrnianlv5cgwrcg5LiA5Liq5Lq655qE5pWF5LqLIHwgMTY6OSB8IDEuMC4wIHwg5rC05aKo5Lq654mp5pWF5LqLIHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDU2Lm1wNCkgfA0KDQojIyDnhafniYfnm7jlhowNCg0KfCDnvJblj7cgfCDmqKHmnb8gfCDnlLvluYUgfCDniYjmnKwgfCDmnIDpgILlkIjnmoTlhoXlrrkgfCDmnKzlnLDpooTop4ggfA0KfC0tLXwtLS18LS0tfC0tLTp8LS0tfC0tLXwNCnwgTVQtMDE5IHwg5Y2K6LCD572R54K5IMK3IOS6uuWDj+agh+mimCB8IDE2OjkgfCAyLjYuNiB8IOS6uuWDj+agh+mimOWSjOS6uueJqeS7i+e7jSB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAxOS5tcDQpIHwNCnwgTVQtMDIwIHwg54Wn54mH6ams6LWb5YWLIMK3IOaLvOWbvuaPreW5lSB8IDE2OjkgfCAyLjYuNCB8IOeFp+eJh+aLvOWbvuaPreW5lSB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAyMC5tcDQpIHwNCnwgTVQtMDIyIHwg56yU6Kem6YeN57uYIMK3IOiJuuacr+eFp+eJhyB8IDE2OjkgfCAyLjYuNCB8IOiJuuacr+eFp+eJh+WSjOeslOinpumHjee7mCB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAyMi5tcDQpIHwNCnwgTVQtMDIzIHwg5L+h5Y+35pWF6ZqcIMK3IOeFp+eJh+i9rOWcuiB8IDE2OjkgfCAyLjYuNCB8IOeFp+eJh+aVhemanOi9rOWcuiB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAyMy5tcDQpIHwNCnwgTVQtMDI0IHwg5Y+M6YeN5pud5YWJIMK3IOS6uuWDj+WPoOW9sSB8IDE2OjkgfCAyLjYuNCB8IOS6uuWDj+WPjOmHjeabneWFiSB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAyNC5tcDQpIHwNCnwgTVQtMDI1IHwg56m66Ze055S75buKIMK3IOWbnuW/huebuOWGjCB8IDE2OjkgfCAyLjYuNCB8IOepuumXtOebuOWGjOWSjOWbnuW/huWxleekuiB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAyNS5tcDQpIHwNCnwgTVQtMDI2IHwg6ZWc5YOP5LiH6Iqx562SIMK3IOeFp+eJh+WPmOW5uyB8IDE2OjkgfCAyLjYuNCB8IOeFp+eJh+S4h+iKseetkuWSjOiJuuacr+WPmOW5uyB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAyNi5tcDQpIHwNCg0KIyMg5pWw5o2u5Zu+6KGoDQoNCnwg57yW5Y+3IHwg5qih5p2/IHwg55S75bmFIHwg54mI5pysIHwg5pyA6YCC5ZCI55qE5YaF5a65IHwg5pys5Zyw6aKE6KeIIHwNCnwtLS18LS0tfC0tLXwtLS06fC0tLXwtLS18DQp8IE1ULTAzNCB8IOmHj+S7t+WbvuihqO+8mkvnur/nqoHnoLTkuI7liIbml7bliqjnlLsgfCAxOjEgfCAxLjAuMCB8IEvnur/jgIHph4/ku7flkozliIbml7blm77ooaggfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMzQubXA0KSB8DQp8IE1ULTA0NyB8IERFRVAgU1RBR0Ug5qGI5L6L5pWw5o2uIHwgMTY6OSB8IDEuMC4wIHwg5qGI5L6L5pWw5o2u5ZKM5Zu+6KGo5bGV56S6IHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDQ3Lm1wNCkgfA0KfCBNVC0wNTUgfCDlpJrlsY/llYbliqEgwrcg5Yqo5oCB5Zu+6KGoIHwgMTY6OSB8IDAuMS4xLWNhbmRpZGF0ZSB8IOWVhuWKoeWkmuWxj+WSjOWKqOaAgeWbvuihqCB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTA1NS5tcDQpIHwNCg0KIyMg5rWB56iL5pWZ56iLDQoNCnwg57yW5Y+3IHwg5qih5p2/IHwg55S75bmFIHwg54mI5pysIHwg5pyA6YCC5ZCI55qE5YaF5a65IHwg5pys5Zyw6aKE6KeIIHwNCnwtLS18LS0tfC0tLXwtLS06fC0tLXwtLS18DQp8IE1ULTAwNCB8IOa1geeoi+a8lOekuiDCtyDkuqflk4HmlZnnqIsgfCAxNjo5IHwgMi42LjQgfCDkuqflk4Hmk43kvZzmtYHnqIvlkozmraXpqqTmlZnnqIsgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMDQubXA0KSB8DQp8IE1ULTA0MSB8IOa1geeoi+S4juaXtumXtOe6vyDCtyBGTE9XIC8gVElNRUxJTkUgfCAxNjo5IHwgMS4wLjAgfCDmtYHnqIvjgIHmraXpqqTlkozml7bpl7Tnur8gfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wNDEubXA0KSB8DQp8IE1ULTA1NyB8IDNEIOWQieelpeeJqeaJi+aKiuaJi+aVmeeoiyB8IDE2OjkgfCAxLjAuMCB8IDNEIOWQieelpeeJqeaTjeS9nOaVmeeoiyB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTA1Ny5tcDQpIHwNCg0KIyMg5Yqo5pWI57uE5Lu2DQoNCnwg57yW5Y+3IHwg5qih5p2/IHwg55S75bmFIHwg54mI5pysIHwg5pyA6YCC5ZCI55qE5YaF5a65IHwg5pys5Zyw6aKE6KeIIHwNCnwtLS18LS0tfC0tLXwtLS06fC0tLXwtLS18DQp8IE1ULTAzNiB8IDNEIOWPo+aSreW8gOWcuiB8IDE2OjkgfCAxLjAuMCB8IDNEIOWPo+aSreW8gOWcuiB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAzNi5tcDQpIHwNCnwgTVQtMDM3IHwgTGlnaHQgUmliYm9uIFdvcmQgfCAxNjo5IHwgMS4wLjAgfCDlhYnluKbmloflrZfmoIfpopggfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMzcubXA0KSB8DQp8IE1ULTAzOCB8IOaLvOi0tOWHuuWcuiDCtyBDT0xMQUdFIE9QRU4gfCAxNjo5IHwgMS4wLjAgfCDmi7zotLTlvI/lvIDlnLogfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMzgubXA0KSB8DQp8IE1ULTAzOSB8IOWkmuWxj+WimeaNoueJiCDCtyBXQUxMIFNXQVAgfCAxNjo5IHwgMS4wLjAgfCDlpJrlsY/lopnliIfmjaIgfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMzkubXA0KSB8DQp8IE1ULTA0MCB8IOWbm+enjeeci+azleS4jueJh+agvCDCtyBWSUVXUyAvIFNUUklQIHwgMTY6OSB8IDEuMC4wIHwg5aSa6KeC54K55ZKM54mH5qC85bGV56S6IHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDQwLm1wNCkgfA0KfCBNVC0wNDMgfCDpnaLmnb/mk6bpmaQgwrcgV0lQRSBQQUNLIHwgMTY6OSB8IDEuMC4wIHwg6Z2i5p2/5pOm6Zmk5ZKM6L2s5Zy6IHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDQzLm1wNCkgfA0KfCBNVC0wNDQgfCBERUVQIFNUQUdFIOW8gOWcuueCueeBq+agh+mimCB8IDE2OjkgfCAxLjAuMCB8IERFRVAtU1RBR0Ug5byA5Zy65qCH6aKYIHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDQ0Lm1wNCkgfA0KfCBNVC0wNDggfCBERUVQIFNUQUdFIOWqkuS9k+e0oOadkOWimSB8IDE2OjkgfCAxLjAuMCB8IOWqkuS9k+e0oOadkOWimSB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTA0OC5tcDQpIHwNCnwgTVQtMDQ5IHwgREVFUCBTVEFHRSDmlLblsL7plIHniYggfCAxNjo5IHwgMS4wLjAgfCDlk4HniYzmlLblsL7lkozplIHlrpogfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wNDkubXA0KSB8DQp8IE1ULTA1MSB8IOebruagh+S4juivgeaNriDCtyAxN+exu+ivreS5ieWKqOaViCB8IDE2OjkgfCAwLjQuMC1yYy41IHwgMTcg57G76K+t5LmJ5Yqo5pWI5ZKM5YaF5a6557uE5Lu2IHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDUxLm1wNCkgfA0KDQojIyDnp5HmioDop4bop4kNCg0KfCDnvJblj7cgfCDmqKHmnb8gfCDnlLvluYUgfCDniYjmnKwgfCDmnIDpgILlkIjnmoTlhoXlrrkgfCDmnKzlnLDpooTop4ggfA0KfC0tLXwtLS18LS0tfC0tLTp8LS0tfC0tLXwNCnwgTVQtMDI5IHwg6YW354Kr56eR5oqA6aOOIMK3IOS4reaWh+erluWxjyB8IDk6MTYgfCAwLjIuNDAtYWxwaGEuMSB8IOS4reaWh+erluWxj+mFt+eCq+enkeaKgOmjjiB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAyOS5tcDQpIHwNCnwgTVQtMDMwIHwg6YW354Kr56eR5oqA6aOOIHwgMTY6OSB8IDAuMi43LW9wZW4tYmV0YSB8IOaoquWxj+mFt+eCq+enkeaKgOmjjiB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAzMC5tcDQpIHwNCnwgTVQtMDMxIHwgRGVlcFNlZWsg6bK46bG857KS5a2Q6IGa5ZCIIHwgMTY6OSB8IDEuMS4wIHwg6bK46bG857KS5a2Q6IGa5ZCI5byA5Zy6IHwgW+aSreaUvl0ocHJldmlld3MvTVQtMDMxLm1wNCkgfA0KfCBNVC0wMzIgfCBEZWVwU2VlayDnspLlrZDlvaLlj5ggfCAxNjo5IHwgMS4xLjAgfCDnspLlrZDmiJYgTG9nbyDlvaLlj5ggfCBb5pKt5pS+XShwcmV2aWV3cy9NVC0wMzIubXA0KSB8DQp8IE1ULTAzMyB8IERlZXBTZWVrIOivjeivreeykuWtkCB8IDE2OjkgfCAxLjEuMCB8IOivjeivreeykuWtkOWSjOWFs+mUruivjeWKqOeUuyB8IFvmkq3mlL5dKHByZXZpZXdzL01ULTAzMy5tcDQpIHwNCg0KIyMg5L2/55So6K+05piODQoNCjEuIEFJIOWMuemFjeaooeadv+aXtu+8jOW/hemhu+aMieS7peS4i+mhuuW6j+mAkOe6p+aQnOe0ouWSjOWbnumAgO+8muWFiOWQjOaXtuaQnOe0oiBMZW1vLU9wdXNjYXIg5LiOIFZJREVPLVNIT1RDUkFGVO+8m+S4pOiAhemDveayoeacieecn+ato+WQiOmAguOAgeWPr+aJp+ihjOeahOWMuemFjeaXtu+8jOWGjeaQnOe0oiBTSE9XUkVFTC00M++8m+WJjeS4ieWll+mDveS4jeWQiOmAguaXtu+8jOacgOWQjuaJjeaQnOe0oiBNT1RJT07jgILmiJDlip/lkb3kuK3mn5DmoaPlkI7vvIzlj6rku47or6XmoaPmjqjojZAgMyDoh7MgNSDkuKrlgJnpgInvvJvlpoLmnpzor6XmoaPkuI3otrMgMyDkuKrvvIzlsLHlj6rmjqjojZDlrp7pmYXlkIjpgILnmoTlgJnpgInvvIzkuI3og73nlKjkvY7kvJjlhYjnuqflupPooaXmlbDjgIINCjIuIOiHquS4u+mAieaLqeaooeadv+aXtu+8jOW/hemhu+WQjOaXtuaPkOS+m+acrCBNT1RJT04g5riF5Y2V44CBTGVtby1PcHVzY2FyIOWumOaWueWcqOe6v+mihOiniOW6k+OAgVZJREVPLVNIT1RDUkFGVCDnmoTlrozmlbTmqKHmnb/muIXljZXlkoznlLvlu4rlhaXlj6PvvIzku6Xlj4ogU0hPV1JFRUwtNDMg55qE5a6M5pW05riF5Y2V5ZKM5pys5Zyw55S75buK5YWl5Y+j44CCDQozLiDmma7pgJrkurrlj6/ku6Xlm57lpI3kuIDkuKrlgJnpgInnvJblj7fjgIHlkI3np7DjgIFMZW1vIOmjjuagvOWQjeOAgVZJREVPLVNIT1RDUkFGVCDplZzlpLTljaHlkI3miJbmoLflvI8ga2V544CBU0hPV1JFRUwtNDMgc2x1ZyDmiJbkuK3mloflkI3vvIzkuZ/lj6/ku6Xlm57lpI3lpJrkuKrov5vooYznu4TlkIjkvb/nlKjjgILlu7rorq7kuIDmrKHmnIDlpJrnu4TlkIggMyDkuKrmqKHmnb/jgIINCjQuIOWmguaenOaZrumAmuS6uuaMh+WumuWkmuS4quaooeadv++8jENvZGV4IOW/hemhu+S4uuavj+S4quaooeadv+WGmeaYjui0n+i0o+WcuuaZr+OAgemhuuW6j+WSjOi9rOWcuu+8jOW5tuehruiupOaJgOacieaooeadv+mDveiDveS9v+eUqOWQjOS4gOS4quacgOe7iOeUu+W5heOAgg0KNS4g5aaC5p6c5pmu6YCa5Lq65bey57uP5oyH5a6aIE1PVElPTiDmqKHmnb/nvJblj7fjgIFMZW1vLU9wdXNjYXIg6aOO5qC85ZCN44CBVklERU8tU0hPVENSQUZUIOaooeadv+OAgemVnOWktOWNoeWQjeOAgeagt+W8jyBrZXnvvIzmiJYgU0hPV1JFRUwtNDMgc2x1Z+OAgeS4reaWh+WQje+8jOeUqOaIt+mAieaLqeS8mOWFiOS6juiHquWKqOWMuemFjemhuuW6j++8jENvZGV4IOWPquS9v+eUqOaMh+WumumbhuWQiO+8jOS4jeWGjeaTheiHquWinuWKoOOAgeWIoOmZpOaIluabv+aNouOAgg0KNi4g5riF5Y2V5Y+v5YWI5oyJ55So6YCU57yp5bCP6IyD5Zu077yM5YaN5pKt5pS+5pys5Zyw6aKE6KeI77yb5LiN6IO95Y+q55yL57yW5Y+355u05o6l5Yik5pat55S76Z2i44CCDQo3LiDmnKzlnLDpooTop4jlj6rnlKjkuo7pgInlnovvvIzkuI3mmK/nlKjmnKzmnJ/mlofmoYjliLbkvZznmoTnnJ/lrp7pooTop4jjgIINCjguIOato+W8j+WItuS9nOaXtu+8jENvZGV4IOS7jemhu+WujOaIkOWItuS9nOaWueahiOehruiupOWSjOecn+WunumihOiniOehruiupOOAgg0KOS4g5Lit5paH5YaF5a655Yy56YWN6Iux5paH6KeG6KeJ5qih5p2/5pe277yMQ29kZXgg5b+F6aG75YWI56Gu6K6k5qih5p2/5paH5a2X5Y+v5Lul5a6M5pW05pys5Zyw5YyW77yb5LiN6IO95L+u5pS555qE6Iux5paH6buY6K6k5paH5qGI5Lya6Zi75pat5Yi25L2c44CCDQoNCg==
+# 四模板库选型总入口
+
+清单日期：2026-10-28
+
+本文件是 MOTION、Lemo-Opuscar、VIDEO-SHOTCRAFT、SHOWREEL-43 四个模板库的统一选型入口。
+
+## AI 自动匹配优先级
+
+自动匹配采用逐级回退，不把四个库合并成一个候选池：
+
+1. 先同时匹配 Lemo-Opuscar 和 VIDEO-SHOTCRAFT。两库同属第一优先级。
+2. 只有第一优先级没有真正合适、可执行的模板或风格时，才匹配 SHOWREEL-43。
+3. 只有前三套库都没有真正合适、可执行的模板或风格时，最后才匹配 MOTION。
+
+高优先级库找到可用匹配后，不再从低优先级库补候选，也不为了凑满 3 至 5
+个候选而降低优先级。用户直接指定模板、风格、镜头卡或样式时，以用户选择为准。
+
+## SHOWREEL-43
+
+- 完整风格规则：`references/showreel-43/INDEX.md`。
+- 完整清单与预览入口：`references/showreel-43.md`。
+- 本地画廊：运行 `node "<skill-dir>/scripts/gallery-showreel-43.mjs"`，打开 `http://127.0.0.1:4174/gallery.html`。
+- 43 种风格可逐项选择。AI 匹配时，只有在 Lemo-Opuscar 和
+  VIDEO-SHOTCRAFT 都没有真正合适、可执行的匹配时，才进入 SHOWREEL-43。
+- 预览统一为 5 秒、1280×720、30fps 的动态样片。预览是选型依据，不是用本期文案制作的真实样片。
+
+## VIDEO-SHOTCRAFT
+
+- 完整模板：`INK-PRESS` 宣传片模板。
+- 镜头与素材能力：124 张镜头卡、150 个样式、10 个分类，以及组件、纹理、音频等素材。
+- 完整清单：`references/video-shotcraft.md`。
+- 本地画廊：运行 `node "<skill-dir>/scripts/gallery-video-shotcraft.mjs"`，打开 `http://127.0.0.1:4173/library.html`。
+- 官方画廊：https://vincentwei1021.github.io/video-shotcraft/
+- `INK-PRESS` 原生只支持 16:9，不能静默裁切、拉伸或改造成 9:16。
+
+## LEMO-OPUSCAR
+
+Lemo-Opuscar 的 66 种风格不在本文件复制，统一使用官方在线预览库：
+https://lemomo-ai.github.io/lemo-opuscar/
+
+## MOTION
+
+下面列出 MOTION 模板库的 57 个 `.motion` 模板。
+
+本清单按主要用途分组，每个模板只归入一个分组。预览视频保存在模板库根目录的 `previews/` 中，可用于快速比较画面风格；除 `MT-030` 使用本地模板实际渲染的 8 秒横屏预览外，其余视频来自官方公开模板页。官方网站展示的可能不是本地历史包所对应的旧版本，正式制作仍以选中的 `.motion` 文件为准。
+
+本文件位于 Skill 的 `references/` 目录。下文预览列中的 `previews/MT-xxx.mp4` 必须相对模板库根目录解析，不是相对本文件所在目录解析。
+
+画幅统计：16:9 共 48 个，9:16 共 8 个，1:1 共 1 个。
+
+语言说明：模板预览中的英文或其他外文只是模板示例文案，只用于判断视觉风格。中文内容使用这些模板时，正式预览和成片中的标题、字幕、标签、按钮、CTA、片尾和其他可见文字必须全部改为中文。
+
+## 快速导航
+
+- [口播讲解](#口播讲解)（12 个）
+- [产品宣传](#产品宣传)（12 个）
+- [品牌叙事](#品牌叙事)（5 个）
+- [照片相册](#照片相册)（7 个）
+- [数据图表](#数据图表)（3 个）
+- [流程教程](#流程教程)（3 个）
+- [动效组件](#动效组件)（10 个）
+- [科技视觉](#科技视觉)（5 个）
+
+## 口播讲解
+
+| 编号 | 模板 | 画幅 | 版本 | 最适合的内容 | 本地预览 |
+|---|---|---|---:|---|---|
+| MT-009 | 现代图文 · 口播讲解 | 16:9 | 2.7.17-alpha.4 | 横屏口播、讲解和信息拆解 | [播放](previews/MT-009.mp4) |
+| MT-010 | 现代图文 · 口播讲解 · 竖屏 | 9:16 | 2.7.13 | 竖屏口播和讲解 | [播放](previews/MT-010.mp4) |
+| MT-011 | 纸面透视 · 口播讲解 | 16:9 | 2.7.20-alpha.2 | 纸面风格口播和讲解 | [播放](previews/MT-011.mp4) |
+| MT-012 | 纸面透视 · 口播讲解 · 竖屏 | 9:16 | 2.7.13 | 竖屏纸面风格口播 | [播放](previews/MT-012.mp4) |
+| MT-015 | 科技控制台 · 口播讲解 | 16:9 | 2.7.11 | 科技风口播和讲解 | [播放](previews/MT-015.mp4) |
+| MT-016 | 科技控制台 · 口播讲解 · 竖屏 | 9:16 | 2.7.17-alpha.3 | 竖屏科技风口播 | [播放](previews/MT-016.mp4) |
+| MT-027 | 活力海报 · 口播讲解 | 16:9 | 2.7.17-alpha.3 | 横屏活力海报口播 | [播放](previews/MT-027.mp4) |
+| MT-028 | 活力海报 · 口播讲解 · 竖屏 | 9:16 | 2.7.17-alpha.3 | 竖屏活力海报口播 | [播放](previews/MT-028.mp4) |
+| MT-035 | 口播宣传动效 10 秒 | 16:9 | 1.0.0 | 10 秒口播宣传动效 | [播放](previews/MT-035.mp4) |
+| MT-045 | DEEP STAGE 口播主舞台 | 16:9 | 1.0.0 | DEEP-STAGE 口播主舞台 | [播放](previews/MT-045.mp4) |
+| MT-052 | 图解口播与图片展示 | 16:9 | 0.8.1-rc.1 | 图解口播和图片展示 | [播放](previews/MT-052.mp4) |
+| MT-054 | Kit 2 · 口播动效包装（竖屏） | 9:16 | 1.0.0 | 竖屏口播动效包装 | [播放](previews/MT-054.mp4) |
+
+## 产品宣传
+
+| 编号 | 模板 | 画幅 | 版本 | 最适合的内容 | 本地预览 |
+|---|---|---|---:|---|---|
+| MT-001 | 多屏拼贴 · 品牌宣传 | 16:9 | 2.6.4 | 品牌或产品的多屏拼贴宣传 | [播放](previews/MT-001.mp4) |
+| MT-002 | 像素闯关 · 产品宣传 | 16:9 | 2.6.6 | 像素风产品宣传 | [播放](previews/MT-002.mp4) |
+| MT-003 | 明暗快切 · 产品宣传 | 16:9 | 2.6.4 | 快节奏产品宣传 | [播放](previews/MT-003.mp4) |
+| MT-005 | 模块拼贴 · 创作者宣传 | 16:9 | 2.6.4 | 创作者或产品模块宣传 | [播放](previews/MT-005.mp4) |
+| MT-006 | 工程蓝图 · 产品拆解 | 16:9 | 2.6.4 | 产品结构拆解和工程讲解 | [播放](previews/MT-006.mp4) |
+| MT-007 | 发布会舞台 · 产品演示 | 16:9 | 2.6.4 | 发布会和产品演示 | [播放](previews/MT-007.mp4) |
+| MT-013 | 深色立体 · 多屏展陈 | 16:9 | 2.7.17-alpha.2 | 深色多屏产品和方案展示 | [播放](previews/MT-013.mp4) |
+| MT-014 | 深色立体 · 多屏展陈 · 竖屏 | 9:16 | 2.7.17-alpha.2 | 竖屏深色多屏展示 | [播放](previews/MT-014.mp4) |
+| MT-021 | 几何拼贴 · 动态海报 | 16:9 | 2.6.4 | 几何动态海报和品牌宣传 | [播放](previews/MT-021.mp4) |
+| MT-042 | 产品与品牌 · PRODUCT → BRAND | 16:9 | 1.0.0 | 从产品介绍走向品牌表达 | [播放](previews/MT-042.mp4) |
+| MT-046 | DEEP STAGE 产品讲解 | 16:9 | 1.0.0 | 产品讲解和展示 | [播放](previews/MT-046.mp4) |
+| MT-050 | DEEP STAGE 深境舞台完整版 | 16:9 | 1.0.0 | 深境舞台完整宣传 | [播放](previews/MT-050.mp4) |
+
+## 品牌叙事
+
+| 编号 | 模板 | 画幅 | 版本 | 最适合的内容 | 本地预览 |
+|---|---|---|---:|---|---|
+| MT-008 | 宣纸手卷 · 品牌叙事 | 16:9 | 2.6.6 | 品牌故事和文化叙事 | [播放](previews/MT-008.mp4) |
+| MT-017 | 鲜色角色 · 叙事讲解 | 16:9 | 2.7.13 | 鲜色角色叙事讲解 | [播放](previews/MT-017.mp4) |
+| MT-018 | 鲜色角色 · 叙事讲解 · 竖屏 | 9:16 | 2.7.17-alpha.2 | 竖屏角色叙事讲解 | [播放](previews/MT-018.mp4) |
+| MT-053 | Kit 1 · 人文纪录片知识短片 | 16:9 | 1.0.0 | 人文纪录片和知识短片 | [播放](previews/MT-053.mp4) |
+| MT-056 | 水墨人物志 · 一个人的故事 | 16:9 | 1.0.0 | 水墨人物故事 | [播放](previews/MT-056.mp4) |
+
+## 照片相册
+
+| 编号 | 模板 | 画幅 | 版本 | 最适合的内容 | 本地预览 |
+|---|---|---|---:|---|---|
+| MT-019 | 半调网点 · 人像标题 | 16:9 | 2.6.6 | 人像标题和人物介绍 | [播放](previews/MT-019.mp4) |
+| MT-020 | 照片马赛克 · 拼图揭幕 | 16:9 | 2.6.4 | 照片拼图揭幕 | [播放](previews/MT-020.mp4) |
+| MT-022 | 笔触重绘 · 艺术照片 | 16:9 | 2.6.4 | 艺术照片和笔触重绘 | [播放](previews/MT-022.mp4) |
+| MT-023 | 信号故障 · 照片转场 | 16:9 | 2.6.4 | 照片故障转场 | [播放](previews/MT-023.mp4) |
+| MT-024 | 双重曝光 · 人像叠影 | 16:9 | 2.6.4 | 人像双重曝光 | [播放](previews/MT-024.mp4) |
+| MT-025 | 空间画廊 · 回忆相册 | 16:9 | 2.6.4 | 空间相册和回忆展示 | [播放](previews/MT-025.mp4) |
+| MT-026 | 镜像万花筒 · 照片变幻 | 16:9 | 2.6.4 | 照片万花筒和艺术变幻 | [播放](previews/MT-026.mp4) |
+
+## 数据图表
+
+| 编号 | 模板 | 画幅 | 版本 | 最适合的内容 | 本地预览 |
+|---|---|---|---:|---|---|
+| MT-034 | 量价图表：K线突破与分时动画 | 1:1 | 1.0.0 | K线、量价和分时图表 | [播放](previews/MT-034.mp4) |
+| MT-047 | DEEP STAGE 案例数据 | 16:9 | 1.0.0 | 案例数据和图表展示 | [播放](previews/MT-047.mp4) |
+| MT-055 | 多屏商务 · 动态图表 | 16:9 | 0.1.1-candidate | 商务多屏和动态图表 | [播放](previews/MT-055.mp4) |
+
+## 流程教程
+
+| 编号 | 模板 | 画幅 | 版本 | 最适合的内容 | 本地预览 |
+|---|---|---|---:|---|---|
+| MT-004 | 流程演示 · 产品教程 | 16:9 | 2.6.4 | 产品操作流程和步骤教程 | [播放](previews/MT-004.mp4) |
+| MT-041 | 流程与时间线 · FLOW / TIMELINE | 16:9 | 1.0.0 | 流程、步骤和时间线 | [播放](previews/MT-041.mp4) |
+| MT-057 | 3D 吉祥物手把手教程 | 16:9 | 1.0.0 | 3D 吉祥物操作教程 | [播放](previews/MT-057.mp4) |
+
+## 动效组件
+
+| 编号 | 模板 | 画幅 | 版本 | 最适合的内容 | 本地预览 |
+|---|---|---|---:|---|---|
+| MT-036 | 3D 口播开场 | 16:9 | 1.0.0 | 3D 口播开场 | [播放](previews/MT-036.mp4) |
+| MT-037 | Light Ribbon Word | 16:9 | 1.0.0 | 光带文字标题 | [播放](previews/MT-037.mp4) |
+| MT-038 | 拼贴出场 · COLLAGE OPEN | 16:9 | 1.0.0 | 拼贴式开场 | [播放](previews/MT-038.mp4) |
+| MT-039 | 多屏墙换版 · WALL SWAP | 16:9 | 1.0.0 | 多屏墙切换 | [播放](previews/MT-039.mp4) |
+| MT-040 | 四种看法与片格 · VIEWS / STRIP | 16:9 | 1.0.0 | 多观点和片格展示 | [播放](previews/MT-040.mp4) |
+| MT-043 | 面板擦除 · WIPE PACK | 16:9 | 1.0.0 | 面板擦除和转场 | [播放](previews/MT-043.mp4) |
+| MT-044 | DEEP STAGE 开场点火标题 | 16:9 | 1.0.0 | DEEP-STAGE 开场标题 | [播放](previews/MT-044.mp4) |
+| MT-048 | DEEP STAGE 媒体素材墙 | 16:9 | 1.0.0 | 媒体素材墙 | [播放](previews/MT-048.mp4) |
+| MT-049 | DEEP STAGE 收尾锁版 | 16:9 | 1.0.0 | 品牌收尾和锁定 | [播放](previews/MT-049.mp4) |
+| MT-051 | 目标与证据 · 17类语义动效 | 16:9 | 0.4.0-rc.5 | 17 类语义动效和内容组件 | [播放](previews/MT-051.mp4) |
+
+## 科技视觉
+
+| 编号 | 模板 | 画幅 | 版本 | 最适合的内容 | 本地预览 |
+|---|---|---|---:|---|---|
+| MT-029 | 酷炫科技风 · 中文竖屏 | 9:16 | 0.2.40-alpha.1 | 中文竖屏酷炫科技风 | [播放](previews/MT-029.mp4) |
+| MT-030 | 酷炫科技风 | 16:9 | 0.2.7-open-beta | 横屏酷炫科技风 | [播放](previews/MT-030.mp4) |
+| MT-031 | DeepSeek 鲸鱼粒子聚合 | 16:9 | 1.1.0 | 鲸鱼粒子聚合开场 | [播放](previews/MT-031.mp4) |
+| MT-032 | DeepSeek 粒子形变 | 16:9 | 1.1.0 | 粒子或 Logo 形变 | [播放](previews/MT-032.mp4) |
+| MT-033 | DeepSeek 词语粒子 | 16:9 | 1.1.0 | 词语粒子和关键词动画 | [播放](previews/MT-033.mp4) |
+
+## 使用说明
+
+1. AI 匹配模板时，必须按以下顺序逐级搜索和回退：先同时搜索 Lemo-Opuscar 与 VIDEO-SHOTCRAFT；两者都没有真正合适、可执行的匹配时，再搜索 SHOWREEL-43；前三套都不合适时，最后才搜索 MOTION。成功命中某档后，只从该档推荐 3 至 5 个候选；如果该档不足 3 个，就只推荐实际合适的候选，不能用低优先级库补数。
+2. 自主选择模板时，必须同时提供本 MOTION 清单、Lemo-Opuscar 官方在线预览库、VIDEO-SHOTCRAFT 的完整模板清单和画廊入口，以及 SHOWREEL-43 的完整清单和本地画廊入口。
+3. 普通人可以回复一个候选编号、名称、Lemo 风格名、VIDEO-SHOTCRAFT 镜头卡名或样式 key、SHOWREEL-43 slug 或中文名，也可以回复多个进行组合使用。建议一次最多组合 3 个模板。
+4. 如果普通人指定多个模板，Codex 必须为每个模板写明负责场景、顺序和转场，并确认所有模板都能使用同一个最终画幅。
+5. 如果普通人已经指定 MOTION 模板编号、Lemo-Opuscar 风格名、VIDEO-SHOTCRAFT 模板、镜头卡名、样式 key，或 SHOWREEL-43 slug、中文名，用户选择优先于自动匹配顺序，Codex 只使用指定集合，不再擅自增加、删除或替换。
+6. 清单可先按用途缩小范围，再播放本地预览；不能只看编号直接判断画面。
+7. 本地预览只用于选型，不是用本期文案制作的真实预览。
+8. 正式制作时，Codex 仍须完成制作方案确认和真实预览确认。
+9. 中文内容匹配英文视觉模板时，Codex 必须先确认模板文字可以完整本地化；不能修改的英文默认文案会阻断制作。
+

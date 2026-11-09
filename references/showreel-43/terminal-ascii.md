@@ -1,1 +1,93 @@
-IyDnu4jnq68gLyBBU0NJSe+8iHRlcm1pbmFsLWFzY2lp77yJCgo+IOS4gOWIh+eUseetieWuveWtl+espue7hOaIkO+8muWRveS7pOihjOWcqOaJk+Wtl+OAgUFTQ0lJIOWbvuW9ouWcqOa1geWKqOOAgeWFieagh+WcqOmXqu+8jOWGt+mdmeWPiOaegeWuouOAggo+IOWPgueFp++8iOWPquWtpuivreazle+8ie+8muWRveS7pOihjOeVjOmdouOAgUFTQ0lJIGFydOOAgWRlbW9zY2VuZSDnmoTmlofmnKzmqKHlvI/kvZzlk4HjgIHpu5HlrqLnlLXlvbHnmoTnu4jnq6/nlLvpnaLvvIjlj6rlj5blpb3nmoTpg6jliIbvvInjgIIKCiMjIOacrOi0qCAvIOS4jeaYr+S7gOS5iAotIOacrOi0qO+8mioq5a2X56ym572R5qC85bCx5piv5YOP57SgKirvvJvlm77lvaLnlKjlrZfnrKblr4bluqbvvIhgIC46LT0rKiMlQGDvvInooajovr7mmI7mmpfvvJvmlofmnKznnJ/nmoTmjInlrZfnrKbpgJDkuKrlh7rnjrDvvJvlhYnmoIfmmK/oioLlpY/lmajjgIIKLSDkuI3mmK/vvJrnu7/oibLlrZfnrKbpm6jnmoTpmYjor43mu6XosIPvvJvkuZ/kuI3mmK/mu6HlsY/ml6DmhI/kuYnnmoTmu5rliqjku6PnoIHjgIIKCiMjIOi+qOivhuS/oeWPt++8muavj+aUr+eJh+WtkOaMkSAy4oCTMyDkuKoKfCDkv6Hlj7cgfCDplb/ku4DkuYjmoLcgfCDpgILlkIjnmoTkuLvpopggfAp8LS0tfC0tLXwtLS18Cnwg6YCQ5a2X5omT5Ye655qE5ZG95LukIHwg5o+Q56S656ym5ZCO55qE5a2X5LiA5Liq5Liq5Ye6546w77yM5Zue6L2m5ZCO6L6T5Ye6IHwg5bel5YW344CB5a6J6KOF44CB5LiA5p2h5ZG95LukIHwKfCBBU0NJSSDmmI7mmpflm74gfCDnlKjlrZfnrKblr4bluqbnlLvlh7rnmoTlm77lvaLmiJYgbG9nbyB8IOiQveeJiOOAgeWbvuW9oiB8Cnwg5YWJ5qCHIHwg6Zeq54OB55qE5Z2X5YWJ5qCH5oiW5LiL5YiS57q/5YWJ5qCHIHwg6IqC5aWP44CB562J5b6FIHwKfCDlrZfnrKbov5vluqbmnaEgfCBgWyMjIyMjICAgICBdIDUwJWAg6L+Z57G76L+b5bqmIHwg5p6E5bu644CB5LiL6L29IHwKfCDml6Xlv5fmu5rliqggfCDluKbml7bpl7TmiLPnmoTml6Xlv5fkuIDooYzooYzlvoDkuIrlhpIgfCDov5DooYzjgIHnm5HmjqcgfAp8IFRVSSDpnaLmnb8gfCDnlKjliLbooajnrKbnlLvnmoTovrnmoYbjgIHliIbmoI/jgIHoj5zljZUgfCDku6rooajnm5jjgIHnrqHnkIblt6XlhbcgfAp8IGRpZmYg552A6ImyIHwg57qi6Imy5Yig6Zmk6KGM44CB57u/6Imy5paw5aKe6KGMIHwg5Luj56CB5Y+Y5pu044CB5L+u5aSNIHwKfCDnm67lvZXmoJEgfCDilJzilIDilIAg5ZKMIOKUlOKUgOKUgCDnu4TmiJDnmoTmoJHnirbnu5PmnoQgfCDpobnnm67nu5PmnoQgfAp8IOihqOagvOi+k+WHuiB8IOWvuem9kOeahOWIl+OAgeihqOWktOWIhumalOe6vyB8IOaVsOaNruOAgeWvueavlCB8Cnwg56O35YWJ5bGPIHwg55Cl54+A6Imy5oiW57u/6Imy5Y2V6Imy5bGP77yM5bim5LiA54K55L2Z6L6JIHwg5aSN5Y+k44CB56Gs5Lu2IHwKfCDlpJrnqpfmoLwgfCDlh6DkuKrnu4jnq6/nqpfmoLzlubbmjpLlkIzml7bmu5rliqggfCDlubbooYzjgIHljY/kvZwgfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggotIOWRveS7pOWSjOi+k+WHuuimgeecn+Wunu+8jOmXrueUqOaIt+imgeaIluiAheeUqOecn+WunuWPr+i/kOihjOeahOWRveS7pOOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya6buR5bqV57u/5a2X44CB5a2X56ym6Zuo44CB5ruh5bGP5rua5Yqo55qE5YGH5Luj56CB44CB57uT5bC+44CMQUNDRVNTIEdSQU5URUTjgI3jgIIKLSDlo7Dpn7PvvJrmnLrmorDplK7nm5jlo7DjgIHkvY7popHll6HpuKPjgIHnlLXlrZDlk5Tlo7DjgIIKLSBicmllZiDnmoQgc3R5bGUg5LiA5qCP5YaZ5piO6L+Z5pSv54mH5a2Q57+75o6J5LqG5ZOq5Yeg5p2h77yM5oiW6ICF5Li65LuA5LmI5Yi75oSP5L+d55WZ77yI5q+U5aaC55So5oi36KaB55qE5bCx5piv57uP5YW454mI77yJ44CC5L+d55WZ5pe277yM5oqK5Yqb5rCU6Iqx5Zyo5p6E5Zu+44CB6ZWc5aS044CB6IqC5aWP5oiW5LiA5Liq5oSP5aSW55qE6K6w5b+G54K55LiK44CCCgojIyDpgILphY0KLSDnlKjpgJTvvJrlvIDlj5HogIXkuqflk4HnmoTlrqPkvKDnn63niYfjgIHniYflpLTjgIFMb2dvIOa8lOe7juOAgeS9nOWTgembhueahOS4gOauteOAggotIOWGheWuue+8mkNMSSDlt6XlhbfjgIFBSSBhZ2VudOOAgeW8gOa6kOmhueebruOAgeWuieWFqOOAgeaVsOaNruOAggoKIyMg5oqA5pyv6Lev57q/CkNhbnZhcyAyRO+8jOWbuuWumuWtl+espue9keagvO+8iOavlOWmgiAxOTIww5cxMDgwIOS4iyAxMjDDlzQ1IOagvO+8jOaMieWtl+S9k+W6pumHj+iuoeeul+agvOWtkOWuvemrmO+8ieOAguaKiuimgeaYvuekuueahOWbvuW9ouWFiOeUu+WIsOS4gOWdl+emu+Wxj+eUu+W4g++8jOaMieagvOWtkOmHh+agt+S6ruW6puaYoOWwhOWIsOWtl+espuOAguaJk+Wtl+aViOaenOaMiSB0IOiuoeeul+W3suaYvuekuueahOWtl+espuaVsOOAguWPr+mAiSBDUlQg5ZCO5pyf77yIYGNydC12aHMubWRg77yJ44CCCgojIyDmnZDotKjkuI7muLLmn5MKLSDlrZfnrKbpgJDmoLzlr7npvZDvvIzlrZflj7fnu5/kuIDvvIjlj6/ku6XmnInkuIDkuKrmm7TlpKfnmoTmoIfpopjnvZHmoLzvvInjgIIKLSBBU0NJSSDlm77lvaLvvJrph4fmoLfkuq7luqYg4oaSIOWtl+espuihqO+8m+WPr+S7peaMieS6ruW6pue7meS4jeWQjOeahOminOiJsua3sea1heOAggotIOWFieagh++8muWdl+eKtuWFieagh++8jOaMiSAwLjUzIOenkueahOWRqOacn+mXqueDge+8iOeUqCB0IOiuoeeul++8jOS4jeeUqOiuoeaXtuWZqO+8ieOAggotIOWRveS7pOi+k+WHuuimgeWDj+ecn+eahO+8mui3r+W+hOOAgeaPkOekuuespuOAgeWPguaVsOmDveeUqOeUqOaIt+S6p+WTgeeahOecn+WunuWRveS7pO+8iOmXrueUqOaIt+imge+8jOS4jeimgee8lu+8ieOAggoKIyMg6YWN6ImyCuS4i+mdoueahOiJsuWAvOaYr+ekuuS+i++8jOeci+aAnei3r++8jOS4jeimgeWOn+agt+eFp+aKhOOAggotIOm7kSBgIzBDMEMwQ2AgLyDmtYXngbAgYCNEMEQwRDBgIC8g57u/IGAjNUZENzVGYCAvIOm7hCBgI0ZGRDc1RmDvvIjmoIflh4bnu4jnq6/phY3oibLnmoTlrZDpm4bvvIkKLSDmmpbpu5EgYCMxQzFCMTlgIC8g57Gz55m9IGAjRThFM0QzYCAvIOapmSBgI0ZGOEMzQmDvvIjlpI3lj6TnkKXnj4DlsY/vvIkKLSDmtYXoibLnu4jnq6/vvJpgI0Y2RjZGMmAgLyBgIzFFMUUxRWAgLyDok50gYCMyRjZGRUJgCi0g6KeE5YiZ77ya6K+t5LmJ6YWN6Imy77yI5oiQ5Yqf57u/44CB6K2m5ZGK6buE44CB6ZSZ6K+v57qi77yJ77yM5LiN55So5LqO6KOF6aWw44CCCi0g5o6o5a+877ya57uI56uv6YWN6Imy5pys6Lqr5bCx5pyJ6K+t5LmJ77yI5oiQ5Yqf57u/44CB6K2m5ZGK6buE44CB6ZSZ6K+v57qi77yJ77yb5bqV6Imy5Y+v5Lul5piv6buR44CB5pqW6buR44CB5rWF6Imy57uI56uv5oiW5ZOB54mM6Imy55qE5rex54mI77yM5by66LCD6Imy5LuO5ZOB54mM5p2l44CC6buR5bqV57u/5a2X5piv5pyA5bi46KeB55qE6YKj57uE44CCCgojIyDlrZfkvZMKSmV0QnJhaW5zIE1vbm/jgIFJQk0gUGxleCBNb25v44CBRmlyYSBDb2Rl44CBU3BhY2UgTW9ub++8iE9GTO+8ieOAguWFqOeJh+WPqueUqOS4gOenjeetieWuveWtl+S9k+OAggoKIyMg6L+Q5YqoCi0g5omT5a2X77ya5q+P5a2X56ymIDIw4oCTNDUg5q+r56eS77yM5qCH54K55ZCO56iN5YGc77yb5ZG95Luk5Zue6L2m5ZCO6L6T5Ye65LiA5qyh5oCn5oiW5YiG5Z2X5Ye6546w44CCCi0gQVNDSUkg5Zu+5b2i55qE5Y+Y5YyW77ya5q+P5bin6YeN5paw6YeH5qC377yM5Zu+5b2i5pys6Lqr5Y+v5Lul5bmz5ruR5Y+Y5YyW77yI5a2X56ym5piv56a75pWj55qE77yM55yL6LW35p2l5Lya6Ieq54S25Zyw44CM6aKX57KS5YyW44CN77yJ44CCCi0g5rua5Yqo77ya5pW06KGM5ZCR5LiK6Lez77yM5LiN5YGa5bmz5ruR5rua5Yqo77yI57uI56uv5bCx5piv6L+Z5qC355qE77yJ44CCCgojIyDnlLvpnaLmgI7kuYjmtLsKLSDlhYnmoIfmr48gMC41IOenkumXquS4gOasoe+8m+aXpeW/l+WcqOWQjuWPsOS4gOihjOihjOW+gOS4iuWGku+8m+S4gOS4quWtl+espui/m+W6puadoSBgWyMjIyMgICAgXWAg5Zyo6LWw44CCCi0gQVNDSUkg5Zu+5b2i6YeM55WZ5LiA5bCP5Z2X5Yy65Z+f5oyB57ut6YeN6YeH5qC35rWB5Yqo77yM5YW25L2Z5a2X56ym5LiN5Yqo77yM55y8552b5omN5pyJ6JC954K544CCCgojIyDplZzlpLTor63ms5UKfCDplZzlpLTov5DliqggfCDooajovr7ku4DkuYggfCDpgILlkIjlk6rnsbvlhoXlrrkgfAp8LS0tfC0tLXwtLS18Cnwg5Zu65a6a57uI56uv56qX5Y+jIHwg55yf5a6e55qE5pON5L2cIHwg5ZG95Luk5ryU56S6IHwKfCDmjqjov5HliLDkuIDkuKrlrZfnrKbvvIzlroPlj5jmiJDkuIvkuIDkuKrnlLvpnaIgfCDov5vlhaUgfCDovazlnLogfAp8IOaLiei/nO+8jOS4gOS4que7iOerr+WPmOaIkOiuuOWkmue7iOerr+eahOmYteWIlyB8IOinhOaooeOAgeW5tuihjCB8IGFnZW5044CB5YiG5biD5byPIHwKCiMjIOWjsOmfs+iwg+iJsuadvwrplK7nm5jlo7DvvIjnn60gYGNsaWNrYCDkuI3lkIzpn7Ppq5jpmo/mnLrkvYblm7rlrprnp43lrZDvvInjgIHlm57ovablo7DjgIHkvY7msonnmoQgZHJvbmXjgIHlsJHph4/nmoQgYGJsaXBg44CC56ysIDEg5qGj5ZCI5oiQ5Y2z5Y+v44CCCgrlvovliqjkuI7lkozlo7DvvIjkuL7kvovvvIzkuI3mraLov5nkupvvvInvvJrml6Dmi43vvIjmiZPlrZfnmoToioLlpY/lsLHmmK/oioLlpY/vvInvvIzmiJbogIXmnLrmorDnmoTljYHlha3liIbpn7PnrKbvvJvkuIDkuKrlkozlvKbjgIHmjIHnu63kvY7pn7PjgIHlhajpn7PpmLbvvJvmi5/pn7PkuLvlr7zlvojlkIjpgILvvIzlupXkuIvpk7ogYGFtYmllbmNlKHsga2luZDogJ3Jvb20nIH0pYO+8jOimgeiKr+eJh+WRs+WPr+S7peWKoCBgY3J1c2hg44CCCgojIyDljp/nlJ/miYvms5UKLSDkuIDooYzlkb3ku6Tov5DooYzlkI7vvIxBU0NJSSDlm77lvaLku47ovpPlh7rph4znlJ/plb/lh7rmnaXvvJrpgILlkIjjgIzkuIDmnaHlkb3ku6TlrozmiJDkuIDku7bkuovjgI3jgIIKLSDlrZfnrKbnvZHmoLzmlbTkvZPlj5jmiJDkuIDkuKogbG9nbyDnmoTmmI7mmpflm77vvJrpgILlkIjnu5PlsL7okL3niYjjgIIKLSDlpJrkuKrnu4jnq6/lkIzml7bmu5rliqjvvIzlho3lkIjlubbmiJDkuIDkuKrvvJrpgILlkIjlubbooYwgLyDljY/kvZzjgIIKCiMjIOWPmOWMluepuumXtAotIOe7k+aehO+8muS4gOasoeWuieijheWIsOaIkOWKn+eahOi/h+eoi++8m+S4gOS4qiBhZ2VudCDnmoTkuIDmrKHku7vliqHvvJvkuIDkuKogYnVnIOS7juaKpemUmeWIsOS/ruWlveOAggotIOW8gOWcuu+8muS4gOS4qumXqueDgeeahOWFieagh++8m2AkYCDmj5DnpLrnrKblkI7nmoTnrKzkuIDkuKrlrZfjgIIKLSDnu5PlsL7vvJrmnIDlkI7kuIDooYzovpPlh7rjgIzinJPjgI3lkI7vvIzlrZfnrKbnvZHmoLznu4TmiJAgbG9nb+OAggoKIyMg5Z2RCi0g57yW6YCg5ZG95Luk5ZKM6L6T5Ye677ya5ZG95Luk6KaB55yf5a6e5Y+v55So77yM6Zeu55So5oi36KaB44CCCi0g57u/5a2X56ym6Zuo562J6ZmI6K+N5rul6LCD44CCCi0g5a2X5Y+35aSq5bCP77yM5omL5py65LiK55yL5LiN5riF77ya5Li76KaB55qE5ZG95Luk6KGM6Iez5bCRIDI4cHjvvIgxMDgwcO+8ieOAggo=
+# 终端 / ASCII（terminal-ascii）
+
+> 一切由等宽字符组成：命令行在打字、ASCII 图形在流动、光标在闪，冷静又极客。
+> 参照（只学语法）：命令行界面、ASCII art、demoscene 的文本模式作品、黑客电影的终端画面（只取好的部分）。
+
+## 本质 / 不是什么
+- 本质：**字符网格就是像素**；图形用字符密度（` .:-=+*#%@`）表达明暗；文本真的按字符逐个出现；光标是节奏器。
+- 不是：绿色字符雨的陈词滥调；也不是满屏无意义的滚动代码。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 逐字打出的命令 | 提示符后的字一个个出现，回车后输出 | 工具、安装、一条命令 |
+| ASCII 明暗图 | 用字符密度画出的图形或 logo | 落版、图形 |
+| 光标 | 闪烁的块光标或下划线光标 | 节奏、等待 |
+| 字符进度条 | `[#####     ] 50%` 这类进度 | 构建、下载 |
+| 日志滚动 | 带时间戳的日志一行行往上冒 | 运行、监控 |
+| TUI 面板 | 用制表符画的边框、分栏、菜单 | 仪表盘、管理工具 |
+| diff 着色 | 红色删除行、绿色新增行 | 代码变更、修复 |
+| 目录树 | ├── 和 └── 组成的树状结构 | 项目结构 |
+| 表格输出 | 对齐的列、表头分隔线 | 数据、对比 |
+| 磷光屏 | 琥珀色或绿色单色屏，带一点余辉 | 复古、硬件 |
+| 多窗格 | 几个终端窗格并排同时滚动 | 并行、协作 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 命令和输出要真实，问用户要或者用真实可运行的命令。
+
+## 这个风格最俗的版本
+- 画面：黑底绿字、字符雨、满屏滚动的假代码、结尾「ACCESS GRANTED」。
+- 声音：机械键盘声、低频嗡鸣、电子哔声。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：开发者产品的宣传短片、片头、Logo 演绎、作品集的一段。
+- 内容：CLI 工具、AI agent、开源项目、安全、数据。
+
+## 技术路线
+Canvas 2D，固定字符网格（比如 1920×1080 下 120×45 格，按字体度量计算格子宽高）。把要显示的图形先画到一块离屏画布，按格子采样亮度映射到字符。打字效果按 t 计算已显示的字符数。可选 CRT 后期（`crt-vhs.md`）。
+
+## 材质与渲染
+- 字符逐格对齐，字号统一（可以有一个更大的标题网格）。
+- ASCII 图形：采样亮度 → 字符表；可以按亮度给不同的颜色深浅。
+- 光标：块状光标，按 0.53 秒的周期闪烁（用 t 计算，不用计时器）。
+- 命令输出要像真的：路径、提示符、参数都用用户产品的真实命令（问用户要，不要编）。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 黑 `#0C0C0C` / 浅灰 `#D0D0D0` / 绿 `#5FD75F` / 黄 `#FFD75F`（标准终端配色的子集）
+- 暖黑 `#1C1B19` / 米白 `#E8E3D3` / 橙 `#FF8C3B`（复古琥珀屏）
+- 浅色终端：`#F6F6F2` / `#1E1E1E` / 蓝 `#2F6FEB`
+- 规则：语义配色（成功绿、警告黄、错误红），不用于装饰。
+- 推导：终端配色本身就有语义（成功绿、警告黄、错误红）；底色可以是黑、暖黑、浅色终端或品牌色的深版，强调色从品牌来。黑底绿字是最常见的那组。
+
+## 字体
+JetBrains Mono、IBM Plex Mono、Fira Code、Space Mono（OFL）。全片只用一种等宽字体。
+
+## 运动
+- 打字：每字符 20–45 毫秒，标点后稍停；命令回车后输出一次性或分块出现。
+- ASCII 图形的变化：每帧重新采样，图形本身可以平滑变化（字符是离散的，看起来会自然地「颗粒化」）。
+- 滚动：整行向上跳，不做平滑滚动（终端就是这样的）。
+
+## 画面怎么活
+- 光标每 0.5 秒闪一次；日志在后台一行行往上冒；一个字符进度条 `[####    ]` 在走。
+- ASCII 图形里留一小块区域持续重采样流动，其余字符不动，眼睛才有落点。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 固定终端窗口 | 真实的操作 | 命令演示 |
+| 推近到一个字符，它变成下一个画面 | 进入 | 转场 |
+| 拉远，一个终端变成许多终端的阵列 | 规模、并行 | agent、分布式 |
+
+## 声音调色板
+键盘声（短 `click` 不同音高随机但固定种子）、回车声、低沉的 drone、少量的 `blip`。第 1 档合成即可。
+
+律动与和声（举例，不止这些）：无拍（打字的节奏就是节奏），或者机械的十六分音符；一个和弦、持续低音、全音阶；拟音主导很合适，底下铺 `ambience({ kind: 'room' })`，要芯片味可以加 `crush`。
+
+## 原生手法
+- 一行命令运行后，ASCII 图形从输出里生长出来：适合「一条命令完成一件事」。
+- 字符网格整体变成一个 logo 的明暗图：适合结尾落版。
+- 多个终端同时滚动，再合并成一个：适合并行 / 协作。
+
+## 变化空间
+- 结构：一次安装到成功的过程；一个 agent 的一次任务；一个 bug 从报错到修好。
+- 开场：一个闪烁的光标；`$` 提示符后的第一个字。
+- 结尾：最后一行输出「✓」后，字符网格组成 logo。
+
+## 坑
+- 编造命令和输出：命令要真实可用，问用户要。
+- 绿字符雨等陈词滥调。
+- 字号太小，手机上看不清：主要的命令行至少 28px（1080p）。

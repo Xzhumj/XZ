@@ -1,1 +1,92 @@
-IyDlpI3lj6TnlLXop4YgLyBWSFPvvIhjcnQtdmhz77yJCgo+IOaYvuWDj+euoeeahOW8p+mdouOAgeaJq+aPj+e6v+OAgeiNp+WFieeCueWSjOWFieaZle+8m+W9leWDj+W4pueahOi3n+i4quWZquWjsOOAgeiJsuW9qea4l+a8j+WSjOaKluWKqOOAgueUu+mdouWDj+aYr+S7juS4gOWPsOaXp+eUteinhumHjOaUvuWHuuadpeeahOOAggo+IOWPgueFp++8iOWPquWtpuivreazle+8ie+8mjgw4oCTOTAg5bm05Luj55S16KeG5Y+w5qCH6K+G44CB5b2V5YOP5bim54mH5aS044CB5qih5ouf5L+h5Y+355qE5aSx55yf44CC5LiN54Wn5pCs5YW35L2T55S16KeG5Y+w55qE5qCH6K+G5ZKM6IqC55uu55S76Z2i44CCCgojIyDmnKzotKggLyDkuI3mmK/ku4DkuYgKLSDmnKzotKjvvJrlhoXlrrnvvIjku7vkvZXpo47moLzvvInlhYjnlLvlpb3vvIzlho3nu4/ov4fkuIDlsYIqKuaooeaLn+S/oeWPt+eahOeJqeeQhuaooeWeiyoq77ya5byn6Z2i5Y+Y5b2i44CB5omr5o+P57q/44CBUkdCIOiNp+WFieeCueOAgeiJsuW3ruOAgeS6rumDqOWFieaZleOAgeWBtuWwlOeahOi3n+i4quadoeWSjOS/oeWPt+aKluWKqOOAggotIOS4jeaYr++8muWcqOeUu+mdouS4iuW5s+mTuuS4gOW8oOaJq+aPj+e6v+WbvueJh++8m+S5n+S4jeaYr+avj+S4gOW4p+mDveWcqOWJp+eDiOaVhemanOeahOOAjOi1m+WNmuOAjea7pOmVnOOAggoKIyMg6L6o6K+G5L+h5Y+377ya5q+P5pSv54mH5a2Q5oyRIDLigJMzIOS4qgp8IOS/oeWPtyB8IOmVv+S7gOS5iOagtyB8IOmAguWQiOeahOS4u+mimCB8CnwtLS18LS0tfC0tLXwKfCDmiavmj4/nur/lkozojaflhYnngrkgfCDkuIDooYzooYzmiavmj4/nur/vvIzov5HnnIvmmK8gUkdCIOiNp+WFieeCuSB8IOWxj+W5leaEn+OAgei0qOaEnyB8Cnwg5byn6Z2i5Y+Y5b2iIHwg55S76Z2i5Zub6KeS5ZCR5YaF5byv77yM6L6557yY5pqXIHwg5pen55S16KeGIHwKfCDoibLlt67lkozmuJfoibIgfCDnuqLok53pgJrpgZPplJnlvIDvvIzpopzoibLmuqLlh7rovrnnvJggfCDmqKHmi5/kv6Hlj7cgfAp8IOi3n+i4quWZquWjsOW4piB8IOS4gOadoeaoquWQkeW5suaJsOW4puaFouaFoua7mui/hyB8IOW9leWDj+W4puOAgeS4jeeos+WumiB8Cnwg5bGP5bmVIE9TRCDlrZcgfCBQTEFZIOKWtuOAgVJFQyDil4/jgIHml7bpl7TnoIHjgIHpopHpgZPlj7cgfCDlvZXlg4/jgIHmoaPmoYggfAp8IOaNouWPsOmbquiKsSB8IOmbquiKseWZquWjsOWHoOW4p+WQjumUgeWumuaWsOeUu+mdoiB8IOauteiQveWIh+aNoiB8Cnwg5byA5YWz5py65Lqu57q/IHwg55S76Z2i5pS25oiQ5LiA5p2h5Lqu57q/5YaN57yp5oiQ5LiA5Liq54K5IHwg5byA5Zy644CB57uT5bC+IHwKfCDlv6vov5vmkpXoo4IgfCDnlLvpnaLliqDpgJ/vvIzmqKrlkJHmkpXlvIDlh6DpgZMgfCDml7bpl7TmtYHpgJ0gfAp8IOa1i+ivleWNoeWSjOW9qeadoSB8IOW9qeadoeOAgea1i+ivleWbvuOAgeWPsOagh+inkuaghyB8IOeUteinhuWPsOOAgeiKguebriB8Cnwg5b2V5YOP5bim5a6e54mpIHwg56OB5bim55uS44CB5qCH562+5omL5YaZ5a2X44CB5o+S5YWl5b2V5YOP5py6IHwg5Zue5b+G44CB5a625bqt5b2V5YOPIHwKfCDopKroibLlkozno6jmjZ8gfCDppbHlkozluqbkvY7jgIHlr7nmr5TlgY/jgIHlgbblsJTmjonluKcgfCDlubTku6PmhJ/jgIHmgqznlpEgfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggotIOS/oeWPt+WxguaYr+i0qOaEn++8jOWGheWuueaYr+S4u+inku+8muS/oeWPt+WGjeWkmu+8jOS5n+imgeiuqeWGheWuueS4gOecvOeci+a4heOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya5YWo56iL5Ymn54OI5pWF6Zqc44CB5rSL57qi5ZKM6Z2S55qE6Imy5beu44CB6KeS6JC95LiA5Liq44CMUExBWSDilrbjgI3jgIHlvIDlpLTlvanmnaHjgIHnu5PlsL7lhbPmnLrmlLbmiJDkuIDkuKrngrnjgIIKLSDlo7Dpn7PvvJrlkIjmiJDms6LliqDno4HluKbmipbliqjvvIzliIfmjaLml7bkuIDlo7DnlLXop4bll6HpuKPjgIIKLSBicmllZiDnmoQgc3R5bGUg5LiA5qCP5YaZ5piO6L+Z5pSv54mH5a2Q57+75o6J5LqG5ZOq5Yeg5p2h77yM5oiW6ICF5Li65LuA5LmI5Yi75oSP5L+d55WZ77yI5q+U5aaC55So5oi36KaB55qE5bCx5piv57uP5YW454mI77yJ44CC5L+d55WZ5pe277yM5oqK5Yqb5rCU6Iqx5Zyo5p6E5Zu+44CB6ZWc5aS044CB6IqC5aWP5oiW5LiA5Liq5oSP5aSW55qE6K6w5b+G54K55LiK44CCCgojIyDpgILphY0KLSDnlKjpgJTvvJrniYflpLTjgIHmgIDml6fkuLvpopjnmoTlrqPkvKDniYfjgIHkvZzlk4Hpm4bph4znmoTlpI3lj6TmrrXjgIFMb2dvIOa8lOe7juOAggotIOWGheWuue+8mua4uOaIj+WPsuOAgeWqkuS9k+WPsuOAgeWkjeWPpOWTgeeJjOOAgemfs+S5kOOAgeaCrOeWkeOAggoKIyMg5oqA5pyv6Lev57q/CkNhbnZhcyDnlLvlhoXlrrkg4oaSIFdlYkdMIOWQjuacn++8iHJlY2lwZXMubWQg56ysIDEyIOiKgueahOaooeadv+WGjeWKoCBWSFMg5pWI5p6c77yJ44CC5ZCO5pyf5Zyo552A6Imy5Zmo6YeM5a6e546w77ya5byn6Z2i44CB5omr5o+P57q/44CB6I2n5YWJ54K56Zi144CB6Imy5beu44CBYmxvb23vvIjkuq7pg6jmqKHns4rlkI7lj6DliqDvvInjgIHot5/ouKrlmarlo7DvvIjmjIkgdCDnp7vliqjnmoTmsLTlubPlmarlo7DluKbvvInjgIHpopzoibLmuJfmvI/vvIjoibLluqbmsLTlubPmqKHns4rvvInjgILlhYjmuLLkuIDluKfnoa7orqTnnYDoibLlmajnlJ/mlYjjgILkuI3opoEgYC0tZ3JhaW5g77yI6aKX57KS5Zyo552A6Imy5Zmo6YeM5oyJ5bin5Zu65a6a56eN5a2Q55Sf5oiQ77yJ44CCCgojIyDmnZDotKjkuI7muLLmn5MKLSDlvKfpnaLvvJpgdXZgIOaMiei3neemu+S4reW/g+eahOW5s+aWueWQkeWkluaOqO+8m+eUu+mdouWbm+inkuWPmOaal+OAgeWchuinkum7kei+ueOAggotIOaJq+aPj+e6v++8mmBzaW4odXYueSAqIOihjOaVsCAqIM+AKWAg6LCD5Yi25Lqu5bqm77yM6KGM5pWwIOKJiCDnlLvpnaLpq5jluqbnmoQgMS8y4oCTMS8z44CCCi0g6I2n5YWJ54K577ya5oyJ5YOP57Sg5YiX5Lqk5pu/5Yqg5by6IFIvRy9C77yI5b6I5byx77yJ44CCCi0gVkhT77ya6Imy5bqm5L+h5Y+35rC05bmz5qih57OKIDPigJM2cHgg5bm25Y+z56e7IDHigJMycHjvvJvpobbpg6jmiJblupXpg6jlgbblsJTlh7rnjrDkuIDmnaHot5/ouKrlmarlo7DluKbvvJvmlbTkvZPmsLTlubPmipbliqggwrExcHjvvIjkvY7popHlmarlo7DvvInjgIIKLSDmkp7lh7vmiJbliIfmjaLml7bvvJrnn63mmoLliqDlvLroibLlt67jgIHot7PluKfjgIHnlLvpnaLkuIrkuIvmu5rliqjkuIDmrKHjgIIKCiMjIOmFjeiJsgrkuIvpnaLnmoToibLlgLzmmK/npLrkvovvvIznnIvmgJ3ot6/vvIzkuI3opoHljp/moLfnhafmioTjgIIKLSDlhoXlrrnmnKzouqvnmoTphY3oibLliqDkuIogQ1JUIOeahOeJueaAp++8mum7keS4jeaYr+e6r+m7ke+8iGAjMEIwRDBCYO+8ie+8jOeZveWBj+aaluaIluWBj+WGt+OAggotIOeUteinhuWPsOmjju+8mua3seiTnSBgIzBBMUE2QmAgLyDkuq7pu4QgYCNGRkQ0MDBgIC8g55m9IC8g5rSL57qiIGAjRkYyRTg4YAotIOaBkOaAliAvIOaCrOeWke+8mueBsOe7vyBgIzFBMkEyMmAgLyDoi43nmb0gYCNDOUQ2QzlgIC8g6KGA57qiIGAjQjMwMDFCYAotIOaOqOWvvO+8muWGheWuueacrOi6q+eahOmFjeiJsue7j+i/hyBDUlQg5aSE55CG77ya6buR5LiN5piv57qv6buR77yM55m95YGP5pqW5oiW5YGP5Ya377yM6aWx5ZKM5bqm55Wl6auY5bm25rqi5Ye644CC55S16KeG5Y+w6aOO44CB5a625bqt5b2V5YOP55qE6KSq6Imy5pqW6LCD44CB55uR5o6n55S76Z2i55qE54Gw57u/6YO95Y+v5Lul77yb5rSL57qi5Yqg6Z2S5piv5pyA5bi46KeB55qE6YKj57uE44CCCgojIyDlrZfkvZMK562J5a695oiW5YOP57Sg5a2X5L2T5YGaIE9TRO+8iOWxj+W5leaYvuekuu+8jOavlOWmgiBQTEFZIOKWtuOAgeaXtumXtOegge+8ie+8mlZUMzIz44CBU2hhcmUgVGVjaCBNb25v77yb5qCH6aKY5Y+v5Lul55SoIDgwIOW5tOS7o+aEn+eahOeyl+aWnOS9k++8iFJpZ2h0ZW91c+OAgU1vbm90b24g6LCo5oWO55So77yJ44CCCgojIyDov5DliqgKLSDlhoXlrrnmjInoh6rlt7HnmoTpo47moLzov5DliqjvvJvkv6Hlj7flsYLnmoTmlYjmnpzmjInkuovku7bop6blj5HvvIjliIflj7DjgIHmkp7lh7vvvInmiJbogIXnvJPmhaLmvILnp7vjgIIKLSDmjaLlj7DovazlnLrvvJrpu5HlsY8g4oaSIOmbquiKseWZquWjsCAy4oCTNCDluKcg4oaSIOaWsOeUu+mdouS7juS4remXtOS4gOadoeS6rue6v+WxleW8gO+8iENSVCDlvIDmnLrvvInjgIIKCiMjIOeUu+mdouaAjuS5iOa0uwotIOS4gOadoea7muWKqOW5suaJsOW4puaFouaFouW+gOS4iui1sO+8m+eUu+mdoumalOWHoOenkuacieS4gOasoSAxcHgg55qE5ZCM5q2l5oqW5Yqo77ybUkVDIOWchueCueaIluaXtumXtOeggemXqueDgeOAggotIOmil+eykuS6pOe7mSBgLS1ncmFpbmDvvIzkuI3opoHlnKjpobXpnaLph4zpgJDluKfnlLvlmarngrnjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDmjqjov5HliLDlsY/luZXvvIznnIvliLDojaflhYnngrkgfCDov5vlhaXnlLXop4bph4znmoTkuJbnlYwgfCDlvIDlnLrjgIHovazlnLogfAp8IOaLiei/nOmcsuWHuueUteinhuacuuWkluWjs++8iOS7o+eggeeUu+eahO+8iSB8IOOAjOi/meaYr+S4gOauteW9leWDj+OAjSB8IOWbnuW/huOAgee7k+WwviB8Cnwg5o2i5Y+wIHwg5YiH5o2i6K+d6aKYIHwg5q616JC95YiH5o2iIHwKCiMjIOWjsOmfs+iwg+iJsuadvwrkvY7kv53nnJ/vvJrkv6Hlj7flupXlmarvvIhgYW1iaWVuY2UoeyBraW5kOiAndGFwZScgfSlg77yM5b6I6L2777yJ44CB5o2i5Y+w55qEIGBnbGl0Y2hgIOWSjOWSlOWTkuWjsOOAgeWQiOaIkOWZqOmTuuW6le+8iOW4puS4gOeCuemfs+mrmOaKluWKqO+8ieOAguesrCAxIOaho+WQiOaIkOWNs+WPr++8m+WPr+S7peaKiuaVtOS4qumfs+S5kCBidXMg5YqgIGBsb3dwYXNzOiA2MDAwYCDmqKHmi5/no4HluKbnmoTpopHlk43jgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8mjgw4oCTOTAg5bm05Luj55S16KeG55qE55u05ouN77yM5oiW6ICF5peg5ouN55qE5L+h5Y+35ryC56e777yb5bCP6LCD44CBRG9yaWFu44CB5Y2K6Z+z5LiL6KGM77yM5o2i5Y+w5pe25Y+v5Lul5pW05q615o2i6LCD44CC5aqS5LuL5oSf5p2l6IeqIG11c2ljIGJ1cyDnmoQgYHdvdzogMC4z4oCTMC42YCArIGBsb3dwYXNzOiA2MDAwYOOAggoKIyMg5Y6f55Sf5omL5rOVCi0gQ1JUIOW8gOacuiAvIOWFs+acuu+8iOS6rue6v+WxleW8gCAvIOaUtue8qeaIkOS4gOS4queCue+8ie+8mumAguWQiOW8gOWcuuWSjOe7k+WwvuOAggotIOaNouWPsO+8mumAguWQiOWkmuS4quauteiQveOAgeW5tOS7o+WIh+aNouOAggotIOW9leWDj+W4puW/q+i/m++8iOeUu+mdouWKoOmAnyArIOaoquWQkeaSleijgu+8ie+8mumAguWQiOaXtumXtOa1gemAneOAggoKIyMg5Y+Y5YyW56m66Ze0Ci0g57uT5p6E77ya5LiA5Y+w55S16KeG5o2i6L+HIDYg5Liq6aKR6YGT77yb5LiA55uY5b2V5YOP5bim5LuO5byA5aS05Yiw57uT5bC+77yb5LiA5qGj6IqC55uu55qE54mH5aS044CCCi0g5byA5Zy677ya6Zuq6Iqx5bGPIOKGkiDkv6Hlj7fplIHlrprvvJvpu5HlsY/kuIrkuIDkuKrjgIxQTEFZIOKWtuOAjeOAggotIOe7k+Wwvu+8muWFs+acuuaUtue8qeaIkOS4gOS4quWFieeCue+8m+eUu+mdouWBnOWcqOS4gOW4p+aaguWBnOeahOW9leWDj++8jE9TRCDpl6rng4HjgIIKCiMjIOWdkQotIOaViOaenOWkqumHje+8jOWGheWuueeci+S4jea4he+8muS/oeWPt+WxguaYr+i0qOaEn++8jOS4jeaYr+S4u+inkuOAggotIOavj+W4p+maj+acuueahOWZquWjsOWvvOiHtOe8lueggeWQjueziuaIkOS4gOeJh++8muWZquWjsOaMieW4p+WbuuWumuenjeWtkO+8jOWZquWjsOW4puimgeaciee7k+aehOOAggotIOedgOiJsuWZqOWcqOi9r+S7tua4suafk+S4i+mdnuW4uOaFou+8muWFiOa1i+WNleW4p+iAl+aXtuOAggo=
+# 复古电视 / VHS（crt-vhs）
+
+> 显像管的弧面、扫描线、荧光点和光晕；录像带的跟踪噪声、色彩渗漏和抖动。画面像是从一台旧电视里放出来的。
+> 参照（只学语法）：80–90 年代电视台标识、录像带片头、模拟信号的失真。不照搬具体电视台的标识和节目画面。
+
+## 本质 / 不是什么
+- 本质：内容（任何风格）先画好，再经过一层**模拟信号的物理模型**：弧面变形、扫描线、RGB 荧光点、色差、亮部光晕、偶尔的跟踪条和信号抖动。
+- 不是：在画面上平铺一张扫描线图片；也不是每一帧都在剧烈故障的「赛博」滤镜。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 扫描线和荧光点 | 一行行扫描线，近看是 RGB 荧光点 | 屏幕感、质感 |
+| 弧面变形 | 画面四角向内弯，边缘暗 | 旧电视 |
+| 色差和渗色 | 红蓝通道错开，颜色溢出边缘 | 模拟信号 |
+| 跟踪噪声带 | 一条横向干扰带慢慢滚过 | 录像带、不稳定 |
+| 屏幕 OSD 字 | PLAY ▶、REC ●、时间码、频道号 | 录像、档案 |
+| 换台雪花 | 雪花噪声几帧后锁定新画面 | 段落切换 |
+| 开关机亮线 | 画面收成一条亮线再缩成一个点 | 开场、结尾 |
+| 快进撕裂 | 画面加速，横向撕开几道 | 时间流逝 |
+| 测试卡和彩条 | 彩条、测试图、台标角标 | 电视台、节目 |
+| 录像带实物 | 磁带盒、标签手写字、插入录像机 | 回忆、家庭录像 |
+| 褪色和磨损 | 饱和度低、对比偏、偶尔掉帧 | 年代感、悬疑 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 信号层是质感，内容是主角：信号再多，也要让内容一眼看清。
+
+## 这个风格最俗的版本
+- 画面：全程剧烈故障、洋红和青的色差、角落一个「PLAY ▶」、开头彩条、结尾关机收成一个点。
+- 声音：合成波加磁带抖动，切换时一声电视嗡鸣。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：片头、怀旧主题的宣传片、作品集里的复古段、Logo 演绎。
+- 内容：游戏史、媒体史、复古品牌、音乐、悬疑。
+
+## 技术路线
+Canvas 画内容 → WebGL 后期（recipes.md 第 12 节的模板再加 VHS 效果）。后期在着色器里实现：弧面、扫描线、荧光点阵、色差、bloom（亮部模糊后叠加）、跟踪噪声（按 t 移动的水平噪声带）、颜色渗漏（色度水平模糊）。先渲一帧确认着色器生效。不要 `--grain`（颗粒在着色器里按帧固定种子生成）。
+
+## 材质与渲染
+- 弧面：`uv` 按距离中心的平方向外推；画面四角变暗、圆角黑边。
+- 扫描线：`sin(uv.y * 行数 * π)` 调制亮度，行数 ≈ 画面高度的 1/2–1/3。
+- 荧光点：按像素列交替加强 R/G/B（很弱）。
+- VHS：色度信号水平模糊 3–6px 并右移 1–2px；顶部或底部偶尔出现一条跟踪噪声带；整体水平抖动 ±1px（低频噪声）。
+- 撞击或切换时：短暂加强色差、跳帧、画面上下滚动一次。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 内容本身的配色加上 CRT 的特性：黑不是纯黑（`#0B0D0B`），白偏暖或偏冷。
+- 电视台风：深蓝 `#0A1A6B` / 亮黄 `#FFD400` / 白 / 洋红 `#FF2E88`
+- 恐怖 / 悬疑：灰绿 `#1A2A22` / 苍白 `#C9D6C9` / 血红 `#B3001B`
+- 推导：内容本身的配色经过 CRT 处理：黑不是纯黑，白偏暖或偏冷，饱和度略高并溢出。电视台风、家庭录像的褪色暖调、监控画面的灰绿都可以；洋红加青是最常见的那组。
+
+## 字体
+等宽或像素字体做 OSD（屏幕显示，比如 PLAY ▶、时间码）：VT323、Share Tech Mono；标题可以用 80 年代感的粗斜体（Righteous、Monoton 谨慎用）。
+
+## 运动
+- 内容按自己的风格运动；信号层的效果按事件触发（切台、撞击）或者缓慢漂移。
+- 换台转场：黑屏 → 雪花噪声 2–4 帧 → 新画面从中间一条亮线展开（CRT 开机）。
+
+## 画面怎么活
+- 一条滚动干扰带慢慢往上走；画面隔几秒有一次 1px 的同步抖动；REC 圆点或时间码闪烁。
+- 颗粒交给 `--grain`，不要在页面里逐帧画噪点。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 推近到屏幕，看到荧光点 | 进入电视里的世界 | 开场、转场 |
+| 拉远露出电视机外壳（代码画的） | 「这是一段录像」 | 回忆、结尾 |
+| 换台 | 切换话题 | 段落切换 |
+
+## 声音调色板
+低保真：信号底噪（`ambience({ kind: 'tape' })`，很轻）、换台的 `glitch` 和咔哒声、合成器铺底（带一点音高抖动）。第 1 档合成即可；可以把整个音乐 bus 加 `lowpass: 6000` 模拟磁带的频响。
+
+律动与和声（举例，不止这些）：80–90 年代电视的直拍，或者无拍的信号漂移；小调、Dorian、半音下行，换台时可以整段换调。媒介感来自 music bus 的 `wow: 0.3–0.6` + `lowpass: 6000`。
+
+## 原生手法
+- CRT 开机 / 关机（亮线展开 / 收缩成一个点）：适合开场和结尾。
+- 换台：适合多个段落、年代切换。
+- 录像带快进（画面加速 + 横向撕裂）：适合时间流逝。
+
+## 变化空间
+- 结构：一台电视换过 6 个频道；一盘录像带从开头到结尾；一档节目的片头。
+- 开场：雪花屏 → 信号锁定；黑屏上一个「PLAY ▶」。
+- 结尾：关机收缩成一个光点；画面停在一帧暂停的录像，OSD 闪烁。
+
+## 坑
+- 效果太重，内容看不清：信号层是质感，不是主角。
+- 每帧随机的噪声导致编码后糊成一片：噪声按帧固定种子，噪声带要有结构。
+- 着色器在软件渲染下非常慢：先测单帧耗时。

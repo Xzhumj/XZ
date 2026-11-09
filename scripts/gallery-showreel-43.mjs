@@ -1,1 +1,49 @@
-aW1wb3J0IGZzIGZyb20gIm5vZGU6ZnMiOwppbXBvcnQgaHR0cCBmcm9tICJub2RlOmh0dHAiOwppbXBvcnQgcGF0aCBmcm9tICJub2RlOnBhdGgiOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAibm9kZTp1cmwiOwoKY29uc3Qgcm9vdCA9IHBhdGgucmVzb2x2ZSgKICBwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKSwKICAiLi4iLAogICJhc3NldHMiLAogICJzaG93cmVlbC00MyIsCiAgInByZXZpZXciLAopOwpjb25zdCBwb3J0ID0gTnVtYmVyLnBhcnNlSW50KHByb2Nlc3MuZW52LlBPUlQgfHwgIjQxNzQiLCAxMCk7CmNvbnN0IG1pbWVUeXBlcyA9IHsKICAiLmh0bWwiOiAidGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiwKICAiLmpzIjogInRleHQvamF2YXNjcmlwdDsgY2hhcnNldD11dGYtOCIsCiAgIi5qc29uIjogImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiLAogICIudHRmIjogImZvbnQvdHRmIiwKICAiLm1wNCI6ICJ2aWRlby9tcDQiLAogICIuanBnIjogImltYWdlL2pwZWciLAp9OwoKY29uc3Qgc2VydmVyID0gaHR0cC5jcmVhdGVTZXJ2ZXIoKHJlcXVlc3QsIHJlc3BvbnNlKSA9PiB7CiAgdHJ5IHsKICAgIGNvbnN0IHJlcXVlc3RVcmwgPSBuZXcgVVJMKHJlcXVlc3QudXJsIHx8ICIvIiwgImh0dHA6Ly8xMjcuMC4wLjEiKTsKICAgIGNvbnN0IHBhdGhuYW1lID0gZGVjb2RlVVJJQ29tcG9uZW50KHJlcXVlc3RVcmwucGF0aG5hbWUpOwogICAgY29uc3QgY2FuZGlkYXRlID0gcGF0aC5yZXNvbHZlKHJvb3QsIGAuJHtwYXRobmFtZX1gKTsKICAgIGlmIChjYW5kaWRhdGUgIT09IHJvb3QgJiYgIWNhbmRpZGF0ZS5zdGFydHNXaXRoKGAke3Jvb3R9JHtwYXRoLnNlcH1gKSkgewogICAgICByZXNwb25zZS53cml0ZUhlYWQoNDAzKS5lbmQoIkZvcmJpZGRlbiIpOwogICAgICByZXR1cm47CiAgICB9CiAgICBjb25zdCBmaWxlUGF0aCA9IGZzLnN0YXRTeW5jKGNhbmRpZGF0ZSkuaXNEaXJlY3RvcnkoKQogICAgICA/IHBhdGguam9pbihjYW5kaWRhdGUsICJpbmRleC5odG1sIikKICAgICAgOiBjYW5kaWRhdGU7CiAgICByZXNwb25zZS53cml0ZUhlYWQoMjAwLCB7CiAgICAgICJDb250ZW50LVR5cGUiOgogICAgICAgIG1pbWVUeXBlc1twYXRoLmV4dG5hbWUoZmlsZVBhdGgpLnRvTG93ZXJDYXNlKCldIHx8CiAgICAgICAgImFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbSIsCiAgICAgICJDYWNoZS1Db250cm9sIjogIm5vLWNhY2hlIiwKICAgIH0pOwogICAgZnMuY3JlYXRlUmVhZFN0cmVhbShmaWxlUGF0aCkucGlwZShyZXNwb25zZSk7CiAgfSBjYXRjaCB7CiAgICByZXNwb25zZS53cml0ZUhlYWQoNDA0KS5lbmQoIk5vdCBmb3VuZCIpOwogIH0KfSk7CgpzZXJ2ZXIubGlzdGVuKHBvcnQsICIxMjcuMC4wLjEiLCAoKSA9PiB7CiAgY29uc29sZS5sb2coYFNIT1dSRUVMLTQzIGdhbGxlcnk6IGh0dHA6Ly8xMjcuMC4wLjE6JHtwb3J0fS9nYWxsZXJ5Lmh0bWxgKTsKfSk7Cg==
+import fs from "node:fs";
+import http from "node:http";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const root = path.resolve(
+  path.dirname(fileURLToPath(import.meta.url)),
+  "..",
+  "assets",
+  "showreel-43",
+  "preview",
+);
+const port = Number.parseInt(process.env.PORT || "4174", 10);
+const mimeTypes = {
+  ".html": "text/html; charset=utf-8",
+  ".js": "text/javascript; charset=utf-8",
+  ".json": "application/json; charset=utf-8",
+  ".ttf": "font/ttf",
+  ".mp4": "video/mp4",
+  ".jpg": "image/jpeg",
+};
+
+const server = http.createServer((request, response) => {
+  try {
+    const requestUrl = new URL(request.url || "/", "http://127.0.0.1");
+    const pathname = decodeURIComponent(requestUrl.pathname);
+    const candidate = path.resolve(root, `.${pathname}`);
+    if (candidate !== root && !candidate.startsWith(`${root}${path.sep}`)) {
+      response.writeHead(403).end("Forbidden");
+      return;
+    }
+    const filePath = fs.statSync(candidate).isDirectory()
+      ? path.join(candidate, "index.html")
+      : candidate;
+    response.writeHead(200, {
+      "Content-Type":
+        mimeTypes[path.extname(filePath).toLowerCase()] ||
+        "application/octet-stream",
+      "Cache-Control": "no-cache",
+    });
+    fs.createReadStream(filePath).pipe(response);
+  } catch {
+    response.writeHead(404).end("Not found");
+  }
+});
+
+server.listen(port, "127.0.0.1", () => {
+  console.log(`SHOWREEL-43 gallery: http://127.0.0.1:${port}/gallery.html`);
+});

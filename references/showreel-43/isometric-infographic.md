@@ -1,1 +1,92 @@
-IyDnrYnot53kv6Hmga/lm77vvIhpc29tZXRyaWMtaW5mb2dyYXBoaWPvvIkKCj4g562J6Led6KeG6KeS5LiL55qE5bCP5LiW55WM77ya5pa55Z2X44CB566h6YGT44CB5bCP5Lq644CB5pWw5o2u5aGU77yM5LiA5bGC5LiA5bGC5pCt6LW35p2l77yM5oqK5LiA5Lu25aSN5p2C55qE5LqL6K6y5riF5qWa44CCCj4g5Y+C54Wn77yI5Y+q5a2m6K+t5rOV77yJ77ya562J6Led5o+S55S744CB56eR5oqA5YWs5Y+455qE5p625p6E5o+S5Zu+44CB5Z+O5biC5qih5ouf5ri45oiP55qE6KeG6KeS44CC5LiN54Wn5pCs5YW35L2T5o+S55S75biI5L2c5ZOB44CCCgojIyDmnKzotKggLyDkuI3mmK/ku4DkuYgKLSDmnKzotKjvvJoqKuWbuuWumueahOetiei3neaKleW9sSoq77yIMzDCsCDovbTnur/vvInvvIzmsqHmnInpgI/op4blj5jlvaLvvJvlhYPntKDmmK/lubLlh4DnmoTlh6DkvZXkvZPvvIzkuInkuKrpnaLnlKjkuInkuKrmmI7luqbvvJvkv6Hmga/pnaDjgIzmkK3lu7rjgI3jgIzmtYHliqjjgI3jgIzngrnkuq7jgI3mnaXorrLjgIIKLSDkuI3mmK/vvJrpmo/mhI/nmoQgM0Qg6YCP6KeG77yb5Lmf5LiN5piv5aCG5ruh5YWD57Sg55qE5aSN5p2C5o+S55S744CCCgojIyDovqjor4bkv6Hlj7fvvJrmr4/mlK/niYflrZDmjJEgMuKAkzMg5LiqCnwg5L+h5Y+3IHwg6ZW/5LuA5LmI5qC3IHwg6YCC5ZCI55qE5Li76aKYIHwKfC0tLXwtLS18LS0tfAp8IOaQreW7uiB8IOaWueWdl+S7juS4iuaWueiQveS4i++8jOS4gOWxguWxguaQreaIkOezu+e7nyB8IOS7jumbtuWIsOS4gOOAgeaetuaehCB8Cnwg566h6YGT5ZKM5pWw5o2u5rWBIHwg5pWw5o2u54K55rK/566h6YGT5YyA6YCf5rWB6L+HIHwg5rWB56iL44CB5Zug5p6c44CB5Lyg6L6TIHwKfCDngrnkuq4gfCDmqKHlnZfmjInpobrluo/kuq7otbflvLrosIPoibIgfCDmv4DmtLvjgIHkuIrnur8gfAp8IOWJluW8gOeahOaWueWdlyB8IOS4gOS4quaWueWdl+aLhuW8gOmcsuWHuuWGhemDqOe7k+aehCB8IOWOn+eQhuOAgeWGhemDqOacuuWItiB8Cnwg5bCP5Lq65ZKM5bCP6L2mIHwg5bCP5LiW55WM6YeM55qE5bGF5rCR5rK/6Lev5b6E6LWw5YqoIHwg55So5oi344CB5Zy65pmvIHwKfCDmlbDmja7loZQgfCDmn7HlrZDku47lnLDpnaLljYfotbfooajnpLrmlbDph48gfCDop4TmqKHjgIHlop7plb8gfAp8IOWcsOWdl+WSjOmBk+i3ryB8IOetiei3neWcsOmdouS4iuWIkuWHuuWMuuWdl+WSjOihl+mBkyB8IOWfjuW4guOAgeeUn+aAgSB8Cnwg5rWu56m65Zu+5qCHIHwg5qih5Z2X5LiK5pa55oKs5rWu55qE5Zu+5qCH5ZKM5qCH562+IHwg5Yqf6IO96K+05piOIHwKfCDov57nur/nvZHnu5wgfCDmqKHlnZfkuYvpl7Tkuq7otbfnmoTov57nur8gfCDpm4bmiJDjgIHnvZHnu5wgfAp8IOaYvOWknOWPmOWMliB8IOWQjOS4gOS4quWwj+S4lueVjOeahOWFieeFp+S7jueZveWkqeWPmOWIsOWknOaZmiB8IOaXtumXtOOAgei/kOihjCB8Cgrop4TliJnvvJoKLSDmr4/mlK/mjJEgMuKAkzMg5Liq77yM6Iez5bCR5LiA5Liq5LiN5Zyo5LiL6Z2i44CM5pyA5L+X55qE54mI5pys44CN6YeM44CCCi0g5L+h5Y+35LuO5Li76aKY6YeM6YCJ77yM5LiN5oyJ6aG65bqP5YWo5LiK44CCCi0g562J6Led5oqV5b2x5pys6Lqr5piv6L+Z56eN6aOO5qC855qE57qm5p2f77yM5YWo54mH5Y+q55So5LiA56eN5oqV5b2x77yb5L+h5Y+35oyR55qE5piv6K6y5LuA5LmI44CB5oCO5LmI6K6y44CCCgojIyDov5nkuKrpo47moLzmnIDkv5fnmoTniYjmnKwKLSDnlLvpnaLvvJrmtYXngbDlupXkuIrkuIDlnZflnLDpnaLvvIzok53oibLmlrnlnZflkozmqZnoibLmlbDmja7mtYHvvIzmnI3liqHlmajjgIHkupHjgIHmiYvmnLrkuInkuKrlm77moIfov57miJDkuIDmnaHnur/vvIznu5PlsL7mi4nov5zlh7rlhajmma/jgIIKLSDlo7Dpn7PvvJrovbvlv6vnmoQgbWFyaW1iYSDliqDmn5TlkoznmoTnlLXlrZDmi43lrZDjgIIKLSBicmllZiDnmoQgc3R5bGUg5LiA5qCP5YaZ5piO6L+Z5pSv54mH5a2Q57+75o6J5LqG5ZOq5Yeg5p2h77yM5oiW6ICF5Li65LuA5LmI5Yi75oSP5L+d55WZ77yI5q+U5aaC55So5oi36KaB55qE5bCx5piv57uP5YW454mI77yJ44CC5L+d55WZ5pe277yM5oqK5Yqb5rCU6Iqx5Zyo5p6E5Zu+44CB6ZWc5aS044CB6IqC5aWP5oiW5LiA5Liq5oSP5aSW55qE6K6w5b+G54K55LiK44CCCgojIyDpgILphY0KLSDnlKjpgJTvvJrkuqflk4HlrqPkvKDvvIjorrLmnrbmnoTjgIHmtYHnqIvjgIHnlJ/mgIHvvInjgIHorrLop6Plnovnn63niYfjgIHmlbDmja7lj6/op4bljJbjgIIKLSDlhoXlrrnvvJpTYWFTIOaetuaehOOAgeeJqea1geOAgeiDvea6kOOAgeWfjuW4guOAgeS+m+W6lOmTvuOAgeW8gOWPkea1geeoi+OAggoKIyMg5oqA5pyv6Lev57q/CkNhbnZhcyAyRCDmiJYgU1ZH77yM6Ieq5bex5YaZ562J6Led5oqV5b2x5Ye95pWwIGBpc28oeCwgeSwgeikg4oaSIFtzeCwgc3ldYO+8iHN4ID0gKHgg4oiSIHkpwrdjb3MzMMKw77yMc3kgPSAoeCArIHkpwrdzaW4zMMKwIOKIkiB677yJ44CC5Lmf5Y+v5Lul55SoIFRocmVlLmpzIOeahOato+S6pOebuOacuu+8jOS9hiAyRCDmm7Tlj6/mjqfjgIHmuLLmn5Pmm7Tlv6vjgILnlLvnmoTpobrluo/mjInmt7HluqbmjpLluo/vvIh4ICsgeSArIHog5LuO5bCP5Yiw5aSn77yJ44CCCgojIyDmnZDotKjkuI7muLLmn5MKLSDmr4/kuKrmlrnlnZfkuInkuKrpnaLvvJrpobbpnaLmnIDkuq7jgIHlt6bpnaLkuK3pl7TjgIHlj7PpnaLmnIDmmpfvvIjlkIzkuIDoibLnm7jnmoTkuInkuKrmmI7luqbvvInjgIIKLSDnu4bmj4/ovrnlj6/pgInvvIjlkIzoibLmm7Tmt7HkuIDmoaPvvInvvJvlnLDpnaLnvZHmoLzpnZ7luLjmt6HjgIIKLSDlsI/kurrlkozlm77moIfnlKjmnIDnroDlh6DkvZXvvIjlnIbmn7EgKyDnkIPvvInvvIzkuI3opoHnlLvkupTlrpjjgIIKLSDmlbDmja7mtYHvvJrmsr/nrqHpgZPnp7vliqjnmoTngrnmiJbnn63nur/mrrXvvIzmjInml7bpl7TlgY/np7vvvIhgKHQgKiBzcGVlZCArIGkgKiBnYXApICUgbGVuZ3RoYO+8ieOAggoKIyMg6YWN6ImyCuS4i+mdoueahOiJsuWAvOaYr+ekuuS+i++8jOeci+aAnei3r++8jOS4jeimgeWOn+agt+eFp+aKhOOAggotIOW6lSBgI0YzRjFFQ2AgLyDmlrnlnZcgYCNGRkZGRkZgwrdgI0U0RTFEQWDCt2AjQ0ZDQUMwYCAvIOW8uuiwgyBgIzJGNkJGRmAgLyDmlbDmja7mtYEgYCNGRjdBMUFgCi0g5bqVIGAjMEYxNjI2YCAvIOaWueWdlyBgIzI2MzI0RGDCt2AjMUMyNjQwYMK3YCMxNDFDMzBgIC8g5by66LCDIGAjM0VFNkIwYAotIOinhOWIme+8mue7k+aehOeUqOS4reaAp+iJsu+8jOWPquacieOAjOato+WcqOWPkeeUn+eahOS6i+OAje+8iOa1geWKqOOAgeeCueS6ruOAgeaWsOWinu+8ieeUqOW8uuiwg+iJsuOAggotIOaOqOWvvO+8mue7k+aehOeUqOS4ieS4quaYjuW6pueahOS4reaAp+iJsu+8iOa1heW6leaIlua3seW6lemDveWPr+S7pe+8ie+8jOW8uuiwg+iJsuWPque7meato+WcqOWPkeeUn+eahOS6i++8jOaVsOaNrua1geWPr+S7peeUqOesrOS6jOS4quminOiJsuOAguW8uuiwg+iJsuS7juWTgeeJjOadpe+8m+iTneWKoOapmeaYr+acgOW4uOingeeahOe7hOWQiOOAggoKIyMg5a2X5L2TCuagh+etvueUqOW5suWHgOeahOaXoOihrOe6v+S9k++8iE1hbnJvcGXjgIFETSBTYW5z77yJ77yM5a2X5Lmf5Y+v5Lul6LS05Zyo562J6Led5bmz6Z2i5LiK77yI55So562J6Led5Y+Y5o2i55+p6Zi1IGBjdHguc2V0VHJhbnNmb3JtYCDmlpzliIfvvInjgIIKCiMjIOi/kOWKqAotIOaQreW7uu+8muaWueWdl+S7juS4iuaWueiQveS4i++8jOW8ueewpyBgezIuNCwgMC43fWAg6JC95a6a77yM5bim5LiA54K55oyk5Y6L77yb5oyJ5L6d6LWW5YWz57O76ZSZ5bOw44CCCi0g54K55Lqu77ya6Z2i6aKc6Imy5riQ5Y+Y5Yiw5by66LCD6Imy77yM5Yqg5LiA5qyh6ISJ5Yay44CCCi0g5rWB5Yqo77ya5oyB57ut5YyA6YCf55qE5pWw5o2u54K577yI5YyA6YCf5Zyo6L+Z6YeM5piv5a+555qE77yM5a6D6KGo6L6+55qE5piv44CM5oyB57ut6L+Q6KGM44CN77yJ44CCCgojIyDnlLvpnaLmgI7kuYjmtLsKLSDnrqHpgZPlkozov57nur/ph4znmoTmlbDmja7ngrnljIDpgJ/mtYHliqjvvJvlsI/mnLrlmajjgIHlsI/lsYvnmoTmjIfnpLrnga/mjInmi43pl6rvvJvlsI/kurrmiJblsI/ovabmsr/ot6/lvoTmnaXlm57otbDvvIzlg4/ov5nkuKrlsI/kuJbnlYzph4znmoTlsYXmsJHjgIIKLSDmtLvnmoTkuJzopb/pg73opoHot5/kv6Hmga/mnInlhbPvvJrmtYHliqjnmoTmlrnlkJHlsLHmmK/mlbDmja7nmoTmlrnlkJHjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDmraPkuqTnm7jmnLrlubPnp7sgfCDmsr/mtYHnqIvotbAgfCDmraXpqqTjgIHmlbDmja7mtYEgfAp8IOe8k+aFouaUvuWkp+WIsOS4gOS4quaooeWdlyB8IOiBmueEpuS4gOS4queOr+iKgiB8IOWKn+iDvee7huiKgiB8Cnwg5ouJ6L+c55yL5YWo5pmvIHwg55Sf5oCB5YWo6LKMIHwg5oC757uT44CB57uT5bC+IHwKfCDnu5UgeiDovbQgOTDCsCDml4vovazvvIjph43mlrDmjpLluo/mt7HluqbvvIkgfCDmjaLkuKrop4bop5IgfCDlr7nmr5TjgIHovazmipggfAoKIyMg5aOw6Z+z6LCD6Imy5p2/Cua4heiEhueahCBwbHVja+OAgeacqOi0qOaEn+eahCBjbGlja++8iGByaW1g44CBYG1hbGxldCh7IG1hdGVyaWFsOiAnd29vZCcgfSlg77yM5oiW55+tIGB0b21gICsg6auY6YCa77yJ44CB5pa55Z2X6JC95Zyw55qE6L27IGBib29tYOOAgea1geWKqOaXtueahOi9u+aflOmTuuW6leOAguesrCAxIOaho+WQiOaIkOWNs+WPr+OAggoK5b6L5Yqo5LiO5ZKM5aOw77yI5Li+5L6L77yM5LiN5q2i6L+Z5Lqb77yJ77ya55u05ouN5oiW6L27IHN3aW5n77yM5Y2B5YWt5YiG6Z+z56ym55qE5py65qKw5oSf77yb5aSn6LCD44CBTHlkaWFu77ybYG1hbGxldCh7IG1hdGVyaWFsOiAnd29vZCcgfCAnbWFyaW1iYScgfSlgIOWwseaYr+acqOi0qOenr+acqOeahOWjsOmfs+OAgue0r+WKoOabsue6v++8iOWfjuW4guS4gOWdl+Wdl+mVv+WHuuadpe+8jOWjsOmDqOS4gOS4quS4qui/m+adpe+8ieW+iOWQiOmAguOAggoKIyMg5Y6f55Sf5omL5rOVCi0g5LiA5Z2X5Zyw6Z2i5LiK6YCQ5q2l6ZW/5Ye65pW05bqn5Z+O5biC77yI5oiW5pW05aWX57O757uf77yJ77ya6YCC5ZCI44CM5LuO6Zu25Yiw5LiA44CN44CCCi0g5pWw5o2u54K55rK/566h6YGT5rWB6L+H44CB54K55Lqu5LiL5LiA5Liq5qih5Z2X77ya6YCC5ZCI5rWB56iL5ZKM5Zug5p6c44CCCi0g5LiA5Liq5pa55Z2X5ouG5byA6Zyy5Ye65YaF6YOo57uT5p6E77ya6YCC5ZCI6K6y5Y6f55CG44CCCgojIyDlj5jljJbnqbrpl7QKLSDnu5PmnoTvvJrkuIDkuKror7fmsYLnmoTml4XnqIvvvJvkuIDlpKnkuYvlhoXkuIDluqflsI/ln47nmoTlj5jljJbvvJvkuInkuKrmqKHlnZfpgJDkuIDngrnkuq7lho3ov57miJDkuIDkvZPjgIIKLSDlvIDlnLrvvJrkuIDkuKrmlrnlnZfku47nqbrkuK3okL3kuIvvvJvkuIDmnaHmlbDmja7mtYHku47nlLvlpJbmtYHov5vmnaXjgIIKLSDnu5PlsL7vvJrmi4nov5zpnLLlh7rlhajmma/vvIzns7vnu5/mlbTkvZPohInliqjkuIDmrKHvvJvmiYDmnInmqKHlnZflkIjlubbmiJDkuIDkuKogbG9nbyDmlrnlnZfjgIIKCiMjIOWdkQotIOa3seW6puaOkuW6j+mUmeS6hu+8jOWJjeWQjumBruaMoeepv+W4ru+8muS4peagvOaMiSB4ICsgeSArIHog5o6S5bqP77yM6Leo5qC855qE5aSn54mp5L2T6KaB5ouG5byA55S744CCCi0g562J6Led5ZKM6YCP6KeG5re355So77ya5YWo54mH5Y+q55So5LiA56eN5oqV5b2x44CCCi0g5YWD57Sg5aSq5aSa44CB5aSq5bCP77ya5Zyo5omL5py65LiK55yL5LiN5riF77yM5a6B5Y+v5bCR6ICM5aSn44CCCg==
+# 等距信息图（isometric-infographic）
+
+> 等距视角下的小世界：方块、管道、小人、数据塔，一层一层搭起来，把一件复杂的事讲清楚。
+> 参照（只学语法）：等距插画、科技公司的架构插图、城市模拟游戏的视角。不照搬具体插画师作品。
+
+## 本质 / 不是什么
+- 本质：**固定的等距投影**（30° 轴线），没有透视变形；元素是干净的几何体，三个面用三个明度；信息靠「搭建」「流动」「点亮」来讲。
+- 不是：随意的 3D 透视；也不是堆满元素的复杂插画。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 搭建 | 方块从上方落下，一层层搭成系统 | 从零到一、架构 |
+| 管道和数据流 | 数据点沿管道匀速流过 | 流程、因果、传输 |
+| 点亮 | 模块按顺序亮起强调色 | 激活、上线 |
+| 剖开的方块 | 一个方块拆开露出内部结构 | 原理、内部机制 |
+| 小人和小车 | 小世界里的居民沿路径走动 | 用户、场景 |
+| 数据塔 | 柱子从地面升起表示数量 | 规模、增长 |
+| 地块和道路 | 等距地面上划出区块和街道 | 城市、生态 |
+| 浮空图标 | 模块上方悬浮的图标和标签 | 功能说明 |
+| 连线网络 | 模块之间亮起的连线 | 集成、网络 |
+| 昼夜变化 | 同一个小世界的光照从白天变到夜晚 | 时间、运行 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 等距投影本身是这种风格的约束，全片只用一种投影；信号挑的是讲什么、怎么讲。
+
+## 这个风格最俗的版本
+- 画面：浅灰底上一块地面，蓝色方块和橙色数据流，服务器、云、手机三个图标连成一条线，结尾拉远出全景。
+- 声音：轻快的 marimba 加柔和的电子拍子。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：产品宣传（讲架构、流程、生态）、讲解型短片、数据可视化。
+- 内容：SaaS 架构、物流、能源、城市、供应链、开发流程。
+
+## 技术路线
+Canvas 2D 或 SVG，自己写等距投影函数 `iso(x, y, z) → [sx, sy]`（sx = (x − y)·cos30°，sy = (x + y)·sin30° − z）。也可以用 Three.js 的正交相机，但 2D 更可控、渲染更快。画的顺序按深度排序（x + y + z 从小到大）。
+
+## 材质与渲染
+- 每个方块三个面：顶面最亮、左面中间、右面最暗（同一色相的三个明度）。
+- 细描边可选（同色更深一档）；地面网格非常淡。
+- 小人和图标用最简几何（圆柱 + 球），不要画五官。
+- 数据流：沿管道移动的点或短线段，按时间偏移（`(t * speed + i * gap) % length`）。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 底 `#F3F1EC` / 方块 `#FFFFFF`·`#E4E1DA`·`#CFCAC0` / 强调 `#2F6BFF` / 数据流 `#FF7A1A`
+- 底 `#0F1626` / 方块 `#26324D`·`#1C2640`·`#141C30` / 强调 `#3EE6B0`
+- 规则：结构用中性色，只有「正在发生的事」（流动、点亮、新增）用强调色。
+- 推导：结构用三个明度的中性色（浅底或深底都可以），强调色只给正在发生的事，数据流可以用第二个颜色。强调色从品牌来；蓝加橙是最常见的组合。
+
+## 字体
+标签用干净的无衬线体（Manrope、DM Sans），字也可以贴在等距平面上（用等距变换矩阵 `ctx.setTransform` 斜切）。
+
+## 运动
+- 搭建：方块从上方落下，弹簧 `{2.4, 0.7}` 落定，带一点挤压；按依赖关系错峰。
+- 点亮：面颜色渐变到强调色，加一次脉冲。
+- 流动：持续匀速的数据点（匀速在这里是对的，它表达的是「持续运行」）。
+
+## 画面怎么活
+- 管道和连线里的数据点匀速流动；小机器、小屋的指示灯按拍闪；小人或小车沿路径来回走，像这个小世界里的居民。
+- 活的东西都要跟信息有关：流动的方向就是数据的方向。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 正交相机平移 | 沿流程走 | 步骤、数据流 |
+| 缓慢放大到一个模块 | 聚焦一个环节 | 功能细节 |
+| 拉远看全景 | 生态全貌 | 总结、结尾 |
+| 绕 z 轴 90° 旋转（重新排序深度） | 换个视角 | 对比、转折 |
+
+## 声音调色板
+清脆的 pluck、木质感的 click（`rim`、`mallet({ material: 'wood' })`，或短 `tom` + 高通）、方块落地的轻 `boom`、流动时的轻柔铺底。第 1 档合成即可。
+
+律动与和声（举例，不止这些）：直拍或轻 swing，十六分音符的机械感；大调、Lydian；`mallet({ material: 'wood' | 'marimba' })` 就是木质积木的声音。累加曲线（城市一块块长出来，声部一个个进来）很合适。
+
+## 原生手法
+- 一块地面上逐步长出整座城市（或整套系统）：适合「从零到一」。
+- 数据点沿管道流过、点亮下一个模块：适合流程和因果。
+- 一个方块拆开露出内部结构：适合讲原理。
+
+## 变化空间
+- 结构：一个请求的旅程；一天之内一座小城的变化；三个模块逐一点亮再连成一体。
+- 开场：一个方块从空中落下；一条数据流从画外流进来。
+- 结尾：拉远露出全景，系统整体脉动一次；所有模块合并成一个 logo 方块。
+
+## 坑
+- 深度排序错了，前后遮挡穿帮：严格按 x + y + z 排序，跨格的大物体要拆开画。
+- 等距和透视混用：全片只用一种投影。
+- 元素太多、太小：在手机上看不清，宁可少而大。

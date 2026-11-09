@@ -1,1 +1,128 @@
-aW1wb3J0IGFzc2VydCBmcm9tICJub2RlOmFzc2VydC9zdHJpY3QiOwppbXBvcnQgZnMgZnJvbSAibm9kZTpmcy9wcm9taXNlcyI7CmltcG9ydCBwYXRoIGZyb20gIm5vZGU6cGF0aCI7CmltcG9ydCB7IHNwYXduIH0gZnJvbSAibm9kZTpjaGlsZF9wcm9jZXNzIjsKaW1wb3J0IHRlc3QgZnJvbSAibm9kZTp0ZXN0IjsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gIm5vZGU6dXJsIjsKCmNvbnN0IHRlc3REaXJlY3RvcnkgPSBwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKTsKY29uc3Qgc2tpbGxEaXJlY3RvcnkgPSBwYXRoLmRpcm5hbWUodGVzdERpcmVjdG9yeSk7CmNvbnN0IHByZXZpZXdSb290ID0gcGF0aC5qb2luKHNraWxsRGlyZWN0b3J5LCAiYXNzZXRzIiwgInNob3dyZWVsLTQzIiwgInByZXZpZXciKTsKY29uc3Qgc3R5bGVSb290ID0gcGF0aC5qb2luKHNraWxsRGlyZWN0b3J5LCAicmVmZXJlbmNlcyIsICJzaG93cmVlbC00MyIpOwpjb25zdCBoYXNQcml2YXRlQXNzZXRzID0gYXdhaXQgZnMKICAuYWNjZXNzKHBhdGguam9pbihwcmV2aWV3Um9vdCwgImRhdGEiLCAiY2F0YWxvZy5qc29uIikpCiAgLnRoZW4oKCkgPT4gdHJ1ZSwgKCkgPT4gZmFsc2UpOwpjb25zdCBwcml2YXRlQXNzZXRzU2tpcCA9IGhhc1ByaXZhdGVBc3NldHMKICA/IGZhbHNlCiAgOiAicHJpdmF0ZSBhc3NldHMgYXJlIG5vdCBpbmNsdWRlZCBpbiB0aGlzIHJlcG9zaXRvcnkiOwpjb25zdCBjYXRhbG9nID0gaGFzUHJpdmF0ZUFzc2V0cwogID8gSlNPTi5wYXJzZSgKICAgIGF3YWl0IGZzLnJlYWRGaWxlKHBhdGguam9pbihwcmV2aWV3Um9vdCwgImRhdGEiLCAiY2F0YWxvZy5qc29uIiksICJ1dGY4IiksCiAgKQogIDogbnVsbDsKY29uc3QgcHJldmlld3MgPSBoYXNQcml2YXRlQXNzZXRzCiAgPyBKU09OLnBhcnNlKAogICAgYXdhaXQgZnMucmVhZEZpbGUocGF0aC5qb2luKHByZXZpZXdSb290LCAiZGF0YSIsICJwcmV2aWV3cy5qc29uIiksICJ1dGY4IiksCiAgKQogIDogbnVsbDsKCnRlc3QoIlNIT1dSRUVMLTQzIGtlZXBzIDQzIHVuaXF1ZSBzZWxlY3RhYmxlIHN0eWxlcyB3aXRoIGNvbXBsZXRlIHByZXZpZXdzIiwgewogIHNraXA6IHByaXZhdGVBc3NldHNTa2lwLAp9LCBhc3luYyAoKSA9PiB7CiAgYXNzZXJ0LmVxdWFsKGNhdGFsb2cuc3R5bGVzLmxlbmd0aCwgNDMpOwogIGFzc2VydC5lcXVhbChuZXcgU2V0KGNhdGFsb2cuc3R5bGVzLm1hcCgoeyBzbHVnIH0pID0+IHNsdWcpKS5zaXplLCA0Myk7CiAgYXNzZXJ0LmVxdWFsKAogICAgY2F0YWxvZy5jYXRlZ29yaWVzLnJlZHVjZSgKICAgICAgKHN1bSwgY2F0ZWdvcnkpID0+CiAgICAgICAgc3VtICsgY2F0YWxvZy5zdHlsZXMuZmlsdGVyKCh7IGNhdGVnb3J5OiBpZCB9KSA9PiBpZCA9PT0gY2F0ZWdvcnkuaWQpLmxlbmd0aCwKICAgICAgMCwKICAgICksCiAgICA0MywKICApOwoKICBjb25zdCBkb2N1bWVudHMgPSAoYXdhaXQgZnMucmVhZGRpcihzdHlsZVJvb3QpKQogICAgLmZpbHRlcigKICAgICAgKG5hbWUpID0+CiAgICAgICAgbmFtZS5lbmRzV2l0aCgiLm1kIikgJiYKICAgICAgICBuYW1lICE9PSAiSU5ERVgubWQiICYmCiAgICAgICAgIW5hbWUuc3RhcnRzV2l0aCgiXyIpLAogICAgKQogICAgLnNvcnQoKTsKICBhc3NlcnQuZGVlcEVxdWFsKAogICAgZG9jdW1lbnRzLAogICAgY2F0YWxvZy5zdHlsZXMubWFwKCh7IHNsdWcgfSkgPT4gYCR7c2x1Z30ubWRgKS5zb3J0KCksCiAgKTsKCiAgY29uc3QgcHJldmlld0J5U2x1ZyA9IG5ldyBNYXAoCiAgICBwcmV2aWV3cy5zdHlsZXMubWFwKChwcmV2aWV3KSA9PiBbcHJldmlldy5zbHVnLCBwcmV2aWV3XSksCiAgKTsKICBhc3NlcnQuZXF1YWwocHJldmlld3Muc3R5bGVzLmxlbmd0aCwgNDMpOwogIGZvciAoY29uc3Qgc3R5bGUgb2YgY2F0YWxvZy5zdHlsZXMpIHsKICAgIGNvbnN0IHByZXZpZXcgPSBwcmV2aWV3QnlTbHVnLmdldChzdHlsZS5zbHVnKTsKICAgIGFzc2VydC5vayhwcmV2aWV3LCBgbWlzc2luZyBwcmV2aWV3ICR7c3R5bGUuc2x1Z31gKTsKICAgIGFzc2VydC5lcXVhbChwcmV2aWV3LmZyYW1lcywgMTUwKTsKICAgIGFzc2VydC5lcXVhbChwcmV2aWV3LmZmcHJvYmUuc3RyZWFtc1swXS5jb2RlY19uYW1lLCAiaDI2NCIpOwogICAgYXNzZXJ0LmVxdWFsKHByZXZpZXcuZmZwcm9iZS5zdHJlYW1zWzBdLndpZHRoLCAxMjgwKTsKICAgIGFzc2VydC5lcXVhbChwcmV2aWV3LmZmcHJvYmUuc3RyZWFtc1swXS5oZWlnaHQsIDcyMCk7CiAgICBhc3NlcnQuZXF1YWwocHJldmlldy5mZnByb2JlLnN0cmVhbXNbMF0ucl9mcmFtZV9yYXRlLCAiMzAvMSIpOwogICAgYXNzZXJ0LmVxdWFsKHByZXZpZXcuZmZwcm9iZS5mb3JtYXQuZHVyYXRpb24sICI1LjAwMDAwMCIpOwogICAgYXdhaXQgZnMuYWNjZXNzKHBhdGguam9pbihwcmV2aWV3Um9vdCwgcHJldmlldy5tcDQpKTsKICAgIGF3YWl0IGZzLmFjY2VzcyhwYXRoLmpvaW4ocHJldmlld1Jvb3QsIHByZXZpZXcucG9zdGVyKSk7CiAgfQogIGFzc2VydC5lcXVhbChwcmV2aWV3QnlTbHVnLmdldCgic3dpc3MtZWRpdG9yaWFsIikubW9kZSwgIkNhbnZhcyAyRCAobmF0aXZlIHNhbXBsZSkiKTsKICBhc3NlcnQuZXF1YWwocHJldmlld0J5U2x1Zy5nZXQoImxpcXVpZC1zaGFkZXIiKS5tb2RlLCAiV2ViR0wyIChuYXRpdmUgc2FtcGxlKSIpOwogIGFzc2VydC5lcXVhbChwcmV2aWV3QnlTbHVnLmdldCgiZ2xhc3MtbWF0ZXJpYWwiKS5tb2RlLCAiVGhyZWUuanMgKG5hdGl2ZSBzYW1wbGUpIik7Cn0pOwoKdGVzdCgiU0hPV1JFRUwtNDMgZ2FsbGVyeSBzZXJ2ZXMgaXRzIGNhdGFsb2csIHBvc3RlcnMsIGFuZCB2aWRlb3MiLCB7CiAgc2tpcDogcHJpdmF0ZUFzc2V0c1NraXAsCn0sIGFzeW5jICgpID0+IHsKICBjb25zdCBwb3J0ID0gNDQwMDAgKyBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAxMDAwKTsKICBjb25zdCBjaGlsZCA9IHNwYXduKAogICAgcHJvY2Vzcy5leGVjUGF0aCwKICAgIFtwYXRoLmpvaW4oc2tpbGxEaXJlY3RvcnksICJzY3JpcHRzIiwgImdhbGxlcnktc2hvd3JlZWwtNDMubWpzIildLAogICAgewogICAgICBjd2Q6IHNraWxsRGlyZWN0b3J5LAogICAgICBlbnY6IHsgLi4ucHJvY2Vzcy5lbnYsIFBPUlQ6IFN0cmluZyhwb3J0KSB9LAogICAgICBzdGRpbzogImlnbm9yZSIsCiAgICAgIHdpbmRvd3NIaWRlOiB0cnVlLAogICAgfSwKICApOwoKICB0cnkgewogICAgbGV0IGdhbGxlcnk7CiAgICBmb3IgKGxldCBhdHRlbXB0ID0gMDsgYXR0ZW1wdCA8IDUwOyBhdHRlbXB0ICs9IDEpIHsKICAgICAgdHJ5IHsKICAgICAgICBnYWxsZXJ5ID0gYXdhaXQgZmV0Y2goYGh0dHA6Ly8xMjcuMC4wLjE6JHtwb3J0fS9nYWxsZXJ5Lmh0bWxgKTsKICAgICAgICBpZiAoZ2FsbGVyeS5vaykgYnJlYWs7CiAgICAgIH0gY2F0Y2ggewogICAgICAgIC8vIFRoZSBzZXJ2ZXIgbWF5IHN0aWxsIGJlIGJpbmRpbmcgdGhlIGxvY2FsIHBvcnQuCiAgICAgIH0KICAgICAgYXdhaXQgbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgMTAwKSk7CiAgICB9CiAgICBhc3NlcnQuZXF1YWwoZ2FsbGVyeT8uc3RhdHVzLCAyMDApOwogICAgY29uc3QgZ2FsbGVyeUh0bWwgPSBhd2FpdCBnYWxsZXJ5LnRleHQoKTsKICAgIGFzc2VydC5tYXRjaChnYWxsZXJ5SHRtbCwgL1NIT1dSRUVMIDQzLyk7CiAgICBhc3NlcnQubWF0Y2goZ2FsbGVyeUh0bWwsIC9sb2FkaW5nPSJsYXp5Ii8pOwogICAgYXNzZXJ0LmVxdWFsKAogICAgICBhd2FpdCBmZXRjaChgaHR0cDovLzEyNy4wLjAuMToke3BvcnR9L2RhdGEvY2F0YWxvZy5qc29uYCkudGhlbigocmVzcG9uc2UpID0+CiAgICAgICAgcmVzcG9uc2UuanNvbigpCiAgICAgICkudGhlbigoZGF0YSkgPT4gZGF0YS5zdHlsZXMubGVuZ3RoKSwKICAgICAgNDMsCiAgICApOwogICAgYXNzZXJ0LmVxdWFsKAogICAgICAoCiAgICAgICAgYXdhaXQgZmV0Y2goYGh0dHA6Ly8xMjcuMC4wLjE6JHtwb3J0fS9wb3N0ZXJzL3N3aXNzLWVkaXRvcmlhbC5qcGdgKQogICAgICApLnN0YXR1cywKICAgICAgMjAwLAogICAgKTsKICAgIGFzc2VydC5lcXVhbCgKICAgICAgKAogICAgICAgIGF3YWl0IGZldGNoKGBodHRwOi8vMTI3LjAuMC4xOiR7cG9ydH0vbWVkaWEvc3dpc3MtZWRpdG9yaWFsLm1wNGApCiAgICAgICkuc3RhdHVzLAogICAgICAyMDAsCiAgICApOwogIH0gZmluYWxseSB7CiAgICBjaGlsZC5raWxsKCk7CiAgfQp9KTsK
+import assert from "node:assert/strict";
+import fs from "node:fs/promises";
+import path from "node:path";
+import { spawn } from "node:child_process";
+import test from "node:test";
+import { fileURLToPath } from "node:url";
+
+const testDirectory = path.dirname(fileURLToPath(import.meta.url));
+const skillDirectory = path.dirname(testDirectory);
+const previewRoot = path.join(skillDirectory, "assets", "showreel-43", "preview");
+const styleRoot = path.join(skillDirectory, "references", "showreel-43");
+const hasPrivateAssets = await fs
+  .access(path.join(previewRoot, "data", "catalog.json"))
+  .then(() => true, () => false);
+const privateAssetsSkip = hasPrivateAssets
+  ? false
+  : "private assets are not included in this repository";
+const catalog = hasPrivateAssets
+  ? JSON.parse(
+    await fs.readFile(path.join(previewRoot, "data", "catalog.json"), "utf8"),
+  )
+  : null;
+const previews = hasPrivateAssets
+  ? JSON.parse(
+    await fs.readFile(path.join(previewRoot, "data", "previews.json"), "utf8"),
+  )
+  : null;
+
+test("SHOWREEL-43 keeps 43 unique selectable styles with complete previews", {
+  skip: privateAssetsSkip,
+}, async () => {
+  assert.equal(catalog.styles.length, 43);
+  assert.equal(new Set(catalog.styles.map(({ slug }) => slug)).size, 43);
+  assert.equal(
+    catalog.categories.reduce(
+      (sum, category) =>
+        sum + catalog.styles.filter(({ category: id }) => id === category.id).length,
+      0,
+    ),
+    43,
+  );
+
+  const documents = (await fs.readdir(styleRoot))
+    .filter(
+      (name) =>
+        name.endsWith(".md") &&
+        name !== "INDEX.md" &&
+        !name.startsWith("_"),
+    )
+    .sort();
+  assert.deepEqual(
+    documents,
+    catalog.styles.map(({ slug }) => `${slug}.md`).sort(),
+  );
+
+  const previewBySlug = new Map(
+    previews.styles.map((preview) => [preview.slug, preview]),
+  );
+  assert.equal(previews.styles.length, 43);
+  for (const style of catalog.styles) {
+    const preview = previewBySlug.get(style.slug);
+    assert.ok(preview, `missing preview ${style.slug}`);
+    assert.equal(preview.frames, 150);
+    assert.equal(preview.ffprobe.streams[0].codec_name, "h264");
+    assert.equal(preview.ffprobe.streams[0].width, 1280);
+    assert.equal(preview.ffprobe.streams[0].height, 720);
+    assert.equal(preview.ffprobe.streams[0].r_frame_rate, "30/1");
+    assert.equal(preview.ffprobe.format.duration, "5.000000");
+    await fs.access(path.join(previewRoot, preview.mp4));
+    await fs.access(path.join(previewRoot, preview.poster));
+  }
+  assert.equal(previewBySlug.get("swiss-editorial").mode, "Canvas 2D (native sample)");
+  assert.equal(previewBySlug.get("liquid-shader").mode, "WebGL2 (native sample)");
+  assert.equal(previewBySlug.get("glass-material").mode, "Three.js (native sample)");
+});
+
+test("SHOWREEL-43 gallery serves its catalog, posters, and videos", {
+  skip: privateAssetsSkip,
+}, async () => {
+  const port = 44000 + Math.floor(Math.random() * 1000);
+  const child = spawn(
+    process.execPath,
+    [path.join(skillDirectory, "scripts", "gallery-showreel-43.mjs")],
+    {
+      cwd: skillDirectory,
+      env: { ...process.env, PORT: String(port) },
+      stdio: "ignore",
+      windowsHide: true,
+    },
+  );
+
+  try {
+    let gallery;
+    for (let attempt = 0; attempt < 50; attempt += 1) {
+      try {
+        gallery = await fetch(`http://127.0.0.1:${port}/gallery.html`);
+        if (gallery.ok) break;
+      } catch {
+        // The server may still be binding the local port.
+      }
+      await new Promise((resolve) => setTimeout(resolve, 100));
+    }
+    assert.equal(gallery?.status, 200);
+    const galleryHtml = await gallery.text();
+    assert.match(galleryHtml, /SHOWREEL 43/);
+    assert.match(galleryHtml, /loading="lazy"/);
+    assert.equal(
+      await fetch(`http://127.0.0.1:${port}/data/catalog.json`).then((response) =>
+        response.json()
+      ).then((data) => data.styles.length),
+      43,
+    );
+    assert.equal(
+      (
+        await fetch(`http://127.0.0.1:${port}/posters/swiss-editorial.jpg`)
+      ).status,
+      200,
+    );
+    assert.equal(
+      (
+        await fetch(`http://127.0.0.1:${port}/media/swiss-editorial.mp4`)
+      ).status,
+      200,
+    );
+  } finally {
+    child.kill();
+  }
+});

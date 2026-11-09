@@ -1,1 +1,92 @@
-IyDmnYLlv5fmi7zotLTvvIhlZGl0b3JpYWwtY29sbGFnZe+8iQoKPiDliarkuIvmnaXnmoTnhafniYflkozoibLnurjjgIHmkpXovrnjgIHog7bluKbjgIHotLTnurjjgIHmiYvlhpnmoIfms6jvvIzlsYLlsYLlj6Dlj6DlnLDmi7zlh7rkuIDpobXkvJrliqjnmoTmnYLlv5fjgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJrml7blsJrlkozpn7PkuZDmnYLlv5fnmoTmi7zotLTniYjlvI/jgIHovr7ovr7mi7zotLTjgIHlvZPku6PnpL7kuqTlqpLkvZPnmoQgc2NyYXBib29rIOmjjuOAguS4jeeFp+aQrOWFt+S9k+S9nOWTgeWSjOWPl+eJiOadg+S/neaKpOeahOWbvueJh+OAggoKIyMg5pys6LSoIC8g5LiN5piv5LuA5LmICi0g5pys6LSo77yaKirmr4/kuKrlhYPntKDpg73lg4/kuIDlvKDooqvliarkuIvmnaXnmoTnurgqKu+8iOacieeZvei+ueOAgeaSlei+ueOAgeaKleW9se+8ie+8jOaOkuW4g+acieaEj+S4jeWvuem9kO+8m+aJi+WGmeWtl+OAgeWciOeUu+OAgeeureWktOS9nOS4uuesrOS6jOWxgu+8m+WFg+e0oOWDj+iiq+S4gOWPquaJi+aUvuS4iuWOu+OAggotIOS4jeaYr++8muaVtOm9kOeahOe9keagvOeJiOW8j++8m+S5n+S4jeaYr+i0tOa7oeihqOaDheWMheeahOW7ieS7t+i0tOe6uOmjjuOAggoKIyMg6L6o6K+G5L+h5Y+377ya5q+P5pSv54mH5a2Q5oyRIDLigJMzIOS4qgp8IOS/oeWPtyB8IOmVv+S7gOS5iOagtyB8IOmAguWQiOeahOS4u+mimCB8CnwtLS18LS0tfC0tLXwKfCDliarnurjnmb3ovrkgfCDnhafniYflkozoibLnurjluKbkuIDlnIjnmb3ovrnlkozovbvmipXlvbEgfCDkurrnianjgIHkvZzlk4EgfAp8IOaSlei+uSB8IOe6uOeahOi+uee8mOaYr+aSleW8gOeahOavm+i+uSB8IOaPreekuuOAgeaJk+egtCB8Cnwg6IO25bimIHwg5Y2K6YCP5piO44CB5Lik56uv6ZSv6b2/55qE6IO25bim5oqK5Lic6KW/6LS05L2PIHwg5omL5L2c44CB6K6w5b2VIHwKfCDljYrosIPnhafniYcgfCDnhafniYflgZrmiJDljZXoibLnvZHngrnlho3lj6DkuIDlvKDoibLnurggfCDml7blsJrjgIHpn7PkuZAgfAp8IOaJi+WGmeagh+azqCB8IOmprOWFi+eslOeahOWciOOAgeeureWktOOAgeS4i+WIkue6v+OAgeaYn+WPtyB8IOW8uuiwg+WNlueCuSB8Cnwg5YuS57Si5L+h5a2X5q+NIHwg5q+P5Liq5a2X5q+N5Ymq6Ieq5LiN5ZCM55qE57q4IHwg56We56eY44CB5a6j6KiAIHwKfCDoibLnurjlh6DkvZXlnZcgfCDliarlh7rmnaXnmoTlnIbjgIHmnaHjgIHkuI3op4TliJnlnZcgfCDmir3osaHjgIHoioLlpY8gfAp8IOi0tOe6uOWSjOagh+etviB8IOS7t+etvuOAgeWchueCuei0tOOAgee8luWPt+agh+etviB8IOS6p+WTgeOAgea4heWNlSB8Cnwg6K6i5Lmm6ZKJ5ZKM5Zue5b2i6ZKIIHwg6YeR5bGe5bCP54mp5Lu25oqK57q454mH6ZKJ5Zyo5LiA6LW3IHwg5qGj5qGI44CB5paH5Lu2IHwKfCDmnYLlv5fpobXpnaLlhYPntKAgfCDpobXnoIHjgIHmoI/nm67lkI3jgIHliIrlpLTjgIHmnaHlvaLnoIEgfCDlh7rniYjjgIHlk4HniYwgfAp8IOaLjeeri+W+l+eFp+eJhyB8IOW6lei+ueWuveeahOeZveahhueFp+eJhyB8IOWbnuW/huOAgeS6uueJqSB8Cgrop4TliJnvvJoKLSDmr4/mlK/mjJEgMuKAkzMg5Liq77yM6Iez5bCR5LiA5Liq5LiN5Zyo5LiL6Z2i44CM5pyA5L+X55qE54mI5pys44CN6YeM44CCCi0g5L+h5Y+35LuO5Li76aKY6YeM6YCJ77yM5LiN5oyJ6aG65bqP5YWo5LiK44CCCgojIyDov5nkuKrpo47moLzmnIDkv5fnmoTniYjmnKwKLSDnlLvpnaLvvJrniZvnmq7nurjlupXjgIHog7bluKbjgIHmi43nq4vlvpfjgIHnuqLoibLmiYvlhpnlnIjjgIHli5LntKLkv6HmoIfpopjvvIzmr4/lvKDnurjpg73mrarnnYDokL3kuIvmnaXjgIIKLSDlo7Dpn7PvvJrnurjlvKDmi5/pn7PliqDovbvlv6vnmoTmi6jlvKYgc2h1ZmZsZeOAggotIGJyaWVmIOeahCBzdHlsZSDkuIDmoI/lhpnmmI7ov5nmlK/niYflrZDnv7vmjonkuoblk6rlh6DmnaHvvIzmiJbogIXkuLrku4DkuYjliLvmhI/kv53nlZnvvIjmr5TlpoLnlKjmiLfopoHnmoTlsLHmmK/nu4/lhbjniYjvvInjgILkv53nlZnml7bvvIzmiorlipvmsJToirHlnKjmnoTlm77jgIHplZzlpLTjgIHoioLlpY/miJbkuIDkuKrmhI/lpJbnmoTorrDlv4bngrnkuIrjgIIKCiMjIOmAgumFjQotIOeUqOmAlO+8muWuo+S8oOefreeJh+OAgemHkeWPpeWNoeeCueOAgeS6uueJqeaIluWboumYn+S7i+e7jeOAgea0u+WKqOmihOWRiuOAggotIOWGheWuue+8mua9rua1geOAgeeUn+a0u+aWueW8j+OAgeWIm+aEj+WboumYn+OAgeW5tOi9u+WTgeeJjOOAgeS4quS6uuS9nOWTgembhuOAggoKIyMg5oqA5pyv6Lev57q/CkNhbnZhcyAyROOAgue0oOadkOadpeiHqueUqOaIt+aPkOS+m+eahOeFp+eJh+aIluS6p+WTgeWbvu+8iOijgeaIkOS4jeinhOWImeW9oueKtu+8ie+8jOaIluiAheS7o+eggeeUu+eahOiJsue6uOWSjOWbvuW9ouOAguaSlei+ueeUqOWZquWjsOeUn+aIkOWkmui+ueW9oui3r+W+hOS9nOS4uiBjbGlw77yb5oqV5b2x55SoIGBzaGFkb3dCbHVyYCDlvojlsI/jgIHlgY/np7vlvojlsI/nmoTmipXlvbHjgILmiYvlhpnmoIfms6jnlKggU1ZHIOi3r+W+hOaPj+i+ueaIluiAhSBDYW52YXMg6YCQ5q6155S757q/44CCCgojIyDmnZDotKjkuI7muLLmn5MKLSDliarnurjvvJrkuI3op4TliJnlpJrovrnlvaIgY2xpcCArIDLigJM0cHgg55m96L65ICsg6L275oqV5b2x44CC5q+P5byg57q45pyJ5LiA5Liq5Zu65a6a55qE5bCP5peL6L2s77yIwrE2wrDvvIznp43lrZDlhrPlrprvvInjgIIKLSDog7bluKbvvJrljYrpgI/mmI7nmoTnn6nlvaLvvIzkuKTnq6/mmK/plK/pvb/ovrnvvIznlaXlvq7ml4vovazjgIIKLSDljYrosIPnhafniYfvvJrnhafniYflj6/ku6XlgZrmiJDljZXoibLljYrosIPvvIzlho3lj6DkuIDkuKroibLnurjjgIIKLSDmiYvlhpnlsYLvvJrpqazlhYvnrJTotKjmhJ/nmoTnur/vvIjlnIblpLTjgIHovbvlvq7mipbliqjvvInvvIzlnIjjgIHnrq3lpLTjgIHkuIvliJLnur/jgIHmmJ/lj7fjgIIKCiMjIOmFjeiJsgrkuIvpnaLnmoToibLlgLzmmK/npLrkvovvvIznnIvmgJ3ot6/vvIzkuI3opoHljp/moLfnhafmioTjgIIKLSDniZvnmq7nurggYCNFOERDQzZgIC8g5aKoIGAjMUIxQjFCYCAvIOeVquiMhOe6oiBgI0U4NDUyQ2AgLyDpkrTok50gYCMyQTRCRDdgCi0g55m9IGAjRkFGQUY3YCAvIOm7kSBgIzExMWAgLyDojaflhYnnu78gYCNCNkZGM0JgIC8g57KJIGAjRkZCNEQ5YAotIOinhOWIme+8muW6leiJsiAxIOS4qu+8jOe6uOeJh+minOiJsiAy4oCTMyDkuKrvvIzmiYvlhpnmoIfms6jlj6rnlKjkuIDkuKrpopzoibLjgIIKLSDmjqjlr7zvvJrlupXoibIgMSDkuKrvvIjnurjoibLjgIHnmb3jgIHmt7HoibLpg73lj6/ku6XvvIkrIOe6uOeJhyAy4oCTMyDkuKogKyDmiYvlhpnmoIfms6ggMSDkuKrpopzoibLvvIzku47kuLvpopjmiJblk4HniYzmnaXvvJvniZvnmq7nurjliqDnlarojITnuqLmmK/mnIDluLjop4HnmoTjgIIKCiMjIOWtl+S9kwotIOagh+mimO+8mueyl+ihrOe6v+aIluaAquivnuS9k+WJquaIkOe6uOeJh++8iERNIFNlcmlmIERpc3BsYXnjgIFBcmNoaXZvIEJsYWNr44CBUnViaWsgTW9ubyBPbmXvvInvvJvlj6/ku6Xmr4/kuKrlrZfmr43kuIDlvKDnurjvvIzlgZrmiJDli5LntKLkv6HnmoTpo47moLzvvIjosKjmhY7kvb/nlKjvvInjgIIKLSDmoIfms6jvvJrmiYvlhpnkvZPvvIhDYXZlYXTjgIFHb2NoaSBIYW5k44CB56uZ6YW35b+r5LmQ5L2T77yJ44CCCgojIyDov5DliqgKLSDjgIzooqvmlL7kuIrljrvjgI3vvJrnurjniYfku47nlLvpnaLlpJbmiJbkuIrmlrnokL3kuIvvvIzluKbkuIDngrnml4vovazvvIzlvLnnsKcgYHsyLjgsIDAuNTV9YCDokL3lrprvvIzokL3lrprml7bmipXlvbHlj5jlsI/vvIjotLTov5HnurjpnaLvvInjgIIKLSDmiYvlhpnmoIfms6jmjInnrJTnlLvpobrluo/nlLvlh7rmnaXvvIhgc3Ryb2tlLWRhc2hvZmZzZXRg77yJ77yM6YCf5bqm5YOP55yf55qE5Zyo5YaZ44CCCi0g5Y+v5Lul55So5q2l6L+b77yIMTJmcHPvvInlop7liqDmiYvkvZzmhJ/jgIIKCiMjIOeUu+mdouaAjuS5iOa0uwotIOiDtuW4pueahOS4gOinkue/mOi1t+WPiOi0tOWbnu+8m+aJi+WGmeeahOWciOWcqOWFs+mUruivjeS4iuihpeS4gOeslO+8m+S4gOW8oOeFp+eJh+eijueJh+aFouaFouS4i+ayieS4gOeCue+8jOaKleW9sei3n+edgOWPmOWwj+OAggotIOi/meS6m+Wwj+WKqOS9nOaMiSAxMmZwcyDmraXov5vvvIzlkozjgIzmiYvmlL7kuIrljrvjgI3nmoTotKjmhJ/kuIDoh7TjgIIKCiMjIOmVnOWktOivreazlQp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDkv6/op4blubPnp7vov4fkuIDlvKDlpKfmoYzpnaIgfCDnv7vpmIXjgIHmtY/op4ggfCDliJfooajjgIHkvZzlk4HlopkgfAp8IOaOqOi/keWIsOS4gOW8oOe6uOeJhyB8IOiBmueEpiB8IOmHjeeCueS/oeaBryB8Cnwg5LiA5Y+q44CM5omL44CN5oqK57q454mH5ou/6LWwIHwg5o2i6aG1IHwg5q616JC96L2s5Zy6IHwKCiMjIOWjsOmfs+iwg+iJsuadvwrnurjlvKDmi5/pn7PvvIhgc3dpcGVgIOWKoCBgaGlnaHBhc3Ng44CBYGNsaWNrYCDlgZrog7bluKbmkpXmia/lo7DvvInjgIHpqazlhYvnrJTliJLnur/lo7DvvIjluKbpgJrlmarlo7DvvInvvJvpn7PkuZDnlKjovbvlv6vnmoTpvJPjgIHmi6jlvKbjgIFrZXlz44CC56ysIDEg5qGj5ZCI5oiQ5Y2z5Y+v44CCCgrlvovliqjkuI7lkozlo7DvvIjkuL7kvovvvIzkuI3mraLov5nkupvvvInvvJpicmVha2JlYXTjgIFzaHVmZmxlIOaIliB0cmVzaWxsb++8jOW4puS4gOeCueaJi+W3peeahOadvu+8iGBTLnN3aW5nYOOAgWBTLmh1bWFuaXplYO+8ie+8m+Wkp+iwg+OAgU1peG9seWRpYW7jgIFEb3JpYW7vvJtgcmltYOOAgWBzaGFrZXJg44CBYGNvd2JlbGxgIOWBmuaJi+W3peaJk+WHu+S5kOOAguWwj+aIv+mXtO+8jOS4jeS+p+mTvuOAggoKIyMg5Y6f55Sf5omL5rOVCi0g5pKV5byA5LiA5byg57q477yM5ZCO6Z2i5bCx5piv5LiL5LiA6ZWc77ya6YCC5ZCI6L2s5Zy65ZKM5o+t56S644CCCi0g57q454mH5LiA5bGC5bGC55uW5LiK5Y6777yM5pyA5ZCO5ou85oiQ5LiA5byg5a6M5pW055qE5rW35oql5oiWIGxvZ2/vvJrpgILlkIjnu5PlsL7jgIIKLSDmiYvlhpnlnIjlh7rph43ngrnvvJrpgILlkIjlvLrosIPmlbDlrZflkozljZbngrnjgIIKCiMjIOWPmOWMluepuumXtAotIOe7k+aehO+8muS4gOacrOaJi+i0puS4gOWkqeeahOiusOW9le+8m+S4gOmdouaDhee7quadv+mAkOa4kOi0tOa7oe+8m+S4gOS4quS6uueJqeeahOWJqui0tOewv+OAggotIOW8gOWcuu+8muepuuahjOmdou+8jOesrOS4gOW8oOe6uOiQveS4i++8m+S4gOWNt+iDtuW4puaSleW8gOeahOWjsOmfs+WSjOeUu+mdouOAggotIOe7k+Wwvu+8muaJgOaciee6uOeJh+aLvOaIkOagh+mimO+8m+mVnOWktOaLiei/nO+8jOaVtOmdouWimeWwseaYr+S4gOW8oOadguW/l+WwgemdouOAggoKIyMg5Z2RCi0g5YWD57Sg5aSq5aSa5aSq5p2C5bCx5oiQ5LqG5Zmq6Z+z77ya5ZCM5pe25pyA5aSaIDXigJM3IOS4que6uOeJh+WcqOeUu+mdoumHjOOAggotIOeUqOS6huayoeacieaOiOadg+eahOeFp+eJh+WSjOWbvueJh++8muWPqueUqOeUqOaIt+aPkOS+m+eahOe0oOadkOaIluS7o+eggeeUu+eahOWbvuW9ouOAggotIOaKleW9seWkqumHjeWkquiZmu+8jOS8muWDj+W7ieS7tyBQUFTjgIIK
+# 杂志拼贴（editorial-collage）
+
+> 剪下来的照片和色纸、撕边、胶带、贴纸、手写标注，层层叠叠地拼出一页会动的杂志。
+> 参照（只学语法）：时尚和音乐杂志的拼贴版式、达达拼贴、当代社交媒体的 scrapbook 风。不照搬具体作品和受版权保护的图片。
+
+## 本质 / 不是什么
+- 本质：**每个元素都像一张被剪下来的纸**（有白边、撕边、投影），排布有意不对齐；手写字、圈画、箭头作为第二层；元素像被一只手放上去。
+- 不是：整齐的网格版式；也不是贴满表情包的廉价贴纸风。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 剪纸白边 | 照片和色纸带一圈白边和轻投影 | 人物、作品 |
+| 撕边 | 纸的边缘是撕开的毛边 | 揭示、打破 |
+| 胶带 | 半透明、两端锯齿的胶带把东西贴住 | 手作、记录 |
+| 半调照片 | 照片做成单色网点再叠一张色纸 | 时尚、音乐 |
+| 手写标注 | 马克笔的圈、箭头、下划线、星号 | 强调卖点 |
+| 勒索信字母 | 每个字母剪自不同的纸 | 神秘、宣言 |
+| 色纸几何块 | 剪出来的圆、条、不规则块 | 抽象、节奏 |
+| 贴纸和标签 | 价签、圆点贴、编号标签 | 产品、清单 |
+| 订书钉和回形针 | 金属小物件把纸片钉在一起 | 档案、文件 |
+| 杂志页面元素 | 页码、栏目名、刊头、条形码 | 出版、品牌 |
+| 拍立得照片 | 底边宽的白框照片 | 回忆、人物 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+
+## 这个风格最俗的版本
+- 画面：牛皮纸底、胶带、拍立得、红色手写圈、勒索信标题，每张纸都歪着落下来。
+- 声音：纸张拟音加轻快的拨弦 shuffle。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：宣传短片、金句卡点、人物或团队介绍、活动预告。
+- 内容：潮流、生活方式、创意团队、年轻品牌、个人作品集。
+
+## 技术路线
+Canvas 2D。素材来自用户提供的照片或产品图（裁成不规则形状），或者代码画的色纸和图形。撕边用噪声生成多边形路径作为 clip；投影用 `shadowBlur` 很小、偏移很小的投影。手写标注用 SVG 路径描边或者 Canvas 逐段画线。
+
+## 材质与渲染
+- 剪纸：不规则多边形 clip + 2–4px 白边 + 轻投影。每张纸有一个固定的小旋转（±6°，种子决定）。
+- 胶带：半透明的矩形，两端是锯齿边，略微旋转。
+- 半调照片：照片可以做成单色半调，再叠一个色纸。
+- 手写层：马克笔质感的线（圆头、轻微抖动），圈、箭头、下划线、星号。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 牛皮纸 `#E8DCC6` / 墨 `#1B1B1B` / 番茄红 `#E8452C` / 钴蓝 `#2A4BD7`
+- 白 `#FAFAF7` / 黑 `#111` / 荧光绿 `#B6FF3B` / 粉 `#FFB4D9`
+- 规则：底色 1 个，纸片颜色 2–3 个，手写标注只用一个颜色。
+- 推导：底色 1 个（纸色、白、深色都可以）+ 纸片 2–3 个 + 手写标注 1 个颜色，从主题或品牌来；牛皮纸加番茄红是最常见的。
+
+## 字体
+- 标题：粗衬线或怪诞体剪成纸片（DM Serif Display、Archivo Black、Rubik Mono One）；可以每个字母一张纸，做成勒索信的风格（谨慎使用）。
+- 标注：手写体（Caveat、Gochi Hand、站酷快乐体）。
+
+## 运动
+- 「被放上去」：纸片从画面外或上方落下，带一点旋转，弹簧 `{2.8, 0.55}` 落定，落定时投影变小（贴近纸面）。
+- 手写标注按笔画顺序画出来（`stroke-dashoffset`），速度像真的在写。
+- 可以用步进（12fps）增加手作感。
+
+## 画面怎么活
+- 胶带的一角翘起又贴回；手写的圈在关键词上补一笔；一张照片碎片慢慢下沉一点，投影跟着变小。
+- 这些小动作按 12fps 步进，和「手放上去」的质感一致。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 俯视平移过一张大桌面 | 翻阅、浏览 | 列表、作品墙 |
+| 推近到一张纸片 | 聚焦 | 重点信息 |
+| 一只「手」把纸片拿走 | 换页 | 段落转场 |
+
+## 声音调色板
+纸张拟音（`swipe` 加 `highpass`、`click` 做胶带撕扯声）、马克笔划线声（带通噪声）；音乐用轻快的鼓、拨弦、keys。第 1 档合成即可。
+
+律动与和声（举例，不止这些）：breakbeat、shuffle 或 tresillo，带一点手工的松（`S.swing`、`S.humanize`）；大调、Mixolydian、Dorian；`rim`、`shaker`、`cowbell` 做手工打击乐。小房间，不侧链。
+
+## 原生手法
+- 撕开一张纸，后面就是下一镜：适合转场和揭示。
+- 纸片一层层盖上去，最后拼成一张完整的海报或 logo：适合结尾。
+- 手写圈出重点：适合强调数字和卖点。
+
+## 变化空间
+- 结构：一本手账一天的记录；一面情绪板逐渐贴满；一个人物的剪贴簿。
+- 开场：空桌面，第一张纸落下；一卷胶带撕开的声音和画面。
+- 结尾：所有纸片拼成标题；镜头拉远，整面墙就是一张杂志封面。
+
+## 坑
+- 元素太多太杂就成了噪音：同时最多 5–7 个纸片在画面里。
+- 用了没有授权的照片和图片：只用用户提供的素材或代码画的图形。
+- 投影太重太虚，会像廉价 PPT。

@@ -1,1 +1,44 @@
-aW1wb3J0IG9zIGZyb20gIm5vZGU6b3MiOwppbXBvcnQgcGF0aCBmcm9tICJub2RlOnBhdGgiOwppbXBvcnQgeyByZWFkSnNvbiwgd3JpdGVKc29uIH0gZnJvbSAiLi9qc29uLm1qcyI7CgpleHBvcnQgZnVuY3Rpb24gZGVmYXVsdENvbmZpZ1BhdGgoZW52ID0gcHJvY2Vzcy5lbnYpIHsKICBpZiAoZW52LlZJREVPX0FVVE9fVEVNUExBVEVfQ09ORklHKSB7CiAgICByZXR1cm4gcGF0aC5yZXNvbHZlKGVudi5WSURFT19BVVRPX1RFTVBMQVRFX0NPTkZJRyk7CiAgfQoKICBpZiAocHJvY2Vzcy5wbGF0Zm9ybSA9PT0gIndpbjMyIikgewogICAgY29uc3QgYmFzZSA9CiAgICAgIGVudi5MT0NBTEFQUERBVEEgfHwgcGF0aC5qb2luKG9zLmhvbWVkaXIoKSwgIkFwcERhdGEiLCAiTG9jYWwiKTsKICAgIHJldHVybiBwYXRoLmpvaW4oYmFzZSwgInZpZGVvLWF1dG8tdGVtcGxhdGUiLCAiY29uZmlnLmpzb24iKTsKICB9CgogIGNvbnN0IGJhc2UgPSBlbnYuWERHX0NPTkZJR19IT01FIHx8IHBhdGguam9pbihvcy5ob21lZGlyKCksICIuY29uZmlnIik7CiAgcmV0dXJuIHBhdGguam9pbihiYXNlLCAidmlkZW8tYXV0by10ZW1wbGF0ZSIsICJjb25maWcuanNvbiIpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gbG9hZENvbmZpZyhjb25maWdQYXRoID0gZGVmYXVsdENvbmZpZ1BhdGgoKSkgewogIHRyeSB7CiAgICBjb25zdCBjb25maWcgPSBhd2FpdCByZWFkSnNvbihjb25maWdQYXRoKTsKICAgIGlmIChjb25maWcuc2NoZW1hVmVyc2lvbiAhPT0gMSB8fCAhY29uZmlnLnRvb2xraXRSb290KSB7CiAgICAgIHJldHVybiBudWxsOwogICAgfQogICAgcmV0dXJuIGNvbmZpZzsKICB9IGNhdGNoIHsKICAgIHJldHVybiBudWxsOwogIH0KfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHNhdmVDb25maWcoY29uZmlnLCBjb25maWdQYXRoID0gZGVmYXVsdENvbmZpZ1BhdGgoKSkgewogIGNvbnN0IG5vcm1hbGl6ZWQgPSB7CiAgICBzY2hlbWFWZXJzaW9uOiAxLAogICAgdG9vbGtpdFJvb3Q6IHBhdGgucmVzb2x2ZShjb25maWcudG9vbGtpdFJvb3QpLAogICAgY2F0YWxvZ1BhdGg6IGNvbmZpZy5jYXRhbG9nUGF0aCA/IHBhdGgucmVzb2x2ZShjb25maWcuY2F0YWxvZ1BhdGgpIDogbnVsbCwKICAgIGZmbXBlZ1BhdGg6IGNvbmZpZy5mZm1wZWdQYXRoIHx8IG51bGwsCiAgICBjb25maWd1cmVkQXQ6IGNvbmZpZy5jb25maWd1cmVkQXQgfHwgbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogICAgbGFzdERvY3RvckF0OiBjb25maWcubGFzdERvY3RvckF0IHx8IG51bGwsCiAgfTsKICBhd2FpdCB3cml0ZUpzb24oY29uZmlnUGF0aCwgbm9ybWFsaXplZCk7CiAgcmV0dXJuIG5vcm1hbGl6ZWQ7Cn0KCg==
+import os from "node:os";
+import path from "node:path";
+import { readJson, writeJson } from "./json.mjs";
+
+export function defaultConfigPath(env = process.env) {
+  if (env.VIDEO_AUTO_TEMPLATE_CONFIG) {
+    return path.resolve(env.VIDEO_AUTO_TEMPLATE_CONFIG);
+  }
+
+  if (process.platform === "win32") {
+    const base =
+      env.LOCALAPPDATA || path.join(os.homedir(), "AppData", "Local");
+    return path.join(base, "video-auto-template", "config.json");
+  }
+
+  const base = env.XDG_CONFIG_HOME || path.join(os.homedir(), ".config");
+  return path.join(base, "video-auto-template", "config.json");
+}
+
+export async function loadConfig(configPath = defaultConfigPath()) {
+  try {
+    const config = await readJson(configPath);
+    if (config.schemaVersion !== 1 || !config.toolkitRoot) {
+      return null;
+    }
+    return config;
+  } catch {
+    return null;
+  }
+}
+
+export async function saveConfig(config, configPath = defaultConfigPath()) {
+  const normalized = {
+    schemaVersion: 1,
+    toolkitRoot: path.resolve(config.toolkitRoot),
+    catalogPath: config.catalogPath ? path.resolve(config.catalogPath) : null,
+    ffmpegPath: config.ffmpegPath || null,
+    configuredAt: config.configuredAt || new Date().toISOString(),
+    lastDoctorAt: config.lastDoctorAt || null,
+  };
+  await writeJson(configPath, normalized);
+  return normalized;
+}
+

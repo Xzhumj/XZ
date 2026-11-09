@@ -1,1 +1,315 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQoKaW1wb3J0IHBhdGggZnJvbSAibm9kZTpwYXRoIjsKaW1wb3J0IHJlYWRsaW5lIGZyb20gIm5vZGU6cmVhZGxpbmUvcHJvbWlzZXMiOwppbXBvcnQgeyBzdGRpbiBhcyBpbnB1dCwgc3Rkb3V0IGFzIG91dHB1dCB9IGZyb20gIm5vZGU6cHJvY2VzcyI7CmltcG9ydCB7IGRlZmF1bHRDb25maWdQYXRoLCBsb2FkQ29uZmlnLCBzYXZlQ29uZmlnIH0gZnJvbSAiLi9saWIvY29uZmlnLm1qcyI7CmltcG9ydCB7CiAgZGlzY292ZXJDYXRhbG9nLAogIGRpc2NvdmVyVG9vbGtpdCwKICBpbnNwZWN0VG9vbGtpdFJvb3QsCn0gZnJvbSAiLi9saWIvZGlzY292ZXIubWpzIjsKaW1wb3J0IHsgcnVuRG9jdG9yIH0gZnJvbSAiLi9saWIvZG9jdG9yLm1qcyI7CmltcG9ydCB7IGVuc3VyZURpciB9IGZyb20gIi4vbGliL2pzb24ubWpzIjsKaW1wb3J0IHsgZW5zdXJlT25EZW1hbmREZXBlbmRlbmN5IH0gZnJvbSAiLi9saWIvb24tZGVtYW5kLm1qcyI7CmltcG9ydCB7CiAgcHJpbnRQcmVmbGlnaHRSZXBvcnQsCiAgcnVuRW52aXJvbm1lbnRQcmVmbGlnaHQsCn0gZnJvbSAiLi9saWIvcHJlZmxpZ2h0Lm1qcyI7CgpmdW5jdGlvbiBwYXJzZUFyZ3VtZW50cyhhcmd2KSB7CiAgY29uc3QgYXJncyA9IHsgXzogW10sIGZsYWdzOiB7fSB9OwogIGZvciAobGV0IGluZGV4ID0gMDsgaW5kZXggPCBhcmd2Lmxlbmd0aDsgaW5kZXggKz0gMSkgewogICAgY29uc3QgdG9rZW4gPSBhcmd2W2luZGV4XTsKICAgIGlmICghdG9rZW4uc3RhcnRzV2l0aCgiLS0iKSkgewogICAgICBhcmdzLl8ucHVzaCh0b2tlbik7CiAgICAgIGNvbnRpbnVlOwogICAgfQogICAgaWYgKHRva2VuLmluY2x1ZGVzKCI9IikpIHsKICAgICAgY29uc3QgW2tleSwgcmF3VmFsdWVdID0gdG9rZW4uc2xpY2UoMikuc3BsaXQoIj0iLCAyKTsKICAgICAgYXJncy5mbGFnc1trZXldID0gcmF3VmFsdWU7CiAgICAgIGNvbnRpbnVlOwogICAgfQoKICAgIGNvbnN0IGtleSA9IHRva2VuLnNsaWNlKDIpOwogICAgY29uc3QgbmV4dCA9IGFyZ3ZbaW5kZXggKyAxXTsKICAgIGlmIChuZXh0ICE9PSB1bmRlZmluZWQgJiYgIW5leHQuc3RhcnRzV2l0aCgiLS0iKSkgewogICAgICBhcmdzLmZsYWdzW2tleV0gPSBuZXh0OwogICAgICBpbmRleCArPSAxOwogICAgfSBlbHNlIHsKICAgICAgYXJncy5mbGFnc1trZXldID0gdHJ1ZTsKICAgIH0KICB9CiAgcmV0dXJuIGFyZ3M7Cn0KCmFzeW5jIGZ1bmN0aW9uIGFza0ZvcktpdFJvb3QoKSB7CiAgaWYgKCFwcm9jZXNzLnN0ZGluLmlzVFRZKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoCiAgICAgICJUb29sa2l0IHBhdGggaXMgcmVxdWlyZWQgaW4gbm9uLWludGVyYWN0aXZlIG1vZGUuIFVzZSAtLWtpdC1yb290PTxwYXRoPi4iLAogICAgKTsKICB9CiAgY29uc3QgcHJvbXB0ID0gcmVhZGxpbmUuY3JlYXRlSW50ZXJmYWNlKHsgaW5wdXQsIG91dHB1dCB9KTsKICB0cnkgewogICAgY29uc3QgdmFsdWUgPSBhd2FpdCBwcm9tcHQucXVlc3Rpb24oIlZpZGVvIHRlbXBsYXRlIGtpdCBkaXJlY3Rvcnk6ICIpOwogICAgcmV0dXJuIHZhbHVlLnRyaW0oKTsKICB9IGZpbmFsbHkgewogICAgcHJvbXB0LmNsb3NlKCk7CiAgfQp9Cgphc3luYyBmdW5jdGlvbiBjb21tYW5kUGF0aHMoYXJncykgewogIGNvbnN0IGVudiA9IHByb2Nlc3MuZW52OwogIGNvbnN0IGNvbmZpZ1BhdGggPQogICAgdHlwZW9mIGFyZ3MuZmxhZ3MuY29uZmlnID09PSAic3RyaW5nIgogICAgICA/IHBhdGgucmVzb2x2ZShhcmdzLmZsYWdzLmNvbmZpZykKICAgICAgOiBkZWZhdWx0Q29uZmlnUGF0aChlbnYpOwogIGNvbnN0IGNvbmZpZyA9IGF3YWl0IGxvYWRDb25maWcoY29uZmlnUGF0aCk7CiAgY29uc3QgZGlzY292ZXJlZCA9IGF3YWl0IGRpc2NvdmVyVG9vbGtpdCh7CiAgICBleHBsaWNpdFJvb3Q6CiAgICAgIHR5cGVvZiBhcmdzLmZsYWdzWyJraXQtcm9vdCJdID09PSAic3RyaW5nIgogICAgICAgID8gYXJncy5mbGFnc1sia2l0LXJvb3QiXQogICAgICAgIDogdW5kZWZpbmVkLAogICAgY3dkOiBwcm9jZXNzLmN3ZCgpLAogICAgZW52LAogICAgY29uZmlnUGF0aCwKICB9KTsKICBjb25zdCBjYXRhbG9nUGF0aCA9IGRpc2NvdmVyZWQucm9vdAogICAgPyBhd2FpdCBkaXNjb3ZlckNhdGFsb2coewogICAgICAgIHRvb2xraXQ6IHsgcm9vdDogZGlzY292ZXJlZC5yb290LCBjb25maWc6IGRpc2NvdmVyZWQuY29uZmlnIH0sCiAgICAgICAgZXhwbGljaXRQYXRoOgogICAgICAgICAgdHlwZW9mIGFyZ3MuZmxhZ3MuY2F0YWxvZyA9PT0gInN0cmluZyIKICAgICAgICAgICAgPyBhcmdzLmZsYWdzLmNhdGFsb2cKICAgICAgICAgICAgOiB1bmRlZmluZWQsCiAgICAgICAgZW52LAogICAgICB9KQogICAgOiBudWxsOwogIGNvbnNvbGUubG9nKAogICAgSlNPTi5zdHJpbmdpZnkoCiAgICAgIHsKICAgICAgICBjb25maWdQYXRoLAogICAgICAgIHRvb2xraXRSb290OiBkaXNjb3ZlcmVkLnJvb3QsCiAgICAgICAgdG9vbGtpdFNvdXJjZTogZGlzY292ZXJlZC5zb3VyY2UsCiAgICAgICAgY2F0YWxvZ1BhdGgsCiAgICAgICAgc2VhcmNoZWQ6IGRpc2NvdmVyZWQuc2VhcmNoZWQgfHwgW10sCiAgICAgICAgcmVjb3JkZWRDb25maWc6IGNvbmZpZywKICAgICAgfSwKICAgICAgbnVsbCwKICAgICAgMiwKICAgICksCiAgKTsKfQoKYXN5bmMgZnVuY3Rpb24gY29tbWFuZEluc3RhbGwoYXJncykgewogIGxldCBraXRSb290ID0KICAgIHR5cGVvZiBhcmdzLmZsYWdzWyJraXQtcm9vdCJdID09PSAic3RyaW5nIgogICAgICA/IGFyZ3MuZmxhZ3NbImtpdC1yb290Il0KICAgICAgOiBudWxsOwogIGlmICgha2l0Um9vdCkgewogICAgY29uc3QgZGlzY292ZXJlZCA9IGF3YWl0IGRpc2NvdmVyVG9vbGtpdCh7CiAgICAgIGN3ZDogcHJvY2Vzcy5jd2QoKSwKICAgICAgZW52OiBwcm9jZXNzLmVudiwKICAgIH0pOwogICAga2l0Um9vdCA9IGRpc2NvdmVyZWQucm9vdCB8fCAoYXdhaXQgYXNrRm9yS2l0Um9vdCgpKTsKICB9CgogIGNvbnN0IHRvb2xraXQgPSBhd2FpdCBpbnNwZWN0VG9vbGtpdFJvb3Qoa2l0Um9vdCk7CiAgaWYgKCF0b29sa2l0KSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoCiAgICAgIGBJbnZhbGlkIHRvb2xraXQ6ICR7a2l0Um9vdH0uIEV4cGVjdGVkIGtpdC5qc29uIGFuZCBjb25maWcvZGVmYXVsdHMuanNvbi5gLAogICAgKTsKICB9CgogIGZvciAoY29uc3QgZGlyZWN0b3J5IG9mIHRvb2xraXQua2l0LmRpcmVjdG9yaWVzIHx8IFtdKSB7CiAgICBhd2FpdCBlbnN1cmVEaXIocGF0aC5qb2luKHRvb2xraXQucm9vdCwgZGlyZWN0b3J5KSk7CiAgfQoKICBjb25zdCBjYXRhbG9nUGF0aCA9IGF3YWl0IGRpc2NvdmVyQ2F0YWxvZyh7CiAgICB0b29sa2l0LAogICAgZXhwbGljaXRQYXRoOgogICAgICB0eXBlb2YgYXJncy5mbGFncy5jYXRhbG9nID09PSAic3RyaW5nIgogICAgICAgID8gYXJncy5mbGFncy5jYXRhbG9nCiAgICAgICAgOiB1bmRlZmluZWQsCiAgICBlbnY6IHByb2Nlc3MuZW52LAogIH0pOwogIGNvbnN0IGNvbmZpZ1BhdGggPQogICAgdHlwZW9mIGFyZ3MuZmxhZ3MuY29uZmlnID09PSAic3RyaW5nIgogICAgICA/IHBhdGgucmVzb2x2ZShhcmdzLmZsYWdzLmNvbmZpZykKICAgICAgOiBkZWZhdWx0Q29uZmlnUGF0aChwcm9jZXNzLmVudik7CiAgYXdhaXQgc2F2ZUNvbmZpZygKICAgIHsKICAgICAgdG9vbGtpdFJvb3Q6IHRvb2xraXQucm9vdCwKICAgICAgY2F0YWxvZ1BhdGgsCiAgICAgIGNvbmZpZ3VyZWRBdDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogICAgICBsYXN0RG9jdG9yQXQ6IG51bGwsCiAgICB9LAogICAgY29uZmlnUGF0aCwKICApOwoKICBjb25zdCBkb2N0b3IgPSBhd2FpdCBydW5Eb2N0b3IoewogICAga2l0Um9vdDogdG9vbGtpdC5yb290LAogICAgY2F0YWxvZ1BhdGgsCiAgICBlbnY6IHByb2Nlc3MuZW52LAogICAgY29uZmlnUGF0aCwKICB9KTsKICBjb25zb2xlLmxvZygKICAgIEpTT04uc3RyaW5naWZ5KAogICAgICB7CiAgICAgICAgaW5zdGFsbGVkOiB0cnVlLAogICAgICAgIHRvb2xraXRSb290OiB0b29sa2l0LnJvb3QsCiAgICAgICAgY2F0YWxvZ1BhdGgsCiAgICAgICAgY29uZmlnUGF0aCwKICAgICAgICBkb2N0b3IsCiAgICAgIH0sCiAgICAgIG51bGwsCiAgICAgIDIsCiAgICApLAogICk7CiAgcHJvY2Vzcy5leGl0Q29kZSA9IGRvY3Rvci5vayA/IDAgOiAxOwp9Cgphc3luYyBmdW5jdGlvbiBjb21tYW5kRG9jdG9yKGFyZ3MpIHsKICBjb25zdCByZXBvcnQgPSBhd2FpdCBydW5Eb2N0b3IoewogICAga2l0Um9vdDoKICAgICAgdHlwZW9mIGFyZ3MuZmxhZ3NbImtpdC1yb290Il0gPT09ICJzdHJpbmciCiAgICAgICAgPyBhcmdzLmZsYWdzWyJraXQtcm9vdCJdCiAgICAgICAgOiB1bmRlZmluZWQsCiAgICBjYXRhbG9nUGF0aDoKICAgICAgdHlwZW9mIGFyZ3MuZmxhZ3MuY2F0YWxvZyA9PT0gInN0cmluZyIKICAgICAgICA/IGFyZ3MuZmxhZ3MuY2F0YWxvZwogICAgICAgIDogdW5kZWZpbmVkLAogICAgY29uZmlnUGF0aDoKICAgICAgdHlwZW9mIGFyZ3MuZmxhZ3MuY29uZmlnID09PSAic3RyaW5nIgogICAgICAgID8gcGF0aC5yZXNvbHZlKGFyZ3MuZmxhZ3MuY29uZmlnKQogICAgICAgIDogZGVmYXVsdENvbmZpZ1BhdGgocHJvY2Vzcy5lbnYpLAogICAgZml4OiBhcmdzLmZsYWdzLmZpeCA9PT0gdHJ1ZSwKICAgIGVudjogcHJvY2Vzcy5lbnYsCiAgfSk7CgogIGlmIChhcmdzLmZsYWdzLmpzb24pIHsKICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlcG9ydCwgbnVsbCwgMikpOwogIH0gZWxzZSB7CiAgICBjb25zb2xlLmxvZyhgVG9vbGtpdDogJHtyZXBvcnQudG9vbGtpdFJvb3QgfHwgIm5vdCBmb3VuZCJ9YCk7CiAgICBmb3IgKGNvbnN0IGNoZWNrIG9mIHJlcG9ydC5jaGVja3MpIHsKICAgICAgY29uc3QgbWFya2VyID0KICAgICAgICBjaGVjay5zdGF0dXMgPT09ICJvayIKICAgICAgICAgID8gIk9LIgogICAgICAgICAgOiBjaGVjay5zdGF0dXMgPT09ICJ3YXJuaW5nIgogICAgICAgICAgICA/ICJXQVJOIgogICAgICAgICAgICA6ICJFUlJPUiI7CiAgICAgIGNvbnNvbGUubG9nKGBbJHttYXJrZXJ9XSAke2NoZWNrLmlkfTogJHtjaGVjay5tZXNzYWdlfWApOwogICAgICBpZiAoY2hlY2suaGludCkgewogICAgICAgIGNvbnNvbGUubG9nKGAgICAgICAgJHtjaGVjay5oaW50fWApOwogICAgICB9CiAgICB9CiAgfQogIHByb2Nlc3MuZXhpdENvZGUgPSByZXBvcnQub2sgPyAwIDogMTsKfQoKYXN5bmMgZnVuY3Rpb24gY29tbWFuZFByZWZsaWdodChhcmdzKSB7CiAgY29uc3QgcmVwb3J0ID0gYXdhaXQgcnVuRW52aXJvbm1lbnRQcmVmbGlnaHQoewogICAgZW52OiBwcm9jZXNzLmVudiwKICAgIHByb2plY3RSb290OgogICAgICB0eXBlb2YgYXJncy5mbGFnc1sicHJvamVjdC1yb290Il0gPT09ICJzdHJpbmciCiAgICAgICAgPyBhcmdzLmZsYWdzWyJwcm9qZWN0LXJvb3QiXQogICAgICAgIDogcHJvY2Vzcy5jd2QoKSwKICAgIGtpdFJvb3Q6CiAgICAgIHR5cGVvZiBhcmdzLmZsYWdzWyJraXQtcm9vdCJdID09PSAic3RyaW5nIgogICAgICAgID8gYXJncy5mbGFnc1sia2l0LXJvb3QiXQogICAgICAgIDogdW5kZWZpbmVkLAogICAgY29uZmlnUGF0aDoKICAgICAgdHlwZW9mIGFyZ3MuZmxhZ3MuY29uZmlnID09PSAic3RyaW5nIgogICAgICAgID8gcGF0aC5yZXNvbHZlKGFyZ3MuZmxhZ3MuY29uZmlnKQogICAgICAgIDogdW5kZWZpbmVkLAogICAgYXV0b0luc3RhbGw6IGFyZ3MuZmxhZ3NbIm5vLWF1dG8taW5zdGFsbCJdICE9PSB0cnVlLAogIH0pOwoKICBpZiAoYXJncy5mbGFncy5qc29uKSB7CiAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXBvcnQsIG51bGwsIDIpKTsKICB9IGVsc2UgewogICAgcHJpbnRQcmVmbGlnaHRSZXBvcnQocmVwb3J0KTsKICB9CiAgcHJvY2Vzcy5leGl0Q29kZSA9IHJlcG9ydC5vayA/IDAgOiAxOwp9Cgphc3luYyBmdW5jdGlvbiBjb21tYW5kRW5zdXJlRGVwZW5kZW5jeShhcmdzKSB7CiAgY29uc3QgY29tcG9uZW50ID0KICAgIHR5cGVvZiBhcmdzLmZsYWdzLmNvbXBvbmVudCA9PT0gInN0cmluZyIKICAgICAgPyBhcmdzLmZsYWdzLmNvbXBvbmVudAogICAgICA6IGFyZ3MuX1sxXTsKICBpZiAoIWNvbXBvbmVudCkgewogICAgdGhyb3cgbmV3IEVycm9yKAogICAgICAiRGVwZW5kZW5jeSBuYW1lIGlzIHJlcXVpcmVkLiBVc2UgaHRtbCwgc3ZnLCBjYW52YXMsIHRocmVlanMsIGJsZW5kZXIsIHdlYmdsLCB2ZXJ0ZXgtc2hhZGVyLCBmcmFnbWVudC1zaGFkZXIsIGJyb3dzZXIsIGFzciwgdHRzLCBweXRob24sIHV2LCBvciB0ZW1wbGF0ZS4iLAogICAgKTsKICB9CiAgY29uc3QgcmVzdWx0ID0gYXdhaXQgZW5zdXJlT25EZW1hbmREZXBlbmRlbmN5KGNvbXBvbmVudCwgewogICAgZW52OiBwcm9jZXNzLmVudiwKICAgIHByb2plY3RSb290OgogICAgICB0eXBlb2YgYXJncy5mbGFnc1sicHJvamVjdC1yb290Il0gPT09ICJzdHJpbmciCiAgICAgICAgPyBwYXRoLnJlc29sdmUoYXJncy5mbGFnc1sicHJvamVjdC1yb290Il0pCiAgICAgICAgOiBwcm9jZXNzLmN3ZCgpLAogICAgaW5wdXQ6CiAgICAgIHR5cGVvZiBhcmdzLmZsYWdzLmlucHV0ID09PSAic3RyaW5nIgogICAgICAgID8gcGF0aC5yZXNvbHZlKGFyZ3MuZmxhZ3MuaW5wdXQpCiAgICAgICAgOiB1bmRlZmluZWQsCiAgICBsYW5ndWFnZToKICAgICAgdHlwZW9mIGFyZ3MuZmxhZ3MubGFuZ3VhZ2UgPT09ICJzdHJpbmciCiAgICAgICAgPyBhcmdzLmZsYWdzLmxhbmd1YWdlCiAgICAgICAgOiB1bmRlZmluZWQsCiAgICBvdXRwdXQ6CiAgICAgIHR5cGVvZiBhcmdzLmZsYWdzLm91dHB1dCA9PT0gInN0cmluZyIKICAgICAgICA/IHBhdGgucmVzb2x2ZShhcmdzLmZsYWdzLm91dHB1dCkKICAgICAgICA6IHVuZGVmaW5lZCwKICB9KTsKICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXN1bHQsIG51bGwsIDIpKTsKICBwcm9jZXNzLmV4aXRDb2RlID0gcmVzdWx0LnN0YXR1cyA9PT0gImZhaWxlZCIgPyAxIDogMDsKfQoKYXN5bmMgZnVuY3Rpb24gbWFpbigpIHsKICBjb25zdCBhcmdzID0gcGFyc2VBcmd1bWVudHMocHJvY2Vzcy5hcmd2LnNsaWNlKDIpKTsKICBjb25zdCBjb21tYW5kID0gYXJncy5fWzBdOwoKICBpZiAoY29tbWFuZCA9PT0gImluc3RhbGwiKSB7CiAgICBhd2FpdCBjb21tYW5kSW5zdGFsbChhcmdzKTsKICAgIHJldHVybjsKICB9CiAgaWYgKGNvbW1hbmQgPT09ICJkb2N0b3IiKSB7CiAgICBhd2FpdCBjb21tYW5kRG9jdG9yKGFyZ3MpOwogICAgcmV0dXJuOwogIH0KICBpZiAoY29tbWFuZCA9PT0gInByZWZsaWdodCIpIHsKICAgIGF3YWl0IGNvbW1hbmRQcmVmbGlnaHQoYXJncyk7CiAgICByZXR1cm47CiAgfQogIGlmIChjb21tYW5kID09PSAicGF0aHMiKSB7CiAgICBhd2FpdCBjb21tYW5kUGF0aHMoYXJncyk7CiAgICByZXR1cm47CiAgfQogIGlmIChjb21tYW5kID09PSAiZW5zdXJlLWRlcGVuZGVuY3kiKSB7CiAgICBhd2FpdCBjb21tYW5kRW5zdXJlRGVwZW5kZW5jeShhcmdzKTsKICAgIHJldHVybjsKICB9CiAgaWYgKGNvbW1hbmQgPT09ICJoZWxwIiB8fCBhcmdzLmZsYWdzLmhlbHAgPT09IHRydWUpIHsKICAgIGNvbnNvbGUubG9nKAogICAgICAiVXNhZ2U6IG5vZGUgc2NyaXB0cy9jbGkubWpzIDxpbnN0YWxsfGRvY3RvcnxwYXRoc3xwcmVmbGlnaHR8ZW5zdXJlLWRlcGVuZGVuY3k+IFtvcHRpb25zXSIsCiAgICApOwogICAgY29uc29sZS5sb2coCiAgICAgICJQcmVmbGlnaHQgaW5zdGFsbHMgbWlzc2luZyByZXF1aXJlZCB0b29scyBhdXRvbWF0aWNhbGx5LiBQYXNzIC0tbm8tYXV0by1pbnN0YWxsIHRvIGRpc2FibGUuIiwKICAgICk7CiAgICByZXR1cm47CiAgfQoKICBjb25zb2xlLmVycm9yKAogICAgIlVzYWdlOiBub2RlIHNjcmlwdHMvY2xpLm1qcyA8aW5zdGFsbHxkb2N0b3J8cGF0aHN8cHJlZmxpZ2h0fGVuc3VyZS1kZXBlbmRlbmN5PiBbb3B0aW9uc10iLAogICk7CiAgY29uc29sZS5lcnJvcigKICAgICJQcmVmbGlnaHQgaW5zdGFsbHMgbWlzc2luZyByZXF1aXJlZCB0b29scyBhdXRvbWF0aWNhbGx5LiBQYXNzIC0tbm8tYXV0by1pbnN0YWxsIHRvIGRpc2FibGUuIiwKICApOwogIHByb2Nlc3MuZXhpdENvZGUgPSAxOwp9CgptYWluKCkuY2F0Y2goKGVycm9yKSA9PiB7CiAgY29uc29sZS5lcnJvcihgRVJST1I6ICR7ZXJyb3IubWVzc2FnZX1gKTsKICBwcm9jZXNzLmV4aXRDb2RlID0gMTsKfSk7Cgo=
+#!/usr/bin/env node
+
+import path from "node:path";
+import readline from "node:readline/promises";
+import { stdin as input, stdout as output } from "node:process";
+import { defaultConfigPath, loadConfig, saveConfig } from "./lib/config.mjs";
+import {
+  discoverCatalog,
+  discoverToolkit,
+  inspectToolkitRoot,
+} from "./lib/discover.mjs";
+import { runDoctor } from "./lib/doctor.mjs";
+import { ensureDir } from "./lib/json.mjs";
+import { ensureOnDemandDependency } from "./lib/on-demand.mjs";
+import {
+  printPreflightReport,
+  runEnvironmentPreflight,
+} from "./lib/preflight.mjs";
+
+function parseArguments(argv) {
+  const args = { _: [], flags: {} };
+  for (let index = 0; index < argv.length; index += 1) {
+    const token = argv[index];
+    if (!token.startsWith("--")) {
+      args._.push(token);
+      continue;
+    }
+    if (token.includes("=")) {
+      const [key, rawValue] = token.slice(2).split("=", 2);
+      args.flags[key] = rawValue;
+      continue;
+    }
+
+    const key = token.slice(2);
+    const next = argv[index + 1];
+    if (next !== undefined && !next.startsWith("--")) {
+      args.flags[key] = next;
+      index += 1;
+    } else {
+      args.flags[key] = true;
+    }
+  }
+  return args;
+}
+
+async function askForKitRoot() {
+  if (!process.stdin.isTTY) {
+    throw new Error(
+      "Toolkit path is required in non-interactive mode. Use --kit-root=<path>.",
+    );
+  }
+  const prompt = readline.createInterface({ input, output });
+  try {
+    const value = await prompt.question("Video template kit directory: ");
+    return value.trim();
+  } finally {
+    prompt.close();
+  }
+}
+
+async function commandPaths(args) {
+  const env = process.env;
+  const configPath =
+    typeof args.flags.config === "string"
+      ? path.resolve(args.flags.config)
+      : defaultConfigPath(env);
+  const config = await loadConfig(configPath);
+  const discovered = await discoverToolkit({
+    explicitRoot:
+      typeof args.flags["kit-root"] === "string"
+        ? args.flags["kit-root"]
+        : undefined,
+    cwd: process.cwd(),
+    env,
+    configPath,
+  });
+  const catalogPath = discovered.root
+    ? await discoverCatalog({
+        toolkit: { root: discovered.root, config: discovered.config },
+        explicitPath:
+          typeof args.flags.catalog === "string"
+            ? args.flags.catalog
+            : undefined,
+        env,
+      })
+    : null;
+  console.log(
+    JSON.stringify(
+      {
+        configPath,
+        toolkitRoot: discovered.root,
+        toolkitSource: discovered.source,
+        catalogPath,
+        searched: discovered.searched || [],
+        recordedConfig: config,
+      },
+      null,
+      2,
+    ),
+  );
+}
+
+async function commandInstall(args) {
+  let kitRoot =
+    typeof args.flags["kit-root"] === "string"
+      ? args.flags["kit-root"]
+      : null;
+  if (!kitRoot) {
+    const discovered = await discoverToolkit({
+      cwd: process.cwd(),
+      env: process.env,
+    });
+    kitRoot = discovered.root || (await askForKitRoot());
+  }
+
+  const toolkit = await inspectToolkitRoot(kitRoot);
+  if (!toolkit) {
+    throw new Error(
+      `Invalid toolkit: ${kitRoot}. Expected kit.json and config/defaults.json.`,
+    );
+  }
+
+  for (const directory of toolkit.kit.directories || []) {
+    await ensureDir(path.join(toolkit.root, directory));
+  }
+
+  const catalogPath = await discoverCatalog({
+    toolkit,
+    explicitPath:
+      typeof args.flags.catalog === "string"
+        ? args.flags.catalog
+        : undefined,
+    env: process.env,
+  });
+  const configPath =
+    typeof args.flags.config === "string"
+      ? path.resolve(args.flags.config)
+      : defaultConfigPath(process.env);
+  await saveConfig(
+    {
+      toolkitRoot: toolkit.root,
+      catalogPath,
+      configuredAt: new Date().toISOString(),
+      lastDoctorAt: null,
+    },
+    configPath,
+  );
+
+  const doctor = await runDoctor({
+    kitRoot: toolkit.root,
+    catalogPath,
+    env: process.env,
+    configPath,
+  });
+  console.log(
+    JSON.stringify(
+      {
+        installed: true,
+        toolkitRoot: toolkit.root,
+        catalogPath,
+        configPath,
+        doctor,
+      },
+      null,
+      2,
+    ),
+  );
+  process.exitCode = doctor.ok ? 0 : 1;
+}
+
+async function commandDoctor(args) {
+  const report = await runDoctor({
+    kitRoot:
+      typeof args.flags["kit-root"] === "string"
+        ? args.flags["kit-root"]
+        : undefined,
+    catalogPath:
+      typeof args.flags.catalog === "string"
+        ? args.flags.catalog
+        : undefined,
+    configPath:
+      typeof args.flags.config === "string"
+        ? path.resolve(args.flags.config)
+        : defaultConfigPath(process.env),
+    fix: args.flags.fix === true,
+    env: process.env,
+  });
+
+  if (args.flags.json) {
+    console.log(JSON.stringify(report, null, 2));
+  } else {
+    console.log(`Toolkit: ${report.toolkitRoot || "not found"}`);
+    for (const check of report.checks) {
+      const marker =
+        check.status === "ok"
+          ? "OK"
+          : check.status === "warning"
+            ? "WARN"
+            : "ERROR";
+      console.log(`[${marker}] ${check.id}: ${check.message}`);
+      if (check.hint) {
+        console.log(`       ${check.hint}`);
+      }
+    }
+  }
+  process.exitCode = report.ok ? 0 : 1;
+}
+
+async function commandPreflight(args) {
+  const report = await runEnvironmentPreflight({
+    env: process.env,
+    projectRoot:
+      typeof args.flags["project-root"] === "string"
+        ? args.flags["project-root"]
+        : process.cwd(),
+    kitRoot:
+      typeof args.flags["kit-root"] === "string"
+        ? args.flags["kit-root"]
+        : undefined,
+    configPath:
+      typeof args.flags.config === "string"
+        ? path.resolve(args.flags.config)
+        : undefined,
+    autoInstall: args.flags["no-auto-install"] !== true,
+  });
+
+  if (args.flags.json) {
+    console.log(JSON.stringify(report, null, 2));
+  } else {
+    printPreflightReport(report);
+  }
+  process.exitCode = report.ok ? 0 : 1;
+}
+
+async function commandEnsureDependency(args) {
+  const component =
+    typeof args.flags.component === "string"
+      ? args.flags.component
+      : args._[1];
+  if (!component) {
+    throw new Error(
+      "Dependency name is required. Use html, svg, canvas, threejs, blender, webgl, vertex-shader, fragment-shader, browser, asr, tts, python, uv, or template.",
+    );
+  }
+  const result = await ensureOnDemandDependency(component, {
+    env: process.env,
+    projectRoot:
+      typeof args.flags["project-root"] === "string"
+        ? path.resolve(args.flags["project-root"])
+        : process.cwd(),
+    input:
+      typeof args.flags.input === "string"
+        ? path.resolve(args.flags.input)
+        : undefined,
+    language:
+      typeof args.flags.language === "string"
+        ? args.flags.language
+        : undefined,
+    output:
+      typeof args.flags.output === "string"
+        ? path.resolve(args.flags.output)
+        : undefined,
+  });
+  console.log(JSON.stringify(result, null, 2));
+  process.exitCode = result.status === "failed" ? 1 : 0;
+}
+
+async function main() {
+  const args = parseArguments(process.argv.slice(2));
+  const command = args._[0];
+
+  if (command === "install") {
+    await commandInstall(args);
+    return;
+  }
+  if (command === "doctor") {
+    await commandDoctor(args);
+    return;
+  }
+  if (command === "preflight") {
+    await commandPreflight(args);
+    return;
+  }
+  if (command === "paths") {
+    await commandPaths(args);
+    return;
+  }
+  if (command === "ensure-dependency") {
+    await commandEnsureDependency(args);
+    return;
+  }
+  if (command === "help" || args.flags.help === true) {
+    console.log(
+      "Usage: node scripts/cli.mjs <install|doctor|paths|preflight|ensure-dependency> [options]",
+    );
+    console.log(
+      "Preflight installs missing required tools automatically. Pass --no-auto-install to disable.",
+    );
+    return;
+  }
+
+  console.error(
+    "Usage: node scripts/cli.mjs <install|doctor|paths|preflight|ensure-dependency> [options]",
+  );
+  console.error(
+    "Preflight installs missing required tools automatically. Pass --no-auto-install to disable.",
+  );
+  process.exitCode = 1;
+}
+
+main().catch((error) => {
+  console.error(`ERROR: ${error.message}`);
+  process.exitCode = 1;
+});
+

@@ -1,1 +1,102 @@
-IyDmiYHlubPmj5LnlLvvvIhmbGF0LXZlY3Rvcu+8iQoKPiDnlKjml6Dmj4/ovrnnmoToibLlnZfnlLvlh7rkuIDkuKrlj6/ku6Xml6DpmZDnvKnmlL7nmoTkuJbnlYzvvJrlsI/kurrjgIHmnLrlmajjgIHmmJ/nkIPpg73mmK/nroDljZXnmoTlh6DkvZXvvIzplZzlpLTlnKjlsLrluqbkuYvpl7Tnqb/ooYzvvIzmiorlpI3mnYLnmoTkuovorrLmiJDkuIDkuKrmlYXkuovjgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJrmiYHlubPpo47moLznmoTnp5Hmma7liqjnlLvpopHpgZPjgIHlvZPku6PmiYHlubPllYbkuJrmj5LnlLvjgIFNYXRlcmlhbCDml7bku6PnmoTmj5LnlLvns7vnu5/jgILkuI3nhafmkKzlhbfkvZPpopHpgZPnmoTop5LoibLjgIHphY3oibLkvZPns7vlkoznlLvpnaLjgIIKCiMjIOacrOi0qCAvIOS4jeaYr+S7gOS5iAotIOacrOi0qO+8mioq5oqK5LiA5Liq5qaC5b+155S75oiQ5LiA5Liq6IO96LWw6L+b5Y6755qE5bCP5LiW55WMKirjgILlvaLnirbnroDljZXliLDlsI/lranpg73og73nlLvvvIzkvYblhYnlvbHjgIHlsYLmrKHjgIHmr5TkvovmmK/nsr7lv4Porr7orqHnmoTvvJvkv6Hmga/pnaDjgIznvKnmlL7jgI3jgIzmi4blvIDjgI3jgIzlj5jlvaLjgI3orrLmuIXmpZrvvIznlLvpnaLkuIDnm7TlnKjovbvovbvliqjjgIIKLSDkuI3mmK/vvJrlm77moIfloIbnoIznmoQgUFBU77yb5Lmf5LiN5piv562J6Led6KeG6KeS55qE5bel56iL5p625p6E5Zu+77yI6YKj5pivIGBpc29tZXRyaWMtaW5mb2dyYXBoaWNg77yJ44CCCgojIyDovqjor4bkv6Hlj7fvvJrmr4/mlK/niYflrZDmjJEgMuKAkzMg5LiqCnwg5L+h5Y+3IHwg6ZW/5LuA5LmI5qC3IHwg6YCC5ZCI55qE5Li76aKYIHwKfC0tLXwtLS18LS0tfAp8IOaXoOaPj+i+ueiJsuWdlyB8IOW9oueKtuWPqumdoOiJsuWdl+WIhuW8gO+8jOayoeaciem7keiJsui9ruW7k+e6vyB8IOS4gOWIhyB8Cnwg5ZCM6Imy55u46Zi05b2xIHwg6Zi05b2x5piv5pys6Imy5rex5LiA5qGj77yM5LiN5piv54Gw6ImyIHwg56uL5L2T5oSf44CB5rip5bqmIHwKfCDosYblrZDlsI/kurogfCDlnIblpLTjgIHml6DkupTlrpjmiJbkuKTkuKrngrnjgIHogqLkvZPmmK/lnIbop5LmnaEgfCDnlKjmiLfjgIHkurrnvqTjgIHop5LoibIgfAp8IOWwuuW6puepv+ihjCB8IOmVnOWktOS7jue7huiDnuaOqOWIsOWfjuW4guOAgeS7juaYn+eQg+aOqOWIsOS6uiB8IOinhOaooeOAgeWOn+eQhiB8Cnwg5YmW6Z2i5Zu+IHwg5LiA5Liq5Lic6KW/5YiH5byA77yM55yL5Yiw6YeM6Z2i55qE5bGCIHwg5YaF6YOo5py65Yi2IHwKfCDlj5HlhYnnmoTngrkgfCDmmpfog4zmma/ph4zlsJHph4/lj5HlhYnnmoTlsI/kuJzopb8gfCDog73ph4/jgIHmlbDmja7jgIHlpJzmma8gfAp8IOWxguWxguinhuW3riB8IOWJjeS4reWQjuaZr+aMieS4jeWQjOmAn+W6puenu+WKqCB8IOepuumXtOOAgeaXheeoiyB8Cnwg5ZyG6KeS5Yeg5L2V5py65ZmoIHwg6b2/6L2u44CB566h6YGT44CB5oyJ6ZKu57uE5oiQ55qE5Y+v54ix5py65ZmoIHwg5rWB56iL44CB57O757ufIHwKfCDlvKfnur/ov5Dliqjot6/lvoQgfCDniankvZPmsr/lnIblvKfovajov7npo57ooYzvvIzkuI3otbDnm7Tnur8gfCDkvKDpgJLjgIHmtYHliqggfAp8IOS4gOS4quminOiJsuS4gOS4quamguW/tSB8IOavj+S4quamguW/teWbuuWumuS4gOS4quminOiJsu+8jOWFqOeJh+S4jeWPmCB8IOino+mHiuOAgeWvueavlCB8Cnwg57q46LSo6aKX57KSIHwg5bmz5raC5LiK5Y+g5LiA5bGC5p6B5reh55qE6aKX57KSIHwg5rip5pqW44CB5omL5L2c5oSfIHwKCuinhOWIme+8mgotIOavj+aUr+aMkSAy4oCTMyDkuKrvvIzoh7PlsJHkuIDkuKrkuI3lnKjkuIvpnaLjgIzmnIDkv5fnmoTniYjmnKzjgI3ph4zjgIIKLSDkv6Hlj7fku47kuLvpopjph4zpgInvvIzkuI3mjInpobrluo/lhajkuIrjgIIKLSDpopzoibLlsLHmmK/or63kuYnvvJrkuIDkuKrpopzoibLku6PooajkuIDkuKrmpoLlv7XvvIzlhajniYfkuI3mjaLvvJvotoXov4cgNCDnp43or63kuYnoibLop4LkvJflsLHorrDkuI3kvY/kuobjgIIKCiMjIOi/meS4qumjjuagvOacgOS/l+eahOeJiOacrAotIOeUu+mdou+8mua3seiTnee0q+eahOWkquepuuiDjOaZr+OAgeWPkeWFieeahOaYn+eQg+WSjOWwj+ihjOaYn+OAgeixhuWtkOWwj+S6uuWcqOWcsOeQg+S4iuaMpeaJi+OAgemVnOWktOS7juWuh+WumeaOqOWIsOWcsOeQg+OAggotIOWjsOmfs++8mumSoueJh+eQtOWKoOW8puS5kOmTuuW6le+8jOa4qeaflOeahOenkeaZruiFlOOAggotIGJyaWVmIOeahCBzdHlsZSDkuIDmoI/lhpnmmI7ov5nmlK/niYflrZDnv7vmjonkuoblk6rlh6DmnaHvvIzmiJbogIXkuLrku4DkuYjliLvmhI/kv53nlZnvvIjmr5TlpoLnlKjmiLfopoHnmoTlsLHmmK/nu4/lhbjniYjvvInjgILkv53nlZnml7bvvIzmiorlipvmsJToirHlnKjmnoTlm77jgIHplZzlpLTjgIHoioLlpY/miJbkuIDkuKrmhI/lpJbnmoTorrDlv4bngrnkuIrjgIIKCiMjIOmAgumFjQotIOeUqOmAlO+8muiusuWOn+eQhueahOS6p+WTgeWuo+S8oOOAgeWKn+iDveiusuino+OAgeWTgeeJjOaVheS6i+OAgeaVsOaNruiDjOWQjueahOaVheS6i+OAgUxvZ28g5ryU57uO44CCCi0g5YaF5a6577ya56eR5oqA5Y6f55CG44CB5YGl5bq344CB6YeR6J6N5qaC5b+144CB546v5L+d44CB5pWZ6IKy44CB44CM5a6D5piv5oCO5LmI5bel5L2c55qE44CN44CCCi0g5LiN6YCC5ZCI77ya6ZyA6KaB5bGV56S655yf5a6e5Lqn5ZOB55WM6Z2i55qE77yI55SoIGBtaW5pbWFsLXVpYO+8jOeVjOmdoueUqOecn+WunuaIquWbvu+8ie+8m+mcgOimgeWPr+S/oeaVsOaNruWbvuihqOeahO+8iOeUqCBgZGF0YS1tb3Rpb25g77yJ44CCCgojIyDmioDmnK/ot6/nur8KQ2FudmFzIDJEIOaIliBTVkfjgILmlbTkuKrlnLrmma/lu7rmiJDkuIDkuKrmr5TnlLvpnaLlpKflvpflpJrnmoTkuJbnlYzlnZDmoIfns7vvvIzplZzlpLTmmK/op4blj6PvvIjkuK3lv4PjgIHnvKnmlL7jgIHml4vovazvvInvvIznvKnmlL7nlKjlr7nmlbDmj5LlgLzvvIjmr4/luKfmlL7lpKflkIzmoLfnmoTlgI3mlbDvvInvvIzmjqjov5Hml7bmiYDmnInlvaLnirbmjInnn6Lph4/ph43nlLvvvIzmlL7lpKcgNTAg5YCN5Lmf5LiN57OK44CC5b2i54q255So5ZyG6KeS55+p5b2i44CB5ZyG44CB6LSd5aGe5bCU5puy57q/77yb6Zi05b2x5piv5ZCM5LiA5b2i54q25YGP56e75ZCO55So5rex5LiA5qGj55qE6aKc6ImyIGNsaXAg5Zyo5pys5L2T6YeM44CC6aKX57KS55SoIGAtLWdyYWluIDLigJMzYOOAggoKIyMg5p2Q6LSo5LiO5riy5p+TCi0g5b2i54q277ya5ZyG6KeS5Li65Li777yM6YG/5YWN6ZSQ6KeS77yb5ZCM57G754mp5L2T55So5ZCM5LiA5aWX5Yeg5L2V6Zu25Lu25ou844CCCi0g5YWJ5b2x77ya5LiA5Liq5Zu65a6a55qE5YWJ5rqQ5pa55ZCR77yb5Y+X5YWJ6Z2i5rWF5LiA5qGj44CB6IOM5YWJ6Z2i5rex5LiA5qGj77yM6YO95piv5ZCM6Imy55u477yM5LiN55So54Gw44CCCi0g5Y+R5YWJ77ya5Y+q57uZ5bCR5pWw44CM6IO96YeP44CN57G75YWD57Sg77yM55SoIDLigJMzIOWxgui2iuadpei2iuWkp+i2iuadpei2iua3oeeahOWQjOiJsuWchuOAggotIOWxguasoe+8mui/nOaZr+mlseWSjOW6puWSjOWvueavlOS9ju+8jOi/keaZr+mrmO+8m+acgOWJjeaZr+WPr+S7peacieS4gOWxguiZmuWMlueahOWkp+W9oueKtuWBmuahhuOAggotIOWwj+S6uu+8muixhuWtkOW9oui6q+S9k+OAgeWchuWktO+8jOayoeacieWYtOaIluWPquacieS4gOadoeW8p+e6v++8m+mdoOWnv+WKv+WSjOWKqOS9nOihqOi+vuaDhee7qu+8jOS4jemdoOihqOaDheOAggoKIyMg6YWN6ImyCuS4i+mdoueahOiJsuWAvOaYr+ekuuS+i++8jOeci+aAnei3r++8jOS4jeimgeWOn+agt+eFp+aKhOOAggotIOaal+WknO+8muW6lSBgIzE0MjEzRGAgLyDkuK3mma8gYCMyQTNCNkJgIC8g5pqW5YWJIGAjRkNBMzExYCAvIOmdkiBgIzRDQzlGMGAgLyDnmq7ogqQgYCNGNEEyNjFgCi0g5piO5Lqu77ya5bqVIGAjRkRGNkVDYCAvIOe7vyBgIzJBOUQ4RmAgLyDpu4QgYCNFOUM0NkFgIC8g54+K55GaIGAjRTc2RjUxYCAvIOa3seiTnSBgIzI2NDY1M2AKLSDljZXoibLns7vvvJrkuIDkuKroibLnm7jnmoQgNSDkuKrmmI7luqYgKyDkuIDkuKrlr7nmr5ToibLlj6rnu5nkuLvop5IKLSDmjqjlr7zvvJrlhYjlrprog4zmma/mmK/mmpfov5jmmK/kuq7vvIzlho3nu5nmr4/kuKrmpoLlv7XliIbphY3kuIDkuKrpopzoibLvvIjku47lk4HniYzoibLlh7rlj5HvvIzlnKggT0tMYWIg6YeM5o6o55u46YK76Imy77yJ77yb6Zi05b2x5LiA5b6L5piv5pys6Imy5rex5LiA5qGj44CC5rex6JOd57Sr5aSq56m65Yqg5pqW6buE5Y+R5YWJ5piv5pyA5bi46KeB55qE6YKj57uE44CCCgojIyDlrZfkvZMK5ZyG5ram55qE5peg6KGs57q/77yaTnVuaXRv44CBUG9wcGluc+OAgUJhbG9vIDLjgIFRdWlja3NhbmTvvIhPRkzvvInvvJvkuK3mlofnlKjmgJ3mupDpu5HkvZMgQm9sZCDmiJbnq5nphbflv6vkuZDkvZPjgILmoIfnrb7lrZflsI/ogIzlsJHvvIzpnaDnlLvpnaLorrLvvIzlrZflj6rlgZrooaXlhYXjgIIKCiMjIOi/kOWKqAotIOS4u+e8k+WKqOaYr+WvueensOeahCBlYXNlLWluLW91dO+8iGBiZXppZXIoMC43NSwgMCwgMC4yNSwgMSlgIOS4gOexu++8ie+8jOmVnOWktOWSjOWkp+eJqeS9k+mDveeUqOWug+OAggotIOeJqeS9k+ayv+W8p+e6v+i/kOWKqO+8m+WHuueOsOaXtuS7jiAwIOW8ueWHuu+8iOW8ueewpyBgezIuNiwgMC42fWDvvInvvIzmtojlpLHml7bnvKnlsI/lvpfmm7Tlv6vjgIIKLSDlsI/kurrnmoTliqjkvZwgcG9zZS10by1wb3Nl77ya5YWz6ZSu5ae/5Yq/5LmL6Ze05b+r6YCf6L+H5rih77yM54S25ZCO5YGc5L2P44CCCi0g55S76Z2i5LuO5LiN5a6M5YWo6Z2Z5q2i77ya5oC75pyJ5Lic6KW/5Zyo57yT5oWi5ryC5rWu44CB5peL6L2s5oiW6Zeq54OB44CCCgojIyDnlLvpnaLmgI7kuYjmtLsKLSDov5zlpITnmoTlsI/kuJzopb/nvJPmhaLmvILmta7vvIjlkajmnJ8gM+KAkzYg56eS77yJ77yb5Y+R5YWJ54K56L276L275ZG85ZC477yb5bCP5Lq655yo55y85oiW6ICF5pmD5LiA5LiL44CCCi0g5py65Zmo55qE6b2/6L2u44CB566h6YGT6YeM55qE5bCP55CD5LiA55u05Zyo5oWi5oWi6L2s44CB5oWi5oWi5rWB44CCCi0g5ryC5rWu55qE5bmF5bqm5q+U5Li75Yqo5L2c5bCP5LiA5qGj77yM5LiN5oqi54Sm54K544CCCgojIyDplZzlpLTor63ms5UKfCDplZzlpLTov5DliqggfCDooajovr7ku4DkuYggfCDpgILlkIjlk6rnsbvlhoXlrrkgfAp8LS0tfC0tLXwtLS18Cnwg5a+55pWw5o6o6L+R56m/6L+H5bC65bqmIHwg5LuO5a6P6KeC5Yiw5b6u6KeCIHwg5Y6f55CG44CB6KeE5qihIHwKfCDmi4nov5zmj63npLrlhajosowgfCDljp/mnaXmmK/mm7TlpKfkuJzopb/nmoTkuIDpg6jliIYgfCDovazmipjjgIHnu5PlsL4gfAp8IOaoquenu+i3n+edgOS4gOS4quWwj+S6uui1sCB8IOaXheeoiyB8IOa1geeoi+OAgeaVheS6iyB8Cnwg5YmW5byA5LiA5Liq54mp5L2T77yM6ZWc5aS06ZK76L+b5Y67IHwg5YaF6YOoIHwg5py65Yi2IHwKfCDmjqjov5vkuIDkuKrlnIblvaLniankvZPvvIzph4zpnaLlsLHmmK/kuIvkuIDplZwgfCDov5vlhaUgfCDovazlnLogfAoKIyMg5aOw6Z+z6LCD6Imy5p2/Cua4qeaflOeahCBgbWFsbGV0KHsgbWF0ZXJpYWw6ICdnbG9jaycgfSlg44CBYHBsdWNrYOOAgWBwYWRgIOmTuuW6le+8m+eJqeS9k+WHuueOsOmFjSBgcG9wYO+8jOenu+WKqOmFjei9uyBgd2hvb3NoYOOAguesrCAxIOaho+WNs+WPr++8jOmcgOimgeabtOWDj+e6quW9leeJh+eahOepuumXtOaEn+aXtueUqOesrCAyIOaho+WKoOmSoueQtOmHh+agt+OAggoK5b6L5Yqo5LiO5ZKM5aOw77yI5Li+5L6L77yM5LiN5q2i6L+Z5Lqb77yJ77ya5LiN55So6byT5oiW5Y+q55So5b6I6L2755qEIHNoYWtlcu+8jOmdoOmTuuW6leWSjOaXi+W+i+aOqOi/m++8m+S5n+WPr+S7peeUqOi9u+W/q+eahOaLqOW8pumFjSA0LzQg5bCP6byT5YGa5pu05rS75rO855qE54mI5pys77yb5aSn6LCD44CBTHlkaWFu77yI5aW95aWH44CB5oOK5aWH77yJ44CBRG9yaWFu77yI55Wl5bim5b+n5oCd77yJ44CC57Sv5Yqg5puy57q/77yI5q+P5aSa5LiA5Liq5qaC5b+15aSa5LiA5Liq5aOw6YOo77yJ5b6I6YCC5ZCI44CCCgojIyDljp/nlJ/miYvms5UKLSDmjqjov5vkuIDkuKrlnIblvaLniankvZPvvIjkuIDkuKrnu4bog57jgIHkuIDkuKrmjInpkq7jgIHkuIDkuKrmmJ/nkIPvvInvvIzph4zpnaLmmK/kuIvkuIDkuKrlnLrmma/vvJrpgILlkIjlsYLlsYLmt7HlhaXjgIIKLSDkuIDkuKrniankvZPliIflvIDvvIzpnLLlh7rlhoXpg6jnmoTpvb/ova7lnKjovazvvJrpgILlkIjorrLljp/nkIbjgIIKLSDlkIzkuIDkuKrlvaLnirblj5jlvaLmiJDkuIvkuIDkuKrmpoLlv7XvvIjlnIblj5jmiJDnoazluIHlj5jmiJDlnLDnkIPvvInvvJrpgILlkIjmr5TllrvlkozovazlnLrjgIIKLSDml6DmlbDlsI/kurrmsYfogZrmiJDkuIDkuKrlvaLnirbmiJbmlbDlrZfvvJrpgILlkIjjgIznlKjmiLfjgI3jgIzkurrnvqTjgI3jgIIKLSDku47lroflrpnmjqjliLDlnLDnkIPvvJrnu4/lhbjvvIzkurrkurrpg73kvJrmg7PliLDjgIIKCiMjIOWPmOWMluepuumXtAotIOe7k+aehO+8muS4gOS4quamguW/teS7juacgOWwj+eahOWNleS9jeiusuWIsOacgOWkp++8m+S4gOasoeOAjOWmguaenOKApuKApuS8muaAjuagt+OAjeeahOaAneaDs+WunumqjO+8m+S4gOS4quWwj+S6uui1sOWujOS4gOS4qua1geeoi++8m+S4ieS4quavlOWWu+S+neasoeWPmOW9ouOAggotIOW8gOWcuu+8muS4gOS4queCueaUvuWkp+aIkOS4gOS4quS4lueVjO+8m+S4gOS4quWwj+S6uuaKrOWktOeci+ingeS4gOS4qumXrumimOOAggotIOe7k+Wwvu+8muaLiei/nO+8jOaJgOacieWcuuaZr+WOn+adpemDveWcqOS4gOS4qiBsb2dvIOeahOW9oueKtumHjO+8m+Wwj+S6uuaKiuacgOWQjuS4gOWdl+aLvOS4iuOAggoKIyMg5Z2RCi0g6aKc6Imy5aSq5aSa44CB6K+t5LmJ5Lmx77ya5LiA5Liq5qaC5b+15LiA5Liq6aKc6Imy77yM5YWo54mH5LiN5o2i44CCCi0g5Yqg5LqG6buR6Imy5o+P6L6577yM5bCx5oiQ5LqG5Y+m5LiA56eN6aOO5qC877yI5ryr55S75oiW5Y2h6YCa77yJ44CCCi0g55S76Z2i5LiA55u05Zyo5Yqo5L2G5rKh5pyJ54Sm54K577ya5ZCM5LiA5pe25Yi75Y+q5pyJ5LiA5Liq5Li76L+Q5Yqo44CCCi0g57q/5oCn57yp5pS+77ya5o6o6L+R5pe25YmN5oWi5ZCO54yb77yM5pyA5ZCO5LiA5bin5Lya6Lez77yM55So5a+55pWw5o+S5YC844CCCi0g54Wn5pCs55+l5ZCN56eR5pmu6aKR6YGT55qE6YWN6Imy5ZKM6KeS6Imy77ya5Y+q5a2m6K+t5rOV44CCCg==
+# 扁平插画（flat-vector）
+
+> 用无描边的色块画出一个可以无限缩放的世界：小人、机器、星球都是简单的几何，镜头在尺度之间穿行，把复杂的事讲成一个故事。
+> 参照（只学语法）：扁平风格的科普动画频道、当代扁平商业插画、Material 时代的插画系统。不照搬具体频道的角色、配色体系和画面。
+
+## 本质 / 不是什么
+- 本质：**把一个概念画成一个能走进去的小世界**。形状简单到小孩都能画，但光影、层次、比例是精心设计的；信息靠「缩放」「拆开」「变形」讲清楚，画面一直在轻轻动。
+- 不是：图标堆砌的 PPT；也不是等距视角的工程架构图（那是 `isometric-infographic`）。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 无描边色块 | 形状只靠色块分开，没有黑色轮廓线 | 一切 |
+| 同色相阴影 | 阴影是本色深一档，不是灰色 | 立体感、温度 |
+| 豆子小人 | 圆头、无五官或两个点、肢体是圆角条 | 用户、人群、角色 |
+| 尺度穿行 | 镜头从细胞推到城市、从星球推到人 | 规模、原理 |
+| 剖面图 | 一个东西切开，看到里面的层 | 内部机制 |
+| 发光的点 | 暗背景里少量发光的小东西 | 能量、数据、夜景 |
+| 层层视差 | 前中后景按不同速度移动 | 空间、旅程 |
+| 圆角几何机器 | 齿轮、管道、按钮组成的可爱机器 | 流程、系统 |
+| 弧线运动路径 | 物体沿圆弧轨迹飞行，不走直线 | 传递、流动 |
+| 一个颜色一个概念 | 每个概念固定一个颜色，全片不变 | 解释、对比 |
+| 纸质颗粒 | 平涂上叠一层极淡的颗粒 | 温暖、手作感 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+- 颜色就是语义：一个颜色代表一个概念，全片不换；超过 4 种语义色观众就记不住了。
+
+## 这个风格最俗的版本
+- 画面：深蓝紫的太空背景、发光的星球和小行星、豆子小人在地球上挥手、镜头从宇宙推到地球。
+- 声音：钢片琴加弦乐铺底，温柔的科普腔。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：讲原理的产品宣传、功能讲解、品牌故事、数据背后的故事、Logo 演绎。
+- 内容：科技原理、健康、金融概念、环保、教育、「它是怎么工作的」。
+- 不适合：需要展示真实产品界面的（用 `minimal-ui`，界面用真实截图）；需要可信数据图表的（用 `data-motion`）。
+
+## 技术路线
+Canvas 2D 或 SVG。整个场景建成一个比画面大得多的世界坐标系，镜头是视口（中心、缩放、旋转），缩放用对数插值（每帧放大同样的倍数），推近时所有形状按矢量重画，放大 50 倍也不糊。形状用圆角矩形、圆、贝塞尔曲线；阴影是同一形状偏移后用深一档的颜色 clip 在本体里。颗粒用 `--grain 2–3`。
+
+## 材质与渲染
+- 形状：圆角为主，避免锐角；同类物体用同一套几何零件拼。
+- 光影：一个固定的光源方向；受光面浅一档、背光面深一档，都是同色相，不用灰。
+- 发光：只给少数「能量」类元素，用 2–3 层越来越大越来越淡的同色圆。
+- 层次：远景饱和度和对比低，近景高；最前景可以有一层虚化的大形状做框。
+- 小人：豆子形身体、圆头，没有嘴或只有一条弧线；靠姿势和动作表达情绪，不靠表情。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 暗夜：底 `#14213D` / 中景 `#2A3B6B` / 暖光 `#FCA311` / 青 `#4CC9F0` / 皮肤 `#F4A261`
+- 明亮：底 `#FDF6EC` / 绿 `#2A9D8F` / 黄 `#E9C46A` / 珊瑚 `#E76F51` / 深蓝 `#264653`
+- 单色系：一个色相的 5 个明度 + 一个对比色只给主角
+- 推导：先定背景是暗还是亮，再给每个概念分配一个颜色（从品牌色出发，在 OKLab 里推相邻色）；阴影一律是本色深一档。深蓝紫太空加暖黄发光是最常见的那组。
+
+## 字体
+圆润的无衬线：Nunito、Poppins、Baloo 2、Quicksand（OFL）；中文用思源黑体 Bold 或站酷快乐体。标签字小而少，靠画面讲，字只做补充。
+
+## 运动
+- 主缓动是对称的 ease-in-out（`bezier(0.75, 0, 0.25, 1)` 一类），镜头和大物体都用它。
+- 物体沿弧线运动；出现时从 0 弹出（弹簧 `{2.6, 0.6}`），消失时缩小得更快。
+- 小人的动作 pose-to-pose：关键姿势之间快速过渡，然后停住。
+- 画面从不完全静止：总有东西在缓慢漂浮、旋转或闪烁。
+
+## 画面怎么活
+- 远处的小东西缓慢漂浮（周期 3–6 秒）；发光点轻轻呼吸；小人眨眼或者晃一下。
+- 机器的齿轮、管道里的小球一直在慢慢转、慢慢流。
+- 漂浮的幅度比主动作小一档，不抢焦点。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 对数推近穿过尺度 | 从宏观到微观 | 原理、规模 |
+| 拉远揭示全貌 | 原来是更大东西的一部分 | 转折、结尾 |
+| 横移跟着一个小人走 | 旅程 | 流程、故事 |
+| 剖开一个物体，镜头钻进去 | 内部 | 机制 |
+| 推进一个圆形物体，里面就是下一镜 | 进入 | 转场 |
+
+## 声音调色板
+温柔的 `mallet({ material: 'glock' })`、`pluck`、`pad` 铺底；物体出现配 `pop`，移动配轻 `whoosh`。第 1 档即可，需要更像纪录片的空间感时用第 2 档加钢琴采样。
+
+律动与和声（举例，不止这些）：不用鼓或只用很轻的 shaker，靠铺底和旋律推进；也可以用轻快的拨弦配 4/4 小鼓做更活泼的版本；大调、Lydian（好奇、惊奇）、Dorian（略带忧思）。累加曲线（每多一个概念多一个声部）很适合。
+
+## 原生手法
+- 推进一个圆形物体（一个细胞、一个按钮、一个星球），里面是下一个场景：适合层层深入。
+- 一个物体切开，露出内部的齿轮在转：适合讲原理。
+- 同一个形状变形成下一个概念（圆变成硬币变成地球）：适合比喻和转场。
+- 无数小人汇聚成一个形状或数字：适合「用户」「人群」。
+- 从宇宙推到地球：经典，人人都会想到。
+
+## 变化空间
+- 结构：一个概念从最小的单位讲到最大；一次「如果……会怎样」的思想实验；一个小人走完一个流程；三个比喻依次变形。
+- 开场：一个点放大成一个世界；一个小人抬头看见一个问题。
+- 结尾：拉远，所有场景原来都在一个 logo 的形状里；小人把最后一块拼上。
+
+## 坑
+- 颜色太多、语义乱：一个概念一个颜色，全片不换。
+- 加了黑色描边，就成了另一种风格（漫画或卡通）。
+- 画面一直在动但没有焦点：同一时刻只有一个主运动。
+- 线性缩放：推近时前慢后猛，最后一帧会跳，用对数插值。
+- 照搬知名科普频道的配色和角色：只学语法。

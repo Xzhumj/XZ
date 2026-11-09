@@ -1,1 +1,530 @@
-W0NtZGxldEJpbmRpbmcoKV0KcGFyYW0oCiAgICBbc3RyaW5nW11dJENvbXBvbmVudHMgPSBAKCJOb2RlIiwgIlBvd2VyU2hlbGwiLCAiRmZtcGVnIiksCiAgICBbc3RyaW5nXSRDb2RleEhvbWUgPSAkZW52OkNPREVYX0hPTUUsCiAgICBbc3RyaW5nXSROb2RlVmVyc2lvbiA9ICIyNC4yMi4xIiwKICAgIFtzdHJpbmddJFBvd2VyU2hlbGxWZXJzaW9uID0gIjcuNi41IiwKICAgIFtzdHJpbmddJE5vZGVVcmwsCiAgICBbc3RyaW5nXSRQb3dlclNoZWxsVXJsLAogICAgW3N0cmluZ10kRmZtcGVnVXJsID0gImh0dHBzOi8vd3d3Lmd5YW4uZGV2L2ZmbXBlZy9idWlsZHMvZmZtcGVnLXJlbGVhc2UtZXNzZW50aWFscy56aXAiLAogICAgW3N0cmluZ10kUHJvamVjdFJvb3QgPSAoR2V0LUxvY2F0aW9uKS5QYXRoLAogICAgW3N0cmluZ10kS2l0Um9vdCwKICAgIFtzdHJpbmddJENvbmZpZ1BhdGgsCiAgICBbc3dpdGNoXSRSdW5QcmVmbGlnaHQsCiAgICBbc3dpdGNoXSRDaGVja09ubHksCiAgICBbc3dpdGNoXSRKc29uCikKCiRFcnJvckFjdGlvblByZWZlcmVuY2UgPSAiU3RvcCIKJFByb2dyZXNzUHJlZmVyZW5jZSA9ICJTaWxlbnRseUNvbnRpbnVlIgpbU3lzdGVtLk5ldC5TZXJ2aWNlUG9pbnRNYW5hZ2VyXTo6U2VjdXJpdHlQcm90b2NvbCA9IFtTeXN0ZW0uTmV0LlNlY3VyaXR5UHJvdG9jb2xUeXBlXTo6VGxzMTIKCmlmICgtbm90ICRDb2RleEhvbWUpIHsKICAgICRDb2RleEhvbWUgPSBKb2luLVBhdGggJEhPTUUgIi5jb2RleCIKfQokQ29kZXhIb21lID0gW1N5c3RlbS5JTy5QYXRoXTo6R2V0RnVsbFBhdGgoJENvZGV4SG9tZSkKJFRvb2xzUm9vdCA9IEpvaW4tUGF0aCAkQ29kZXhIb21lICJ0b29scyIKJFRvb2xzQmluID0gSm9pbi1QYXRoICRUb29sc1Jvb3QgImJpbiIKJFJlc3VsdHMgPSBOZXctT2JqZWN0IFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QKCiRBbGxvd2VkQ29tcG9uZW50cyA9IEAoIk5vZGUiLCAiUG93ZXJTaGVsbCIsICJGZm1wZWciKQokQ29tcG9uZW50cyA9IEAoJENvbXBvbmVudHMgfAogICAgRm9yRWFjaC1PYmplY3QgeyAkXyAtc3BsaXQgIiwiIH0gfAogICAgRm9yRWFjaC1PYmplY3QgeyAkXy5UcmltKCkgfSB8CiAgICBXaGVyZS1PYmplY3QgeyAkXyB9KQpmb3JlYWNoICgkY29tcG9uZW50IGluICRDb21wb25lbnRzKSB7CiAgICBpZiAoJEFsbG93ZWRDb21wb25lbnRzIC1ub3Rjb250YWlucyAkY29tcG9uZW50KSB7CiAgICAgICAgdGhyb3cgIlVuc3VwcG9ydGVkIGNvbXBvbmVudDogJGNvbXBvbmVudC4gVXNlIE5vZGUsIFBvd2VyU2hlbGwsIG9yIEZmbXBlZy4iCiAgICB9Cn0KCmZ1bmN0aW9uIEdldC1Db21tYW5kUGF0aCB7CiAgICBwYXJhbShbc3RyaW5nXSROYW1lKQogICAgJGNvbW1hbmQgPSBHZXQtQ29tbWFuZCAkTmFtZSAtRXJyb3JBY3Rpb24gU2lsZW50bHlDb250aW51ZSB8CiAgICAgICAgU2VsZWN0LU9iamVjdCAtRmlyc3QgMQogICAgaWYgKCRjb21tYW5kKSB7CiAgICAgICAgcmV0dXJuICRjb21tYW5kLlNvdXJjZQogICAgfQogICAgcmV0dXJuICRudWxsCn0KCmZ1bmN0aW9uIFJlc29sdmUtVG9vbFBhdGggewogICAgcGFyYW0oCiAgICAgICAgW3N0cmluZ10kTmFtZSwKICAgICAgICBbc3RyaW5nW11dJENhbmRpZGF0ZXMKICAgICkKICAgICRjb21tYW5kUGF0aCA9IEdldC1Db21tYW5kUGF0aCAkTmFtZQogICAgaWYgKCRjb21tYW5kUGF0aCkgewogICAgICAgIHJldHVybiAkY29tbWFuZFBhdGgKICAgIH0KICAgIGZvcmVhY2ggKCRjYW5kaWRhdGUgaW4gQCgkQ2FuZGlkYXRlcykpIHsKICAgICAgICBpZiAoJGNhbmRpZGF0ZSAtYW5kIChUZXN0LVBhdGggLUxpdGVyYWxQYXRoICRjYW5kaWRhdGUgLVBhdGhUeXBlIExlYWYpKSB7CiAgICAgICAgICAgIHJldHVybiBbU3lzdGVtLklPLlBhdGhdOjpHZXRGdWxsUGF0aCgkY2FuZGlkYXRlKQogICAgICAgIH0KICAgIH0KICAgIHJldHVybiAkbnVsbAp9CgpmdW5jdGlvbiBJbnZva2UtVG9vbCB7CiAgICBwYXJhbSgKICAgICAgICBbc3RyaW5nXSRFeGVjdXRhYmxlLAogICAgICAgIFtzdHJpbmdbXV0kQXJndW1lbnRzCiAgICApCiAgICB0cnkgewogICAgICAgICRvdXRwdXQgPSAmICRFeGVjdXRhYmxlIEBBcmd1bWVudHMgMj4mMQogICAgICAgIHJldHVybiBbcHNjdXN0b21vYmplY3RdQHsKICAgICAgICAgICAgZXhpdENvZGUgPSAkTEFTVEVYSVRDT0RFCiAgICAgICAgICAgIG91dHB1dCA9ICgoJG91dHB1dCB8IEZvckVhY2gtT2JqZWN0IHsgW3N0cmluZ10kXyB9KSAtam9pbiAiYG4iKS5UcmltKCkKICAgICAgICAgICAgc3RhcnRFcnJvciA9ICRudWxsCiAgICAgICAgfQogICAgfQogICAgY2F0Y2ggewogICAgICAgIHJldHVybiBbcHNjdXN0b21vYmplY3RdQHsKICAgICAgICAgICAgZXhpdENvZGUgPSAtMQogICAgICAgICAgICBvdXRwdXQgPSAkXy5FeGNlcHRpb24uTWVzc2FnZQogICAgICAgICAgICBzdGFydEVycm9yID0gJF8uRXhjZXB0aW9uLk1lc3NhZ2UKICAgICAgICB9CiAgICB9Cn0KCmZ1bmN0aW9uIEdldC1Ob2RlSW5mbyB7CiAgICBwYXJhbShbc3RyaW5nXSRFeGVjdXRhYmxlKQogICAgaWYgKC1ub3QgJEV4ZWN1dGFibGUpIHsKICAgICAgICByZXR1cm4gW3BzY3VzdG9tb2JqZWN0XUB7IG1ham9yID0gJG51bGw7IGJsb2NrZWQgPSAkZmFsc2U7IGVycm9yID0gJG51bGwgfQogICAgfQogICAgJHJ1biA9IEludm9rZS1Ub29sIC1FeGVjdXRhYmxlICRFeGVjdXRhYmxlIC1Bcmd1bWVudHMgQCgiLS12ZXJzaW9uIikKICAgIGlmICgkcnVuLmV4aXRDb2RlIC1uZSAwKSB7CiAgICAgICAgcmV0dXJuIFtwc2N1c3RvbW9iamVjdF1AewogICAgICAgICAgICBtYWpvciA9ICRudWxsCiAgICAgICAgICAgIGJsb2NrZWQgPSBbYm9vbF0kcnVuLnN0YXJ0RXJyb3IKICAgICAgICAgICAgZXJyb3IgPSAkKGlmICgkcnVuLnN0YXJ0RXJyb3IpIHsgJHJ1bi5zdGFydEVycm9yIH0gZWxzZSB7ICRydW4ub3V0cHV0IH0pCiAgICAgICAgfQogICAgfQogICAgaWYgKCRydW4ub3V0cHV0IC1tYXRjaCAidj8oXGQrKVwuIikgewogICAgICAgIHJldHVybiBbcHNjdXN0b21vYmplY3RdQHsKICAgICAgICAgICAgbWFqb3IgPSBbaW50XSRNYXRjaGVzWzFdCiAgICAgICAgICAgIGJsb2NrZWQgPSAkZmFsc2UKICAgICAgICAgICAgZXJyb3IgPSAkbnVsbAogICAgICAgIH0KICAgIH0KICAgIHJldHVybiBbcHNjdXN0b21vYmplY3RdQHsKICAgICAgICBtYWpvciA9ICRudWxsCiAgICAgICAgYmxvY2tlZCA9ICRmYWxzZQogICAgICAgIGVycm9yID0gIkNhbm5vdCBwYXJzZSBOb2RlLmpzIHZlcnNpb24gb3V0cHV0OiAkKCRydW4ub3V0cHV0KSIKICAgIH0KfQoKZnVuY3Rpb24gR2V0LVBvd2VyU2hlbGxJbmZvIHsKICAgIHBhcmFtKFtzdHJpbmddJEV4ZWN1dGFibGUpCiAgICBpZiAoLW5vdCAkRXhlY3V0YWJsZSkgewogICAgICAgIHJldHVybiBbcHNjdXN0b21vYmplY3RdQHsgbWFqb3IgPSAkbnVsbDsgYmxvY2tlZCA9ICRmYWxzZTsgZXJyb3IgPSAkbnVsbCB9CiAgICB9CiAgICAkcnVuID0gSW52b2tlLVRvb2wgLUV4ZWN1dGFibGUgJEV4ZWN1dGFibGUgLUFyZ3VtZW50cyBAKAogICAgICAgICItTm9Qcm9maWxlIiwKICAgICAgICAiLU5vbkludGVyYWN0aXZlIiwKICAgICAgICAiLUNvbW1hbmQiLAogICAgICAgICckUFNWZXJzaW9uVGFibGUuUFNWZXJzaW9uLk1ham9yJwogICAgKQogICAgaWYgKCRydW4uZXhpdENvZGUgLW5lIDApIHsKICAgICAgICByZXR1cm4gW3BzY3VzdG9tb2JqZWN0XUB7CiAgICAgICAgICAgIG1ham9yID0gJG51bGwKICAgICAgICAgICAgYmxvY2tlZCA9IFtib29sXSRydW4uc3RhcnRFcnJvcgogICAgICAgICAgICBlcnJvciA9ICQoaWYgKCRydW4uc3RhcnRFcnJvcikgeyAkcnVuLnN0YXJ0RXJyb3IgfSBlbHNlIHsgJHJ1bi5vdXRwdXQgfSkKICAgICAgICB9CiAgICB9CiAgICAkdmFsdWUgPSAoJHJ1bi5vdXRwdXQgLXNwbGl0ICJccysiIHwgV2hlcmUtT2JqZWN0IHsgJF8gLW1hdGNoICJeXGQrJCIgfSB8CiAgICAgICAgU2VsZWN0LU9iamVjdCAtTGFzdCAxKQogICAgaWYgKCR2YWx1ZSkgewogICAgICAgIHJldHVybiBbcHNjdXN0b21vYmplY3RdQHsKICAgICAgICAgICAgbWFqb3IgPSBbaW50XSR2YWx1ZQogICAgICAgICAgICBibG9ja2VkID0gJGZhbHNlCiAgICAgICAgICAgIGVycm9yID0gJG51bGwKICAgICAgICB9CiAgICB9CiAgICByZXR1cm4gW3BzY3VzdG9tb2JqZWN0XUB7CiAgICAgICAgbWFqb3IgPSAkbnVsbAogICAgICAgIGJsb2NrZWQgPSAkZmFsc2UKICAgICAgICBlcnJvciA9ICJDYW5ub3QgcGFyc2UgUG93ZXJTaGVsbCB2ZXJzaW9uIG91dHB1dDogJCgkcnVuLm91dHB1dCkiCiAgICB9Cn0KCmZ1bmN0aW9uIEdldC1GZm1wZWdJbmZvIHsKICAgIHBhcmFtKAogICAgICAgIFtzdHJpbmddJEZmbXBlZywKICAgICAgICBbc3RyaW5nXSRGZnByb2JlCiAgICApCiAgICBpZiAoLW5vdCAkRmZtcGVnIC1vciAtbm90ICRGZnByb2JlKSB7CiAgICAgICAgcmV0dXJuIFtwc2N1c3RvbW9iamVjdF1AewogICAgICAgICAgICByZWFkeSA9ICRmYWxzZQogICAgICAgICAgICBibG9ja2VkID0gJGZhbHNlCiAgICAgICAgICAgIGVycm9yID0gJG51bGwKICAgICAgICB9CiAgICB9CiAgICAkZmZtcGVnUnVuID0gSW52b2tlLVRvb2wgLUV4ZWN1dGFibGUgJEZmbXBlZyAtQXJndW1lbnRzIEAoIi12ZXJzaW9uIikKICAgICRmZnByb2JlUnVuID0gSW52b2tlLVRvb2wgLUV4ZWN1dGFibGUgJEZmcHJvYmUgLUFyZ3VtZW50cyBAKCItdmVyc2lvbiIpCiAgICByZXR1cm4gW3BzY3VzdG9tb2JqZWN0XUB7CiAgICAgICAgcmVhZHkgPSAoJGZmbXBlZ1J1bi5leGl0Q29kZSAtZXEgMCAtYW5kICRmZnByb2JlUnVuLmV4aXRDb2RlIC1lcSAwKQogICAgICAgIGJsb2NrZWQgPSBbYm9vbF0oJGZmbXBlZ1J1bi5zdGFydEVycm9yIC1vciAkZmZwcm9iZVJ1bi5zdGFydEVycm9yKQogICAgICAgIGVycm9yID0gJChpZiAoJGZmbXBlZ1J1bi5leGl0Q29kZSAtbmUgMCkgewogICAgICAgICAgICAkKGlmICgkZmZtcGVnUnVuLnN0YXJ0RXJyb3IpIHsgJGZmbXBlZ1J1bi5zdGFydEVycm9yIH0gZWxzZSB7ICRmZm1wZWdSdW4ub3V0cHV0IH0pCiAgICAgICAgfQogICAgICAgIGVsc2VpZiAoJGZmcHJvYmVSdW4uZXhpdENvZGUgLW5lIDApIHsKICAgICAgICAgICAgJChpZiAoJGZmcHJvYmVSdW4uc3RhcnRFcnJvcikgeyAkZmZwcm9iZVJ1bi5zdGFydEVycm9yIH0gZWxzZSB7ICRmZnByb2JlUnVuLm91dHB1dCB9KQogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgICAgJG51bGwKICAgICAgICB9KQogICAgfQp9CgpmdW5jdGlvbiBXcml0ZS1VdGY4Tm9Cb20gewogICAgcGFyYW0oCiAgICAgICAgW3N0cmluZ10kUGF0aCwKICAgICAgICBbc3RyaW5nXSRDb250ZW50CiAgICApCiAgICAkcGFyZW50ID0gU3BsaXQtUGF0aCAtUGFyZW50ICRQYXRoCiAgICBpZiAoJHBhcmVudCkgewogICAgICAgIE5ldy1JdGVtIC1JdGVtVHlwZSBEaXJlY3RvcnkgLVBhdGggJHBhcmVudCAtRm9yY2UgfCBPdXQtTnVsbAogICAgfQogICAgJGVuY29kaW5nID0gTmV3LU9iamVjdCBTeXN0ZW0uVGV4dC5VVEY4RW5jb2RpbmcoJGZhbHNlKQogICAgW1N5c3RlbS5JTy5GaWxlXTo6V3JpdGVBbGxUZXh0KCRQYXRoLCAkQ29udGVudCwgJGVuY29kaW5nKQp9CgpmdW5jdGlvbiBXcml0ZS1DbWRTaGltIHsKICAgIHBhcmFtKAogICAgICAgIFtzdHJpbmddJE5hbWUsCiAgICAgICAgW3N0cmluZ10kRXhlY3V0YWJsZSwKICAgICAgICBbc3RyaW5nW11dJFByZWZpeEFyZ3VtZW50cyA9IEAoKQogICAgKQogICAgJGFyZ3VtZW50VGV4dCA9ICIiCiAgICBpZiAoJFByZWZpeEFyZ3VtZW50cy5Db3VudCAtZ3QgMCkgewogICAgICAgICRhcmd1bWVudFRleHQgPSAoKCRQcmVmaXhBcmd1bWVudHMgfCBGb3JFYWNoLU9iamVjdCB7CiAgICAgICAgICAgICciezB9IicgLWYgJF8uUmVwbGFjZSgnIicsICciIicpCiAgICAgICAgfSkgLWpvaW4gIiAiKSArICIgIgogICAgfQogICAgJGNvbnRlbnQgPSBAKAogICAgICAgICJAZWNobyBvZmYiLAogICAgICAgICJzZXRsb2NhbCBFbmFibGVFeHRlbnNpb25zIiwKICAgICAgICAoJyJ7MH0iIHsxfSUqJyAtZiAkRXhlY3V0YWJsZSwgJGFyZ3VtZW50VGV4dCksCiAgICAgICAgImV4aXQgL2IgJUVSUk9STEVWRUwlIiwKICAgICAgICAiIgogICAgKSAtam9pbiAiYHJgbiIKICAgIFdyaXRlLVV0ZjhOb0JvbSAtUGF0aCAoSm9pbi1QYXRoICRUb29sc0JpbiAiJE5hbWUuY21kIikgLUNvbnRlbnQgJGNvbnRlbnQKfQoKZnVuY3Rpb24gQWRkLVJlc3VsdCB7CiAgICBwYXJhbSgKICAgICAgICBbc3RyaW5nXSRJZCwKICAgICAgICBbc3RyaW5nXSRTdGF0dXMsCiAgICAgICAgW3N0cmluZ10kUGF0aCwKICAgICAgICBbc3RyaW5nXSRWZXJzaW9uLAogICAgICAgIFtzdHJpbmddJEVycm9yCiAgICApCiAgICBbdm9pZF0kUmVzdWx0cy5BZGQoW3BzY3VzdG9tb2JqZWN0XUB7CiAgICAgICAgaWQgPSAkSWQKICAgICAgICBzdGF0dXMgPSAkU3RhdHVzCiAgICAgICAgcGF0aCA9ICRQYXRoCiAgICAgICAgdmVyc2lvbiA9ICRWZXJzaW9uCiAgICAgICAgZXJyb3IgPSAkRXJyb3IKICAgIH0pCn0KCmZ1bmN0aW9uIEdldC1XaW5kb3dzQXJjaGl0ZWN0dXJlIHsKICAgICRhcmNoaXRlY3R1cmUgPSBbc3RyaW5nXSRlbnY6UFJPQ0VTU09SX0FSQ0hJVEVDVFVSRQogICAgaWYgKCRhcmNoaXRlY3R1cmUgLW1hdGNoICJBUk02NCIpIHsKICAgICAgICByZXR1cm4gImFybTY0IgogICAgfQogICAgaWYgKCRhcmNoaXRlY3R1cmUgLW1hdGNoICJBTUQ2NHx4ODYiKSB7CiAgICAgICAgcmV0dXJuICJ4NjQiCiAgICB9CiAgICB0aHJvdyAiVW5zdXBwb3J0ZWQgV2luZG93cyBhcmNoaXRlY3R1cmU6ICRhcmNoaXRlY3R1cmUiCn0KCmZ1bmN0aW9uIEV4cGFuZC1Eb3dubG9hZGVkWmlwIHsKICAgIHBhcmFtKAogICAgICAgIFtzdHJpbmddJFVybCwKICAgICAgICBbc3RyaW5nXSREZXN0aW5hdGlvbgogICAgKQogICAgJHRlbXBSb290ID0gSm9pbi1QYXRoIChbU3lzdGVtLklPLlBhdGhdOjpHZXRUZW1wUGF0aCgpKSAoCiAgICAgICAgInh6LXZpZGVvLWJvb3RzdHJhcC0iICsgW2d1aWRdOjpOZXdHdWlkKCkuVG9TdHJpbmcoIk4iKQogICAgKQogICAgTmV3LUl0ZW0gLUl0ZW1UeXBlIERpcmVjdG9yeSAtUGF0aCAkdGVtcFJvb3QgLUZvcmNlIHwgT3V0LU51bGwKICAgICRhcmNoaXZlUGF0aCA9IEpvaW4tUGF0aCAkdGVtcFJvb3QgImRvd25sb2FkLnppcCIKICAgICRleHRyYWN0UGF0aCA9IEpvaW4tUGF0aCAkdGVtcFJvb3QgImV4dHJhY3QiCiAgICB0cnkgewogICAgICAgIEludm9rZS1XZWJSZXF1ZXN0IC1VcmkgJFVybCAtT3V0RmlsZSAkYXJjaGl2ZVBhdGggLVVzZUJhc2ljUGFyc2luZyAtVGltZW91dFNlYyA5MDAKICAgICAgICBFeHBhbmQtQXJjaGl2ZSAtTGl0ZXJhbFBhdGggJGFyY2hpdmVQYXRoIC1EZXN0aW5hdGlvblBhdGggJGV4dHJhY3RQYXRoIC1Gb3JjZQogICAgICAgIE5ldy1JdGVtIC1JdGVtVHlwZSBEaXJlY3RvcnkgLVBhdGggJERlc3RpbmF0aW9uIC1Gb3JjZSB8IE91dC1OdWxsCiAgICAgICAgR2V0LUNoaWxkSXRlbSAtTGl0ZXJhbFBhdGggJGV4dHJhY3RQYXRoIC1Gb3JjZSB8IEZvckVhY2gtT2JqZWN0IHsKICAgICAgICAgICAgQ29weS1JdGVtIC1MaXRlcmFsUGF0aCAkXy5GdWxsTmFtZSAtRGVzdGluYXRpb24gJERlc3RpbmF0aW9uIC1SZWN1cnNlIC1Gb3JjZQogICAgICAgIH0KICAgIH0KICAgIGZpbmFsbHkgewogICAgICAgIGlmIChUZXN0LVBhdGggLUxpdGVyYWxQYXRoICR0ZW1wUm9vdCkgewogICAgICAgICAgICBSZW1vdmUtSXRlbSAtTGl0ZXJhbFBhdGggJHRlbXBSb290IC1SZWN1cnNlIC1Gb3JjZSAtRXJyb3JBY3Rpb24gU2lsZW50bHlDb250aW51ZQogICAgICAgIH0KICAgIH0KfQoKZnVuY3Rpb24gSW5zdGFsbC1Ob2RlIHsKICAgICRub2RlUGF0aCA9IFJlc29sdmUtVG9vbFBhdGggLU5hbWUgIm5vZGUiIC1DYW5kaWRhdGVzIEAoCiAgICAgICAgKEpvaW4tUGF0aCAkVG9vbHNCaW4gIm5vZGUuY21kIiksCiAgICAgICAgKEpvaW4tUGF0aCAkVG9vbHNSb290ICJub2RlXG5vZGUuZXhlIikKICAgICkKICAgICRub2RlSW5mbyA9IEdldC1Ob2RlSW5mbyAkbm9kZVBhdGgKICAgIGlmICgkbm9kZUluZm8ubWFqb3IgLWdlIDIyKSB7CiAgICAgICAgQWRkLVJlc3VsdCAtSWQgIm5vZGUiIC1TdGF0dXMgInByZXNlbnQiIC1QYXRoICRub2RlUGF0aCAtVmVyc2lvbiAidiQoJG5vZGVJbmZvLm1ham9yKSIgLUVycm9yICRudWxsCiAgICAgICAgcmV0dXJuCiAgICB9CiAgICBpZiAoJG5vZGVJbmZvLmJsb2NrZWQpIHsKICAgICAgICBBZGQtUmVzdWx0IC1JZCAibm9kZSIgLVN0YXR1cyAiYmxvY2tlZCIgLVBhdGggJG5vZGVQYXRoIC1WZXJzaW9uICRudWxsIC1FcnJvciAkbm9kZUluZm8uZXJyb3IKICAgICAgICByZXR1cm4KICAgIH0KICAgIGlmICgkQ2hlY2tPbmx5KSB7CiAgICAgICAgQWRkLVJlc3VsdCAtSWQgIm5vZGUiIC1TdGF0dXMgIm1pc3NpbmciIC1QYXRoICRub2RlUGF0aCAtVmVyc2lvbiAkbnVsbCAtRXJyb3IgIk5vZGUuanMgMjIgb3IgbmV3ZXIgaXMgcmVxdWlyZWQuIgogICAgICAgIHJldHVybgogICAgfQoKICAgIHRyeSB7CiAgICAgICAgJGFyY2ggPSBHZXQtV2luZG93c0FyY2hpdGVjdHVyZQogICAgICAgICR1cmwgPSAkTm9kZVVybAogICAgICAgIGlmICgtbm90ICR1cmwpIHsKICAgICAgICAgICAgJHVybCA9ICJodHRwczovL25vZGVqcy5vcmcvZGlzdC92JE5vZGVWZXJzaW9uL25vZGUtdiROb2RlVmVyc2lvbi13aW4tJGFyY2guemlwIgogICAgICAgIH0KICAgICAgICAkdGFyZ2V0ID0gSm9pbi1QYXRoICRUb29sc1Jvb3QgIm5vZGUiCiAgICAgICAgRXhwYW5kLURvd25sb2FkZWRaaXAgLVVybCAkdXJsIC1EZXN0aW5hdGlvbiAkdGFyZ2V0CiAgICAgICAgJG5vZGVFeGUgPSBHZXQtQ2hpbGRJdGVtIC1MaXRlcmFsUGF0aCAkdGFyZ2V0IC1SZWN1cnNlIC1GaWxlIC1GaWx0ZXIgIm5vZGUuZXhlIiB8CiAgICAgICAgICAgIFNlbGVjdC1PYmplY3QgLUZpcnN0IDEKICAgICAgICBpZiAoLW5vdCAkbm9kZUV4ZSkgewogICAgICAgICAgICB0aHJvdyAibm9kZS5leGUgd2FzIG5vdCBmb3VuZCBhZnRlciBleHRyYWN0aW9uLiIKICAgICAgICB9CiAgICAgICAgJG5vZGVSb290ID0gJG5vZGVFeGUuRGlyZWN0b3J5LkZ1bGxOYW1lCiAgICAgICAgV3JpdGUtQ21kU2hpbSAtTmFtZSAibm9kZSIgLUV4ZWN1dGFibGUgJG5vZGVFeGUuRnVsbE5hbWUKICAgICAgICAkbnBtQ2xpID0gSm9pbi1QYXRoICRub2RlUm9vdCAibm9kZV9tb2R1bGVzXG5wbVxiaW5cbnBtLWNsaS5qcyIKICAgICAgICAkbnB4Q2xpID0gSm9pbi1QYXRoICRub2RlUm9vdCAibm9kZV9tb2R1bGVzXG5wbVxiaW5cbnB4LWNsaS5qcyIKICAgICAgICBpZiAoVGVzdC1QYXRoIC1MaXRlcmFsUGF0aCAkbnBtQ2xpKSB7CiAgICAgICAgICAgIFdyaXRlLUNtZFNoaW0gLU5hbWUgIm5wbSIgLUV4ZWN1dGFibGUgJG5vZGVFeGUuRnVsbE5hbWUgLVByZWZpeEFyZ3VtZW50cyBAKCRucG1DbGkpCiAgICAgICAgfQogICAgICAgIGlmIChUZXN0LVBhdGggLUxpdGVyYWxQYXRoICRucHhDbGkpIHsKICAgICAgICAgICAgV3JpdGUtQ21kU2hpbSAtTmFtZSAibnB4IiAtRXhlY3V0YWJsZSAkbm9kZUV4ZS5GdWxsTmFtZSAtUHJlZml4QXJndW1lbnRzIEAoJG5weENsaSkKICAgICAgICB9CiAgICAgICAgJGluc3RhbGxlZCA9IEpvaW4tUGF0aCAkVG9vbHNCaW4gIm5vZGUuY21kIgogICAgICAgICRpbnN0YWxsZWRJbmZvID0gR2V0LU5vZGVJbmZvICRpbnN0YWxsZWQKICAgICAgICBpZiAoJGluc3RhbGxlZEluZm8ubWFqb3IgLWx0IDIyKSB7CiAgICAgICAgICAgIHRocm93ICJJbnN0YWxsZWQgTm9kZS5qcyBkaWQgbm90IHBhc3MgdGhlIHZlcnNpb24gY2hlY2suIgogICAgICAgIH0KICAgICAgICBBZGQtUmVzdWx0IC1JZCAibm9kZSIgLVN0YXR1cyAiaW5zdGFsbGVkIiAtUGF0aCAkaW5zdGFsbGVkIC1WZXJzaW9uICJ2JCgkaW5zdGFsbGVkSW5mby5tYWpvcikiIC1FcnJvciAkbnVsbAogICAgfQogICAgY2F0Y2ggewogICAgICAgIEFkZC1SZXN1bHQgLUlkICJub2RlIiAtU3RhdHVzICJmYWlsZWQiIC1QYXRoICRudWxsIC1WZXJzaW9uICRudWxsIC1FcnJvciAkXy5FeGNlcHRpb24uTWVzc2FnZQogICAgfQp9CgpmdW5jdGlvbiBJbnN0YWxsLVBvd2VyU2hlbGwgewogICAgJHB3c2hQYXRoID0gUmVzb2x2ZS1Ub29sUGF0aCAtTmFtZSAicHdzaCIgLUNhbmRpZGF0ZXMgQCgKICAgICAgICAoSm9pbi1QYXRoICRUb29sc0JpbiAicHdzaC5jbWQiKSwKICAgICAgICAoSm9pbi1QYXRoICRUb29sc1Jvb3QgInBvd2Vyc2hlbGxccHdzaC5leGUiKQogICAgKQogICAgJHB3c2hJbmZvID0gR2V0LVBvd2VyU2hlbGxJbmZvICRwd3NoUGF0aAogICAgaWYgKCRwd3NoSW5mby5tYWpvciAtZ2UgNykgewogICAgICAgIEFkZC1SZXN1bHQgLUlkICJwb3dlcnNoZWxsIiAtU3RhdHVzICJwcmVzZW50IiAtUGF0aCAkcHdzaFBhdGggLVZlcnNpb24gIiQoJHB3c2hJbmZvLm1ham9yKSIgLUVycm9yICRudWxsCiAgICAgICAgcmV0dXJuCiAgICB9CiAgICBpZiAoJHB3c2hJbmZvLmJsb2NrZWQpIHsKICAgICAgICBBZGQtUmVzdWx0IC1JZCAicG93ZXJzaGVsbCIgLVN0YXR1cyAiYmxvY2tlZCIgLVBhdGggJHB3c2hQYXRoIC1WZXJzaW9uICRudWxsIC1FcnJvciAkcHdzaEluZm8uZXJyb3IKICAgICAgICByZXR1cm4KICAgIH0KICAgIGlmICgkQ2hlY2tPbmx5KSB7CiAgICAgICAgQWRkLVJlc3VsdCAtSWQgInBvd2Vyc2hlbGwiIC1TdGF0dXMgIm1pc3NpbmciIC1QYXRoICRwd3NoUGF0aCAtVmVyc2lvbiAkbnVsbCAtRXJyb3IgIlBvd2VyU2hlbGwgNyBvciBuZXdlciBpcyByZXF1aXJlZC4iCiAgICAgICAgcmV0dXJuCiAgICB9CgogICAgdHJ5IHsKICAgICAgICAkYXJjaCA9IEdldC1XaW5kb3dzQXJjaGl0ZWN0dXJlCiAgICAgICAgJHVybCA9ICRQb3dlclNoZWxsVXJsCiAgICAgICAgaWYgKC1ub3QgJHVybCkgewogICAgICAgICAgICAkdXJsID0gImh0dHBzOi8vZ2l0aHViLmNvbS9Qb3dlclNoZWxsL1Bvd2VyU2hlbGwvcmVsZWFzZXMvZG93bmxvYWQvdiRQb3dlclNoZWxsVmVyc2lvbi9Qb3dlclNoZWxsLSRQb3dlclNoZWxsVmVyc2lvbi13aW4tJGFyY2guemlwIgogICAgICAgIH0KICAgICAgICAkdGFyZ2V0ID0gSm9pbi1QYXRoICRUb29sc1Jvb3QgInBvd2Vyc2hlbGwiCiAgICAgICAgRXhwYW5kLURvd25sb2FkZWRaaXAgLVVybCAkdXJsIC1EZXN0aW5hdGlvbiAkdGFyZ2V0CiAgICAgICAgJHB3c2hFeGUgPSBHZXQtQ2hpbGRJdGVtIC1MaXRlcmFsUGF0aCAkdGFyZ2V0IC1SZWN1cnNlIC1GaWxlIC1GaWx0ZXIgInB3c2guZXhlIiB8CiAgICAgICAgICAgIFNlbGVjdC1PYmplY3QgLUZpcnN0IDEKICAgICAgICBpZiAoLW5vdCAkcHdzaEV4ZSkgewogICAgICAgICAgICB0aHJvdyAicHdzaC5leGUgd2FzIG5vdCBmb3VuZCBhZnRlciBleHRyYWN0aW9uLiIKICAgICAgICB9CiAgICAgICAgV3JpdGUtQ21kU2hpbSAtTmFtZSAicHdzaCIgLUV4ZWN1dGFibGUgJHB3c2hFeGUuRnVsbE5hbWUKICAgICAgICAkaW5zdGFsbGVkID0gSm9pbi1QYXRoICRUb29sc0JpbiAicHdzaC5jbWQiCiAgICAgICAgJGluc3RhbGxlZEluZm8gPSBHZXQtUG93ZXJTaGVsbEluZm8gJGluc3RhbGxlZAogICAgICAgIGlmICgkaW5zdGFsbGVkSW5mby5tYWpvciAtbHQgNykgewogICAgICAgICAgICB0aHJvdyAiSW5zdGFsbGVkIFBvd2VyU2hlbGwgZGlkIG5vdCBwYXNzIHRoZSB2ZXJzaW9uIGNoZWNrLiIKICAgICAgICB9CiAgICAgICAgQWRkLVJlc3VsdCAtSWQgInBvd2Vyc2hlbGwiIC1TdGF0dXMgImluc3RhbGxlZCIgLVBhdGggJGluc3RhbGxlZCAtVmVyc2lvbiAiJCgkaW5zdGFsbGVkSW5mby5tYWpvcikiIC1FcnJvciAkbnVsbAogICAgfQogICAgY2F0Y2ggewogICAgICAgIEFkZC1SZXN1bHQgLUlkICJwb3dlcnNoZWxsIiAtU3RhdHVzICJmYWlsZWQiIC1QYXRoICRudWxsIC1WZXJzaW9uICRudWxsIC1FcnJvciAkXy5FeGNlcHRpb24uTWVzc2FnZQogICAgfQp9CgpmdW5jdGlvbiBJbnN0YWxsLUZmbXBlZyB7CiAgICAkZmZtcGVnUGF0aCA9IFJlc29sdmUtVG9vbFBhdGggLU5hbWUgImZmbXBlZyIgLUNhbmRpZGF0ZXMgQCgKICAgICAgICAoSm9pbi1QYXRoICRUb29sc0JpbiAiZmZtcGVnLmNtZCIpLAogICAgICAgIChKb2luLVBhdGggJFRvb2xzUm9vdCAiZmZtcGVnXGZmbXBlZy5leGUiKQogICAgKQogICAgJGZmcHJvYmVQYXRoID0gUmVzb2x2ZS1Ub29sUGF0aCAtTmFtZSAiZmZwcm9iZSIgLUNhbmRpZGF0ZXMgQCgKICAgICAgICAoSm9pbi1QYXRoICRUb29sc0JpbiAiZmZwcm9iZS5jbWQiKSwKICAgICAgICAoSm9pbi1QYXRoICRUb29sc1Jvb3QgImZmbXBlZ1xmZnByb2JlLmV4ZSIpCiAgICApCiAgICAkZmZtcGVnSW5mbyA9IEdldC1GZm1wZWdJbmZvIC1GZm1wZWcgJGZmbXBlZ1BhdGggLUZmcHJvYmUgJGZmcHJvYmVQYXRoCiAgICBpZiAoJGZmbXBlZ0luZm8ucmVhZHkpIHsKICAgICAgICBBZGQtUmVzdWx0IC1JZCAiZmZtcGVnIiAtU3RhdHVzICJwcmVzZW50IiAtUGF0aCAkZmZtcGVnUGF0aCAtVmVyc2lvbiAkbnVsbCAtRXJyb3IgJG51bGwKICAgICAgICByZXR1cm4KICAgIH0KICAgIGlmICgkZmZtcGVnSW5mby5ibG9ja2VkKSB7CiAgICAgICAgQWRkLVJlc3VsdCAtSWQgImZmbXBlZyIgLVN0YXR1cyAiYmxvY2tlZCIgLVBhdGggJGZmbXBlZ1BhdGggLVZlcnNpb24gJG51bGwgLUVycm9yICRmZm1wZWdJbmZvLmVycm9yCiAgICAgICAgcmV0dXJuCiAgICB9CiAgICBpZiAoJENoZWNrT25seSkgewogICAgICAgIEFkZC1SZXN1bHQgLUlkICJmZm1wZWciIC1TdGF0dXMgIm1pc3NpbmciIC1QYXRoICRmZm1wZWdQYXRoIC1WZXJzaW9uICRudWxsIC1FcnJvciAiRkZtcGVnIGFuZCBmZnByb2JlIGFyZSByZXF1aXJlZC4iCiAgICAgICAgcmV0dXJuCiAgICB9CgogICAgdHJ5IHsKICAgICAgICAkdGFyZ2V0ID0gSm9pbi1QYXRoICRUb29sc1Jvb3QgImZmbXBlZyIKICAgICAgICBFeHBhbmQtRG93bmxvYWRlZFppcCAtVXJsICRGZm1wZWdVcmwgLURlc3RpbmF0aW9uICR0YXJnZXQKICAgICAgICAkZmZtcGVnRXhlID0gR2V0LUNoaWxkSXRlbSAtTGl0ZXJhbFBhdGggJHRhcmdldCAtUmVjdXJzZSAtRmlsZSAtRmlsdGVyICJmZm1wZWcuZXhlIiB8CiAgICAgICAgICAgIFNlbGVjdC1PYmplY3QgLUZpcnN0IDEKICAgICAgICAkZmZwcm9iZUV4ZSA9IEdldC1DaGlsZEl0ZW0gLUxpdGVyYWxQYXRoICR0YXJnZXQgLVJlY3Vyc2UgLUZpbGUgLUZpbHRlciAiZmZwcm9iZS5leGUiIHwKICAgICAgICAgICAgU2VsZWN0LU9iamVjdCAtRmlyc3QgMQogICAgICAgIGlmICgtbm90ICRmZm1wZWdFeGUgLW9yIC1ub3QgJGZmcHJvYmVFeGUpIHsKICAgICAgICAgICAgdGhyb3cgImZmbXBlZy5leGUgb3IgZmZwcm9iZS5leGUgd2FzIG5vdCBmb3VuZCBhZnRlciBleHRyYWN0aW9uLiIKICAgICAgICB9CiAgICAgICAgV3JpdGUtQ21kU2hpbSAtTmFtZSAiZmZtcGVnIiAtRXhlY3V0YWJsZSAkZmZtcGVnRXhlLkZ1bGxOYW1lCiAgICAgICAgV3JpdGUtQ21kU2hpbSAtTmFtZSAiZmZwcm9iZSIgLUV4ZWN1dGFibGUgJGZmcHJvYmVFeGUuRnVsbE5hbWUKICAgICAgICAkaW5zdGFsbGVkRmZtcGVnID0gSm9pbi1QYXRoICRUb29sc0JpbiAiZmZtcGVnLmNtZCIKICAgICAgICAkaW5zdGFsbGVkRmZwcm9iZSA9IEpvaW4tUGF0aCAkVG9vbHNCaW4gImZmcHJvYmUuY21kIgogICAgICAgIGlmICgtbm90IChHZXQtRmZtcGVnSW5mbyAtRmZtcGVnICRpbnN0YWxsZWRGZm1wZWcgLUZmcHJvYmUgJGluc3RhbGxlZEZmcHJvYmUpLnJlYWR5KSB7CiAgICAgICAgICAgIHRocm93ICJJbnN0YWxsZWQgRkZtcGVnIGRpZCBub3QgcGFzcyB0aGUgaGVhbHRoIGNoZWNrLiIKICAgICAgICB9CiAgICAgICAgQWRkLVJlc3VsdCAtSWQgImZmbXBlZyIgLVN0YXR1cyAiaW5zdGFsbGVkIiAtUGF0aCAkaW5zdGFsbGVkRmZtcGVnIC1WZXJzaW9uICRudWxsIC1FcnJvciAkbnVsbAogICAgfQogICAgY2F0Y2ggewogICAgICAgIEFkZC1SZXN1bHQgLUlkICJmZm1wZWciIC1TdGF0dXMgImZhaWxlZCIgLVBhdGggJG51bGwgLVZlcnNpb24gJG51bGwgLUVycm9yICRfLkV4Y2VwdGlvbi5NZXNzYWdlCiAgICB9Cn0KCmlmICgtbm90ICRDaGVja09ubHkpIHsKICAgIE5ldy1JdGVtIC1JdGVtVHlwZSBEaXJlY3RvcnkgLVBhdGggJFRvb2xzQmluIC1Gb3JjZSB8IE91dC1OdWxsCn0KJGVudjpQQVRIID0gIiRUb29sc0JpbjskZW52OlBBVEgiCgpmb3JlYWNoICgkY29tcG9uZW50IGluICRDb21wb25lbnRzKSB7CiAgICBzd2l0Y2ggKCRjb21wb25lbnQpIHsKICAgICAgICAiTm9kZSIgeyBJbnN0YWxsLU5vZGUgfQogICAgICAgICJQb3dlclNoZWxsIiB7IEluc3RhbGwtUG93ZXJTaGVsbCB9CiAgICAgICAgIkZmbXBlZyIgeyBJbnN0YWxsLUZmbXBlZyB9CiAgICB9Cn0KCiRmYWlsZWQgPSBAKCRSZXN1bHRzIHwgV2hlcmUtT2JqZWN0IHsKICAgICRfLnN0YXR1cyAtZXEgImZhaWxlZCIgLW9yCiAgICAkXy5zdGF0dXMgLWVxICJtaXNzaW5nIiAtb3IKICAgICRfLnN0YXR1cyAtZXEgImJsb2NrZWQiCn0pCiRyZXBvcnQgPSBbcHNjdXN0b21vYmplY3RdQHsKICAgIG9rID0gKCRmYWlsZWQuQ291bnQgLWVxIDApCiAgICBjb2RleEhvbWUgPSAkQ29kZXhIb21lCiAgICB0b29sc1Jvb3QgPSAkVG9vbHNSb290CiAgICB0b29sc0JpbiA9ICRUb29sc0JpbgogICAgY2hlY2tPbmx5ID0gW2Jvb2xdJENoZWNrT25seQogICAgY29tcG9uZW50cyA9IEAoJFJlc3VsdHMpCn0KCiRwcmVmbGlnaHRSZXBvcnQgPSAkbnVsbAokcHJlZmxpZ2h0RXhpdENvZGUgPSAkbnVsbAokcHJlZmxpZ2h0UmF3T3V0cHV0ID0gJG51bGwKaWYgKCRSdW5QcmVmbGlnaHQgLWFuZCAkcmVwb3J0Lm9rKSB7CiAgICAkbm9kZVBhdGggPSBSZXNvbHZlLVRvb2xQYXRoIC1OYW1lICJub2RlIiAtQ2FuZGlkYXRlcyBAKAogICAgICAgIChKb2luLVBhdGggJFRvb2xzQmluICJub2RlLmNtZCIpLAogICAgICAgIChKb2luLVBhdGggJFRvb2xzUm9vdCAibm9kZVxub2RlLmV4ZSIpCiAgICApCiAgICBpZiAoLW5vdCAkbm9kZVBhdGgpIHsKICAgICAgICAkcHJlZmxpZ2h0RXhpdENvZGUgPSAxCiAgICAgICAgJHByZWZsaWdodFJhd091dHB1dCA9ICJOb2RlLmpzIGlzIHVuYXZhaWxhYmxlIGFmdGVyIGJvb3RzdHJhcC4iCiAgICB9CiAgICBlbHNlIHsKICAgICAgICAkY2xpUGF0aCA9IEpvaW4tUGF0aCAkUFNTY3JpcHRSb290ICJjbGkubWpzIgogICAgICAgICRub2RlQXJndW1lbnRzID0gQCgKICAgICAgICAgICAgJGNsaVBhdGgsCiAgICAgICAgICAgICJwcmVmbGlnaHQiLAogICAgICAgICAgICAiLS1qc29uIiwKICAgICAgICAgICAgIi0tcHJvamVjdC1yb290IiwKICAgICAgICAgICAgW1N5c3RlbS5JTy5QYXRoXTo6R2V0RnVsbFBhdGgoJFByb2plY3RSb290KQogICAgICAgICkKICAgICAgICBpZiAoJEtpdFJvb3QpIHsKICAgICAgICAgICAgJG5vZGVBcmd1bWVudHMgKz0gQCgiLS1raXQtcm9vdCIsIFtTeXN0ZW0uSU8uUGF0aF06OkdldEZ1bGxQYXRoKCRLaXRSb290KSkKICAgICAgICB9CiAgICAgICAgaWYgKCRDb25maWdQYXRoKSB7CiAgICAgICAgICAgICRub2RlQXJndW1lbnRzICs9IEAoIi0tY29uZmlnIiwgW1N5c3RlbS5JTy5QYXRoXTo6R2V0RnVsbFBhdGgoJENvbmZpZ1BhdGgpKQogICAgICAgIH0KICAgICAgICAkcHJlZmxpZ2h0UmF3T3V0cHV0ID0gJiAkbm9kZVBhdGggQG5vZGVBcmd1bWVudHMgMj4mMQogICAgICAgICRwcmVmbGlnaHRFeGl0Q29kZSA9ICRMQVNURVhJVENPREUKICAgICAgICAkcHJlZmxpZ2h0VGV4dCA9ICgoJHByZWZsaWdodFJhd091dHB1dCB8IEZvckVhY2gtT2JqZWN0IHsKICAgICAgICAgICAgW3N0cmluZ10kXwogICAgICAgIH0pIC1qb2luICJgbiIpLlRyaW0oKQogICAgICAgICRqc29uU3RhcnQgPSAkcHJlZmxpZ2h0VGV4dC5JbmRleE9mKCJ7IikKICAgICAgICAkanNvbkVuZCA9ICRwcmVmbGlnaHRUZXh0Lkxhc3RJbmRleE9mKCJ9IikKICAgICAgICBpZiAoJGpzb25TdGFydCAtZ2UgMCAtYW5kICRqc29uRW5kIC1ndCAkanNvblN0YXJ0KSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAkcHJlZmxpZ2h0UmVwb3J0ID0gJHByZWZsaWdodFRleHQuU3Vic3RyaW5nKAogICAgICAgICAgICAgICAgICAgICRqc29uU3RhcnQsCiAgICAgICAgICAgICAgICAgICAgJGpzb25FbmQgLSAkanNvblN0YXJ0ICsgMQogICAgICAgICAgICAgICAgKSB8IENvbnZlcnRGcm9tLUpzb24KICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCB7CiAgICAgICAgICAgICAgICAkcHJlZmxpZ2h0UmVwb3J0ID0gJG51bGwKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQoKJG92ZXJhbGxPayA9ICgKICAgICRyZXBvcnQub2sgLWFuZAogICAgKC1ub3QgJFJ1blByZWZsaWdodCAtb3IgKAogICAgICAgICRwcmVmbGlnaHRFeGl0Q29kZSAtZXEgMCAtYW5kCiAgICAgICAgJHByZWZsaWdodFJlcG9ydCAtYW5kCiAgICAgICAgJHByZWZsaWdodFJlcG9ydC5vawogICAgKSkKKQokY29tYmluZWQgPSBbcHNjdXN0b21vYmplY3RdQHsKICAgIG9rID0gJG92ZXJhbGxPawogICAgYm9vdHN0cmFwID0gJHJlcG9ydAogICAgcHJlZmxpZ2h0RXhpdENvZGUgPSAkcHJlZmxpZ2h0RXhpdENvZGUKICAgIHByZWZsaWdodCA9ICRwcmVmbGlnaHRSZXBvcnQKfQppZiAoJFJ1blByZWZsaWdodCAtYW5kIC1ub3QgJHByZWZsaWdodFJlcG9ydCAtYW5kICRwcmVmbGlnaHRSYXdPdXRwdXQpIHsKICAgICRjb21iaW5lZCB8IEFkZC1NZW1iZXIgLU5vdGVQcm9wZXJ0eU5hbWUgcHJlZmxpZ2h0T3V0cHV0IGAKICAgICAgICAtTm90ZVByb3BlcnR5VmFsdWUgKAogICAgICAgICAgICAoKCRwcmVmbGlnaHRSYXdPdXRwdXQgfCBGb3JFYWNoLU9iamVjdCB7IFtzdHJpbmddJF8gfSkgLWpvaW4gImBuIikuVHJpbSgpCiAgICAgICAgKQp9CgppZiAoJEpzb24pIHsKICAgIGlmICgkUnVuUHJlZmxpZ2h0KSB7CiAgICAgICAgJGNvbWJpbmVkIHwgQ29udmVydFRvLUpzb24gLURlcHRoIDEwCiAgICB9CiAgICBlbHNlIHsKICAgICAgICAkcmVwb3J0IHwgQ29udmVydFRvLUpzb24gLURlcHRoIDYKICAgIH0KfQplbHNlIHsKICAgIGlmICgkUnVuUHJlZmxpZ2h0KSB7CiAgICAgICAgJGNvbWJpbmVkCiAgICB9CiAgICBlbHNlIHsKICAgICAgICAkcmVwb3J0CiAgICB9Cn0KCmlmICgtbm90ICRvdmVyYWxsT2spIHsKICAgIGV4aXQgMQp9Cg==
+[CmdletBinding()]
+param(
+    [string[]]$Components = @("Node", "PowerShell", "Ffmpeg"),
+    [string]$CodexHome = $env:CODEX_HOME,
+    [string]$NodeVersion = "24.22.1",
+    [string]$PowerShellVersion = "7.6.5",
+    [string]$NodeUrl,
+    [string]$PowerShellUrl,
+    [string]$FfmpegUrl = "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip",
+    [string]$ProjectRoot = (Get-Location).Path,
+    [string]$KitRoot,
+    [string]$ConfigPath,
+    [switch]$RunPreflight,
+    [switch]$CheckOnly,
+    [switch]$Json
+)
+
+$ErrorActionPreference = "Stop"
+$ProgressPreference = "SilentlyContinue"
+[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12
+
+if (-not $CodexHome) {
+    $CodexHome = Join-Path $HOME ".codex"
+}
+$CodexHome = [System.IO.Path]::GetFullPath($CodexHome)
+$ToolsRoot = Join-Path $CodexHome "tools"
+$ToolsBin = Join-Path $ToolsRoot "bin"
+$Results = New-Object System.Collections.ArrayList
+
+$AllowedComponents = @("Node", "PowerShell", "Ffmpeg")
+$Components = @($Components |
+    ForEach-Object { $_ -split "," } |
+    ForEach-Object { $_.Trim() } |
+    Where-Object { $_ })
+foreach ($component in $Components) {
+    if ($AllowedComponents -notcontains $component) {
+        throw "Unsupported component: $component. Use Node, PowerShell, or Ffmpeg."
+    }
+}
+
+function Get-CommandPath {
+    param([string]$Name)
+    $command = Get-Command $Name -ErrorAction SilentlyContinue |
+        Select-Object -First 1
+    if ($command) {
+        return $command.Source
+    }
+    return $null
+}
+
+function Resolve-ToolPath {
+    param(
+        [string]$Name,
+        [string[]]$Candidates
+    )
+    $commandPath = Get-CommandPath $Name
+    if ($commandPath) {
+        return $commandPath
+    }
+    foreach ($candidate in @($Candidates)) {
+        if ($candidate -and (Test-Path -LiteralPath $candidate -PathType Leaf)) {
+            return [System.IO.Path]::GetFullPath($candidate)
+        }
+    }
+    return $null
+}
+
+function Invoke-Tool {
+    param(
+        [string]$Executable,
+        [string[]]$Arguments
+    )
+    try {
+        $output = & $Executable @Arguments 2>&1
+        return [pscustomobject]@{
+            exitCode = $LASTEXITCODE
+            output = (($output | ForEach-Object { [string]$_ }) -join "`n").Trim()
+            startError = $null
+        }
+    }
+    catch {
+        return [pscustomobject]@{
+            exitCode = -1
+            output = $_.Exception.Message
+            startError = $_.Exception.Message
+        }
+    }
+}
+
+function Get-NodeInfo {
+    param([string]$Executable)
+    if (-not $Executable) {
+        return [pscustomobject]@{ major = $null; blocked = $false; error = $null }
+    }
+    $run = Invoke-Tool -Executable $Executable -Arguments @("--version")
+    if ($run.exitCode -ne 0) {
+        return [pscustomobject]@{
+            major = $null
+            blocked = [bool]$run.startError
+            error = $(if ($run.startError) { $run.startError } else { $run.output })
+        }
+    }
+    if ($run.output -match "v?(\d+)\.") {
+        return [pscustomobject]@{
+            major = [int]$Matches[1]
+            blocked = $false
+            error = $null
+        }
+    }
+    return [pscustomobject]@{
+        major = $null
+        blocked = $false
+        error = "Cannot parse Node.js version output: $($run.output)"
+    }
+}
+
+function Get-PowerShellInfo {
+    param([string]$Executable)
+    if (-not $Executable) {
+        return [pscustomobject]@{ major = $null; blocked = $false; error = $null }
+    }
+    $run = Invoke-Tool -Executable $Executable -Arguments @(
+        "-NoProfile",
+        "-NonInteractive",
+        "-Command",
+        '$PSVersionTable.PSVersion.Major'
+    )
+    if ($run.exitCode -ne 0) {
+        return [pscustomobject]@{
+            major = $null
+            blocked = [bool]$run.startError
+            error = $(if ($run.startError) { $run.startError } else { $run.output })
+        }
+    }
+    $value = ($run.output -split "\s+" | Where-Object { $_ -match "^\d+$" } |
+        Select-Object -Last 1)
+    if ($value) {
+        return [pscustomobject]@{
+            major = [int]$value
+            blocked = $false
+            error = $null
+        }
+    }
+    return [pscustomobject]@{
+        major = $null
+        blocked = $false
+        error = "Cannot parse PowerShell version output: $($run.output)"
+    }
+}
+
+function Get-FfmpegInfo {
+    param(
+        [string]$Ffmpeg,
+        [string]$Ffprobe
+    )
+    if (-not $Ffmpeg -or -not $Ffprobe) {
+        return [pscustomobject]@{
+            ready = $false
+            blocked = $false
+            error = $null
+        }
+    }
+    $ffmpegRun = Invoke-Tool -Executable $Ffmpeg -Arguments @("-version")
+    $ffprobeRun = Invoke-Tool -Executable $Ffprobe -Arguments @("-version")
+    return [pscustomobject]@{
+        ready = ($ffmpegRun.exitCode -eq 0 -and $ffprobeRun.exitCode -eq 0)
+        blocked = [bool]($ffmpegRun.startError -or $ffprobeRun.startError)
+        error = $(if ($ffmpegRun.exitCode -ne 0) {
+            $(if ($ffmpegRun.startError) { $ffmpegRun.startError } else { $ffmpegRun.output })
+        }
+        elseif ($ffprobeRun.exitCode -ne 0) {
+            $(if ($ffprobeRun.startError) { $ffprobeRun.startError } else { $ffprobeRun.output })
+        }
+        else {
+            $null
+        })
+    }
+}
+
+function Write-Utf8NoBom {
+    param(
+        [string]$Path,
+        [string]$Content
+    )
+    $parent = Split-Path -Parent $Path
+    if ($parent) {
+        New-Item -ItemType Directory -Path $parent -Force | Out-Null
+    }
+    $encoding = New-Object System.Text.UTF8Encoding($false)
+    [System.IO.File]::WriteAllText($Path, $Content, $encoding)
+}
+
+function Write-CmdShim {
+    param(
+        [string]$Name,
+        [string]$Executable,
+        [string[]]$PrefixArguments = @()
+    )
+    $argumentText = ""
+    if ($PrefixArguments.Count -gt 0) {
+        $argumentText = (($PrefixArguments | ForEach-Object {
+            '"{0}"' -f $_.Replace('"', '""')
+        }) -join " ") + " "
+    }
+    $content = @(
+        "@echo off",
+        "setlocal EnableExtensions",
+        ('"{0}" {1}%*' -f $Executable, $argumentText),
+        "exit /b %ERRORLEVEL%",
+        ""
+    ) -join "`r`n"
+    Write-Utf8NoBom -Path (Join-Path $ToolsBin "$Name.cmd") -Content $content
+}
+
+function Add-Result {
+    param(
+        [string]$Id,
+        [string]$Status,
+        [string]$Path,
+        [string]$Version,
+        [string]$Error
+    )
+    [void]$Results.Add([pscustomobject]@{
+        id = $Id
+        status = $Status
+        path = $Path
+        version = $Version
+        error = $Error
+    })
+}
+
+function Get-WindowsArchitecture {
+    $architecture = [string]$env:PROCESSOR_ARCHITECTURE
+    if ($architecture -match "ARM64") {
+        return "arm64"
+    }
+    if ($architecture -match "AMD64|x86") {
+        return "x64"
+    }
+    throw "Unsupported Windows architecture: $architecture"
+}
+
+function Expand-DownloadedZip {
+    param(
+        [string]$Url,
+        [string]$Destination
+    )
+    $tempRoot = Join-Path ([System.IO.Path]::GetTempPath()) (
+        "xz-video-bootstrap-" + [guid]::NewGuid().ToString("N")
+    )
+    New-Item -ItemType Directory -Path $tempRoot -Force | Out-Null
+    $archivePath = Join-Path $tempRoot "download.zip"
+    $extractPath = Join-Path $tempRoot "extract"
+    try {
+        Invoke-WebRequest -Uri $Url -OutFile $archivePath -UseBasicParsing -TimeoutSec 900
+        Expand-Archive -LiteralPath $archivePath -DestinationPath $extractPath -Force
+        New-Item -ItemType Directory -Path $Destination -Force | Out-Null
+        Get-ChildItem -LiteralPath $extractPath -Force | ForEach-Object {
+            Copy-Item -LiteralPath $_.FullName -Destination $Destination -Recurse -Force
+        }
+    }
+    finally {
+        if (Test-Path -LiteralPath $tempRoot) {
+            Remove-Item -LiteralPath $tempRoot -Recurse -Force -ErrorAction SilentlyContinue
+        }
+    }
+}
+
+function Install-Node {
+    $nodePath = Resolve-ToolPath -Name "node" -Candidates @(
+        (Join-Path $ToolsBin "node.cmd"),
+        (Join-Path $ToolsRoot "node\node.exe")
+    )
+    $nodeInfo = Get-NodeInfo $nodePath
+    if ($nodeInfo.major -ge 22) {
+        Add-Result -Id "node" -Status "present" -Path $nodePath -Version "v$($nodeInfo.major)" -Error $null
+        return
+    }
+    if ($nodeInfo.blocked) {
+        Add-Result -Id "node" -Status "blocked" -Path $nodePath -Version $null -Error $nodeInfo.error
+        return
+    }
+    if ($CheckOnly) {
+        Add-Result -Id "node" -Status "missing" -Path $nodePath -Version $null -Error "Node.js 22 or newer is required."
+        return
+    }
+
+    try {
+        $arch = Get-WindowsArchitecture
+        $url = $NodeUrl
+        if (-not $url) {
+            $url = "https://nodejs.org/dist/v$NodeVersion/node-v$NodeVersion-win-$arch.zip"
+        }
+        $target = Join-Path $ToolsRoot "node"
+        Expand-DownloadedZip -Url $url -Destination $target
+        $nodeExe = Get-ChildItem -LiteralPath $target -Recurse -File -Filter "node.exe" |
+            Select-Object -First 1
+        if (-not $nodeExe) {
+            throw "node.exe was not found after extraction."
+        }
+        $nodeRoot = $nodeExe.Directory.FullName
+        Write-CmdShim -Name "node" -Executable $nodeExe.FullName
+        $npmCli = Join-Path $nodeRoot "node_modules\npm\bin\npm-cli.js"
+        $npxCli = Join-Path $nodeRoot "node_modules\npm\bin\npx-cli.js"
+        if (Test-Path -LiteralPath $npmCli) {
+            Write-CmdShim -Name "npm" -Executable $nodeExe.FullName -PrefixArguments @($npmCli)
+        }
+        if (Test-Path -LiteralPath $npxCli) {
+            Write-CmdShim -Name "npx" -Executable $nodeExe.FullName -PrefixArguments @($npxCli)
+        }
+        $installed = Join-Path $ToolsBin "node.cmd"
+        $installedInfo = Get-NodeInfo $installed
+        if ($installedInfo.major -lt 22) {
+            throw "Installed Node.js did not pass the version check."
+        }
+        Add-Result -Id "node" -Status "installed" -Path $installed -Version "v$($installedInfo.major)" -Error $null
+    }
+    catch {
+        Add-Result -Id "node" -Status "failed" -Path $null -Version $null -Error $_.Exception.Message
+    }
+}
+
+function Install-PowerShell {
+    $pwshPath = Resolve-ToolPath -Name "pwsh" -Candidates @(
+        (Join-Path $ToolsBin "pwsh.cmd"),
+        (Join-Path $ToolsRoot "powershell\pwsh.exe")
+    )
+    $pwshInfo = Get-PowerShellInfo $pwshPath
+    if ($pwshInfo.major -ge 7) {
+        Add-Result -Id "powershell" -Status "present" -Path $pwshPath -Version "$($pwshInfo.major)" -Error $null
+        return
+    }
+    if ($pwshInfo.blocked) {
+        Add-Result -Id "powershell" -Status "blocked" -Path $pwshPath -Version $null -Error $pwshInfo.error
+        return
+    }
+    if ($CheckOnly) {
+        Add-Result -Id "powershell" -Status "missing" -Path $pwshPath -Version $null -Error "PowerShell 7 or newer is required."
+        return
+    }
+
+    try {
+        $arch = Get-WindowsArchitecture
+        $url = $PowerShellUrl
+        if (-not $url) {
+            $url = "https://github.com/PowerShell/PowerShell/releases/download/v$PowerShellVersion/PowerShell-$PowerShellVersion-win-$arch.zip"
+        }
+        $target = Join-Path $ToolsRoot "powershell"
+        Expand-DownloadedZip -Url $url -Destination $target
+        $pwshExe = Get-ChildItem -LiteralPath $target -Recurse -File -Filter "pwsh.exe" |
+            Select-Object -First 1
+        if (-not $pwshExe) {
+            throw "pwsh.exe was not found after extraction."
+        }
+        Write-CmdShim -Name "pwsh" -Executable $pwshExe.FullName
+        $installed = Join-Path $ToolsBin "pwsh.cmd"
+        $installedInfo = Get-PowerShellInfo $installed
+        if ($installedInfo.major -lt 7) {
+            throw "Installed PowerShell did not pass the version check."
+        }
+        Add-Result -Id "powershell" -Status "installed" -Path $installed -Version "$($installedInfo.major)" -Error $null
+    }
+    catch {
+        Add-Result -Id "powershell" -Status "failed" -Path $null -Version $null -Error $_.Exception.Message
+    }
+}
+
+function Install-Ffmpeg {
+    $ffmpegPath = Resolve-ToolPath -Name "ffmpeg" -Candidates @(
+        (Join-Path $ToolsBin "ffmpeg.cmd"),
+        (Join-Path $ToolsRoot "ffmpeg\ffmpeg.exe")
+    )
+    $ffprobePath = Resolve-ToolPath -Name "ffprobe" -Candidates @(
+        (Join-Path $ToolsBin "ffprobe.cmd"),
+        (Join-Path $ToolsRoot "ffmpeg\ffprobe.exe")
+    )
+    $ffmpegInfo = Get-FfmpegInfo -Ffmpeg $ffmpegPath -Ffprobe $ffprobePath
+    if ($ffmpegInfo.ready) {
+        Add-Result -Id "ffmpeg" -Status "present" -Path $ffmpegPath -Version $null -Error $null
+        return
+    }
+    if ($ffmpegInfo.blocked) {
+        Add-Result -Id "ffmpeg" -Status "blocked" -Path $ffmpegPath -Version $null -Error $ffmpegInfo.error
+        return
+    }
+    if ($CheckOnly) {
+        Add-Result -Id "ffmpeg" -Status "missing" -Path $ffmpegPath -Version $null -Error "FFmpeg and ffprobe are required."
+        return
+    }
+
+    try {
+        $target = Join-Path $ToolsRoot "ffmpeg"
+        Expand-DownloadedZip -Url $FfmpegUrl -Destination $target
+        $ffmpegExe = Get-ChildItem -LiteralPath $target -Recurse -File -Filter "ffmpeg.exe" |
+            Select-Object -First 1
+        $ffprobeExe = Get-ChildItem -LiteralPath $target -Recurse -File -Filter "ffprobe.exe" |
+            Select-Object -First 1
+        if (-not $ffmpegExe -or -not $ffprobeExe) {
+            throw "ffmpeg.exe or ffprobe.exe was not found after extraction."
+        }
+        Write-CmdShim -Name "ffmpeg" -Executable $ffmpegExe.FullName
+        Write-CmdShim -Name "ffprobe" -Executable $ffprobeExe.FullName
+        $installedFfmpeg = Join-Path $ToolsBin "ffmpeg.cmd"
+        $installedFfprobe = Join-Path $ToolsBin "ffprobe.cmd"
+        if (-not (Get-FfmpegInfo -Ffmpeg $installedFfmpeg -Ffprobe $installedFfprobe).ready) {
+            throw "Installed FFmpeg did not pass the health check."
+        }
+        Add-Result -Id "ffmpeg" -Status "installed" -Path $installedFfmpeg -Version $null -Error $null
+    }
+    catch {
+        Add-Result -Id "ffmpeg" -Status "failed" -Path $null -Version $null -Error $_.Exception.Message
+    }
+}
+
+if (-not $CheckOnly) {
+    New-Item -ItemType Directory -Path $ToolsBin -Force | Out-Null
+}
+$env:PATH = "$ToolsBin;$env:PATH"
+
+foreach ($component in $Components) {
+    switch ($component) {
+        "Node" { Install-Node }
+        "PowerShell" { Install-PowerShell }
+        "Ffmpeg" { Install-Ffmpeg }
+    }
+}
+
+$failed = @($Results | Where-Object {
+    $_.status -eq "failed" -or
+    $_.status -eq "missing" -or
+    $_.status -eq "blocked"
+})
+$report = [pscustomobject]@{
+    ok = ($failed.Count -eq 0)
+    codexHome = $CodexHome
+    toolsRoot = $ToolsRoot
+    toolsBin = $ToolsBin
+    checkOnly = [bool]$CheckOnly
+    components = @($Results)
+}
+
+$preflightReport = $null
+$preflightExitCode = $null
+$preflightRawOutput = $null
+if ($RunPreflight -and $report.ok) {
+    $nodePath = Resolve-ToolPath -Name "node" -Candidates @(
+        (Join-Path $ToolsBin "node.cmd"),
+        (Join-Path $ToolsRoot "node\node.exe")
+    )
+    if (-not $nodePath) {
+        $preflightExitCode = 1
+        $preflightRawOutput = "Node.js is unavailable after bootstrap."
+    }
+    else {
+        $cliPath = Join-Path $PSScriptRoot "cli.mjs"
+        $nodeArguments = @(
+            $cliPath,
+            "preflight",
+            "--json",
+            "--project-root",
+            [System.IO.Path]::GetFullPath($ProjectRoot)
+        )
+        if ($KitRoot) {
+            $nodeArguments += @("--kit-root", [System.IO.Path]::GetFullPath($KitRoot))
+        }
+        if ($ConfigPath) {
+            $nodeArguments += @("--config", [System.IO.Path]::GetFullPath($ConfigPath))
+        }
+        $preflightRawOutput = & $nodePath @nodeArguments 2>&1
+        $preflightExitCode = $LASTEXITCODE
+        $preflightText = (($preflightRawOutput | ForEach-Object {
+            [string]$_
+        }) -join "`n").Trim()
+        $jsonStart = $preflightText.IndexOf("{")
+        $jsonEnd = $preflightText.LastIndexOf("}")
+        if ($jsonStart -ge 0 -and $jsonEnd -gt $jsonStart) {
+            try {
+                $preflightReport = $preflightText.Substring(
+                    $jsonStart,
+                    $jsonEnd - $jsonStart + 1
+                ) | ConvertFrom-Json
+            }
+            catch {
+                $preflightReport = $null
+            }
+        }
+    }
+}
+
+$overallOk = (
+    $report.ok -and
+    (-not $RunPreflight -or (
+        $preflightExitCode -eq 0 -and
+        $preflightReport -and
+        $preflightReport.ok
+    ))
+)
+$combined = [pscustomobject]@{
+    ok = $overallOk
+    bootstrap = $report
+    preflightExitCode = $preflightExitCode
+    preflight = $preflightReport
+}
+if ($RunPreflight -and -not $preflightReport -and $preflightRawOutput) {
+    $combined | Add-Member -NotePropertyName preflightOutput `
+        -NotePropertyValue (
+            (($preflightRawOutput | ForEach-Object { [string]$_ }) -join "`n").Trim()
+        )
+}
+
+if ($Json) {
+    if ($RunPreflight) {
+        $combined | ConvertTo-Json -Depth 10
+    }
+    else {
+        $report | ConvertTo-Json -Depth 6
+    }
+}
+else {
+    if ($RunPreflight) {
+        $combined
+    }
+    else {
+        $report
+    }
+}
+
+if (-not $overallOk) {
+    exit 1
+}

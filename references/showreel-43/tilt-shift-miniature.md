@@ -1,1 +1,122 @@
-IyDnp7vovbTlvq7nvKnvvIh0aWx0LXNoaWZ0LW1pbmlhdHVyZe+8iQoKPiDku47nqI3pq5jnmoTop5LluqbnnIvkuIDkuKrnvKnlsI/nmoTkuJbnlYzvvIzmuIXmmbDojIPlm7TokL3lnKjmraPlnKjlj5HnlJ/nmoTkuovkuIrvvIzlkajlm7TnmoTmma/nianpgJDmuJDlpLHnhKbjgIIKPiDlj4LnhafvvIjlj6rlrabor63ms5XvvInvvJrnp7vovbTlvq7nvKnmkYTlvbHjgIHlrp7kvZPmspnnm5jjgIHlvq7nvKnluIPmma/nmoTlrprmoLzkuI7lu7bml7blvbHlg4/jgILkuI3nhafmkKzlhbfkvZPln47luILmspnnm5jjgIHmkYTlvbHmnoTlm77lkozmqKHlnovotYTkuqfjgIIKCiMjIOacrOi0qCAvIOS4jeaYr+S7gOS5iAoKLSDmnKzotKjvvJoqKueUqOinguWvn+WwuuW6puOAgemAieaLqeaAp+eEpueCueWSjOWKqOS9nOiKguWlj++8jOiuqeS4gOS4quWujOaVtOWcuuaZr+aYvuW+l+W+ruWwjyoq44CC5bu6562R44CB5Lq654mp5LiO6YGT6Lev55qE5q+U5L6L5YWz57O75YWI5oiQ56uL77yM5b6u57yp5oSf5YaN5p2l6Ieq6auY5py65L2N44CB5pyJ6ZmQ55qE5riF5pmw6IyD5Zu05ZKM5Y+v6KeC5a+f55qE5bGA6YOo5rS75Yqo44CCCi0g5LiN5piv77yaYHNvZnQtM2QtdG95YCDnmoTlnIbmtqbpu4/lnJ/kuJbnlYzvvIzkuZ/kuI3mmK8gYGlzb21ldHJpYy1pbmZvZ3JhcGhpY2Ag55qE5peg6YCP6KeG5Zu+6Kej44CC5a+56LGh5Y+v5Lul5YaZ5a6e5oiW566A5YyW77yM5LiN6IO95Y+q57uZ5Lu75oSP55S76Z2i5LiK5LiL5Yqg5qih57OK5bCx566X5a6M5oiQ44CCCgojIyDovqjor4bkv6Hlj7fvvJrmr4/mlK/niYflrZDmjJEgMuKAkzMg5LiqCgp8IOS/oeWPtyB8IOmVv+S7gOS5iOagtyB8IOmAguWQiOeahOS4u+mimCB8CnwtLS18LS0tfC0tLXwKfCDkv6/mlpzop4Llr58gfCDnlaXpq5jmnLrkvY3lkIzml7bnnIvop4HlsYvpobbkuI7nq4vpnaIgfCDln47luILjgIHlm63ljLrjgIHlhajlsYAgfAp8IOeqhOa4heaZsOWMuiB8IOW9k+WJjeS6i+S7tua4healmu+8jOWJjeWQjuaZr+mAkOa4kOWPmOi9ryB8IOazqOaEj+WKm+OAgeWxgOmDqOaVheS6iyB8Cnwg5b6u5Z6L5rS75YqoIHwg5bCP5Lq644CB6L2m6L6G5oiW5Zmo5qKw5rK/5pyJ55uu55qE55qE6Lev57q/6KGM5YqoIHwg5pyN5Yqh44CB5Lqk6YCa44CB5pel5bi4IHwKfCDml7bpl7TljovnvKkgfCDlpKfliqjkvZznlaXlv6vvvIzlvaLmiJDlj6/or7vnmoTlvoDov5TmiJbova7mjaIgfCDmtYHnqIvjgIHlu7rorr7jgIHkuIDlpKkgfAp8IOaooeWei+i+uee8mCB8IOWxgOmDqOiDveeci+WIsOW6leW6p+OAgeWIh+WPo+aIluW4g+aZr+i+ueeVjCB8IOWxleekuuOAgeaWueahiOOAgeaPreekuiB8Cnwg5q+U5L6L5Y+C54WnIHwg5Lq644CB6Zeo44CB6L2m562J5bi46K+G5bC65bqm5LqS55u45qCh5YeGIHwg56m66Ze044CB5Z+656GA6K6+5pa9IHwKfCDnhKbngrnmjqXlipsgfCDmuIXmmbDojIPlm7Tku47kuIDkuKrkuovku7bnp7vliLDlj6bkuIDkuKogfCDlpJroioLngrnjgIHorrLop6PjgIHov57mjqUgfAp8IOW+rue8qeihqOmdoiB8IOWimemdouOAgeagkeWGoOWSjOi3r+mdoue7huiKguacieaJgOeugOWMliB8IOaymeebmOOAgeWTgeeJjOWwj+S4lueVjCB8Cnwg5L2O5aSE5o6g6L+HIHwg6ZWc5aS055+t5pqC6LS06L+R5bCP5Lq654mp5oiW54mp5Lu277yM5YaN5Zue5Yiw6auY5aSEIHwg5Liq5L2T5LiO57O757ufIHwKfCDlsYDpg6jnga/lhYnlvqrnjq8gfCDot6/nga/jgIHnqpfnga/miJbkv6Hlj7fnga/msr/nnJ/lrp7pgLvovpHlj5jljJYgfCDml7bpl7TjgIHov5DooYzjgIHln47luILnlJ/mtLsgfAoK6KeE5YiZ77yaCgotIOavj+aUr+aMkSAy4oCTMyDkuKrvvIzoh7PlsJHkuIDkuKrkuI3lnKjkuIvpnaLjgIzmnIDkv5fnmoTniYjmnKzjgI3ph4zvvJvkv6Hlj7fku47kuLvpopjph4zpgInjgIIKLSDnhKbngrnot5/nnYDmraPlnKjorrLnmoTlhoXlrrnotbDvvIzkuI3lvLrliLbmqKrlkJHmuIXmmbDluKbjgILlupXluqflkozlu7bml7bmmK/lj6/pgInmiYvms5XvvIzlvq7nvKnmhJ/kuI3og73lj6rpnaDlpLHnhKbjgIIKCiMjIOi/meS4qumjjuagvOacgOS/l+eahOeJiOacrAoKLSDnlLvpnaLvvJrkv6/mi43njqnlhbflsI/plYfvvIzmu6HlnLDns5bmnpzoibLlsI/miL/lrZDvvIzovablg4/omoLomoHkuIDmoLfnu5XlnIjvvIznlLvpnaLkuIrkuIvns4rmiJDkuKTmnaHluKbjgIIKLSDlo7Dpn7PvvJrmnKjnkLTlvqrnjq/phY3ovbvlv6vlj6Plk6jvvIzmr4/ovobovabnu4/ov4fpg73mnaXkuIDkuIvlj6/niLHpn7PmlYjjgIIKLSBicmllZiDnmoQgc3R5bGUg5LiA5qCP5YaZ5piO57+75o6J5LqG5ZOq5Yeg5p2h77yM5oiW6ICF5Li65LuA5LmI5L+d55WZ57uP5YW454mI44CC5Y+v5Lul6YCJ5aSc6Ze06K6+5pa944CB5bGA6YOo5bel5L2c5Y+w5oiW5a6J6Z2Z55qE6Ieq54S25Zy65pmv44CCCgojIyDpgILphY0KCi0g55So6YCU77ya5pyN5Yqh5rWB56iL6K6y6Kej44CB5Zut5Yy65LiO5Z+O5biC5qaC6KeI44CB5ZOB54mM5pWF5LqL44CB5Lqn5ZOB5L2/55So5Zy65pmv44CB5b6q546v5bGV56S644CCCi0g5YaF5a6577ya5bGA6YOo6KGM5Yqo5aaC5L2V57uE5oiQ5pW05L2T44CB5LiA5aSp55qE5Y+Y5YyW44CB56m66Ze057uE57uH44CB6L+Q6KGM5Lit55qE5bCP57O757uf44CCCi0g5LiN6YCC5ZCI77ya5a+G6ZuGIFVJIOaTjeS9nOOAgee7huWwj+aWh+Wtl+ivtOaYju+8jOaIluimgeaxguW3peeoi+avlOS+i+S4juinhui3neeyvuehrua1i+mHj+eahOWxleekuuOAggoKIyMg5oqA5pyv6Lev57q/CgotICoq5LiJ57u05biD5pmvKirvvJpUaHJlZS5qcyDlj6/nu4Tnu4fkvY7lpI3mnYLluqblnLrmma/jgIHnm7jmnLrjgIHnga/lhYnkuI7mma/mt7HvvJvlu7rmqKHlhYjogIPomZHmr5Tkvovlj4LnhaflkozmtLvliqjot6/nur/vvIzlho3lop7liqDnu4boioLjgIIKLSAqKuaZr+a3sSoq77ya5Y+v5o6i57Si5Z+65LqO5rex5bqm55qE5ZCO5pyf5aSE55CG77yb55yf6KaB6KGo546w5YC+5pac54Sm5bmz6Z2i5pe277yM5YaN56CU56m255u45bqU552A6Imy5pa55qGI44CC5pmu6YCa5pmv5rex6YWN5ZCI6auY5py65L2N5Lmf6IO95b2i5oiQ5b6u57yp5oSf77yM5LiN5oqK5LiK5LiL5qih57OK6YGu572p5b2T5oiQ5a6M5pW05YWJ5a2m5qih5ouf44CCCi0gKirliIblsYLov5HkvLwqKu+8muWbuuWumuacuuS9jeWPr+eUqCBDYW52YXMg5oiWIFBpeGlKUyDliIblvIDliY3jgIHkuK3jgIHlkI7mma/vvIzliIbliKvmjqfliLbmuIXmmbDnqIvluqbjgILlsYDpmZDopoHmmI7noa7vvJrplZzlpLTlpKfluYXnu5XooYzml7bvvIzlubPpnaLov5HkvLzlrrnmmJPmmrTpnLLjgIIKLSDovabovobjgIHnga/lhYnkuI7nhKbngrnkvY3nva7pg73mjInml7bpl7Tni6znq4vov5jljp/vvIzluIPmma/pmo/mnLrliIbluIPlm7rlrprnp43lrZDjgIJgLS1kcHJgIOWFiOS/nea4heaZsOWMuue7huiKgu+8m+aXtumXtOWOi+e8qeeahOi/kOWKqOmAgumHj+eUqCBgLS1zdWJmcmFtZXNg77yM6YCQ5qC854mI5pys5YiZ5YeP5bCR77ybYC0tZ3JhaW5gIOmAmuW4uOWFs+mXreOAggoK5Lul5LiK5piv5Y+v6YCJ5pa55ZCR77yM5LiN6KaB5rGC55yf5a6e6ZWc5aS05qih5Z6L5oiW54mp55CG5Lqk6YCa5qih5ouf44CCCgojIyDmnZDotKjkuI7muLLmn5MKCi0g6KeG6KeJ5L6d5o2u77ya5b6u57yp5pGE5b2x5Lya5ZCM5pe257uZ5Ye65bC65bqm57q/57Si5LiO5pyJ6ZmQ5pmv5rex77yb5a6e5L2T5rKZ55uY6L+Y5Lya566A5YyW5p2Q6LSo5ZKM57uG6IqC44CC5YWI5Yaz5a6a5ouN55qE5piv44CM5YOP5qih5Z6L55qE5LiW55WM44CN6L+Y5piv44CM56Gu5a6e5pyJ5bqV5bqn55qE5qih5Z6L44CN44CCCi0g5Lq644CB6Zeo44CB6Lev5a695ZKM6L2m5bC65a+45L+d5oyB5LiA6Ie044CC5qSN6KKr5Y+v5Lul566A5YyW77yM5L2G5qCR5LiN6IO95peg5oSP5Lit5q+U5qW85bGC6L+Y5bCP77yM6Lev6Z2i57q555CG5Lmf5LiN6IO95YOP5beo5aSn55qE56CC56C+44CCCi0g5Li75L2T6ZmE6L+R5pyJ5o6l6Kem6Zi05b2x77yM5qW85L2T5pyJ56uL6Z2i5piO5pqX77yb5p2Q5paZ5Y+v5Lul5ZOR5YWJ77yM5L2G5LiN5oqK5YWo6YOo5a+56LGh5YGa5oiQ5ZCM5LiA56eN6L2v5aGR5paZ44CCCi0g5pmv5rex5oyJ5a+56LGh6Led56a76L+e57ut5Y+Y5YyW77yM5riF5pmw5Yy66L6557yY5LiN5Ye6546w56Gs5bim77yb6auY54mp5L2T56m/6L+H54Sm5Yy65pe277yM5bqU5pyJ5ZCI55CG55qE5bGA6YOo5riF5pmw5Y+Y5YyW44CCCi0g6L+c5pmv5L+d55WZ5aSn6L2u5buT77yM5LiN6IO957OK5Yiw56m66Ze05YWz57O75raI5aSx44CC5a2X5bmV5LiO5Zu+5L6L5bGe5LqO55S75aSW6K+05piO5pe25L+d5oyB5riF5pmw77yM5LiN6IO96ZqP5Zy65pmv5LiA6LW35aSx54Sm44CCCgojIyDphY3oibIKCuS4i+mdoueahOiJsuWAvOaYr+ekuuS+i++8jOeci+aAnei3r++8jOS4jeimgeWOn+agt+eFp+aKhOOAggoKLSDml6XlhYnooZfljLrvvJrnjq/looMgYCNEQ0U1RERgIC8g5bu6562RIGAjQjk3QjU5YCAvIOakjeiiqyBgIzYzN0M1RGAgLyDnhKbngrkgYCNEN0I0NEJg44CCCi0g5aSc6Ze06K6+5pa977ya546v5aKDIGAjMjMzODQzYCAvIOS4u+S9kyBgIzcxOEM5MWAgLyDnga/lhYkgYCNFNEI5NkJg44CCCi0g57Sg6Imy5rKZ55uY77ya546v5aKDIGAjRTdFMUQ0YCAvIOS4u+S9kyBgI0I5QjZBOGAgLyDlvLrosIMgYCNCOTU3NDNg44CCCi0g5o6o5a+877ya5YWI5oyJ5Zy65pmv5YiG6YWN546v5aKD44CB5bu6562R5ZKM5rS75Yqo54mp5L2T55qE6Imy57uE77yM5YaN55So5ZOB54mM6Imy5qCH5b2T5YmN6YeN54K544CC6YG/5YWN5omA5pyJ5bCP54mp5Lu26YO96auY6aWx5ZKM77yb5piO5pqX5ZKM54Sm54K55bqU5q+U6aKc6Imy5pu05YWI5byV5a+86KeG57q/44CCCgojIyDlrZfkvZMKCuiLseaWh+WPr+eUqCBNYW5yb3Bl44CBUHVibGljIFNhbnPvvIzkuK3mlofnlKjmgJ3mupDpu5HkvZPvvIzoh6rmiZjnrqEgT0ZMIOWtl+S9k+OAguS4u+imgeivtOaYjuaUvuWcqOeUu+mdoueVmeeZveaIluWbuuWumuWtl+W5leWMuu+8jOWcuuWGhei3r+eJjOWPquS/neeVmeehrumcgOmYheivu+eahOefreWtl+OAguagh+mimOavlOWcuuWGheagh+etvuWkp+S4pOaho+W3puWPs++8jOWIq+aKiuaVtOevh+ivtOaYjuWhnui/m+aymeebmOagh+eJjOOAggoKIyMg6L+Q5YqoCgotIOWwj+eJqeS9k+eahOi/kOWKqOacieebrueahOWcsOOAgei9rOW8r+WSjOWBnOmdoO+8m+iKguWlj+WPr+S7peeVpeW/q++8jOS9huayv+i3r+a7keihjOeahOi9puS4jeiDveepv+alvO+8jOS6uueJqeS4jeiDvea8gua1rui2iui/h+WPsOmYtuOAggotIOmAieaLqeW7tuaXtuOAgeato+W4uOmAn+W6puaIlumAkOagvOS9nOS4uuS4u+imgeiKguWlj+OAgueEpueCueS4jumVnOWktOWwvemHj+W5s+eos++8jOmBv+WFjeS4ieenjemAn+W6puWQjOaXtuS6kuebuOS6ieaKouOAggotIOi/m+WcuuWPr+S7juWxgOmDqOa0u+WKqOaLiei/nO+8jOaIluWFiOingeW6leW6p+WGjei/m+WFpeWcuuaZr++8m+emu+WcuuWPr+ayv+i3r+e6v+enu+WIsOS4i+S4gOS4quWMuuWfn++8jOS4jeW/heavj+asoeaXi+i9rOaVtOW6p+Wwj+mVh+OAggoKIyMg55S76Z2i5oCO5LmI5rS7CgotIOS4gOS4pOi+hui9puaMieS4jeWQjOWRqOacn+e7j+i/h++8jOS4gOi+huWBnOmdoOWQjuWGjeWHuuWPke+8m+WRqOacn+S4jue6v+i3r+acieW3ruWIq++8jOmBv+WFjeWQjOatpee7leWciOOAggotIOWwj+iMg+WbtOWGheacieW8gOmXqOOAgeeBr+S6ruaIluacuuaehOW+gOWkje+8jOWKqOS9nOWPquWNoOWcuuaZr+eahOS4gOWwj+mDqOWIhuOAggotIOiHqueEtumimOadkOWPr+iuqeagkeWGoOi9u+W+ruaRhuWKqOaIluawtOmdoue7huazoue7j+i/h++8m+W7uuetkeOAgeWcsOmdouS4jui/nOWkhOaooeWei+S/neaMgeeos+WumuOAggoKIyMg6ZWc5aS06K+t5rOVCgp8IOmVnOWktOi/kOWKqCB8IOihqOi+vuS7gOS5iCB8IOmAguWQiOWTquexu+WGheWuuSB8CnwtLS18LS0tfC0tLXwKfCDpq5jkvY3lm7rlrprvvIzlsYDpg6jmtLvliqggfCDop4Llr5/kuIDkuKrov5DooYzns7vnu58gfCDln47luILjgIHmnI3liqHjgIHlvqrnjq8gfAp8IOe8k+aFouaoquenu++8jOeEpueCuemaj+S6i+S7tuS6pOaOpSB8IOepuumXtOS4iueahOi/nue7rei/h+eoiyB8IOeJqea1geOAgea1geeoi+OAgee6v+i3ryB8Cnwg5LuO5L2O5aSE5ouJ5Yiw5L+v5pac5YWo5pmvIHwg5Liq5L2T5LiO5pW05L2T55qE5YWz57O7IHwg5ZOB54mM44CB6K6+5pa944CB5pWF5LqLIHwKfCDlkIzmnLrkvY3mlLnlj5jnhKbngrkgfCDnm7jpgrvkuovku7bkuYvpl7TnmoTogZTns7sgfCDlr7nmr5TjgIHlm6DmnpzjgIHorrLop6MgfAoKIyMg5aOw6Z+z6LCD6Imy5p2/CgrnrKwgMSDmoaPlj6/nlKjovbvmiZPlh7vjgIHmn5TlkozotJ3mlq/jgIHnn63mi6jlvKbkuI7kvY7lr4bluqbnjq/looPlmarlo7DjgILpnIDopoHovabovobjgIHooZfpgZPmiJblt6XlnYrnmoTnnJ/lrp7lo7Dmma/ml7bvvIznlKjnrKwgMiDmoaMgVG9uZS5qcyDphY3lkIjmjojmnYPph4fmoLfvvJvov5zlpITlo7Dmm7TovbvjgIHmm7TlsJHpq5jpopHvvIzov5HlpITkuovku7bmiY3nqoHlh7rjgILml7bpl7TljovnvKnml6DpnIDmiormiYDmnInmi5/pn7PkuIDlubbliqDpgJ/lj5jlsJbvvJvlj6Pmkq3lh7rnjrDml7bkv53nlZnmnIDlsJHnmoTlrprkvY3lo7DjgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8mui9u+W/q+iAjOeos+WumueahOW+queOr+OAgeWknOmXtOeogOeWj+eUteWtkOiKguaLje+8jOaIluayoeacieaYjuaYvum8k+eCueeahOaXpeW4uOawm+WbtOOAguW+rue8qeWPr+S7peS4peiwqOOAgeWuiemdmeaIlue5geW/me+8jOS4jeW/heS4gOebtOWNluiQjOOAggoKIyMg5Y6f55Sf5omL5rOVCgotIOS7juecn+WunuWwuuW6pueahOWxgOmDqOaLiei/nO+8jOmcsuWHuuW+rue8qeWFqOiyjO+8mumAguWQiOWwuuW6puaPreekuu+8iOe7j+WFuO+8ieOAggotIOeEpueCueayv+S4gOadoei3r+e6v+aOpeWKm++8jOaJgOWIsOS5i+WkhOaJjeWPmOa4healmu+8mumAguWQiOa1geeoi+WSjOepuumXtOiusuino+OAggotIOmVnOWktOi2iui/h+aooeWei+i+uee8mO+8jOS7juWcuuaZr+WGhemDqOi9rOWIsOW3peS9nOWPsO+8mumAguWQiOaWueahiOOAgeWItuS9nOS4juW5leWQjuOAggotIOWQjOS4gOacuuS9jeWOi+e8qeaXtumXtO+8jOiuqeeBr+WFieaIlua0u+WKqOWujOaIkOS4gOasoei9ruaNou+8mumAguWQiOS4gOWkqeOAgei/kOihjOWSjOWPmOWMluOAggotIOWxgOmDqOiuvuaWveaKrOi1t+mcsuWHuuS4i+mdouS4gOWxgu+8jOa0u+WKqOi3r+e6v+e7p+e7reWvueW6lO+8mumAguWQiOWfuuehgOiuvuaWveWSjOacjeWKoeWOn+eQhuOAggoKIyMg5Y+Y5YyW56m66Ze0CgotIOe7k+aehO+8mui3n+maj+S4gOasoei/kOmAge+8m+inguWvn+S4gOS4quWcsOeCueeahOS4jeWQjOaXtuaute+8m+WcqOWHoOS4quebuOmCu+WMuuWfn+S5i+mXtOS6pOaOpemHjeeCueOAggotIOW8gOWcuu+8mua4heaZsOWMuumHjOWPquacieS4gOS4qua0u+WKqOeJqeS9k++8m+WFiOingeaooeWei+WIh+WPo++8m+S7jui/keS8vOato+W4uOWwuuW6pueahOWxgOmDqOW8gOWni+OAggotIOe7k+Wwvu+8muWbnuWIsOaVtOS9k+W5tueVmeS4i+WwkemHj+a0u+WKqO+8m+eEpueCueWBnOWcqOacgOe7iOebrueahOWcsO+8m+ayv+i3r+e6v+aOpeWbnuacgOWIneeahOS6i+S7tuOAggoKIyMg5Z2RCgotIOWPquacieS4iuS4i+aooeeziu+8jOWcuuaZr+S7jeWDj+aZrumAmua4uOaIj+eUu+mdou+8muajgOafpeacuuS9jeOAgeWwuuW6puWPgueFp+S4jui/kOWKqOiKguWlj+OAggotIOaZr+a3seeziuaOieato+WcqOiusueahOWvueixoe+8mueEpueCueWFiOacjeS7juWPmeS6i++8jOWGjei/veaxguaRhOW9seaEn+OAggotIOaooeWei+WkhOWkhOWchua2puWPmOaIkOi9r+iQjOeOqeWFt++8muS/neeVmeW7uuetkeehrOi+ueS4juadkOaWmeWMuuWIq+OAggotIOWwj+S6uuWSjOi9pui+huWQjOatpei/kOWKqO+8mumUmeW8gOi1t+eCueOAgeWBnOeVmeS4juWRqOacn++8jOS9huS/neaMgeehruWumuaAp+OAggotIOi/h+W/q+eahOmVnOWktOWKoOi/h+eqhOa4heaZsOWMuuiuqeS6uuecqeaZle+8muWHj+WwkemVnOWktOS9jeenu++8jOe7meeEpueCueS6pOaOpeeVmeaXtumXtOOAggotIOaooeeziui3qOi2iuWJjeWQjueJqeS9k+S6p+eUn+S6rui+ue+8muajgOafpemBruaMoei+uee8mO+8jOW/heimgeaXtuWIhuWxguWkhOeQhuOAggotIOWcuuWGheagh+etvuWwj+WIsOeci+S4jeinge+8muaKiuW/heimgeivtOaYjuenu+WIsOeUu+WklumYheivu+WMuuOAggo=
+# 移轴微缩（tilt-shift-miniature）
+
+> 从稍高的角度看一个缩小的世界，清晰范围落在正在发生的事上，周围的景物逐渐失焦。
+> 参照（只学语法）：移轴微缩摄影、实体沙盘、微缩布景的定格与延时影像。不照搬具体城市沙盘、摄影构图和模型资产。
+
+## 本质 / 不是什么
+
+- 本质：**用观察尺度、选择性焦点和动作节奏，让一个完整场景显得微小**。建筑、人物与道路的比例关系先成立，微缩感再来自高机位、有限的清晰范围和可观察的局部活动。
+- 不是：`soft-3d-toy` 的圆润黏土世界，也不是 `isometric-infographic` 的无透视图解。对象可以写实或简化，不能只给任意画面上下加模糊就算完成。
+
+## 辨识信号：每支片子挑 2–3 个
+
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 俯斜观察 | 略高机位同时看见屋顶与立面 | 城市、园区、全局 |
+| 窄清晰区 | 当前事件清楚，前后景逐渐变软 | 注意力、局部故事 |
+| 微型活动 | 小人、车辆或器械沿有目的的路线行动 | 服务、交通、日常 |
+| 时间压缩 | 大动作略快，形成可读的往返或轮换 | 流程、建设、一天 |
+| 模型边缘 | 局部能看到底座、切口或布景边界 | 展示、方案、揭示 |
+| 比例参照 | 人、门、车等常识尺度互相校准 | 空间、基础设施 |
+| 焦点接力 | 清晰范围从一个事件移到另一个 | 多节点、讲解、连接 |
+| 微缩表面 | 墙面、树冠和路面细节有所简化 | 沙盘、品牌小世界 |
+| 低处掠过 | 镜头短暂贴近小人物或物件，再回到高处 | 个体与系统 |
+| 局部灯光循环 | 路灯、窗灯或信号灯沿真实逻辑变化 | 时间、运行、城市生活 |
+
+规则：
+
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里；信号从主题里选。
+- 焦点跟着正在讲的内容走，不强制横向清晰带。底座和延时是可选手法，微缩感不能只靠失焦。
+
+## 这个风格最俗的版本
+
+- 画面：俯拍玩具小镇，满地糖果色小房子，车像蚂蚁一样绕圈，画面上下糊成两条带。
+- 声音：木琴循环配轻快口哨，每辆车经过都来一下可爱音效。
+- brief 的 style 一栏写明翻掉了哪几条，或者为什么保留经典版。可以选夜间设施、局部工作台或安静的自然场景。
+
+## 适配
+
+- 用途：服务流程讲解、园区与城市概览、品牌故事、产品使用场景、循环展示。
+- 内容：局部行动如何组成整体、一天的变化、空间组织、运行中的小系统。
+- 不适合：密集 UI 操作、细小文字说明，或要求工程比例与视距精确测量的展示。
+
+## 技术路线
+
+- **三维布景**：Three.js 可组织低复杂度场景、相机、灯光与景深；建模先考虑比例参照和活动路线，再增加细节。
+- **景深**：可探索基于深度的后期处理；真要表现倾斜焦平面时，再研究相应着色方案。普通景深配合高机位也能形成微缩感，不把上下模糊遮罩当成完整光学模拟。
+- **分层近似**：固定机位可用 Canvas 或 PixiJS 分开前、中、后景，分别控制清晰程度。局限要明确：镜头大幅绕行时，平面近似容易暴露。
+- 车辆、灯光与焦点位置都按时间独立还原，布景随机分布固定种子。`--dpr` 先保清晰区细节；时间压缩的运动适量用 `--subframes`，逐格版本则减少；`--grain` 通常关闭。
+
+以上是可选方向，不要求真实镜头模型或物理交通模拟。
+
+## 材质与渲染
+
+- 视觉依据：微缩摄影会同时给出尺度线索与有限景深；实体沙盘还会简化材质和细节。先决定拍的是「像模型的世界」还是「确实有底座的模型」。
+- 人、门、路宽和车尺寸保持一致。植被可以简化，但树不能无意中比楼层还小，路面纹理也不能像巨大的砂砾。
+- 主体附近有接触阴影，楼体有立面明暗；材料可以哑光，但不把全部对象做成同一种软塑料。
+- 景深按对象距离连续变化，清晰区边缘不出现硬带；高物体穿过焦区时，应有合理的局部清晰变化。
+- 远景保留大轮廓，不能糊到空间关系消失。字幕与图例属于画外说明时保持清晰，不能随场景一起失焦。
+
+## 配色
+
+下面的色值是示例，看思路，不要原样照抄。
+
+- 日光街区：环境 `#DCE5DD` / 建筑 `#B97B59` / 植被 `#637C5D` / 焦点 `#D7B44B`。
+- 夜间设施：环境 `#233843` / 主体 `#718C91` / 灯光 `#E4B96B`。
+- 素色沙盘：环境 `#E7E1D4` / 主体 `#B9B6A8` / 强调 `#B95743`。
+- 推导：先按场景分配环境、建筑和活动物体的色组，再用品牌色标当前重点。避免所有小物件都高饱和；明暗和焦点应比颜色更先引导视线。
+
+## 字体
+
+英文可用 Manrope、Public Sans，中文用思源黑体，自托管 OFL 字体。主要说明放在画面留白或固定字幕区，场内路牌只保留确需阅读的短字。标题比场内标签大两档左右，别把整篇说明塞进沙盘标牌。
+
+## 运动
+
+- 小物体的运动有目的地、转弯和停靠；节奏可以略快，但沿路滑行的车不能穿楼，人物不能漂浮越过台阶。
+- 选择延时、正常速度或逐格作为主要节奏。焦点与镜头尽量平稳，避免三种速度同时互相争抢。
+- 进场可从局部活动拉远，或先见底座再进入场景；离场可沿路线移到下一个区域，不必每次旋转整座小镇。
+
+## 画面怎么活
+
+- 一两辆车按不同周期经过，一辆停靠后再出发；周期与线路有差别，避免同步绕圈。
+- 小范围内有开门、灯亮或机构往复，动作只占场景的一小部分。
+- 自然题材可让树冠轻微摆动或水面细波经过；建筑、地面与远处模型保持稳定。
+
+## 镜头语法
+
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 高位固定，局部活动 | 观察一个运行系统 | 城市、服务、循环 |
+| 缓慢横移，焦点随事件交接 | 空间上的连续过程 | 物流、流程、线路 |
+| 从低处拉到俯斜全景 | 个体与整体的关系 | 品牌、设施、故事 |
+| 同机位改变焦点 | 相邻事件之间的联系 | 对比、因果、讲解 |
+
+## 声音调色板
+
+第 1 档可用轻打击、柔和贝斯、短拨弦与低密度环境噪声。需要车辆、街道或工坊的真实声景时，用第 2 档 Tone.js 配合授权采样；远处声更轻、更少高频，近处事件才突出。时间压缩无需把所有拟音一并加速变尖；口播出现时保留最少的定位声。
+
+律动与和声（举例，不止这些）：轻快而稳定的循环、夜间稀疏电子节拍，或没有明显鼓点的日常氛围。微缩可以严谨、安静或繁忙，不必一直卖萌。
+
+## 原生手法
+
+- 从真实尺度的局部拉远，露出微缩全貌：适合尺度揭示（经典）。
+- 焦点沿一条路线接力，所到之处才变清楚：适合流程和空间讲解。
+- 镜头越过模型边缘，从场景内部转到工作台：适合方案、制作与幕后。
+- 同一机位压缩时间，让灯光或活动完成一次轮换：适合一天、运行和变化。
+- 局部设施抬起露出下面一层，活动路线继续对应：适合基础设施和服务原理。
+
+## 变化空间
+
+- 结构：跟随一次运送；观察一个地点的不同时段；在几个相邻区域之间交接重点。
+- 开场：清晰区里只有一个活动物体；先见模型切口；从近似正常尺度的局部开始。
+- 结尾：回到整体并留下少量活动；焦点停在最终目的地；沿路线接回最初的事件。
+
+## 坑
+
+- 只有上下模糊，场景仍像普通游戏画面：检查机位、尺度参照与运动节奏。
+- 景深糊掉正在讲的对象：焦点先服从叙事，再追求摄影感。
+- 模型处处圆润变成软萌玩具：保留建筑硬边与材料区别。
+- 小人和车辆同步运动：错开起点、停留与周期，但保持确定性。
+- 过快的镜头加过窄清晰区让人眩晕：减少镜头位移，给焦点交接留时间。
+- 模糊跨越前后物体产生亮边：检查遮挡边缘，必要时分层处理。
+- 场内标签小到看不见：把必要说明移到画外阅读区。

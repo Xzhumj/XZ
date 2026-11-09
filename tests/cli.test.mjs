@@ -1,1 +1,19 @@
-aW1wb3J0IGFzc2VydCBmcm9tICJub2RlOmFzc2VydC9zdHJpY3QiOwppbXBvcnQgcGF0aCBmcm9tICJub2RlOnBhdGgiOwppbXBvcnQgeyBzcGF3blN5bmMgfSBmcm9tICJub2RlOmNoaWxkX3Byb2Nlc3MiOwppbXBvcnQgdGVzdCBmcm9tICJub2RlOnRlc3QiOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAibm9kZTp1cmwiOwoKY29uc3Qgc2tpbGxEaXJlY3RvcnkgPSBwYXRoLmRpcm5hbWUocGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSkpOwpjb25zdCBjbGlQYXRoID0gcGF0aC5qb2luKHNraWxsRGlyZWN0b3J5LCAic2NyaXB0cyIsICJjbGkubWpzIik7Cgp0ZXN0KCJoZWxwIGV4aXRzIHN1Y2Nlc3NmdWxseSIsICgpID0+IHsKICBmb3IgKGNvbnN0IGFyZ3Mgb2YgW1siLS1oZWxwIl0sIFsiaGVscCJdXSkgewogICAgY29uc3QgcmVzdWx0ID0gc3Bhd25TeW5jKHByb2Nlc3MuZXhlY1BhdGgsIFtjbGlQYXRoLCAuLi5hcmdzXSwgewogICAgICBlbmNvZGluZzogInV0ZjgiLAogICAgICB3aW5kb3dzSGlkZTogdHJ1ZSwKICAgIH0pOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5zdGF0dXMsIDAsIHJlc3VsdC5zdGRlcnIpOwogICAgYXNzZXJ0Lm1hdGNoKHJlc3VsdC5zdGRvdXQsIC9Vc2FnZTovKTsKICB9Cn0pOwo=
+import assert from "node:assert/strict";
+import path from "node:path";
+import { spawnSync } from "node:child_process";
+import test from "node:test";
+import { fileURLToPath } from "node:url";
+
+const skillDirectory = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
+const cliPath = path.join(skillDirectory, "scripts", "cli.mjs");
+
+test("help exits successfully", () => {
+  for (const args of [["--help"], ["help"]]) {
+    const result = spawnSync(process.execPath, [cliPath, ...args], {
+      encoding: "utf8",
+      windowsHide: true,
+    });
+    assert.equal(result.status, 0, result.stderr);
+    assert.match(result.stdout, /Usage:/);
+  }
+});

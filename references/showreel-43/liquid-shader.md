@@ -1,1 +1,91 @@
-IyDmtrLmgIHnnYDoibLlmajvvIhsaXF1aWQtc2hhZGVy77yJCgo+IOeUseeJh+WFg+edgOiJsuWZqOmAkOWDj+e0oOeul+WHuuadpeeahOa1geS9k++8muiejeeQg+ebuOWQuOebuOiejeOAgea2suaAgemHkeWxnuWPjeWFieOAgeWZquWjsOWcuue8k+e8k+a1geWKqO+8jOS4gOS4quW9oueKtuWDj+a2suS9k+S4gOagt+a1gei/m+S4i+S4gOS4quW9oueKtuOAggo+IOWPgueFp++8iOWPquWtpuivreazle+8ie+8mlNoYWRlcnRveSDkuIrnmoQgU0RGIOWSjOWZquWjsOS9nOWTgeOAgea2suaAgemHkeWxnueahOWTgeeJjOWKqOaViOOAgeeGlOWyqeeBr+OAguWPquWtpuaKgOazle+8jOS4jeWkjeWItuWFt+S9k+edgOiJsuWZqOS7o+eggeOAggoKIyMg5pys6LSoIC8g5LiN5piv5LuA5LmICi0g5pys6LSo77yaKirlvaLnirbnlLHot53nprvlnLrvvIhTREbvvInlrprkuYkqKu+8jOeUqOW5s+a7keW5tumbhu+8iHNtb290aCBtaW7vvInorqnlroPku6zlg4/mtrLkvZPkuIDmoLfono3lkIjvvJvooajpnaLnlKjms5Xnur8gKyDnjq/looPlj43lsITlgZrlh7rph5HlsZ7miJbnjrvnkoPmhJ/vvJvmiJbogIXnlKjln5/mia3mm7Llmarlo7DvvIhkb21haW4gd2FycGluZ++8ieWBmua1geWKqOeahOminOiJsuWcuuOAggotIOS4jeaYr++8mumaj+S+v+WPoOWHoOS4qua4kOWPmOWchu+8m+S5n+S4jeaYr+S4gOebtOWcqOaZg+OAgeayoeaciee7k+aehOeahOWxj+S/neOAggoKIyMg6L6o6K+G5L+h5Y+377ya5q+P5pSv54mH5a2Q5oyRIDLigJMzIOS4qgp8IOS/oeWPtyB8IOmVv+S7gOS5iOagtyB8IOmAguWQiOeahOS4u+mimCB8CnwtLS18LS0tfC0tLXwKfCDono3nkIMgfCDlh6DkuKrnkIPpnaDov5HjgIHmi4nkuJ3jgIHono3miJDkuIDkvZMgfCDlkIjkvZzjgIHono3lkIggfAp8IOa2suaAgemHkeWxniB8IOmTrOmTtuihqOmdouaYoOedgOeOr+Wig++8jOWDj+awtOmTtiB8IOmrmOerr+OAgeenkeaKgCB8Cnwg54aU5bKp54GvIHwg5oWi5oWi5LiK5rWu5Y+I5LiL5rKJ55qE5pqW6Imy5Zui5Z2XIHwg5pS+5p2+44CB5aSN5Y+kIHwKfCDloqjmsLTlhaXmsLQgfCDpopzmlpnlnKjmsLTph4zljbfmm7LmianmlaMgfCDoibrmnK/jgIHotbfmupAgfAp8IOWfn+aJreabsuiJsuWcuiB8IOminOiJsuWDj+ayueW9qeS4gOagt+e8k+e8k+a1geWKqCB8IOaDhee7quOAgeiDjOaZryB8Cnwg6KGo6Z2i5raf5ryqIHwg5LiA5Liq54K55omw5Yqo77yM5raf5ryq5omp5pWjIHwg5b2x5ZON44CB6Kem5Y+RIHwKfCDmtrLmu7Tlkozpo57muoUgfCDkuIDmu7TokL3kuIvvvIzmuoXotbflkI7lm57okL0gfCDlhrLlh7vjgIHppa7lk4EgfAp8IOeOu+eSg+a2suS9kyB8IOmAj+aYjueahOa2suS9k++8jOaKmOWwhOWQjumdoueahOS4nOilvyB8IOa4heaWsOOAgee6r+WHgCB8Cnwg5Yed5Zu65oiQ5b2iIHwg5rWB5Yqo55qE5ray5L2T5pyA5ZCO5a6a5oiQ5LiA5Liq5b2i54q2IHwg6JC954mI44CB5oiQ5Z6LIHwKfCDnrYnpq5jnur8gfCDmtrLkvZPpq5jluqbnlLvmiJDkuIDlnIjlnIjnrYnpq5jnur8gfCDmlbDmja7jgIHlnLDlvaIgfAoK6KeE5YiZ77yaCi0g5q+P5pSv5oyRIDLigJMzIOS4qu+8jOiHs+WwkeS4gOS4quS4jeWcqOS4i+mdouOAjOacgOS/l+eahOeJiOacrOOAjemHjOOAggotIOS/oeWPt+S7juS4u+mimOmHjOmAie+8jOS4jeaMiemhuuW6j+WFqOS4iuOAggoKIyMg6L+Z5Liq6aOO5qC85pyA5L+X55qE54mI5pysCi0g55S76Z2i77ya6L+R6buR5bqV5LiK5LiA5Zui6ZOs6ZO26J6N55CD5oWi5oWi6L2s44CB5Y+N5bCE5LiA5ZyI5b2p6Jm544CB5Lik5ru05ray5L2T6J6N5oiQIGxvZ2/jgIIKLSDlo7Dpn7PvvJrkvY7popEgZHJvbmXjgIHmsLTmu7Tlo7DjgIHlpKfmt7flk43nmoTpk7rlupXjgIIKLSBicmllZiDnmoQgc3R5bGUg5LiA5qCP5YaZ5piO6L+Z5pSv54mH5a2Q57+75o6J5LqG5ZOq5Yeg5p2h77yM5oiW6ICF5Li65LuA5LmI5Yi75oSP5L+d55WZ77yI5q+U5aaC55So5oi36KaB55qE5bCx5piv57uP5YW454mI77yJ44CC5L+d55WZ5pe277yM5oqK5Yqb5rCU6Iqx5Zyo5p6E5Zu+44CB6ZWc5aS044CB6IqC5aWP5oiW5LiA5Liq5oSP5aSW55qE6K6w5b+G54K55LiK44CCCgojIyDpgILphY0KLSDnlKjpgJTvvJrniYflpLTjgIHovazlnLrjgIFMb2dvIOa8lOe7ju+8iGxvZ28g5LuO5ray5L2T5Lit5Yed5Zu65Ye65p2l77yJ44CB5L2c5ZOB6ZuG55qE562+5ZCN5pe25Yi744CCCi0g5YaF5a6577yaQUnjgIHpn7PkuZDjgIHnvo7lpobjgIHppa7mlpnjgIHmir3osaHmpoLlv7XjgIHlk4HniYzmg4Xnu6rniYfjgIIKCiMjIOaKgOacr+i3r+e6vwrlhajlsY8gV2ViR0wyIOeJh+WFg+edgOiJsuWZqO+8iHJlY2lwZXMubWQg56ysIDEyIOiKgueahOaooeadv++8jOaKiuWGheWuuee6ueeQhuaNouaIkOe6r+iuoeeul++8ieOAgnVuaWZvcm0g5LygIGB0YOOAgeWIhui+qOeOh+OAgeiKguaLjeiEieWGsuOAguaWh+Wtl+aIliBsb2dvIOWPr+S7peWFiOeUu+WIsCBDYW52YXPvvIznlJ/miJAgU0RGIOe6ueeQhu+8iOaIluiAheebtOaOpeeUqOaooeeziuWQjueahCBhbHBoYSDlvZPov5HkvLzot53nprvlnLrvvInvvIzlnKjnnYDoibLlmajph4zlkozlhbbku5blvaLnirbono3lkIjjgILlhYjmuLLkuIDluKfnoa7orqTnlJ/mlYjvvJvova/ku7bmuLLmn5PlvojmhaLjgIIKCiMjIOadkOi0qOS4jua4suafkwotIOiejeeQg++8mmBzbWluKGEsIGIsIGspYCDlkIjlubblpJrkuKrlnIbmiJbnkIPnmoQgU0RG77yMayDmjqfliLbjgIzpu4/nqKDluqbjgI3jgIIKLSAyRCDmtrLmgIHph5HlsZ7vvJrku44gU0RGIOaxguazlee6v++8iOaciemZkOW3ruWIhu+8ieKGkiDnlKjms5Xnur/ljrvph4fmoLfkuIDlvKDku6PnoIHnlJ/miJDnmoTjgIznjq/looPjgI3muJDlj5gg4oaSIOWKoOiPsua2heWwlOi+uee8mOmrmOWFieOAggotIOa1geWKqOWcuu+8mmBmYm0ocCArIGZibShwICsgdCkpYCDln5/mia3mm7LvvIzmmKDlsITliLDkuIDmnaEgM+KAkzQg6Imy55qE6LCD6Imy5p2/44CCCi0g6L6557yY5oqX6ZSv6b2/77ya55SoIGBzbW9vdGhzdGVwKC1weCwgcHgsIGQpYO+8jHB4ID0g5LiA5Liq5YOP57Sg55qE6Led56a744CCCgojIyDphY3oibIK5LiL6Z2i55qE6Imy5YC85piv56S65L6L77yM55yL5oCd6Lev77yM5LiN6KaB5Y6f5qC354Wn5oqE44CCCi0g6ZOs6ZO2IGAjRTZFOEVCYCDlnKjov5Hpu5EgYCMwODA5MEJgIOS4iu+8jOWPqueUqOS4gOS4quiJsuebuOeahOeOr+Wig+WPjeWwhO+8iOavlOWmguWGsOiTnSBgIzlGRDhGRmDvvIkKLSDnhpTlsqnvvJrmt7HnuqIgYCMzQTBBMEFgIOKGkiDmqZkgYCNGRjVBMUZgIOKGkiDlpbbmsrkgYCNGRkU3QzJgCi0g5p+U6Zu+77ya6Jaw6KGj6I2JIGAjQ0JCOEZGYCAvIOicnOahgyBgI0ZGQzlCNWAgLyDlpbbnmb0gYCNGRkY3RjBg77yI5L2O5a+55q+U44CB6Zu+6Z2i77yJCi0g6KeE5YiZ77ya6LCD6Imy5p2/55SoIE9LTGFiIOaPkuWAvO+8jDPigJM0IOS4quiJsuagh++8jOS4jeimgeW9qeiZueOAggotIOaOqOWvvO+8mjPigJM0IOS4quiJsuagh++8jOeUqCBPS0xhYiDmj5LlgLzvvIzkuI3opoHlvanombnjgILku47lk4HniYzmiJbkuLvpopjmjqjvvJrph5HlsZ7nmoTljZXoibLlj43lsITjgIHnhpTlsqnnmoTmmpboibLpmLbjgIHpm77pnaLnmoTkvY7lr7nmr5Tmn5ToibLjgIHpq5jlr7nmr5TnmoTlj4zoibLpg73lj6/ku6XjgILpk6zpk7bphY3lhrDok53mmK/mnIDluLjop4HnmoTpgqPnu4TjgIIKCiMjIOWtl+S9kwpsb2dvIC8g5qCH6aKY5pys6Lqr5Y+C5LiO5ray5oCB5Y+Y5b2i77yb6Z2Z5oCB6K+05piO5paH5a2X55So5bmy5YeA55qE5peg6KGs57q/5L2T77yM5pS+5Zyo5ray5L2T5LmL5aSW44CCCgojIyDov5DliqgKLSDmtYHliqjnvJPmhaLvvIjlkajmnJ8gNOKAkzEyIOenku+8ie+8jOiKguaLjeWIsOadpeaXtiBrIOWAvOaIluWwuuWvuOiEieWGsuS4gOasoeOAggotIOW9oueKtuS5i+mXtOeahOi9rOaNou+8muS4pOS4qiBTREYg55SoIGBtaXgoZDEsIGQyLCBlYXNlKHApKWAg5o+S5YC877yM6YWN5ZCIIHNtb290aCBtaW7vvIzov4fnqIvkuK3oh6rnhLblh7rnjrDjgIzmi4nkuJ3jgI3jgIIKLSDlvqrnjq/niYfnlKjlkajmnJ/lh73mlbDvvIhgc2luKFRBVSAqIHQgLyBEVVIpYO+8ie+8jOmmluWwvuWkqeeEtuihlOaOpeOAggoKIyMg55S76Z2i5oCO5LmI5rS7Ci0g6L+Z56eN6aOO5qC85pys5p2l5bCx5LiA55u05Zyo5rWB77yM6KaB6Ziy55qE5piv5Yqg5aSq5aSa77ya5ray6Z2i5LiK5LiA54K56auY5YWJ57yT5oWi5ri46LWw44CB6KGo6Z2i57uG5bCP55qE5raf5ryq5bCx5aSf5LqG44CCCi0g6IqC5ouN5LiK55qEIGsg5YC85oiW5bC65a+46ISJ5Yay5bey57uP5piv44CM5rS744CN77yM5LiN5b+F5YaN5Y+g5Yir55qE5b6q546v44CCCgojIyDplZzlpLTor63ms5UKfCDplZzlpLTov5DliqggfCDooajovr7ku4DkuYggfCDpgILlkIjlk6rnsbvlhoXlrrkgfAp8LS0tfC0tLXwtLS18Cnwg5Zu65a6a77yM5b2i54q26Ieq5bex5Y+Y5YyWIHwg5rWB5Yqo5pys6Lqr5bCx5piv5Li76KeSIHwg5aSn5aSa5pWw5Zy65pmvIHwKfCDnvJPmhaLmjqjov5HliLDooajpnaIgfCDmsonmtbggfCDorrDlv4bngrkgfAp8IOaXi+i9rOWdkOagh+ezuyB8IOa8qea2oSB8IOi9rOWcuiB8CgojIyDlo7Dpn7PosIPoibLmnb8K5rWB5L2T5oSf77ya5oWi6YCf5ruk5rOi5omr6aKR55qE6ZO65bqV77yIYHBhZGAg55qEIGN1dG9mZiDpmo/ml7bpl7Tlj5jljJbvvInjgIHpopfnspIgc2hpbW1lcuOAgeS9juayieeahCBzdWLjgIHono3lkIjml7bnmoTjgIzmsLTmu7TjgI3lo7DvvIjlv6vpgJ/kuIvmu5HnmoQgYHBvcGDvvInjgILnrKwgMiDmoaPnmoTmt7flk43lkozlkIjllLHmlYjmnpzkvJrmm7Tlpb3jgIIKCuW+i+WKqOS4juWSjOWjsO+8iOS4vuS+i++8jOS4jeatoui/meS6m++8ie+8muaFoiBoYWxmLXRpbWUg5oiW5peg5ouN77ybRG9yaWFu44CBTHlkaWFu44CB5Zub5bqm5Y+g572u44CB5oyB57ut5L2O6Z+z77yb5rOi5rWq5puy57q/44CCYHZveGAg5YGa5rWB5Yqo55qE5Lq65aOw6ZO65bqV77yMbXVzaWMgYnVzIOWKoOS4gOeCuSBgd293YO+8jOiuqemfs+mrmOS5n+WDj+a2suS9k+OAggoKIyMg5Y6f55Sf5omL5rOVCi0g5Lik5ru05ray5L2T6Z2g6L+R44CB5ouJ5Lid44CB6J6N5ZCI5oiQIGxvZ2/vvJrpgILlkIjlk4HniYzlh7rlnLrjgIIKLSDmlbTkuKrnlLvpnaLlg4/mtrLkvZPkuIDmoLfmtYHov5vkuIvkuIDplZzvvJrpgILlkIjovazlnLrjgIIKLSDmtrLmgIHph5HlsZ7ooajpnaLmmKDlh7rkuIvkuIDkuKrlnLrmma/vvJrpgILlkIjmj63npLrjgIIKCiMjIOWPmOWMluepuumXtAotIOe7k+aehO+8muS4gOa7tOa2suS9k+eahOaXheeoi++8m+S4ieS4quW9oueKtuiejeWQiOaIkOS4gOS4qu+8m+S7jua3t+ayjOa1geWKqOWIsOWHneWbuuaIkOW9ouOAggotIOW8gOWcuu+8muS4gOa7tOa2suS9k+iQveWcqOW5s+mdouS4iuaVo+W8gO+8m+eUu+mdouS4reWkruS4gOS4quWRvOWQuOeahOiejeeQg+OAggotIOe7k+Wwvu+8mua2suS9k+WHneWbuuaIkCBsb2dv77yM6KGo6Z2i5pyA5ZCO5LiA6YGT5Y+N5YWJ5omr6L+H44CCCgojIyDlnZEKLSDmr4/lg4/ntKDorqHnrpflpKrph43vvIzmuLLmn5PmnoHmhaLvvJrlhYjlnKggOTYww5c1NDAg5rWL5pe26Ze077yM5b6q546v5qyh5pWw77yIcmF5bWFyY2gg5q2l5pWw77yJ6KaB5pyJ5LiK6ZmQ44CCCi0g5rKh5pyJ5oqX6ZSv6b2/55qE56Gs6L655Zyo57yW56CB5ZCO6ZSv6b2/5piO5pi+77ya55SoIHNtb290aHN0ZXAg5YGa5YOP57Sg57qn5oqX6ZSv6b2/77yM5oiWIGAtLWRwciAyYOOAggotIOminOiJsuWkquWkmuOAgeWkqumlseWSjO+8jOWPmOaIkOi/t+W5u+Wxj+S/ne+8muS4peagvOaOp+WItuiwg+iJsuadv+OAggo=
+# 液态着色器（liquid-shader）
+
+> 由片元着色器逐像素算出来的流体：融球相吸相融、液态金属反光、噪声场缓缓流动，一个形状像液体一样流进下一个形状。
+> 参照（只学语法）：Shadertoy 上的 SDF 和噪声作品、液态金属的品牌动效、熔岩灯。只学技法，不复制具体着色器代码。
+
+## 本质 / 不是什么
+- 本质：**形状由距离场（SDF）定义**，用平滑并集（smooth min）让它们像液体一样融合；表面用法线 + 环境反射做出金属或玻璃感；或者用域扭曲噪声（domain warping）做流动的颜色场。
+- 不是：随便叠几个渐变圆；也不是一直在晃、没有结构的屏保。
+
+## 辨识信号：每支片子挑 2–3 个
+| 信号 | 长什么样 | 适合的主题 |
+|---|---|---|
+| 融球 | 几个球靠近、拉丝、融成一体 | 合作、融合 |
+| 液态金属 | 铬银表面映着环境，像水银 | 高端、科技 |
+| 熔岩灯 | 慢慢上浮又下沉的暖色团块 | 放松、复古 |
+| 墨水入水 | 颜料在水里卷曲扩散 | 艺术、起源 |
+| 域扭曲色场 | 颜色像油彩一样缓缓流动 | 情绪、背景 |
+| 表面涟漪 | 一个点扰动，涟漪扩散 | 影响、触发 |
+| 液滴和飞溅 | 一滴落下，溅起后回落 | 冲击、饮品 |
+| 玻璃液体 | 透明的液体，折射后面的东西 | 清新、纯净 |
+| 凝固成形 | 流动的液体最后定成一个形状 | 落版、成型 |
+| 等高线 | 液体高度画成一圈圈等高线 | 数据、地形 |
+
+规则：
+- 每支挑 2–3 个，至少一个不在下面「最俗的版本」里。
+- 信号从主题里选，不按顺序全上。
+
+## 这个风格最俗的版本
+- 画面：近黑底上一团铬银融球慢慢转、反射一圈彩虹、两滴液体融成 logo。
+- 声音：低频 drone、水滴声、大混响的铺底。
+- brief 的 style 一栏写明这支片子翻掉了哪几条，或者为什么刻意保留（比如用户要的就是经典版）。保留时，把力气花在构图、镜头、节奏或一个意外的记忆点上。
+
+## 适配
+- 用途：片头、转场、Logo 演绎（logo 从液体中凝固出来）、作品集的签名时刻。
+- 内容：AI、音乐、美妆、饮料、抽象概念、品牌情绪片。
+
+## 技术路线
+全屏 WebGL2 片元着色器（recipes.md 第 12 节的模板，把内容纹理换成纯计算）。uniform 传 `t`、分辨率、节拍脉冲。文字或 logo 可以先画到 Canvas，生成 SDF 纹理（或者直接用模糊后的 alpha 当近似距离场），在着色器里和其他形状融合。先渲一帧确认生效；软件渲染很慢。
+
+## 材质与渲染
+- 融球：`smin(a, b, k)` 合并多个圆或球的 SDF，k 控制「黏稠度」。
+- 2D 液态金属：从 SDF 求法线（有限差分）→ 用法线去采样一张代码生成的「环境」渐变 → 加菲涅尔边缘高光。
+- 流动场：`fbm(p + fbm(p + t))` 域扭曲，映射到一条 3–4 色的调色板。
+- 边缘抗锯齿：用 `smoothstep(-px, px, d)`，px = 一个像素的距离。
+
+## 配色
+下面的色值是示例，看思路，不要原样照抄。
+- 铬银 `#E6E8EB` 在近黑 `#08090B` 上，只用一个色相的环境反射（比如冰蓝 `#9FD8FF`）
+- 熔岩：深红 `#3A0A0A` → 橙 `#FF5A1F` → 奶油 `#FFE7C2`
+- 柔雾：薰衣草 `#CBB8FF` / 蜜桃 `#FFC9B5` / 奶白 `#FFF7F0`（低对比、雾面）
+- 规则：调色板用 OKLab 插值，3–4 个色标，不要彩虹。
+- 推导：3–4 个色标，用 OKLab 插值，不要彩虹。从品牌或主题推：金属的单色反射、熔岩的暖色阶、雾面的低对比柔色、高对比的双色都可以。铬银配冰蓝是最常见的那组。
+
+## 字体
+logo / 标题本身参与液态变形；静态说明文字用干净的无衬线体，放在液体之外。
+
+## 运动
+- 流动缓慢（周期 4–12 秒），节拍到来时 k 值或尺寸脉冲一次。
+- 形状之间的转换：两个 SDF 用 `mix(d1, d2, ease(p))` 插值，配合 smooth min，过程中自然出现「拉丝」。
+- 循环片用周期函数（`sin(TAU * t / DUR)`），首尾天然衔接。
+
+## 画面怎么活
+- 这种风格本来就一直在流，要防的是加太多：液面上一点高光缓慢游走、表面细小的涟漪就够了。
+- 节拍上的 k 值或尺寸脉冲已经是「活」，不必再叠别的循环。
+
+## 镜头语法
+| 镜头运动 | 表达什么 | 适合哪类内容 |
+|---|---|---|
+| 固定，形状自己变化 | 流动本身就是主角 | 大多数场景 |
+| 缓慢推近到表面 | 沉浸 | 记忆点 |
+| 旋转坐标系 | 漩涡 | 转场 |
+
+## 声音调色板
+流体感：慢速滤波扫频的铺底（`pad` 的 cutoff 随时间变化）、颗粒 shimmer、低沉的 sub、融合时的「水滴」声（快速下滑的 `pop`）。第 2 档的混响和合唱效果会更好。
+
+律动与和声（举例，不止这些）：慢 half-time 或无拍；Dorian、Lydian、四度叠置、持续低音；波浪曲线。`vox` 做流动的人声铺底，music bus 加一点 `wow`，让音高也像液体。
+
+## 原生手法
+- 两滴液体靠近、拉丝、融合成 logo：适合品牌出场。
+- 整个画面像液体一样流进下一镜：适合转场。
+- 液态金属表面映出下一个场景：适合揭示。
+
+## 变化空间
+- 结构：一滴液体的旅程；三个形状融合成一个；从混沌流动到凝固成形。
+- 开场：一滴液体落在平面上散开；画面中央一个呼吸的融球。
+- 结尾：液体凝固成 logo，表面最后一道反光扫过。
+
+## 坑
+- 每像素计算太重，渲染极慢：先在 960×540 测时间，循环次数（raymarch 步数）要有上限。
+- 没有抗锯齿的硬边在编码后锯齿明显：用 smoothstep 做像素级抗锯齿，或 `--dpr 2`。
+- 颜色太多、太饱和，变成迷幻屏保：严格控制调色板。

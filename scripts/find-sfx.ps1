@@ -1,1 +1,128 @@
-W0NtZGxldEJpbmRpbmcoKV0KcGFyYW0oCiAgICBbUGFyYW1ldGVyKE1hbmRhdG9yeSA9ICR0cnVlKV0KICAgIFtzdHJpbmddJFF1ZXJ5LAogICAgW3N0cmluZ10kQ2F0ZWdvcnksCiAgICBbVmFsaWRhdGVSYW5nZSgxLCA1MCldCiAgICBbaW50XSRMaW1pdCA9IDEwLAogICAgW3N0cmluZ10kTGlicmFyeVJvb3QsCiAgICBbc3dpdGNoXSRJbmNsdWRlRHVwbGljYXRlcwopCgokRXJyb3JBY3Rpb25QcmVmZXJlbmNlID0gIlN0b3AiCgpmdW5jdGlvbiBSZXNvbHZlLVNmeExpYnJhcnkgewogICAgcGFyYW0oW3N0cmluZ10kRXhwbGljaXRSb290KQoKICAgIGlmICgkRXhwbGljaXRSb290KSB7CiAgICAgICAgJHJlc29sdmVkID0gW1N5c3RlbS5JTy5QYXRoXTo6R2V0RnVsbFBhdGgoJEV4cGxpY2l0Um9vdCkKICAgICAgICBpZiAoVGVzdC1QYXRoIC1MaXRlcmFsUGF0aCAoSm9pbi1QYXRoICRyZXNvbHZlZCAiX21ldGFcc291bmQtaW5kZXguY3N2IikpIHsKICAgICAgICAgICAgcmV0dXJuICRyZXNvbHZlZAogICAgICAgIH0KICAgICAgICB0aHJvdyAiSW52YWxpZCBTRlggbGlicmFyeTogJHJlc29sdmVkIgogICAgfQoKICAgIGlmICgkZW52Ok1PVElPTl9TRlhfTElCUkFSWV9ST09UKSB7CiAgICAgICAgJHJlc29sdmVkID0gW1N5c3RlbS5JTy5QYXRoXTo6R2V0RnVsbFBhdGgoJGVudjpNT1RJT05fU0ZYX0xJQlJBUllfUk9PVCkKICAgICAgICBpZiAoVGVzdC1QYXRoIC1MaXRlcmFsUGF0aCAoSm9pbi1QYXRoICRyZXNvbHZlZCAiX21ldGFcc291bmQtaW5kZXguY3N2IikpIHsKICAgICAgICAgICAgcmV0dXJuICRyZXNvbHZlZAogICAgICAgIH0KICAgIH0KCiAgICAkY2xpID0gSm9pbi1QYXRoICRQU1NjcmlwdFJvb3QgImNsaS5tanMiCiAgICAkcmF3ID0gJiBub2RlICRjbGkgcGF0aHMgLS1qc29uIDI+JG51bGwKICAgIGlmICgkTEFTVEVYSVRDT0RFIC1lcSAwIC1hbmQgJHJhdykgewogICAgICAgICRwYXRocyA9ICgkcmF3IC1qb2luICJgbiIpIHwgQ29udmVydEZyb20tSnNvbgogICAgICAgIGlmICgkcGF0aHMudG9vbGtpdFJvb3QpIHsKICAgICAgICAgICAgJHJlc29sdmVkID0gSm9pbi1QYXRoICRwYXRocy50b29sa2l0Um9vdCAic2Z4IgogICAgICAgICAgICBpZiAoVGVzdC1QYXRoIC1MaXRlcmFsUGF0aCAoSm9pbi1QYXRoICRyZXNvbHZlZCAiX21ldGFcc291bmQtaW5kZXguY3N2IikpIHsKICAgICAgICAgICAgICAgIHJldHVybiAkcmVzb2x2ZWQKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICB0aHJvdyAiQ3VyYXRlZCBTRlggbGlicmFyeSBub3QgZm91bmQuIFNldCBNT1RJT05fU0ZYX0xJQlJBUllfUk9PVCBvciBjb25maWd1cmUgVmlkZW8gVGVtcGxhdGUgS2l0LiIKfQoKJHJvb3QgPSBSZXNvbHZlLVNmeExpYnJhcnkgLUV4cGxpY2l0Um9vdCAkTGlicmFyeVJvb3QKJGluZGV4UGF0aCA9IEpvaW4tUGF0aCAkcm9vdCAiX21ldGFcc291bmQtaW5kZXguY3N2IgokaXRlbXMgPSBAKEltcG9ydC1Dc3YgLUVuY29kaW5nIFVURjggLUxpdGVyYWxQYXRoICRpbmRleFBhdGgpCiR0ZXJtcyA9IEAoCiAgICAkUXVlcnkgLXNwbGl0ICJccysiIHwKICAgICAgICBXaGVyZS1PYmplY3QgeyAkXy5UcmltKCkgfSB8CiAgICAgICAgRm9yRWFjaC1PYmplY3QgeyAkXy5UcmltKCkuVG9Mb3dlckludmFyaWFudCgpIH0KKQoKJHNlZW5IYXNoZXMgPSBAe30KJGNhbmRpZGF0ZXMgPSBAKAogICAgZm9yZWFjaCAoJGl0ZW0gaW4gJGl0ZW1zKSB7CiAgICAgICAgaWYgKC1ub3QgJEluY2x1ZGVEdXBsaWNhdGVzKSB7CiAgICAgICAgICAgIGlmICgkaXRlbS5EdXBsaWNhdGVPZikgewogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoJGl0ZW0uU0hBMjU2KSB7CiAgICAgICAgICAgICAgICBpZiAoJHNlZW5IYXNoZXMuQ29udGFpbnNLZXkoJGl0ZW0uU0hBMjU2KSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkc2Vlbkhhc2hlc1skaXRlbS5TSEEyNTZdID0gJHRydWUKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAkaXRlbQogICAgfQopCgokcmFua2VkID0gZm9yZWFjaCAoJGl0ZW0gaW4gJGNhbmRpZGF0ZXMpIHsKICAgIGlmICgkQ2F0ZWdvcnkgLWFuZCAkaXRlbS5DYXRlZ29yeSAtbmUgJENhdGVnb3J5KSB7CiAgICAgICAgY29udGludWUKICAgIH0KCiAgICAkc2NvcmUgPSAwCiAgICBmb3JlYWNoICgkdGVybSBpbiAkdGVybXMpIHsKICAgICAgICBpZiAoJGl0ZW0uQ2F0ZWdvcnkuRXF1YWxzKCR0ZXJtLCBbU3lzdGVtLlN0cmluZ0NvbXBhcmlzb25dOjpPcmRpbmFsSWdub3JlQ2FzZSkpIHsKICAgICAgICAgICAgJHNjb3JlICs9IDIwCiAgICAgICAgfQogICAgICAgIGlmICgkaXRlbS5Vc2FnZS5JbmRleE9mKCR0ZXJtLCBbU3lzdGVtLlN0cmluZ0NvbXBhcmlzb25dOjpPcmRpbmFsSWdub3JlQ2FzZSkgLWdlIDApIHsKICAgICAgICAgICAgJHNjb3JlICs9IDYKICAgICAgICB9CiAgICAgICAgaWYgKCRpdGVtLkRlc2NyaXB0aW9uLkluZGV4T2YoJHRlcm0sIFtTeXN0ZW0uU3RyaW5nQ29tcGFyaXNvbl06Ok9yZGluYWxJZ25vcmVDYXNlKSAtZ2UgMCkgewogICAgICAgICAgICAkc2NvcmUgKz0gNAogICAgICAgIH0KICAgICAgICBpZiAoJGl0ZW0uRmlsZU5hbWUuSW5kZXhPZigkdGVybSwgW1N5c3RlbS5TdHJpbmdDb21wYXJpc29uXTo6T3JkaW5hbElnbm9yZUNhc2UpIC1nZSAwKSB7CiAgICAgICAgICAgICRzY29yZSArPSAzCiAgICAgICAgfQogICAgICAgIGlmICgkaXRlbS5Tb3VyY2VOYW1lLkluZGV4T2YoJHRlcm0sIFtTeXN0ZW0uU3RyaW5nQ29tcGFyaXNvbl06Ok9yZGluYWxJZ25vcmVDYXNlKSAtZ2UgMCkgewogICAgICAgICAgICAkc2NvcmUgKz0gMgogICAgICAgIH0KICAgIH0KCiAgICBpZiAoJHNjb3JlIC1ndCAwKSB7CiAgICAgICAgW3BzY3VzdG9tb2JqZWN0XUB7CiAgICAgICAgICAgIGlkID0gJGl0ZW0uSWQKICAgICAgICAgICAgc2NvcmUgPSAkc2NvcmUKICAgICAgICAgICAgZmlsZSA9ICRpdGVtLlJlbGF0aXZlUGF0aAogICAgICAgICAgICBwYXRoID0gSm9pbi1QYXRoICRyb290ICRpdGVtLlJlbGF0aXZlUGF0aAogICAgICAgICAgICBjYXRlZ29yeSA9ICRpdGVtLkNhdGVnb3J5CiAgICAgICAgICAgIHVzYWdlID0gJGl0ZW0uVXNhZ2UKICAgICAgICAgICAgZHVyYXRpb25TZWNvbmRzID0gJGl0ZW0uRHVyYXRpb25TZWNvbmRzCiAgICAgICAgICAgIHNvdXJjZSA9ICRpdGVtLlNvdXJjZQogICAgICAgICAgICBzb3VyY2VQYWdlID0gJGl0ZW0uU291cmNlUGFnZQogICAgICAgICAgICBsaWNlbnNlID0gJGl0ZW0uTGljZW5zZQogICAgICAgICAgICBzaGEyNTYgPSAkaXRlbS5TSEEyNTYKICAgICAgICB9CiAgICB9Cn0KCiRyZXN1bHRzID0gQCgKICAgICRyYW5rZWQgfAogICAgICAgIFNvcnQtT2JqZWN0IEB7IEV4cHJlc3Npb24gPSAic2NvcmUiOyBEZXNjZW5kaW5nID0gJHRydWUgfSwgY2F0ZWdvcnksIGZpbGUgfAogICAgICAgIFNlbGVjdC1PYmplY3QgLUZpcnN0ICRMaW1pdAopCgpbcHNjdXN0b21vYmplY3RdQHsKICAgIHF1ZXJ5ID0gJFF1ZXJ5CiAgICBjYXRlZ29yeSA9ICRDYXRlZ29yeQogICAgaW5jbHVkZUR1cGxpY2F0ZXMgPSBbYm9vbF0kSW5jbHVkZUR1cGxpY2F0ZXMKICAgIGxpYnJhcnlSb290ID0gJHJvb3QKICAgIGNvdW50ID0gJHJlc3VsdHMuQ291bnQKICAgIHJlc3VsdHMgPSAkcmVzdWx0cwp9IHwgQ29udmVydFRvLUpzb24gLURlcHRoIDUK
+[CmdletBinding()]
+param(
+    [Parameter(Mandatory = $true)]
+    [string]$Query,
+    [string]$Category,
+    [ValidateRange(1, 50)]
+    [int]$Limit = 10,
+    [string]$LibraryRoot,
+    [switch]$IncludeDuplicates
+)
+
+$ErrorActionPreference = "Stop"
+
+function Resolve-SfxLibrary {
+    param([string]$ExplicitRoot)
+
+    if ($ExplicitRoot) {
+        $resolved = [System.IO.Path]::GetFullPath($ExplicitRoot)
+        if (Test-Path -LiteralPath (Join-Path $resolved "_meta\sound-index.csv")) {
+            return $resolved
+        }
+        throw "Invalid SFX library: $resolved"
+    }
+
+    if ($env:MOTION_SFX_LIBRARY_ROOT) {
+        $resolved = [System.IO.Path]::GetFullPath($env:MOTION_SFX_LIBRARY_ROOT)
+        if (Test-Path -LiteralPath (Join-Path $resolved "_meta\sound-index.csv")) {
+            return $resolved
+        }
+    }
+
+    $cli = Join-Path $PSScriptRoot "cli.mjs"
+    $raw = & node $cli paths --json 2>$null
+    if ($LASTEXITCODE -eq 0 -and $raw) {
+        $paths = ($raw -join "`n") | ConvertFrom-Json
+        if ($paths.toolkitRoot) {
+            $resolved = Join-Path $paths.toolkitRoot "sfx"
+            if (Test-Path -LiteralPath (Join-Path $resolved "_meta\sound-index.csv")) {
+                return $resolved
+            }
+        }
+    }
+
+    throw "Curated SFX library not found. Set MOTION_SFX_LIBRARY_ROOT or configure Video Template Kit."
+}
+
+$root = Resolve-SfxLibrary -ExplicitRoot $LibraryRoot
+$indexPath = Join-Path $root "_meta\sound-index.csv"
+$items = @(Import-Csv -Encoding UTF8 -LiteralPath $indexPath)
+$terms = @(
+    $Query -split "\s+" |
+        Where-Object { $_.Trim() } |
+        ForEach-Object { $_.Trim().ToLowerInvariant() }
+)
+
+$seenHashes = @{}
+$candidates = @(
+    foreach ($item in $items) {
+        if (-not $IncludeDuplicates) {
+            if ($item.DuplicateOf) {
+                continue
+            }
+            if ($item.SHA256) {
+                if ($seenHashes.ContainsKey($item.SHA256)) {
+                    continue
+                }
+                $seenHashes[$item.SHA256] = $true
+            }
+        }
+        $item
+    }
+)
+
+$ranked = foreach ($item in $candidates) {
+    if ($Category -and $item.Category -ne $Category) {
+        continue
+    }
+
+    $score = 0
+    foreach ($term in $terms) {
+        if ($item.Category.Equals($term, [System.StringComparison]::OrdinalIgnoreCase)) {
+            $score += 20
+        }
+        if ($item.Usage.IndexOf($term, [System.StringComparison]::OrdinalIgnoreCase) -ge 0) {
+            $score += 6
+        }
+        if ($item.Description.IndexOf($term, [System.StringComparison]::OrdinalIgnoreCase) -ge 0) {
+            $score += 4
+        }
+        if ($item.FileName.IndexOf($term, [System.StringComparison]::OrdinalIgnoreCase) -ge 0) {
+            $score += 3
+        }
+        if ($item.SourceName.IndexOf($term, [System.StringComparison]::OrdinalIgnoreCase) -ge 0) {
+            $score += 2
+        }
+    }
+
+    if ($score -gt 0) {
+        [pscustomobject]@{
+            id = $item.Id
+            score = $score
+            file = $item.RelativePath
+            path = Join-Path $root $item.RelativePath
+            category = $item.Category
+            usage = $item.Usage
+            durationSeconds = $item.DurationSeconds
+            source = $item.Source
+            sourcePage = $item.SourcePage
+            license = $item.License
+            sha256 = $item.SHA256
+        }
+    }
+}
+
+$results = @(
+    $ranked |
+        Sort-Object @{ Expression = "score"; Descending = $true }, category, file |
+        Select-Object -First $Limit
+)
+
+[pscustomobject]@{
+    query = $Query
+    category = $Category
+    includeDuplicates = [bool]$IncludeDuplicates
+    libraryRoot = $root
+    count = $results.Count
+    results = $results
+} | ConvertTo-Json -Depth 5
